@@ -1,0 +1,243 @@
+///
+/// @file
+/// @ingroup com_group
+/// @brief C++ Application Module Template
+/// @author MTC 
+/// @author WK
+/// @author NS
+/// @date ++Halloween, 2015
+/// 
+/// This file serves as both a test and a simple example for implementing
+/// a module for a closed serial application in C/C++. 
+///
+#include <string>
+#include <cstring>
+#include <iostream>
+#include <sstream>
+#include <iomanip>
+#include <vector>
+#include <unistd.h>
+#include <fstream>
+
+#include "COMM.H"
+//#include "FC.h"
+#include "com.h"
+#include "com_devel.hpp"
+//#include "TestSolver.H"
+#include "SAM.H"
+
+namespace COM {
+
+/// Simple test function writes an integer to string
+void ConstIntFunction(const int *idata,void *string_data)
+{
+  std::ostringstream Ostr;
+  std::string *sdptr = static_cast<std::string *>(string_data);
+  Ostr << *idata;
+  sdptr->assign(Ostr.str());
+};
+
+
+  class serial_process_csc : public COM_Object {
+  public:
+    
+    /// Default constructor.
+    serial_process_csc(){
+      my_window_name.erase();
+    };
+    
+    ///
+    /// @brief Destructor
+    ///
+    /// The destructor will destroy the externally loaded modules (if they exists)
+    ///
+    virtual ~serial_process_csc()
+    {
+    };  
+
+
+
+    ///
+    /// @brief Hello COM World
+    ///
+    /// This function just prints a message:
+    /// "Hello COM from my_window_name!"
+    /// to stdout and to the string passed in.
+    ///
+    /// @param string_data A pointer to a std::string object.
+    /// @returns string_data set to the message.
+    void Function0(void *string_data)
+    {
+      std::string *output_string = static_cast<std::string *>(string_data);
+      std::ostringstream Ostr;
+      Ostr << "Hello COM from " << my_window_name << "!";
+      output_string->assign(Ostr.str());
+      std::cout << *output_string << std::endl;
+    };
+
+    ///
+    /// @brief Initialize stub solver from config file
+    ///
+    /// This function reads a configuration file and sets
+    /// up some example solver-like data for use in testing
+    //nt *rank/
+    /// @param config_file A pointer to a std::string object where
+    /// the configuration filename is specified.
+    ///
+    void Init(void *configFileName)
+    {
+      std::string *config_name = NULL;
+      if(configFileName){
+        config_name = static_cast<std::string *>(configFileName);
+        std::ifstream Inf;
+        Inf.open(config_name->c_str());
+        std::cout << "Opening config file " << config_name->c_str() << std::endl;
+        if(!Inf){
+          std::cerr << "serial_process_csc::Init:Error: Could not open configuration file, "
+                    << config_name->c_str() << "." << std::endl;
+          return;
+        }
+        // WARNING: for now, config is unused
+        Inf.close();
+      }
+      // Add metadata for application data items
+
+      // Step (1) sets up solution meta data
+      //      Solution().Meta().AddField("time",'s',1,8,"s");
+
+      // Create any application data (based on metadata)
+      // Register application data into the window
+      //      SolverUtils::RegisterSolverInto(my_window_name,*this);
+    };
+
+
+    ///
+    /// @brief Step the dummy solver through time
+    ///
+    /// This function steps the dummy solver and sets up
+    /// periodic solutions on the grid. time is advanced
+    /// by delta_t.
+    ///
+    void Execute(const std::string &commandLine)
+    {
+      commandStatus = system(commandLine);
+    };
+
+    
+    ///
+    /// @brief "Loads" the C++ PackIR
+    ///
+    /// This function creates an instance of a COM::PackIR object,
+    /// creates a new Window with the specified name and registers the
+    /// address of the new COM::PackIR object as the ".global"
+    /// DataItem of the Window. This registers the C++ COM::PackIR
+    /// "object" with the COM runtime system.
+    /// 
+    /// Next, several member functions are registered. The first
+    /// argument to each member function is a COM_RAWDATA type
+    /// which will be the address of the object registerd to
+    /// the ".global" DataItem.
+    ///
+    /// @param name const std::string specifying the name of the 
+    /// window to load the module into.
+    ///
+    /// @note This function must be a *static* function in order
+    /// for it to work in the COM_LOAD_MODULE interface.
+    ///
+    /// @note The COM_VOID type has been used here to pass
+    /// in a pointer to a std::string object.  This is cool.
+    ///
+    template<typename cscType = serial_process_csc>
+    virtual static void Load(const std::string &name){
+      cscType *cscPointer = new cscType();
+      COM_new_window(name);
+      cscPointer->windowName = name;
+      std::string globalName(name+".global");
+      COM_new_dataitem(globalName.c_str(),'w',COM_VOID,1,"");
+      COM_set_object(globalName.c_str(),0,cscPointer);
+
+      std::vector<COM_Type> types(13,COM_INT);
+    
+      types[0] = COM_RAWDATA;
+      types[1] = COM_VOID;
+      COM_set_member_function( (name+".Init").c_str(), 
+                               (Member_func_ptr)(&cscType::InitApplication), 
+                               global_name.c_str(), "bi", &types[0]);
+    
+      COM_set_member_function( (name+".Execute").c_str(), 
+                               (Member_func_ptr)(&cscType::Execute), 
+                               global_name.c_str(), "bi", &types[0]);
+      COM_window_init_done(name);  
+    }
+
+    ///
+    /// @brief Unloads the PackIR
+    ///
+    /// This function simply destroys the COM::PackIRObject created
+    /// in the call to Load and then deletes the associated window with
+    /// the specified name.
+    ///
+    static void Unload(const std::string &name){
+      std::cout << "Unloading PackIR with name " << name 
+                << "." << std::endl;
+      PackIR *appModulePointer = NULL;
+      std::string global_name(name+".global");
+      COM_get_object(global_name.c_str(),0,&appModulePointer);
+      COM_assertion_msg(appModulePointer->validate_object()==0, "Invalid object");
+      if(appModulePointer){
+        std::cout << "Deleting pointer to application module." << std::endl;
+        delete appModulePointer;
+      }
+      std::cout << "Deleting window (" << name << ")" << std::endl;
+      COM_delete_window(std::string(name));
+      std::cout << "Done Unloading module." << std::endl;
+    }
+
+  private:
+    std::string my_window_name; /// Tracks *this* window name.
+    int spherePackStatus;
+  };
+//}
+  
+// COM_Type types[5];
+
+// types[0] = COM_RAWDATA;
+// types[2] = COM_INT;
+// types[1] = types[3] = types[4] = COM_METADATA;
+// COM_set_member_function( (mname+".initialize").c_str(), 
+// 			   (Member_func_ptr)(&Rocon::initialize), 
+// 			   glb.c_str(), "bii", types);
+
+// types[1] = COM_STRING;
+// COM_set_member_function( (mname+".init_from_file").c_str(),
+//       		   (Member_func_ptr)(&Rocon::init_from_file),
+//       		   glb.c_str(),"bii", types);
+// types[1] = COM_METADATA;
+// types[2] = COM_METADATA;
+// COM_set_member_function( (mname+".find_intersections").c_str(), 
+// 			   (Member_func_ptr)(&Rocon::find_intersections), 
+// 			   glb.c_str(), "biiob", types);
+// COM_set_member_function( (mname+".constrain_displacements").c_str(), 
+// 			   (Member_func_ptr)(&Rocon::constrain_displacements), 
+// 			   glb.c_str(), "bibii", types);
+
+// COM_set_member_function( (mname+".burnout").c_str(), 
+// 			   (Member_func_ptr)(&Rocon::burnout), 
+// 			   glb.c_str(), "biib", types);
+  
+// COM_set_member_function( (mname+".burnout_filter").c_str(), 
+// 			   (Member_func_ptr)(&Rocon::burnout_filter), 
+// 			   glb.c_str(), "bib", types);
+
+/// 
+/// @brief C/C++ bindings to load COMTESTMOD
+///
+extern "C" void packir_load_module( const char *name) {
+  PackIR::Load(name);
+}
+///
+/// @brief C/C++ bindings to unload COMTESTMOD
+///
+extern "C" void packir_unload_module( const char *name){
+  PackIR::Unload(name);
+}
