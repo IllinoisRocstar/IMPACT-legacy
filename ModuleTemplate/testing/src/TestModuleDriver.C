@@ -19,18 +19,19 @@ COM_EXTERN_MODULE( ApplicationModule);
 
 
 int main(int argc, char *argv[]){
+
   COM_init( &argc, &argv);
 
   COM_LOAD_MODULE_STATIC_DYNAMIC( ApplicationModule, "packer");
 
   int packHandle = COM_get_function_handle("packer.Execute");
   if(packHandle < 0){
-    std::cerr << "Error!  Could not get function handle for packer!" << std::endl;
+    std::cerr << "Error!  Could not get function handle for packer!" 
+              << std::endl;
   }
   COM_CALL_FUNCTION(packHandle);
-
+  
   COM_UNLOAD_MODULE_STATIC_DYNAMIC( ApplicationModule, "packer");
-
+  
   COM_finalize();
-
 }

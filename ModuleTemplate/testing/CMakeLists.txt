@@ -19,14 +19,14 @@ get_filename_component(IMPACT_INCLUDE ${IMPACT_HDR} PATH)
 find_file(IRAD_HDR COMM.H)
 get_filename_component(IRAD_INCLUDE ${IRAD_HDR} PATH)
 find_program(SPHEREPACK spherepack REQUIRED)
-add_definitions(-DPACKCOMMAND=${SPHEREPACK})
+add_definitions(-DPACKCOMMAND="${SPHEREPACK}")
 message(STATUS "Found pack command: ${SPHEREPACK}")
 IF(NOT SPHEREPACK)
   MESSAGE(FATAL_ERROR "Unable to find spherepack.")
 ENDIF()
 
 file(GLOB CPP_SRCS "src/*.C")
-set (APPMODTEMP_SRCS src/ApplicationModuleTemplate.C)
+set (APPMODTEMP_SRCS src/PackIR.C)
 set (ALL_SRCS "${F90_SRCS} ${CPP_SRCS}" )
 set_source_files_properties(${ALL_SRCS} PROPERTIES COMPILE_FLAGS "-fPIC" )
 
@@ -38,14 +38,16 @@ include_directories( include ${CMAKE_BINARY_DIR}/include ../include ${IMPACT_INC
 
 
 IF(NOT BUILD_STATIC)
-  add_library(ApplicationModule SHARED ${APPMODTEMP_SRCS})
+  add_library(PackIR SHARED ${APPMODTEMP_SRCS})
 ELSE()
-  add_library(ApplicationModule STATIC ${APPMODTEMP_SRCS})
+  add_library(PackIR STATIC ${APPMODTEMP_SRCS})
   add_definitions( -DSTATIC_LINK )
 ENDIF()
-#ADD_EXECUTABLE(moduletest src/TestApplicationModuleTemplate.C)
-#TARGET_LINK_LIBRARIES(moduletest ${IRAD_LIB} SolverUtils SITCOM)
-TARGET_LINK_LIBRARIES(ApplicationModule ${IRAD_LIB} ${IMPACT_LIB})
+TARGET_LINK_LIBRARIES(PackIR ${IRAD_LIB} ${IMPACT_LIB})
+
+
+ADD_EXECUTABLE(moduletest src/TestPackIR.C)
+TARGET_LINK_LIBRARIES(moduletest ${IRAD_LIB} ${IMPACT_LIB})
 
 #add_executable(ApplicationModuleTestDriver src/ApplicationModuleTestDriver.C)
 #target_link_libraries(ApplicationModuleTestDriver SITCOM)
