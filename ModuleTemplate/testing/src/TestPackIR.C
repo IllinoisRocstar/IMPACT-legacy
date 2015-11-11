@@ -38,8 +38,15 @@ int main(int argc, char *argv[]){
     return(1);
   }
   
+  int postProcHandle = COM_get_function_handle("packer.PostProcess");
+  if(postProcHandle < 0){
+    std::cerr << "Error! Could not get function handle for doing post-processing!"
+              << std::endl;
+    return(1);
+  }
+
   std::string numberOfParticles("NUMBER_OF_PARTICLES");
-  std::string numberOfParticals("5000");
+  std::string numberOfParticals("1000");
   COM_call_function(setParamHandle,&numberOfParticles,&numberOfParticals);
   std::string packInName("PACKIN");
   std::string packInFile("new_pack.in");
@@ -47,9 +54,19 @@ int main(int argc, char *argv[]){
   std::string packOutName("PACKOUT");
   std::string packOutFile("new_pack.out");
   COM_call_function(setParamHandle,&packOutName,&packOutFile);
-
+  std::string endTolName("ENDTOL");
+  std::string packingFractionName("PACKING_FRACTION");
+  std::string endTol("1e-3");
+  std::string packingFraction(".5");
+  COM_call_function(setParamHandle,&endTolName,&endTol);
+  COM_call_function(setParamHandle,&packingFractionName,&packingFraction);
+  
   COM_call_function(packHandle);
   
+  int nAngles = 12;
+  int doRDF = 0;
+  COM_call_function(postProcHandle,&nAngles,&doRDF);
+
   COM_UNLOAD_MODULE_STATIC_DYNAMIC(PackIR, "packer");
   
   COM_finalize();

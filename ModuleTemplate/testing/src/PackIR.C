@@ -18,6 +18,7 @@
 #include <vector>
 #include <unistd.h>
 #include <fstream>
+#include <cmath>
 
 #include "COMM.H"
 //#include "FC.h"
@@ -97,7 +98,7 @@ class PackIR : public COM_Object {
       packInput.CreateSpherePackInput(Ouf);
       Ouf.close();
       std::ostringstream Ostr;
-      Ostr << PACKCOMMAND << " " << packInput.InputFileName();
+      Ostr << SPHEREPACKCOMMAND << " " << packInput.InputFileName();
       spherePackStatus = system(Ostr.str().c_str());
     };
 
@@ -153,6 +154,13 @@ class PackIR : public COM_Object {
                                (Member_func_ptr)(&PackIR::SetParam), 
                                global_name.c_str(), "bii", &types[0]);
       
+      types[1] = COM_INT;
+      types[2] = COM_INT;
+
+      COM_set_member_function( (name+".PostProcess").c_str(), 
+                               (Member_func_ptr)(&PackIR::PostProcess), 
+                               global_name.c_str(), "bii", &types[0]);
+
 
       COM_window_init_done(name);  
     }
@@ -378,118 +386,116 @@ class PackIR : public COM_Object {
   {
     int errorStatus = 0;
   
-    double xnew = x*cos(theta) - z*sin(theta);
-    double znew = x*sin(theta) + z*cos(theta);
+    double xnew = x*std::cos(theta) - z*std::sin(theta);
+    double znew = x*std::sin(theta) + z*std::cos(theta);
   
     //Write PackShapesHeader.pov for pack2povray
     packshapeswriter(xnew,y,znew,aspectRatio);
     std::string pngString;
     //Run pack2povray and povray to generate the png image
-    std::string povOutFile(packInput.PackOutName()+std::string(".pov"));
-    std::string command(Pack2Povray + std::string("/bin/pack2povray ") +
+    std::string povOutFile(packInput.OutputFileName()+std::string(".pov"));
+    std::string command(PACK2POVRAYCOMMAND + std::string(" ") +
                         packInput.ColorFileName() + std::string(" ") +
-                        packInput.PackOutName()   + std::string(" ") +
+                        packInput.OutputFileName()   + std::string(" ") +
                         povOutFile); 
     errorStatus = system(command.c_str());
     if(!errorStatus){
-      command.assign(Povray + std::string(" -D ")+povOutFile);
+      command.assign(POVRAYCOMMAND + std::string(" -D ")+povOutFile);
       errorStatus = system(command.c_str());
       if(!errorStatus){
         std::ostringstream Ostr;
-        Ostr << "pack" << i << ".png";
+        Ostr << packInput.OutputFileName() << "_" 
+             << i << ".png";
         pngString.assign(Ostr.str());
-        Ostr << "cp pack.png pack" << i << ".png";
-        command.assign("cp pack.png " + pngString);
+        command.assign("cp " + packInput.OutputFileName() + ".png " + pngString);
         errorStatus = system(command.c_str());
       }
     }
     return(pngString);
   }
 
-  int PostProcessing(ParameterBlock &ip)
+  void PostProcess(int *numAnglesIn,int *doRDFIn)
   {
 
-    std::ifstream postProcInFile;
-    postProcInFile.open("postProc.in");
-    if(!postProcInFile){
-      std::cout << "Could not find postProc.in file." << std::endl;
-      return(1);
-    }
-    int increments = 0;
-    int rdfstats = 0;
-    postProcInFile >> increments;
-    postProcInFile >> rdfstats;
-    postProcInFile.close();
-  
-    std::cout << std::endl << "     Generating pack images......................" << std::endl;
+    int increments = *numAnglesIn;
+    int rdfstats = *doRDFIn;
   
     std::string command;
-    command = std::string("cp ") + Pack2Povray + std::string("/povray/PackShapesEnd.pov ."); 
-    system(command.c_str());
-  
-    //Create the bounding box file
-    std::ofstream boundfile;
-    boundfile.open("bounding_box.inc");
-  
-    double x1,y1,z1,x2,y2,z2,radius;
-  
-    if(ip.domainShape == 0){
-      x1 = -ip.dSize[xdir]/2.0;
-      x2 = ip.dSize[xdir]/2.0;
-      y1 = -1;
-      y2 = 1;
-      z1 = -ip.dSize[zdir]/2.0;
-      z2 = ip.dSize[zdir]/2.0;
-      boundfile << "box{<" << x1 << "," << y1 << "," << z1 << ">,<"
-                << x2 << "," << y2 << "," << z2
-                << "> texture{pigment{color Silver transmit .7} } }";
-    } else {
-      x1 = 0.0;
-      x2 = 0.0;
-      y1 = -1;
-      y2 = 1;
-      z1 = 0.0;
-      z2 = 0.0;
-      radius = 1.0/ip.aspect;
-      boundfile << "cylinder{<" << x1 << "," << y1 << "," << z1 << ">,<"
-                << x2 << "," << y2 << "," << z2
-                << ">,"<< radius << " texture{pigment{color Silver transmit .7} } }";
-    }
-    boundfile.close();
-    /////////////////////
-  
-    //Create rotating views for dynamically generated sequence xml output 
-  
-    x1 = ip.dSize[xdir] + 2.0;
-    y1 = ip.dSize[ydir] + 1.0;
-    z1 = -1.0*(ip.dSize[zdir] + 2.0);
-  
-    double pi = acos(-1.0);
-  
-    for(int i=0; i < increments; i++){
-    
-      double theta = double(i)*(2.0*pi/double(increments));
-
-      std::string pngString(GenerateSnap(i,x1,y1,z1,theta,ip.cylinderParticleAspect));
-      if(pngString.empty()){
-        std::cout << "Snapshot (" << i << "," << theta << ") failed." << std::endl;
-        return(1);
+    if(increments > 0){
+      std::cout << std::endl << "     Generating pack images......................" << std::endl;
+      
+      command = std::string("cp ") + PACKSHAPESEND + std::string(" ."); 
+      system(command.c_str());   
+      
+      //Create the bounding box file
+      std::ofstream boundfile;
+      boundfile.open("bounding_box.inc");
+      double xsize = 2.0/packInput.aspectRatio;
+      double zsize = 2.0/packInput.aspectRatio;
+      double ysize = 2.0;
+      double x1,y1,z1,x2,y2,z2,radius;
+      if(packInput.domainShape == 0){
+        x1 = -1.0/packInput.aspectRatio;
+        x2 = 1.0/packInput.aspectRatio;
+        y1 = -1;
+        y2 = 1;
+        z1 = -1.0/packInput.aspectRatio;
+        z2 = 1.0/packInput.aspectRatio;
+        boundfile << "box{<" << x1 << "," << y1 << "," << z1 << ">,<"
+                  << x2 << "," << y2 << "," << z2
+                  << "> texture{pigment{color Silver transmit .7} } }";
+      } else {
+        x1 = 0.0;
+        x2 = 0.0;
+        y1 = -1;
+        y2 = 1;
+        z1 = 0.0;
+        z2 = 0.0;
+        radius = 1.0/packInput.aspectRatio;
+        boundfile << "cylinder{<" << x1 << "," << y1 << "," << z1 << ">,<"
+                  << x2 << "," << y2 << "," << z2
+                  << ">,"<< radius << " texture{pigment{color Silver transmit .7} } }";
       }
-    
-    
-      std::cout << "          Image " << i+1 << " of " << increments << std::endl;
-    
-      //////////////////////////
-    }    
-    system("cp pack0.png pack.png");
- 
+      boundfile.close();
+      /////////////////////
+      
+      //Create rotating views for dynamically generated sequence xml output 
+      
+      x1 = xsize + 2.0;
+      y1 = 3.0;
+      z1 = -1.0*(zsize + 2.0);
+      
+      double pi = std::acos(-1.0);
+      
+      for(int i=0; i < increments; i++){
+        
+        double theta = double(i)*(2.0*pi/double(increments));
+        
+        std::string pngString(GenerateSnap(i,x1,y1,z1,theta,packInput.cylinderAspect));
+        if(pngString.empty()){
+          std::cout << "Snapshot (" << i << "," << theta << ") failed." << std::endl;
+          return;
+        }
+        
+        
+        std::cout << "          Image " << i+1 << " of " << increments << std::endl;
+        
+        //////////////////////////
+      }    
+    }
+    //    system("cp pack0.png pack.png");
     // If gui selection to generate RDF stats is turned on
     if(rdfstats){
-      std::cout << std::endl << "     Generating pack statistics for " << ip.N 
+      int numberOfParticles = 0;
+      std::vector<int>::iterator npi = packInput.numberOfParticles.begin();
+      while(npi != packInput.numberOfParticles.end())
+        numberOfParticles += *npi++;
+      std::cout << std::endl << "     Generating pack statistics for " << numberOfParticles
                 << " particles." << std::endl;
-
+      
       //command to call rdfgen (using path from cmake)
-      command = RDFgen + std::string("/bin/rdfgen < pack.out > pack_rdf.out");
+      command = RDFGENCOMMAND + std::string(" < ") + packInput.OutputFileName()  
+        + std::string(" > ") + packInput.OutputFileName() + std::string("_rdf.out");
       system(command.c_str());
     }
   }
@@ -497,7 +503,7 @@ private:
   std::string my_window_name; /// Tracks *this* window name.
   int spherePackStatus;
   packir_input_data packInput;
-  };
+};
 
 /// 
 /// @brief C/C++ bindings to load COMTESTMOD

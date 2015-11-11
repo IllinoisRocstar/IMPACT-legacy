@@ -12,18 +12,63 @@ set (EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin CACHE PATH "Single directo
 set (LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib CACHE PATH "Single directory for all libraries and archives.")
 mark_as_advanced (LIBRARY_OUTPUT_PATH EXECUTABLE_OUTPUT_PATH)
 
+# Find support libraries
 find_library(IMPACT_LIB SITCOM REQUIRED)
 find_library(IRAD_LIB IRAD REQUIRED)
 find_file(IMPACT_HDR FC.h)
 get_filename_component(IMPACT_INCLUDE ${IMPACT_HDR} PATH)
 find_file(IRAD_HDR COMM.H)
 get_filename_component(IRAD_INCLUDE ${IRAD_HDR} PATH)
+
+# Find the application commands
+#
+# --- spherepack ---
 find_program(SPHEREPACK spherepack REQUIRED)
-add_definitions(-DPACKCOMMAND="${SPHEREPACK}")
-message(STATUS "Found pack command: ${SPHEREPACK}")
 IF(NOT SPHEREPACK)
   MESSAGE(FATAL_ERROR "Unable to find spherepack.")
+ELSE()
+  message(STATUS "Spherepack command: ${SPHEREPACK}")
+  add_definitions(-DSPHEREPACKCOMMAND="${SPHEREPACK}")
 ENDIF()
+#
+# --- povray ---
+FIND_PROGRAM(POVRAY povray REQUIRED)
+IF(NOT POVRAY)
+  MESSAGE(FATAL_ERROR "Unable to find povray.")
+ELSE()
+  message(STATUS "Povray command: ${POVRAY}")
+  add_definitions(-DPOVRAYCOMMAND="${POVRAY}")
+ENDIF()
+#
+# --- pack2povray ---
+FIND_PROGRAM(PACK2POVRAY pack2povray REQUIRED)
+IF(NOT PACK2POVRAY)
+  MESSAGE(FATAL_ERROR "Unable to find pack2povray.")
+ELSE()
+  message(STATUS "Pack2povray command: ${PACK2POVRAY}")
+  add_definitions(-DPACK2POVRAYCOMMAND="${PACK2POVRAY}")
+  GET_FILENAME_COMPONENT(POVRAY_HINT ${PACK2POVRAY} PATH)
+ENDIF()
+#
+# --- rdfgen ---
+FIND_PROGRAM(RDFGEN rdfgen REQUIRED)
+IF(NOT RDFGEN)
+  MESSAGE(FATAL_ERROR "Unable to find rdfgen.")
+ELSE()
+  message(STATUS "rdfgen command: ${RDFGEN}")
+  add_definitions(-DRDFGENCOMMAND="${RDFGEN}")
+ENDIF()
+#
+# --- FILE: PackShapesEnd.pov
+FIND_FILE(PACKSHAPESEND PackShapesEnd.pov HINTS share/rocpack/povray povray 
+          ${POVRAY_HINT}/../share/povray ${POVRAY_HINT}/../povray REQUIRED)
+IF(NOT PACKSHAPESEND)
+  MESSAGE(FATAL_ERROR "Unable to find PackShapesEnd.pov.")
+ELSE()
+  message(STATUS "PackShapesEnd: ${PACKSHAPESEND}")
+  add_definitions(-DPACKSHAPESEND="${PACKSHAPESEND}")
+ENDIF()
+
 
 file(GLOB CPP_SRCS "src/*.C")
 set (APPMODTEMP_SRCS src/PackIR.C)

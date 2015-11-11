@@ -4,7 +4,7 @@
 
 class packir_input_data : public IRAD::Util::Parameters
 {
-private:
+public:
   int runtimeHours;
   int runtimeMins;
   int runtimeSecs;
@@ -16,6 +16,7 @@ private:
   float  aspectRatio;
   float tempDivergence;
   float initialTemperature;
+  float cylinderAspect;
   std::string logName;
   std::string packOut;
   std::string packIn;
@@ -53,6 +54,7 @@ public:
     particleGrowthRates.resize(1,1);
     numberOfAngles = 12;
     visualizationFrequency = 1.0;
+    cylinderAspect = 1.5;
   }
   int ConfigureFromParams(){
     if(this->IsSet("HOURS")){
@@ -86,6 +88,10 @@ public:
     if(this->IsSet("DOMAIN_ASPECT_RATIO")){
       aspectRatio = this->GetValue<float>("DOMAIN_ASPECT_RATIO");
       if(aspectRatio < 0) aspectRatio = 1.0;
+    }
+    if(this->IsSet("CYLINDER_ASPECT_RATIO")){
+      cylinderAspect = this->GetValue<float>("CYLINDER_ASPECT_RATIO");
+      if(cylinderAspect < 0) cylinderAspect = 1.0;
     }
     if(this->IsSet("TEMPERATURE")){
       initialTemperature = this->GetValue<float>("TEMPERATURE");
