@@ -83,6 +83,11 @@ class PackIR : public COM_Object {
     };
 
 
+  void PackSetup()
+  {
+    packInput.InitializeDefaults();
+    packInput.ConfigureFromParams();
+  };
     ///
     /// @brief Step the dummy solver through time
     ///
@@ -150,16 +155,24 @@ class PackIR : public COM_Object {
                                (Member_func_ptr)(&PackIR::PackSpheres), 
                                global_name.c_str(), "b", &types[0]);
 
+      COM_set_member_function( (name+".PackSetup").c_str(), 
+                               (Member_func_ptr)(&PackIR::PackSetup), 
+                               global_name.c_str(), "b", &types[0]);
+
       COM_set_member_function( (name+".SetParam").c_str(), 
                                (Member_func_ptr)(&PackIR::SetParam), 
                                global_name.c_str(), "bii", &types[0]);
       
       types[1] = COM_INT;
       types[2] = COM_INT;
-
-      COM_set_member_function( (name+".PostProcess").c_str(), 
-                               (Member_func_ptr)(&PackIR::PostProcess), 
+      types[3] = COM_INT;
+      COM_set_member_function( (name+".GenerateViews").c_str(), 
+                               (Member_func_ptr)(&PackIR::GenerateViews), 
                                global_name.c_str(), "bii", &types[0]);
+
+      COM_set_member_function( (name+".GenerateRDF").c_str(), 
+                               (Member_func_ptr)(&PackIR::GenerateRDF), 
+                               global_name.c_str(), "b", &types[0]);
 
 
       COM_window_init_done(name);  
@@ -414,90 +427,111 @@ class PackIR : public COM_Object {
     return(pngString);
   }
 
-  void PostProcess(int *numAnglesIn,int *doRDFIn)
+  void SetupPostProcessing()
+  {
+    std::string command(std::string("cp ") + std::string(PACKSHAPESEND) + std::string(" .")); 
+    system(command.c_str());         
+    //Create the bounding box file
+    std::ofstream boundfile;
+    boundfile.open("bounding_box.inc");
+    double xsize = 2.0/packInput.aspectRatio;
+    double zsize = 2.0/packInput.aspectRatio;
+    double ysize = 2.0;
+    double x1,y1,z1,x2,y2,z2,radius;
+    if(packInput.domainShape == 0){
+      x1 = -1.0/packInput.aspectRatio;
+      x2 = 1.0/packInput.aspectRatio;
+      y1 = -1;
+      y2 = 1;
+      z1 = -1.0/packInput.aspectRatio;
+      z2 = 1.0/packInput.aspectRatio;
+      boundfile << "box{<" << x1 << "," << y1 << "," << z1 << ">,<"
+                << x2 << "," << y2 << "," << z2
+                << "> texture{pigment{color Silver transmit .7} } }";
+    } else {
+      x1 = 0.0;
+      x2 = 0.0;
+      y1 = -1;
+      y2 = 1;
+      z1 = 0.0;
+      z2 = 0.0;
+      radius = 1.0/packInput.aspectRatio;
+      boundfile << "cylinder{<" << x1 << "," << y1 << "," << z1 << ">,<"
+                << x2 << "," << y2 << "," << z2
+                << ">,"<< radius << " texture{pigment{color Silver transmit .7} } }";
+    }
+    boundfile.close();
+    /////////////////////
+  }
+
+  void GenerateViews(int *numAnglesIn,int *whichAngleIn)
   {
 
     int increments = *numAnglesIn;
-    int rdfstats = *doRDFIn;
+    //    int rdfstats = *doRDFIn;
+    int whichAngle = *whichAngleIn;
   
+    double xsize = 2.0/packInput.aspectRatio;
+    double zsize = 2.0/packInput.aspectRatio;
+    double ysize = 2.0;
+    double x1 = xsize + 2.0;
+    double y1 = 3.0;
+    double z1 = -1.0*(zsize + 2.0);
+    double pi = std::acos(-1.0);
     std::string command;
+
     if(increments > 0){
-      std::cout << std::endl << "     Generating pack images......................" << std::endl;
-      
-      command = std::string("cp ") + PACKSHAPESEND + std::string(" ."); 
-      system(command.c_str());   
-      
-      //Create the bounding box file
-      std::ofstream boundfile;
-      boundfile.open("bounding_box.inc");
-      double xsize = 2.0/packInput.aspectRatio;
-      double zsize = 2.0/packInput.aspectRatio;
-      double ysize = 2.0;
-      double x1,y1,z1,x2,y2,z2,radius;
-      if(packInput.domainShape == 0){
-        x1 = -1.0/packInput.aspectRatio;
-        x2 = 1.0/packInput.aspectRatio;
-        y1 = -1;
-        y2 = 1;
-        z1 = -1.0/packInput.aspectRatio;
-        z2 = 1.0/packInput.aspectRatio;
-        boundfile << "box{<" << x1 << "," << y1 << "," << z1 << ">,<"
-                  << x2 << "," << y2 << "," << z2
-                  << "> texture{pigment{color Silver transmit .7} } }";
-      } else {
-        x1 = 0.0;
-        x2 = 0.0;
-        y1 = -1;
-        y2 = 1;
-        z1 = 0.0;
-        z2 = 0.0;
-        radius = 1.0/packInput.aspectRatio;
-        boundfile << "cylinder{<" << x1 << "," << y1 << "," << z1 << ">,<"
-                  << x2 << "," << y2 << "," << z2
-                  << ">,"<< radius << " texture{pigment{color Silver transmit .7} } }";
-      }
-      boundfile.close();
-      /////////////////////
-      
+     
       //Create rotating views for dynamically generated sequence xml output 
-      
-      x1 = xsize + 2.0;
-      y1 = 3.0;
-      z1 = -1.0*(zsize + 2.0);
-      
-      double pi = std::acos(-1.0);
-      
       for(int i=0; i < increments; i++){
-        
-        double theta = double(i)*(2.0*pi/double(increments));
-        
-        std::string pngString(GenerateSnap(i,x1,y1,z1,theta,packInput.cylinderAspect));
-        if(pngString.empty()){
-          std::cout << "Snapshot (" << i << "," << theta << ") failed." << std::endl;
-          return;
-        }
-        
-        
-        std::cout << "          Image " << i+1 << " of " << increments << std::endl;
-        
+        if(whichAngle < 0 || whichAngle == i){
+          std::ostringstream dirStr;
+          dirStr << "makeimage_" << i;
+          std::ostringstream comStr;
+          comStr << "mkdir " << dirStr.str();
+          system(comStr.str().c_str());
+          chdir(dirStr.str().c_str());
+          comStr.clear();
+          comStr.str("");
+          comStr << "ln -s ../" << packInput.OutputFileName() << " .";
+          system(comStr.str().c_str());
+          comStr.clear();
+          comStr.str("");
+
+          SetupPostProcessing();
+ 
+          double theta = double(i)*(2.0*pi/double(increments));       
+          std::string pngString(GenerateSnap(i,x1,y1,z1,theta,packInput.cylinderAspect));
+          if(pngString.empty()){
+            std::cerr << "Snapshot (" << i << "," << theta << ") failed." << std::endl;
+            return;
+          }
+          comStr << "cp " << pngString << " ../";
+          system(comStr.str().c_str());
+          chdir("..");
+          comStr.clear();
+          comStr.str("");
+          comStr << "rm -rf " << dirStr.str();
+          system(comStr.str().c_str());
         //////////////////////////
-      }    
+        }    
+      }
     }
-    //    system("cp pack0.png pack.png");
-    // If gui selection to generate RDF stats is turned on
-    if(rdfstats){
-      int numberOfParticles = 0;
-      std::vector<int>::iterator npi = packInput.numberOfParticles.begin();
-      while(npi != packInput.numberOfParticles.end())
-        numberOfParticles += *npi++;
-      std::cout << std::endl << "     Generating pack statistics for " << numberOfParticles
-                << " particles." << std::endl;
+  }
+
+  void GenerateRDF(){
+
+    int numberOfParticles = 0;
+    std::vector<int>::iterator npi = packInput.numberOfParticles.begin();
+    while(npi != packInput.numberOfParticles.end())
+      numberOfParticles += *npi++;
+    //    std::cout << std::endl << "     Generating pack statistics for " << numberOfParticles
+    //                << " particles." << std::endl;
       
-      //command to call rdfgen (using path from cmake)
-      command = RDFGENCOMMAND + std::string(" < ") + packInput.OutputFileName()  
-        + std::string(" > ") + packInput.OutputFileName() + std::string("_rdf.out");
-      system(command.c_str());
-    }
+    //command to call rdfgen (using path from cmake)
+    std::string command = RDFGENCOMMAND + std::string(" < ") + packInput.OutputFileName()  
+      + std::string(" > ") + packInput.OutputFileName() + std::string("_rdf.out");
+    system(command.c_str());
   }
 private:
   std::string my_window_name; /// Tracks *this* window name.
