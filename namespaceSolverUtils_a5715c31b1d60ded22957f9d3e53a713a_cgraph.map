@@ -1,0 +1,13 @@
+<map id="SolverUtils::CreateDataItemsFromSolution" name="SolverUtils::CreateDataItemsFromSolution">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a8d14cf34eccebd1168103d4624ac2677" title="Registering an dataitem type. " alt="" coords="267,101,408,131"/>
+<area shape="rect" id="node13" href="$com__c_09_09_8hpp.html#adca6827f3c065859156fa3562c2cd9a8" title="Associates an array with an dataitem for a specific pane. " alt="" coords="280,48,395,77"/>
+<area shape="rect" id="node18" href="$com__c_09_09_8hpp.html#a000a075fb1782d7eeaae75a7136e6411" title="Set sizes of for a specific dataitem. " alt="" coords="283,155,392,184"/>
+<area shape="rect" id="node23" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#af4e6ca4aa1351bda1e20915140ace949" title="SolverUtils::FEM::Solution\lData::Data" alt="" coords="249,207,425,254"/>
+<area shape="rect" id="node25" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a62cb9b7f3f556d91efecb9e116e0afcd" title="SolverUtils::FEM::Solution\lData::Meta" alt="" coords="249,277,425,323"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="512,75,621,104"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ae4d775df72eadf0171e9401fafebffc1" title="Creates a new dataitem for a window. " alt="" coords="488,127,645,174"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="708,75,892,104"/>
+<area shape="rect" id="node11" href="$COM__base_8C.html#afe90d629a5053e5b8e54940849d34862" title="print_type" alt="" coords="761,136,839,165"/>
+<area shape="rect" id="node16" href="$classCOM_1_1COM__base.html#a75c84e8f2474a41db1d7def84122051f" title="Associates an array with an dataitem for a specific pane. " alt="" coords="491,5,643,51"/>
+<area shape="rect" id="node21" href="$classCOM_1_1COM__base.html#aee4022985c5a2541202401c029117b2e" title="Set the sizes of an dataitem. " alt="" coords="475,197,659,227"/>
+</map>

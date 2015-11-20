@@ -1,0 +1,24 @@
+<map id="Pane_manifold_2::get_next_edge" name="Pane_manifold_2::get_next_edge">
+<area shape="rect" id="node3" href="$classHalfedge.html#a0fe0a86f9d9591a47a840c4283a1ee66" title="Get the next halfedge of its owner element. " alt="" coords="203,253,309,283"/>
+<area shape="rect" id="node5" href="$classRocsurf.html#a97d01c84761acbeb7f318e784e7618d3" title="Computes edge lengths of a given window. " alt="" coords="359,103,519,150"/>
+<area shape="rect" id="node19" href="$classHalfedge.html#a5f30a8704a58f4aa46141dbacd9578b6" title="Get the average value of the nodes of the incident face of a given halfedge. " alt="" coords="359,173,519,203"/>
+<area shape="rect" id="node23" href="$classFace.html#a38c58b1d84a930047814c2a5f2e36ab4" title="Get the average value of the nodes of a given face. " alt="" coords="371,227,507,256"/>
+<area shape="rect" id="node27" href="$Manifold__2_8C.html#adaa5ff78d434322162d994d114b59362" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="365,280,512,309"/>
+<area shape="rect" id="node31" href="$classPane__manifold__2.html#ae14fb991ffb413357ecf8e3d79f8b51a" title="Obtain the previous edge in a given access mode. " alt="" coords="365,333,512,379"/>
+<area shape="rect" id="node7" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="595,112,693,141"/>
+<area shape="rect" id="node9" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="796,5,943,35"/>
+<area shape="rect" id="node11" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="799,59,940,88"/>
+<area shape="rect" id="node13" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="772,112,967,141"/>
+<area shape="rect" id="node15" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="796,165,943,195"/>
+<area shape="rect" id="node17" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="768,219,971,248"/>
+<area shape="rect" id="node21" href="$classHalfedge.html#ace575c12a667acbbd28410222403ccb1" title="Get the face center of the incident face of a given halfedge. " alt="" coords="569,173,719,203"/>
+<area shape="rect" id="node25" href="$classFace.html#a6038a217872bc5f54a720e32cd68fcfb" title="Get the face center of a given face. " alt="" coords="581,227,707,256"/>
+<area shape="rect" id="node29" href="$classHalfedge.html#a76e0044df4c95e470db499808e3d5749" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="576,279,712,326"/>
+<area shape="rect" id="node33" href="$classHalfedge.html#a8979f345eb790cfa810ba90a36f50202" title="Get the previous halfedge of its owner element. " alt="" coords="591,375,697,404"/>
+<area shape="rect" id="node36" href="$classNode.html#abd9d27318bc9c523aa4937e46e63dfe2" title="Get an incident halfedge originated from the node. " alt="" coords="815,375,924,404"/>
+<area shape="rect" id="node38" href="$classWindow__manifold__2.html#a98d72b391248b8ad30f7a62176de09c4" title="Determine the primary nodes for across&#45;pane access. " alt="" coords="1019,335,1165,382"/>
+<area shape="rect" id="node46" href="$classNode.html#a34c43ffd7679daeb45bc4b040588b9fc" title="Is the node on the physical boundary? " alt="" coords="1035,405,1149,435"/>
+<area shape="rect" id="node40" href="$classWindow__manifold__2.html#af0271b5b6b206b3dd5e6e5650141fdde" title="Initialize the manifold by inheriting the given mesh. " alt="" coords="1215,344,1377,373"/>
+<area shape="rect" id="node42" href="$classWindow__manifold__2.html#a2cd4f1a3caa1a90704899c3e27e8bd72" title="Construct a Window_manifold_2 from a given window. " alt="" coords="1435,301,1581,347"/>
+<area shape="rect" id="node44" href="$classRFC__Window__overlay.html#abac82c95c8685d2e5455664c9f810a1c" title="RFC_Window_overlay\l::RFC_Window_overlay" alt="" coords="1428,370,1588,417"/>
+</map>

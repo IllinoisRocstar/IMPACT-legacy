@@ -1,0 +1,14 @@
+<map id="declare_solid_actions" name="declare_solid_actions">
+<area shape="rect" id="node3" href="$classAgent.html#a7f0b51f2b394e54d4d4e28be92317ede" title="Agent::add_bcaction" alt="" coords="224,8,365,37"/>
+<area shape="rect" id="node21" href="$classAgent.html#a537690d582defd6023bc34cf9dfd88fc" title="Agent::add_bcinitaction" alt="" coords="216,61,373,91"/>
+<area shape="rect" id="node24" href="$classAgent.html#a4ba65daa41eb3f33c59479d1f82942fc" title="Agent::add_icaction" alt="" coords="227,115,363,144"/>
+<area shape="rect" id="node27" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="227,168,363,197"/>
+<area shape="rect" id="node29" href="$classCoupling.html#a31352260a1a9d2d065c4b57c1c23c6a6" title="Coupling::get_rocmancontrol\l_param" alt="" coords="201,221,388,267"/>
+<area shape="rect" id="node5" href="$classScheduler.html#abcfee2ef50358bee46ea04cf6bdf8ded" title="Scheduler::set_name" alt="" coords="628,5,772,35"/>
+<area shape="rect" id="node9" href="$classUserScheduler.html#a213653f4b77efa24418d34ecb9a945ab" title="UserScheduler::add\l_action" alt="" coords="439,57,575,103"/>
+<area shape="rect" id="node7" href="$classAction.html#ab2b103593cc3cc75d0ef85c8b2c1f817" title="Action::name" alt="" coords="1152,57,1251,87"/>
+<area shape="rect" id="node11" href="$classScheduler.html#a837a541840534217eec9b8ba2b94c998" title="Scheduler::add_action" alt="" coords="625,65,775,95"/>
+<area shape="rect" id="node13" href="$classAction.html#a0506a2ea781effba697880892e3891b4" title="Action::declare" alt="" coords="824,65,933,95"/>
+<area shape="rect" id="node15" href="$classScheduler.html#a9d6c8f5cc804a8988cbc8cfa62fad4bf" title="Scheduler::reads" alt="" coords="983,57,1103,87"/>
+<area shape="rect" id="node18" href="$classScheduler.html#a3fa21b4542306e38bcc47f9951375b5e" title="Scheduler::writes" alt="" coords="981,111,1104,140"/>
+</map>

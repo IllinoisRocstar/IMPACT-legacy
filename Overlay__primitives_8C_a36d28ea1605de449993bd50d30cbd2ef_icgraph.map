@@ -1,0 +1,11 @@
+<map id="_solve_3x3" name="_solve_3x3">
+<area shape="rect" id="node3" href="$classOverlay__primitives.html#a2972dcd096d1fb09686a2a6c41aafa80" title="Overlay_primitives\l::project_blue_feature" alt="" coords="145,5,292,51"/>
+<area shape="rect" id="node5" href="$classOverlay__primitives.html#abd19a24374ea6495aa988c09586849dc" title="Overlay_primitives\l::project_green_feature" alt="" coords="141,74,296,121"/>
+<area shape="rect" id="node7" href="$classOverlay__primitives.html#a16ee3c58170a16a6c56157bdf60e7915" title="Overlay_primitives\l::project_onto_element" alt="" coords="141,143,296,190"/>
+<area shape="rect" id="node9" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="747,134,872,181"/>
+<area shape="rect" id="node13" href="$classOverlay.html#a3fb9c07befb11760bebb3abf991eb238" title="Helper for associate_green_vertices(). " alt="" coords="525,203,696,250"/>
+<area shape="rect" id="node18" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="345,83,476,130"/>
+<area shape="rect" id="node11" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="923,177,1040,207"/>
+<area shape="rect" id="node15" href="$classOverlay.html#ad5f1e6c0f443baf6c59656657ec0ad5f" title="Overlay::associate\l_green_vertices" alt="" coords="744,203,875,250"/>
+<area shape="rect" id="node20" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="540,96,681,125"/>
+</map>

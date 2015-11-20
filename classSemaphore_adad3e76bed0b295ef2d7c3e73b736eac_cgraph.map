@@ -1,0 +1,5 @@
+<map id="Semaphore::Wait" name="Semaphore::Wait">
+<area shape="rect" id="node3" href="$classMutex.html#aa732ae651974555965dcaf9ad9e87882" title="Mutex::Lock" alt="" coords="185,5,279,35"/>
+<area shape="rect" id="node5" href="$classMutex.html#a669f7a1dd7992948b397726e5d187a39" title="Mutex::Unlock" alt="" coords="179,59,285,88"/>
+<area shape="rect" id="node7" href="$classCondition.html#ae8ad7b54dea6b27d2a07136c8ad2ebaf" title="Condition::Wait" alt="" coords="176,112,288,141"/>
+</map>

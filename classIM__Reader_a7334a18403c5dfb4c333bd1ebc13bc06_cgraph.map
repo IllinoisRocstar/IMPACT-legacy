@@ -1,0 +1,20 @@
+<map id="IM_Reader::read_mesh" name="IM_Reader::read_mesh">
+<area shape="rect" id="node3" href="$com__c_8h.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="219,73,392,103"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="239,127,372,156"/>
+<area shape="rect" id="node13" href="$classIM__Reader.html#a32dad2914b7b5d2594b3d39a5991b10f" title="IM_Reader::get_nextline" alt="" coords="655,409,817,439"/>
+<area shape="rect" id="node15" href="$bordertest__struc_8C.html#adbefa474b566ff7262aefc2f21fb2808" title="is_local" alt="" coords="272,565,339,595"/>
+<area shape="rect" id="node17" href="$classIM__Reader.html#ab3bbac159a822265fd7fe8ba9a68f114" title="IM_Reader::read_pane_ij" alt="" coords="223,232,388,261"/>
+<area shape="rect" id="node37" href="$classIM__Reader.html#a984663dbb3b5bcee8b3556931327b1f1" title="IM_Reader::read_pane\l_mixed" alt="" coords="228,285,383,331"/>
+<area shape="rect" id="node46" href="$classIM__Reader.html#a45680b33016ef85ca52d559af6e1027f" title="IM_Reader::read_pane_uns" alt="" coords="215,355,396,384"/>
+<area shape="rect" id="node7" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="904,124,1013,153"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="447,5,604,51"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="1100,124,1284,153"/>
+<area shape="rect" id="node20" href="$com__c_09_09_8hpp.html#adca6827f3c065859156fa3562c2cd9a8" title="Associates an array with an dataitem for a specific pane. " alt="" coords="468,171,583,200"/>
+<area shape="rect" id="node25" href="$classIM__Reader.html#add3be59e297d394b1b556b63a8ad2950" title="IM_Reader::read_pane\l_coors" alt="" coords="448,223,603,270"/>
+<area shape="rect" id="node23" href="$classCOM_1_1COM__base.html#a75c84e8f2474a41db1d7def84122051f" title="Associates an array with an dataitem for a specific pane. " alt="" coords="660,175,812,222"/>
+<area shape="rect" id="node27" href="$com__c_09_09_8hpp.html#a000a075fb1782d7eeaae75a7136e6411" title="Set sizes of for a specific dataitem. " alt="" coords="681,299,791,328"/>
+<area shape="rect" id="node32" href="$com__c_8h.html#a989b969be3cb07c32a05d4aad3a0f710" title="Allocate space for an dataitem on a specific pane and return the address by setting addr..." alt="" coords="665,352,807,381"/>
+<area shape="rect" id="node35" href="$classIM__Reader.html#ad986593cbfc9eb3ec2d79d0e287c005b" title="IM_Reader::isfinite" alt="" coords="671,245,801,275"/>
+<area shape="rect" id="node30" href="$classCOM_1_1COM__base.html#aee4022985c5a2541202401c029117b2e" title="Set the sizes of an dataitem. " alt="" coords="867,299,1051,328"/>
+<area shape="rect" id="node41" href="$classIM__Reader.html#a3d8e47f54d78f701e76aee5bae4d9b71" title="IM_Reader::read_pane\l_elems" alt="" coords="448,343,603,390"/>
+</map>

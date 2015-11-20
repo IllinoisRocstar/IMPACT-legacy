@@ -1,0 +1,45 @@
+<map id="Pane_manifold_2::get_primary" name="Pane_manifold_2::get_primary">
+<area shape="rect" id="node3" href="$classNode.html#abca9861ea8b15cf6149f2bda7f7dc12f" title="Check whether the current node coincide with the given node. " alt="" coords="221,61,331,91"/>
+<area shape="rect" id="node5" href="$classHalfedge.html#a3625dde0c9d78d69d708be2e192a8d95" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="204,115,348,144"/>
+<area shape="rect" id="node39" href="$classNode.html#adf0107b33f6fb7f02a8809905c0cc09d" title="Get the primary copy of the node. " alt="" coords="212,527,340,556"/>
+<area shape="rect" id="node91" href="$classHalfedge.html#add3d238f040855fa861586398508059c" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="220,168,332,197"/>
+<area shape="rect" id="node7" href="$classHalfedge.html#a0435a511fc8dd90bc3f9a4b5959b8be9" title="Get the avarage value of the nodes of a given halfedge. " alt="" coords="412,61,575,91"/>
+<area shape="rect" id="node15" href="$classHalfedge.html#a0aa0c3f79a99049d8234c1577392dc5d" title="Get the tangent of the given halfedge. " alt="" coords="431,115,556,144"/>
+<area shape="rect" id="node9" href="$classHalfedge.html#a4b8105e99364911fd5af291b3ff36b61" title="Get the edge center of the given halfedge. " alt="" coords="641,5,793,35"/>
+<area shape="rect" id="node11" href="$classHalfedge.html#a5f30a8704a58f4aa46141dbacd9578b6" title="Get the average value of the nodes of the incident face of a given halfedge. " alt="" coords="637,109,797,139"/>
+<area shape="rect" id="node13" href="$classHalfedge.html#ace575c12a667acbbd28410222403ccb1" title="Get the face center of the incident face of a given halfedge. " alt="" coords="855,115,1004,144"/>
+<area shape="rect" id="node17" href="$classRocsurf.html#a97d01c84761acbeb7f318e784e7618d3" title="Computes edge lengths of a given window. " alt="" coords="849,45,1009,91"/>
+<area shape="rect" id="node31" href="$Manifold__2_8h.html#ab7fe7c92789b1a3b0ba18f2ae189af40" title="Get the tangent of the given halfedge. " alt="" coords="672,163,763,192"/>
+<area shape="rect" id="node19" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="1101,301,1200,331"/>
+<area shape="rect" id="node21" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1316,248,1463,277"/>
+<area shape="rect" id="node23" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1319,301,1460,331"/>
+<area shape="rect" id="node25" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1292,355,1487,384"/>
+<area shape="rect" id="node27" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1316,408,1463,437"/>
+<area shape="rect" id="node29" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="1288,195,1491,224"/>
+<area shape="rect" id="node33" href="$group__fdp.html#gaa8387189012dde7070282bb9162588b6" title="Compute the cosine of the edge angle at a vertex between two incident feature edges. " alt="" coords="853,167,1005,214"/>
+<area shape="rect" id="node35" href="$group__pifd.html#gacc6431518438cfdb0c5f73b2b02159d8" title="The main entry of feature detection. " alt="" coords="1075,373,1227,419"/>
+<area shape="rect" id="node37" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1331,476,1448,505"/>
+<area shape="rect" id="node41" href="$classWindow__manifold__2.html#adef221f1b705b245c2af60ca4144b09d" title="Window_manifold_2::\lassign_global_nodeIDs" alt="" coords="415,359,572,406"/>
+<area shape="rect" id="node48" href="$classNode.html#a05b7ce236753e2187954c7e3c17e782d" title="Node::halfedge_g" alt="" coords="432,597,555,627"/>
+<area shape="rect" id="node75" href="$group__ntc.html#ga6a3ec3c05ce48113f35b47f2d1df076a" title="Dump out the 0&#45; and 1&#45;features in Tecplot format into files &lt;name&gt;f0.plt, &lt;name&gt;f1.plt, respectively. " alt="" coords="641,407,793,454"/>
+<area shape="rect" id="node77" href="$classHDS__accessor.html#ace828f7f07fe0b2dfd0a2d4b56f2ea1d" title="HDS_accessor::is_feature_0" alt="" coords="399,861,588,891"/>
+<area shape="rect" id="node82" href="$classHDS__accessor.html#a81942648cd4444012c103345be4cb528" title="HDS_accessor::is_on\l_feature" alt="" coords="643,858,792,905"/>
+<area shape="rect" id="node88" href="$group__pio.html#ga8ce246b515bdf91456a673acc28c071a" title="Check whether given two vertices correspond to the same physical point. " alt="" coords="417,518,569,565"/>
+<area shape="rect" id="node43" href="$classWindow__manifold__2.html#a167719b9a529f0acffb6a9ade04a5b30" title="Create a serial window (with single pane) from the current window. " alt="" coords="644,338,791,385"/>
+<area shape="rect" id="node45" href="$classRocsurf.html#a781a541c33d8fedc03577d7420e93712" title="Serialize the mesh of a given window. " alt="" coords="848,316,1011,345"/>
+<area shape="rect" id="node50" href="$group__mf1.html#ga5dfc30e51e67c154900fed43cd7c8820" title="Determine whether a curve is false strong. " alt="" coords="639,527,796,574"/>
+<area shape="rect" id="node52" href="$group__fdp.html#gaebe1d4159b8cbdd4de9e06063b513e53" title="Compute the angle defect of a vertex. " alt="" coords="641,597,793,643"/>
+<area shape="rect" id="node54" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="652,666,783,713"/>
+<area shape="rect" id="node61" href="$classNode.html#a232bc169e2dbdd3c31dc57da48979b6d" title="Node::is_border_g" alt="" coords="653,736,781,765"/>
+<area shape="rect" id="node70" href="$group__fdp.html#gad70c380d1621387d642c8c59000f9457" title="Determine whether a vertex is strong (either theta&#45;strong or relatively strong) in angle defect..." alt="" coords="641,789,793,835"/>
+<area shape="rect" id="node72" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="1061,476,1240,505"/>
+<area shape="rect" id="node56" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="859,625,1000,655"/>
+<area shape="rect" id="node58" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="1088,729,1213,775"/>
+<area shape="rect" id="node64" href="$classOverlay__primitives.html#a448294402b5adcfe218507704d7a755d" title="Overlay_primitives\l::snap_blue_ridge_edge" alt="" coords="851,798,1008,845"/>
+<area shape="rect" id="node67" href="$classOverlay__primitives.html#a32cbd22e5afc0f65688f2501f29d3e58" title="Overlay_primitives\l::snap_blue_ridge_vertex" alt="" coords="847,729,1012,775"/>
+<area shape="rect" id="node79" href="$classOverlay.html#aa360d4022ec1bc3e070a6b05789cf17e" title="Overlay::insert_edge\l_into_queue" alt="" coords="859,918,1000,965"/>
+<area shape="rect" id="node95" href="$classFace.html#a38c58b1d84a930047814c2a5f2e36ab4" title="Get the average value of the nodes of a given face. " alt="" coords="425,219,561,248"/>
+<area shape="rect" id="node99" href="$Manifold__2_8C.html#adaa5ff78d434322162d994d114b59362" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="420,273,567,303"/>
+<area shape="rect" id="node97" href="$classFace.html#a6038a217872bc5f54a720e32cd68fcfb" title="Get the face center of a given face. " alt="" coords="655,216,780,245"/>
+<area shape="rect" id="node101" href="$classHalfedge.html#a76e0044df4c95e470db499808e3d5749" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="649,269,785,315"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Coupling::initial_start" name="Coupling::initial_start">
+<area shape="rect" id="node3" href="$classFluidBurnAlone.html#aa248accf402e49b57a1682c8886f420a" title="FluidBurnAlone::FluidBurn\lAlone" alt="" coords="197,5,371,51"/>
+<area shape="rect" id="node5" href="$classBurnAgent.html#a799f861cf7920237d8097fc74de69700" title="BurnAgent::init_module" alt="" coords="205,75,363,104"/>
+<area shape="rect" id="node7" href="$classMeshMotionTransfer__SF.html#a8d5e47c1267f5a7b4f6e831f33efe731" title="MeshMotionTransfer\l_SF::run" alt="" coords="213,127,355,174"/>
+<area shape="rect" id="node9" href="$classTransferSolidDensity.html#aea51fc4f1f8e2edd05194f18381063ac" title="TransferSolidDensity::run" alt="" coords="199,197,369,227"/>
+<area shape="rect" id="node11" href="$classCopyBflagFromBurn.html#af15d32ced54933d2eef2fc5c90443c6b" title="CopyBflagFromBurn::run" alt="" coords="201,251,367,280"/>
+<area shape="rect" id="node13" href="$classSolidPropagateSurface__ALE.html#afec1268fe96ebf7f56fb524f530894e5" title="SolidPropagateSurface\l_ALE::run" alt="" coords="207,303,361,350"/>
+</map>

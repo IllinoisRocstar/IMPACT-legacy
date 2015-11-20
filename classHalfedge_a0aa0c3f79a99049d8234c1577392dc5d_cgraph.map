@@ -1,0 +1,23 @@
+<map id="Halfedge::tangent" name="Halfedge::tangent">
+<area shape="rect" id="node3" href="$classHalfedge.html#a3625dde0c9d78d69d708be2e192a8d95" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="180,750,324,779"/>
+<area shape="rect" id="node62" href="$classHalfedge.html#add3d238f040855fa861586398508059c" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="196,804,308,834"/>
+<area shape="rect" id="node66" href="$classNode.html#ac48da3915cb29c0947996182a426ca8f" title="Obtain the coordinates of a node. " alt="" coords="208,860,296,890"/>
+<area shape="rect" id="node5" href="$classSimple__manifold__2.html#a4faa23855fa502ec14762a325e30aa86" title="Get the ID of the destination of a given edge. " alt="" coords="795,192,933,238"/>
+<area shape="rect" id="node33" href="$classPane__manifold__2.html#a1f893a483b186536a0fc49227d4a67c1" title="Obtains a Node object corresponding to the primary copy of the given node. " alt="" coords="384,741,531,788"/>
+<area shape="rect" id="node7" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="1211,288,1347,318"/>
+<area shape="rect" id="node9" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="1400,366,1496,395"/>
+<area shape="rect" id="node11" href="$classSimple__manifold__2.html#a366fc28946bdaacef84f47e8f30f3ce6" title="Determine whether a given edge is a border edge of real part of the pane (either on physical border o..." alt="" coords="1005,400,1144,446"/>
+<area shape="rect" id="node14" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="1397,502,1499,531"/>
+<area shape="rect" id="node16" href="$classSimple__manifold__2.html#a5b7f159fcd3c94b528625ae993f909e9" title="Get the opposite edge of a border edge for the real pane. " alt="" coords="996,123,1153,187"/>
+<area shape="rect" id="node22" href="$classSimple__manifold__2.html#a87f547233b2a97b9d3289655a5f7c1ef" title="Get the opposite edge of a border edge for the ghost pane. " alt="" coords="989,312,1160,376"/>
+<area shape="rect" id="node20" href="$classSimple__manifold__2.html#aea2c9e848508bbb89a130de20d360014" title="Is the element incident on the give edge a real element? " alt="" coords="1209,214,1348,261"/>
+<area shape="rect" id="node27" href="$classSimple__manifold__2.html#ad0308ff63a62c37f101527c4acbc4f30" title="Get an index for internal edges. " alt="" coords="1209,493,1348,540"/>
+<area shape="rect" id="node35" href="$classPane__manifold__2.html#a0863d901ee1f77bb6a8f3da4cc56290a" title="Obtain the border node index (equal to ID of incident border edge). " alt="" coords="591,680,737,726"/>
+<area shape="rect" id="node37" href="$classSimple__manifold__2.html#a665f845af0f5fe87e8102d711e16846b" title="Get the ID of an incident real edge within the pane of a given node. " alt="" coords="787,617,941,664"/>
+<area shape="rect" id="node39" href="$classSimple__manifold__2.html#aa36f82647c39a985eb0c17bf18905312" title="Is the given node a real node? " alt="" coords="1005,696,1144,742"/>
+<area shape="rect" id="node44" href="$classSimple__manifold__2.html#aa92fe92122f9ca1f08f20d2239a989b0" title="Get the opposite edge of an interior edge of the ghost part. " alt="" coords="989,608,1160,672"/>
+<area shape="rect" id="node51" href="$classSimple__manifold__2.html#a03cc144ae629d353ded148f5dde2e330" title="Simple_manifold_2::\lget_next_ghost_edge\l_interior" alt="" coords="1001,520,1148,584"/>
+<area shape="rect" id="node58" href="$classSimple__manifold__2.html#a6bfa6e48aeb63f51b773946e174fec5b" title="Get the ID of the origin of a given edge. " alt="" coords="1005,816,1144,862"/>
+<area shape="rect" id="node47" href="$classSimple__manifold__2.html#a66a3b37ab9a9feaedf64d5c27469c660" title="Is the element incident on the give edge a ghost element? " alt="" coords="1209,613,1348,660"/>
+<area shape="rect" id="node68" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="373,931,541,960"/>
+</map>

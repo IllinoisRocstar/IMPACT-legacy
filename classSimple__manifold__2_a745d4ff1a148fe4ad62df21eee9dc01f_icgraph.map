@@ -1,0 +1,8 @@
+<map id="Simple_manifold_2::get_incident_edge" name="Simple_manifold_2::get_incident_edge">
+<area shape="rect" id="node3" href="$classNode.html#abd9d27318bc9c523aa4937e46e63dfe2" title="Get an incident halfedge originated from the node. " alt="" coords="196,79,305,108"/>
+<area shape="rect" id="node5" href="$classWindow__manifold__2.html#a98d72b391248b8ad30f7a62176de09c4" title="Determine the primary nodes for across&#45;pane access. " alt="" coords="355,39,501,86"/>
+<area shape="rect" id="node13" href="$classNode.html#a34c43ffd7679daeb45bc4b040588b9fc" title="Is the node on the physical boundary? " alt="" coords="371,109,485,139"/>
+<area shape="rect" id="node7" href="$classWindow__manifold__2.html#af0271b5b6b206b3dd5e6e5650141fdde" title="Initialize the manifold by inheriting the given mesh. " alt="" coords="551,48,713,77"/>
+<area shape="rect" id="node9" href="$classWindow__manifold__2.html#a2cd4f1a3caa1a90704899c3e27e8bd72" title="Construct a Window_manifold_2 from a given window. " alt="" coords="771,5,917,51"/>
+<area shape="rect" id="node11" href="$classRFC__Window__overlay.html#abac82c95c8685d2e5455664c9f810a1c" title="RFC_Window_overlay\l::RFC_Window_overlay" alt="" coords="764,74,924,121"/>
+</map>

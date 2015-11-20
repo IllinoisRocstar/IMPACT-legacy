@@ -1,0 +1,5 @@
+<map id="RFC_Pane_base::is_primary_node" name="RFC_Pane_base::is_primary_node">
+<area shape="rect" id="node3" href="$classRFC__Pane__base.html#a4a5b3824a05ab264a5045855fbd5d65a" title="Is a give node on the boundary of the pane? " alt="" coords="284,5,503,35"/>
+<area shape="rect" id="node7" href="$classRFC__Pane__base.html#ae25471f1be5bd4ce659164b91bc36f72" title="Is a give node an isolated node not belong to any element? " alt="" coords="280,59,507,88"/>
+<area shape="rect" id="node5" href="$classRFC__Pane__base.html#a6d670fed3e1d0fb329b1534bab009dc6" title="The total number of nodes in the pane. " alt="" coords="555,23,709,70"/>
+</map>

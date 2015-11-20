@@ -1,0 +1,6 @@
+<map id="CopyBflagFromBurn::run" name="CopyBflagFromBurn::run">
+<area shape="rect" id="node3" href="$com__c_8h.html#a6ed65672ba7c64d77d8679c21bf5236e" title="Copy an dataitem onto another. " alt="" coords="223,5,367,35"/>
+<area shape="rect" id="node5" href="$classCoupling.html#a992cf9682eb483bdcb90bcfb924cea5c" title="Coupling::get_control\l_param" alt="" coords="223,58,367,105"/>
+<area shape="rect" id="node7" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="227,128,363,157"/>
+<area shape="rect" id="node9" href="$classCoupling.html#a536a9d73326d0567f8231db930b46582" title="Coupling::initial_start" alt="" coords="223,181,367,211"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="OBJ_Reader::read_pane_elems" name="OBJ_Reader::read_pane_elems">
+<area shape="rect" id="node3" href="$com__c_8h.html#a989b969be3cb07c32a05d4aad3a0f710" title="Allocate space for an dataitem on a specific pane and return the address by setting addr..." alt="" coords="236,5,377,35"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#a000a075fb1782d7eeaae75a7136e6411" title="Set sizes of for a specific dataitem. " alt="" coords="252,59,361,88"/>
+<area shape="rect" id="node13" href="$classOBJ__Reader.html#aa917aefd5f65a544cfc5f7c7311e7d9e" title="OBJ_Reader::get_nextline" alt="" coords="220,112,393,141"/>
+<area shape="rect" id="node7" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="480,32,589,61"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#aee4022985c5a2541202401c029117b2e" title="Set the sizes of an dataitem. " alt="" coords="443,85,627,115"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="676,32,860,61"/>
+</map>

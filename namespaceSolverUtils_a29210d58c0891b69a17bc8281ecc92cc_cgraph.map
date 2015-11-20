@@ -1,0 +1,22 @@
+<map id="SolverUtils::CreateSolutionFromPane" name="SolverUtils::CreateSolutionFromPane">
+<area shape="rect" id="node3" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a410c01f62c73de376811189123b2ea25" title="SolverUtils::FEM::Solution\lData::Create" alt="" coords="243,74,419,121"/>
+<area shape="rect" id="node9" href="$classSolverUtils_1_1FEM_1_1SolverAgent.html#a57f58707f0ead43178b30c1f7230ec73" title="SolverUtils::FEM::Solver\lAgent::Mesh" alt="" coords="248,197,413,243"/>
+<area shape="rect" id="node11" href="$namespaceSolverUtils.html#a8ab5e5f266ff0f75efa3ca05c7308e9c" title="SolverUtils::PopulateSolution\lDataFromPane" alt="" coords="235,335,427,382"/>
+<area shape="rect" id="node23" href="$namespaceSolverUtils.html#a8a3863d0da9bcf306cedc7caf1c069ca" title="SolverUtils::PopulateSolution\lMetaDataFromPane" alt="" coords="235,266,427,313"/>
+<area shape="rect" id="node43" href="$classSolverUtils_1_1FEM_1_1SolverAgent.html#a4cd2aabea3b551affce4c45a4f87abc2" title="SolverUtils::FEM::Solver\lAgent::Solution" alt="" coords="248,405,413,451"/>
+<area shape="rect" id="node5" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a47a999c5ebdab2937397a9d6e4c51f8c" title="SolverUtils::Mesh::\lConnectivity::Nelem" alt="" coords="493,5,635,51"/>
+<area shape="rect" id="node7" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#a2fe650250a159633959c19fdb9e33a4e" title="SolverUtils::Mesh::\lNodalCoordinates::Size" alt="" coords="484,74,644,121"/>
+<area shape="rect" id="node13" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#af4e6ca4aa1351bda1e20915140ace949" title="SolverUtils::FEM::Solution\lData::Data" alt="" coords="476,266,652,313"/>
+<area shape="rect" id="node15" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a62cb9b7f3f556d91efecb9e116e0afcd" title="SolverUtils::FEM::Solution\lData::Meta" alt="" coords="476,335,652,382"/>
+<area shape="rect" id="node17" href="$com__c_8h.html#a6dd240c15a2b3e85d2d91cbe9eec6611" title="Get the address for an dataitem on a specific pane. " alt="" coords="507,405,621,435"/>
+<area shape="rect" id="node19" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a71a0dfc038054d917b657b7a0e7f29eb" title="SolverUtils::FEM::Solution\lData::SetFieldBuffer" alt="" coords="476,458,652,505"/>
+<area shape="rect" id="node21" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a4372973e9ebc7c017e9c391e15104d55" title="SolverUtils::FEM::Solution\lData::GetDataIndex" alt="" coords="703,458,879,505"/>
+<area shape="rect" id="node27" href="$namespaceSolverUtils.html#a8a5727f4056aa951041899bcaa014800" title="SolverUtils::GetDataItem\lNames" alt="" coords="480,143,648,190"/>
+<area shape="rect" id="node31" href="$com__c_8h.html#a0c557d350cb4b4b6e05938c9706aead3" title="Get the sizes of an dataitem. " alt="" coords="497,213,631,243"/>
+<area shape="rect" id="node29" href="$com__c_8h.html#ad80020fdf2fa9c67eea7e0db8c6491cc" title="COM_get_dataitems" alt="" coords="720,107,861,136"/>
+<area shape="rect" id="node33" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="736,267,845,296"/>
+<area shape="rect" id="node37" href="$classCOM_1_1COM__base.html#a9e78ff33f6875dec84c8c2bf9bb15b48" title="Information retrieval Get the information about an dataitem. " alt="" coords="715,319,867,366"/>
+<area shape="rect" id="node39" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="768,160,813,189"/>
+<area shape="rect" id="node41" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="769,213,812,243"/>
+<area shape="rect" id="node35" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="929,267,1113,296"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="DataItem::compatible_types" name="DataItem::compatible_types">
+<area shape="rect" id="node3" href="$classPane.html#ae879efeb45997f5005c2927e1a11f95f" title="Inherit an dataitem from another pane onto the current pane: " alt="" coords="201,75,295,104"/>
+<area shape="rect" id="node5" href="$classComponentInterface.html#a6a04e50793be54ea2c1b33b407483fd9" title="Inherit the dataitems of another CI window with a different name. " alt="" coords="345,66,484,113"/>
+<area shape="rect" id="node7" href="$classComponentInterface.html#ab91fff7e2faeafdf2f82bd41854cb8a8" title="Copy an dataitem object onto another. " alt="" coords="543,5,681,51"/>
+<area shape="rect" id="node9" href="$classRocin.html#a79c8ed4bac873c689cb7a2b7bf2123d4" title="Fill the destination (second) dataitem from files using the data corresponding to the source (first) ..." alt="" coords="535,75,689,104"/>
+<area shape="rect" id="node21" href="$classRocout.html#a2e2164d5afda7f151ea67a062d6b1e30" title="Does the actual writing to file. " alt="" coords="533,150,691,197"/>
+<area shape="rect" id="node11" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="777,63,857,92"/>
+<area shape="rect" id="node13" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="944,63,1083,92"/>
+<area shape="rect" id="node15" href="$Rocin_8C.html#a265d4c3356bff967be0965480956fe6b" title="COM_F_FUNC2" alt="" coords="1148,36,1268,65"/>
+<area shape="rect" id="node17" href="$readsdv_8C.html#a64be298d6315aab8ff717f2c8d1b7777" title="read_pane_sp" alt="" coords="1157,89,1259,119"/>
+<area shape="rect" id="node19" href="$readsdv_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1409,89,1460,119"/>
+<area shape="rect" id="node23" href="$classRocout.html#a2d93308090cd3780bbd1f2e4f8dd6e90" title="Write a (possibly aggregate) dataitem to a file. " alt="" coords="739,116,896,145"/>
+<area shape="rect" id="node33" href="$classRocout.html#a822ceb7ba85d5bd64a61bf01671645c0" title="Write a (possibly aggregate) dataitem to a new file. " alt="" coords="744,169,891,199"/>
+<area shape="rect" id="node36" href="$classRocout.html#a9a906712d8b14bf478607d20982b0db6" title="Append a (possibly aggregate) dataitem to a file. " alt="" coords="743,223,892,252"/>
+<area shape="rect" id="node25" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="969,169,1057,199"/>
+<area shape="rect" id="node27" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="1132,169,1284,199"/>
+<area shape="rect" id="node29" href="$Rocout_8C.html#aa61f5dc3c463c5fd8227b81d8ab9012f" title="COM_F_FUNC2" alt="" coords="1375,156,1495,185"/>
+<area shape="rect" id="node31" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="1333,209,1536,239"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Simple_manifold_2::is_real_border_node" name="Simple_manifold_2::is_real_border_node">
+<area shape="rect" id="node3" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="215,5,316,35"/>
+<area shape="rect" id="node5" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="197,59,333,88"/>
+<area shape="rect" id="node9" href="$classSimple__manifold__2.html#a4e4008eee073094b7b70cdf332a59469" title="Is the given node a ghost node? " alt="" coords="196,111,335,158"/>
+<area shape="rect" id="node11" href="$classSimple__manifold__2.html#aa36f82647c39a985eb0c17bf18905312" title="Is the given node a real node? " alt="" coords="196,181,335,227"/>
+<area shape="rect" id="node7" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="385,59,481,88"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DataItem::is_staggered" name="DataItem::is_staggered">
+<area shape="rect" id="node3" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="215,5,417,35"/>
+<area shape="rect" id="node5" href="$classDataItem.html#ace6623b15df92803cbae82fb3feba8f0" title="Obtain the stride of the dataitem in base datatype. " alt="" coords="259,59,373,88"/>
+<area shape="rect" id="node7" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="467,59,573,88"/>
+</map>

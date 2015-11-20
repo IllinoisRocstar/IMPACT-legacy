@@ -1,0 +1,8 @@
+<map id="Pane_connectivity::get_local_boundary_nodes" name="Pane_connectivity::get_local_boundary_nodes">
+<area shape="rect" id="node3" href="$Pane__connectivity_8C.html#a7ef327542dfad5c26e90b0036ad93866" title="convert_nodelist" alt="" coords="260,5,377,35"/>
+<area shape="rect" id="node5" href="$classPane__boundary.html#ac000a4fb3b0c5a6d994aa0d29bd43bb8" title="Determine the border nodes (excluding isolated nodes) " alt="" coords="231,58,407,105"/>
+<area shape="rect" id="node7" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="516,125,559,155"/>
+<area shape="rect" id="node9" href="$classPane__boundary.html#af4801902fdfe6fdc1b6339e5c23ad576" title="Compute the minimum squared edge length of given edges. " alt="" coords="248,178,389,225"/>
+<area shape="rect" id="node12" href="$classFacet__node__enumerator.html#aad3ddcc756eb049d7d8782955a5034cb" title="Facet_node_enumerator\l::size_of_corners" alt="" coords="456,178,619,225"/>
+<area shape="rect" id="node14" href="$Pane__boundary_8C.html#a435ef393d7d5394df67d5da81c108c7d" title="square" alt="" coords="507,248,568,277"/>
+</map>

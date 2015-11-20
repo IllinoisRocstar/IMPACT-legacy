@@ -1,0 +1,28 @@
+<map id="Overlay::convert_nat_coordinates" name="Overlay::convert_nat_coordinates">
+<area shape="rect" id="node3" href="$classRFC__Pane__base.html#a964e2579a22429c9b380fe68350e70fd" title="The id of its base COM::Pane object. " alt="" coords="212,5,369,35"/>
+<area shape="rect" id="node5" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="220,59,361,88"/>
+<area shape="rect" id="node7" href="$classHEdge.html#a066520f9796d5ef75a745c4d3dfc8745" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="244,112,337,141"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__overlay.html#ae4449cd55421672ea62ac045ad5025b1" title="RFC_Pane_overlay::get_lid" alt="" coords="200,165,381,195"/>
+<area shape="rect" id="node13" href="$classRFC__Pane__base.html#aaa324b7eeecfdfea3b5c3deefaaca041" title="RFC_Pane_base::get_lvid" alt="" coords="204,219,377,248"/>
+<area shape="rect" id="node34" href="$classOverlay.html#a4cbf1c777db8262fcf53ca8ac5f61ce9" title="Overlay::get_subnode_id" alt="" coords="208,272,373,301"/>
+<area shape="rect" id="node38" href="$classINode.html#aaf64375c225cf9813294a01267c8cd5a" title="INode::halfedge" alt="" coords="233,325,348,355"/>
+<area shape="rect" id="node42" href="$classINode.html#a27d4cbb7fd2d7c58630307ca82a02f3b" title="INode::nat_coor" alt="" coords="233,379,348,408"/>
+<area shape="rect" id="node44" href="$classHEdge.html#a2fa0ea8f4238cadc5dcd7c73f8b14fbb" title="Get the next halfedge of its owner element. " alt="" coords="239,432,343,461"/>
+<area shape="rect" id="node48" href="$classRFC__Pane__base.html#af470cf39cb340682dbf4760c8f16edbe" title="RFC_Pane_base::normalize\l_nat_coor" alt="" coords="197,485,384,531"/>
+<area shape="rect" id="node50" href="$classHEdge.html#ac0238c146ab6857ee7353a42eaa9aa74" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="236,555,345,584"/>
+<area shape="rect" id="node52" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="241,608,340,637"/>
+<area shape="rect" id="node54" href="$classINode.html#a1c77092ecf43e5518d0549608b51ebeb" title="INode::parent_type" alt="" coords="224,661,357,691"/>
+<area shape="rect" id="node11" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="492,53,561,83"/>
+<area shape="rect" id="node15" href="$classElement__node__enumerator.html#a9b8e3c3cffb3b6b851ff8a289b642756" title="Get the vertex index of an vertex within the element. " alt="" coords="439,106,615,153"/>
+<area shape="rect" id="node27" href="$classElement__node__enumerator.html#a2833009d2a6937ff7c369fc33b554e9f" title="Number of nodes per element. " alt="" coords="439,175,615,222"/>
+<area shape="rect" id="node32" href="$classRFC__Pane__base.html#a0973cd84ebbcc9a74dc04ed0f5c591e2" title="Report whether the two given nodes are coincident. " alt="" coords="432,245,621,275"/>
+<area shape="rect" id="node17" href="$classPane.html#aa0bce3d272a709b1465b195d5048c643" title="Is mesh of the pane structured? " alt="" coords="847,65,980,95"/>
+<area shape="rect" id="node19" href="$classPane.html#a092bf21913c9d3499342f02515b69d4f" title="Get the number of nodes in i&#45;dimension if the mesh is structured. " alt="" coords="687,65,780,95"/>
+<area shape="rect" id="node22" href="$classPane.html#afc00f83e1865d9af47a15f8c5ca33c6e" title="Get the number of nodes in j&#45;dimension if the mesh is structured. " alt="" coords="687,119,780,148"/>
+<area shape="rect" id="node25" href="$classConnectivity.html#a079310c5614c94a63e8cb4c9fa3ff586" title="Get the number of nodes per element of the current connectivity table. " alt="" coords="671,171,796,218"/>
+<area shape="rect" id="node29" href="$classPane.html#a6aec0fd550c2d337ebe6e4aace3382b0" title="Dimension of the pane. " alt="" coords="675,241,792,271"/>
+<area shape="rect" id="node36" href="$classINode.html#aed57be84833feee4f9dd5ed06860c05c" title="INode::id" alt="" coords="489,299,564,328"/>
+<area shape="rect" id="node40" href="$structHost__face.html#a67c4fb93da962d287e6521c930a0619e" title="Host_face::halfedge" alt="" coords="457,352,596,381"/>
+<area shape="rect" id="node46" href="$classHEdge.html#ab459bde00b0954295a3bb65c4e503d5c" title="HEdge::HEdge" alt="" coords="472,432,581,461"/>
+<area shape="rect" id="node56" href="$structHost__face.html#a24a820e3f3356a4315de95fc62301f09" title="Host_face::parent_type" alt="" coords="448,661,605,691"/>
+</map>

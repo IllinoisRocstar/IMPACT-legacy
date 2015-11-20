@@ -1,0 +1,5 @@
+<map id="Semaphore::Post" name="Semaphore::Post">
+<area shape="rect" id="node3" href="$classMutex.html#aa732ae651974555965dcaf9ad9e87882" title="Mutex::Lock" alt="" coords="191,5,284,35"/>
+<area shape="rect" id="node5" href="$classCondition.html#aca8a72edb0816a09645274b0447355e0" title="Condition::Signal" alt="" coords="177,59,297,88"/>
+<area shape="rect" id="node7" href="$classMutex.html#a669f7a1dd7992948b397726e5d187a39" title="Mutex::Unlock" alt="" coords="184,112,291,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MassTransfer::MassTransfer" name="MassTransfer::MassTransfer">
+<area shape="rect" id="node3" href="$classAgent.html#a1fbbda49b0ee1e71814d7a60fcd6ce84" title="Agent::register_use\l_dataitem" alt="" coords="247,5,380,51"/>
+<area shape="rect" id="node5" href="$classAction.html#aeb5f73fd9d89939c1c6b23f5294910a7" title="Action::set_attr" alt="" coords="259,75,368,104"/>
+<area shape="rect" id="node7" href="$classAction.html#a94bd99d7c53b5a9a11cefda09e254376" title="Action::set_io" alt="" coords="263,128,364,157"/>
+</map>

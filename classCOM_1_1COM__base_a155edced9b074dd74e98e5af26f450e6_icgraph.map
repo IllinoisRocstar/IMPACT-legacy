@@ -1,0 +1,51 @@
+<map id="COM::COM_base::delete_window" name="COM::COM_base::delete_window">
+<area shape="rect" id="node3" href="$com__c_8h.html#a1f72857628570f29f8a19c399f2d5b15" title="COM_delete_window" alt="" coords="224,773,371,803"/>
+<area shape="rect" id="node105" href="$com__f_8C.html#a5536d573d6fcbbfcf3e3748c74f4d168" title="COM_F_FUNC2" alt="" coords="237,827,357,856"/>
+<area shape="rect" id="node5" href="$classSolidAgent.html#a0fd6e5283143a0c079db8d4023868c2e" title="SolidAgent::create\l_buffer_all" alt="" coords="476,5,604,51"/>
+<area shape="rect" id="node7" href="$namespaceSolverUtils.html#ada85c9258996a945bcfa817ffb6e6c51" title="SolverUtils::DestroySolver" alt="" coords="452,75,628,104"/>
+<area shape="rect" id="node11" href="$classBurnAgent.html#a06c34ec93f6d2e8b85aaca510676c409" title="BurnAgent::finalize" alt="" coords="475,128,605,157"/>
+<area shape="rect" id="node13" href="$classFluidAgent.html#a9fe10771113cdcb71a06b39f5a9e8c55" title="FluidAgent::finalize" alt="" coords="473,181,607,211"/>
+<area shape="rect" id="node15" href="$classRocblas.html#ae8806bf586c058a002b16aca76e108ab" title="Delete window for Rocblas. " alt="" coords="481,299,599,328"/>
+<area shape="rect" id="node19" href="$blastest_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1049,140,1100,169"/>
+<area shape="rect" id="node29" href="$classSolidAgent.html#a012ed08aa4e2ae89c828e1c8d05e0757" title="SolidAgent::finalize" alt="" coords="473,379,607,408"/>
+<area shape="rect" id="node31" href="$classRocout.html#a952d0bf1f37b189c98bb6a696861f803" title="Finalize the module by deregistering it from Roccom. " alt="" coords="484,432,596,461"/>
+<area shape="rect" id="node35" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="973,471,1176,500"/>
+<area shape="rect" id="node37" href="$classRocin.html#af2d60d1fa05640301d229c5ccceaf38b" title="Finalize the module by deregistering it from Roccom. " alt="" coords="488,536,592,565"/>
+<area shape="rect" id="node41" href="$readsdv_8C.html#a64be298d6315aab8ff717f2c8d1b7777" title="read_pane_sp" alt="" coords="1024,549,1125,579"/>
+<area shape="rect" id="node45" href="$hdf2pltV2_8C.html#a64ce5fde8110a5339c96e4de6f54a865" title="Loads the set of HDF files into a single window. " alt="" coords="497,640,583,669"/>
+<area shape="rect" id="node49" href="$classBurnAgent.html#a799f861cf7920237d8097fc74de69700" title="BurnAgent::init_module" alt="" coords="461,693,619,723"/>
+<area shape="rect" id="node51" href="$classFluidAgent.html#a0c01376de270182df4814452ecff49f2" title="FluidAgent::init_module" alt="" coords="461,747,619,776"/>
+<area shape="rect" id="node53" href="$classSolidAgent.html#a4a86fd68688d68f112fbb017c4d1e282" title="SolidAgent::init_module" alt="" coords="461,800,619,829"/>
+<area shape="rect" id="node55" href="$classRFC__Window__transfer.html#a7c8c8bf039e5e2400abaf4b994543274" title="RFC_Window_transfer\l::init_recv_buffer" alt="" coords="463,853,617,899"/>
+<area shape="rect" id="node60" href="$group__ntc.html#ga6a3ec3c05ce48113f35b47f2d1df076a" title="Dump out the 0&#45; and 1&#45;features in Tecplot format into files &lt;name&gt;f0.plt, &lt;name&gt;f1.plt, respectively. " alt="" coords="464,922,616,969"/>
+<area shape="rect" id="node62" href="$classControl__parameters.html#a2814febbac6474f3a1d6dc19018fa447" title="Control_parameters\l::read" alt="" coords="472,991,608,1038"/>
+<area shape="rect" id="node66" href="$classRocmanControl__parameters.html#ac5ffce4c522085010b6281074e1cc125" title="RocmanControl_parameters\l::read" alt="" coords="448,1061,632,1107"/>
+<area shape="rect" id="node69" href="$autosurfer_8C.html#a61aedb2ed2b960eb62f1ea07936ec18d" title="read_file" alt="" coords="505,1131,575,1160"/>
+<area shape="rect" id="node73" href="$surfdiver_8C.html#ad58f0f080ca9c8df7cb66d839673ad86" title="read_file_rocin" alt="" coords="487,1184,593,1213"/>
+<area shape="rect" id="node78" href="$classRFC__Window__base.html#a42d4637d4957136072cdbf9b7691766f" title="Read in local panes in native binary format or using Rocin. " alt="" coords="440,1237,640,1267"/>
+<area shape="rect" id="node80" href="$classCOM_1_1ParallelTestingObject.html#a7fc53e52c2bcdfbd2c4640e21e95a9d7" title="Test for get and set communicator functions. " alt="" coords="443,1290,637,1337"/>
+<area shape="rect" id="node86" href="$classCOM_1_1ParallelTestingObject.html#a8ab71da9961529ff46eea73fbb6ab517" title="Test for get and set communicator functions. " alt="" coords="419,1359,661,1406"/>
+<area shape="rect" id="node90" href="$ModuleTemplate_2src_2TestModule_8C.html#a45623373e6df8d2c58ed943492587b38" title="TestModule_unload_module" alt="" coords="448,1429,632,1459"/>
+<area shape="rect" id="node92" href="$classRocsurf.html#afcca0956e1bc2e83ed3ac12640eb309b" title="Unloads Rocsurf from Roccom. " alt="" coords="483,1483,597,1512"/>
+<area shape="rect" id="node100" href="$classRocmap.html#a79fdbfbac8aeb90a1924ce41e7824931" title="Unloads Rocmap from Roccom. " alt="" coords="481,1536,599,1565"/>
+<area shape="rect" id="node102" href="$classCOM_1_1TestModule.html#a888ffe5231785313d3f44c505c5d2268" title="Unloads the TestModule. " alt="" coords="451,1589,629,1619"/>
+<area shape="rect" id="node9" href="$namespaceSolverUtils.html#ab41d23a53d2a634a1c6f547b487252be" title="SolverUtils::UnRegisterSolver" alt="" coords="719,61,916,91"/>
+<area shape="rect" id="node17" href="$Rocblas_8C.html#aba600c26dd0c15c85fca30ab1e5e3ed9" title="Simpal_unload_module" alt="" coords="740,165,895,195"/>
+<area shape="rect" id="node21" href="$Rocblas_8C.html#ac4d6f0a1e37967cf6ccb2b437758a21a" title="simpal_unload_module" alt="" coords="740,379,895,408"/>
+<area shape="rect" id="node23" href="$Rocblas_8C.html#aa821690380b742aa40e2ef02a482254c" title="SIMPAL_UNLOAD_MODULE" alt="" coords="719,219,916,248"/>
+<area shape="rect" id="node25" href="$Rocblas_8C.html#ad797b41df848dc3cd40b574de435d173" title="simpal_unload_module_" alt="" coords="737,272,897,301"/>
+<area shape="rect" id="node27" href="$Rocblas_8C.html#a54fa890e7f109cf1a1c5a107f097a563" title="SIMPAL_UNLOAD_MODULE_" alt="" coords="715,325,920,355"/>
+<area shape="rect" id="node33" href="$RFC__Window__base__IO_8C.html#a49f69229543728c213e575bbddad668e" title="Unload the module Rocout from Roccom. " alt="" coords="735,432,900,461"/>
+<area shape="rect" id="node39" href="$readsdv_8C.html#a97834867693794b12e4d32cf0171b62f" title="Unload the module Rocin from Roccom. " alt="" coords="741,536,893,565"/>
+<area shape="rect" id="node43" href="$readsdv_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1224,549,1275,579"/>
+<area shape="rect" id="node47" href="$hdf2pltV2_8C.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Program main. " alt="" coords="792,640,843,669"/>
+<area shape="rect" id="node57" href="$classRFC__Window__transfer.html#aec87cef0eb23358d2a3b4e54299e6bb4" title="Replicate the metadata of a remote pane only the local process. " alt="" coords="740,853,895,899"/>
+<area shape="rect" id="node64" href="$rocstar__driver_8C.html#ad1de69ebc9df30ede377e74fdc577cd4" title="rocstar_driver" alt="" coords="767,1035,868,1064"/>
+<area shape="rect" id="node71" href="$autosurfer_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="792,1131,843,1160"/>
+<area shape="rect" id="node75" href="$surfdiver_8C.html#a750b9ebf4f419ffa894958fb0beebd45" title="read_file" alt="" coords="783,1184,852,1213"/>
+<area shape="rect" id="node82" href="$classCOM_1_1ParallelTestingObject.html#add04c337994958e45dbc07b264b128d5" title="Runs all tests implemented by the COM::ParallelTestingObject. " alt="" coords="725,1359,909,1406"/>
+<area shape="rect" id="node84" href="$classCOM_1_1ParallelTestingObject.html#abedc3b64f59caaa0d5c9ef1236079acb" title="Runs a test specified by name. " alt="" coords="725,1290,909,1337"/>
+<area shape="rect" id="node94" href="$Rocsurf_8C.html#aa46bbfa9e4220a351645fc0eabc89378" title="SurfUtil_unload_module" alt="" coords="737,1429,897,1459"/>
+<area shape="rect" id="node96" href="$Rocsurf_8C.html#a871834afa205c32ac5eee8648d71325b" title="surfutil_unload_module" alt="" coords="740,1483,895,1512"/>
+<area shape="rect" id="node98" href="$Rocsurf_8C.html#af1f8942515708223294e8cab364c8b37" title="SURFUTIL_UNLOAD_MODULE" alt="" coords="711,1536,924,1565"/>
+</map>

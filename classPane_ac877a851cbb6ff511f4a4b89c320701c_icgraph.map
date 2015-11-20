@@ -1,0 +1,5 @@
+<map id="Pane::size_of_ghost_nodes" name="Pane::size_of_ghost_nodes">
+<area shape="rect" id="node3" href="$classPane.html#ab89c7c053d6e59eb9fd3a69bc28623e2" title="Update offsets and sizes of connectivity of an unstructured mesh. " alt="" coords="196,5,372,35"/>
+<area shape="rect" id="node5" href="$classConnectivity.html#a910d89a2872fa9033a9ffaefb3e8bfc8" title="Get the number of ghost nodes of the owner pane. " alt="" coords="221,58,347,105"/>
+<area shape="rect" id="node7" href="$Rocout__cgns_8C.html#a7990143fb4771045077db916f5cc0e4e" title="Write the data for the given dataitem to file. " alt="" coords="223,128,345,157"/>
+</map>

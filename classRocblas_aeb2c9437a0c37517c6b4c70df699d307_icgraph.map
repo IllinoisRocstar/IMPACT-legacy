@@ -1,0 +1,12 @@
+<map id="Rocblas::dot_MPI" name="Rocblas::dot_MPI">
+<area shape="rect" id="node3" href="$classRocblas.html#a8675e4fc90f3652fe90557d81bda5e97" title="Wrapper for dot product. " alt="" coords="203,33,299,63"/>
+<area shape="rect" id="node5" href="$classRocblas.html#a0e325b7a81e569fbf806b1206c68b748" title="Creates window for Rocblas and registers functions. " alt="" coords="369,112,463,141"/>
+<area shape="rect" id="node20" href="$classRocblas.html#ac92dba3ed8f1cc5528747568103935bc" title="Wrapper for 2&#45;norm. " alt="" coords="197,137,304,167"/>
+<area shape="rect" id="node23" href="$classRocblas.html#a6d28ddf7bffcde721fe520aaabb4a870" title="Wrapper for 2&#45;norm with MPI. " alt="" coords="181,191,320,220"/>
+<area shape="rect" id="node7" href="$Rocblas_8C.html#a4174da4e11016426d7a8fcfb2d06a21a" title="Calls Rocblas initialization function. " alt="" coords="535,5,676,35"/>
+<area shape="rect" id="node11" href="$Rocblas_8C.html#a742d8336cb08143ebc760dcee2465b0b" title="simpal_load_module" alt="" coords="536,59,675,88"/>
+<area shape="rect" id="node13" href="$Rocblas_8C.html#a08594ea5f4bea96fc02c6d2a3051378b" title="simpal_load_module_" alt="" coords="532,112,679,141"/>
+<area shape="rect" id="node15" href="$Rocblas_8C.html#af2071bfd2f117c3d3201c7c298cb1936" title="SIMPAL_LOAD_MODULE" alt="" coords="516,165,695,195"/>
+<area shape="rect" id="node17" href="$Rocblas_8C.html#a7762ca27293f49955b01e36d3c7e4e7e" title="SIMPAL_LOAD_MODULE_" alt="" coords="513,219,697,248"/>
+<area shape="rect" id="node9" href="$blastest_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="747,5,797,35"/>
+</map>

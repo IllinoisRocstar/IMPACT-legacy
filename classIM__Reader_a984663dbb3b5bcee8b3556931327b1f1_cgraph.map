@@ -1,0 +1,11 @@
+<map id="IM_Reader::read_pane_mixed" name="IM_Reader::read_pane_mixed">
+<area shape="rect" id="node3" href="$classIM__Reader.html#a32dad2914b7b5d2594b3d39a5991b10f" title="IM_Reader::get_nextline" alt="" coords="412,5,575,35"/>
+<area shape="rect" id="node5" href="$classIM__Reader.html#add3be59e297d394b1b556b63a8ad2950" title="IM_Reader::read_pane\l_coors" alt="" coords="208,111,363,158"/>
+<area shape="rect" id="node20" href="$classIM__Reader.html#a3d8e47f54d78f701e76aee5bae4d9b71" title="IM_Reader::read_pane\l_elems" alt="" coords="208,42,363,89"/>
+<area shape="rect" id="node7" href="$com__c_8h.html#a989b969be3cb07c32a05d4aad3a0f710" title="Allocate space for an dataitem on a specific pane and return the address by setting addr..." alt="" coords="423,59,564,88"/>
+<area shape="rect" id="node9" href="$com__c_09_09_8hpp.html#a000a075fb1782d7eeaae75a7136e6411" title="Set sizes of for a specific dataitem. " alt="" coords="439,112,548,141"/>
+<area shape="rect" id="node18" href="$classIM__Reader.html#ad986593cbfc9eb3ec2d79d0e287c005b" title="IM_Reader::isfinite" alt="" coords="428,165,559,195"/>
+<area shape="rect" id="node11" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="661,85,771,115"/>
+<area shape="rect" id="node15" href="$classCOM_1_1COM__base.html#aee4022985c5a2541202401c029117b2e" title="Set the sizes of an dataitem. " alt="" coords="624,139,808,168"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="857,85,1041,115"/>
+</map>

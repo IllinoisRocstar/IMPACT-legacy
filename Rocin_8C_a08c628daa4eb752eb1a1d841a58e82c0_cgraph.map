@@ -1,0 +1,13 @@
+<map id="broadcast_win_dataitems" name="broadcast_win_dataitems">
+<area shape="rect" id="node3" href="$com__c_8h.html#a44547c3eab1bf444e5f9bb23c13fc123" title="COM_free_buffer" alt="" coords="235,21,357,51"/>
+<area shape="rect" id="node5" href="$com__c_8h.html#a6dd240c15a2b3e85d2d91cbe9eec6611" title="Get the address for an dataitem on a specific pane. " alt="" coords="239,75,353,104"/>
+<area shape="rect" id="node7" href="$com__c_8h.html#a0c557d350cb4b4b6e05938c9706aead3" title="Get the sizes of an dataitem. " alt="" coords="229,128,363,157"/>
+<area shape="rect" id="node19" href="$com__c_8h.html#ad80020fdf2fa9c67eea7e0db8c6491cc" title="COM_get_dataitems" alt="" coords="225,181,367,211"/>
+<area shape="rect" id="node21" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="236,235,356,264"/>
+<area shape="rect" id="node9" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="439,5,548,35"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#a9e78ff33f6875dec84c8c2bf9bb15b48" title="Information retrieval Get the information about an dataitem. " alt="" coords="417,58,569,105"/>
+<area shape="rect" id="node15" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="471,128,516,157"/>
+<area shape="rect" id="node17" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="472,181,515,211"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="620,5,804,35"/>
+<area shape="rect" id="node23" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="452,235,535,264"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SolverUtils::GeoPrim::C3Box::collide" name="SolverUtils::GeoPrim::C3Box::collide">
+<area shape="rect" id="node3" href="$classSolverUtils_1_1GeoPrim_1_1C3Box.html#a17b09100b2e84fc885c4232c7f70a4ca" title="SolverUtils::GeoPrim\l::C3Box::empty" alt="" coords="201,61,345,107"/>
+<area shape="rect" id="node5" href="$classSolverUtils_1_1GeoPrim_1_1C3Point.html#a2d8c467fbe3507aad3076ccb8c20b64d" title="SolverUtils::GeoPrim\l::C3Point::x" alt="" coords="396,5,540,51"/>
+<area shape="rect" id="node7" href="$classSolverUtils_1_1GeoPrim_1_1C3Point.html#aa057b20b859ab27ffa7772fad99bac58" title="SolverUtils::GeoPrim\l::C3Point::y" alt="" coords="396,78,540,125"/>
+<area shape="rect" id="node9" href="$classSolverUtils_1_1GeoPrim_1_1C3Point.html#a143c99125a88807dba3c205ce0788c74" title="SolverUtils::GeoPrim\l::C3Point::z" alt="" coords="396,155,540,202"/>
+</map>

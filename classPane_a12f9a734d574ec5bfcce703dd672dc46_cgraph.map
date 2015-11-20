@@ -1,0 +1,5 @@
+<map id="Pane::Pane" name="Pane::Pane">
+<area shape="rect" id="node3" href="$classDataItem.html#a8c75af27aa0199f827154ee5029da3e1" title="Checks whether the dataitem is associated with the window. " alt="" coords="168,5,325,35"/>
+<area shape="rect" id="node5" href="$classDataItem.html#a42a68b5dcac42dc37d91c549be685d52" title="Obtain a constant pointer to the owner pane of the dataitem. " alt="" coords="191,59,303,88"/>
+<area shape="rect" id="node7" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="145,112,348,141"/>
+</map>

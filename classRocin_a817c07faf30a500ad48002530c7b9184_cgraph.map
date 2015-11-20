@@ -1,0 +1,51 @@
+<map id="Rocin::init" name="Rocin::init">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a8d14cf34eccebd1168103d4624ac2677" title="Registering an dataitem type. " alt="" coords="1047,351,1188,380"/>
+<area shape="rect" id="node13" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="1051,781,1184,811"/>
+<area shape="rect" id="node18" href="$com__c_8h.html#ab41e262f86b991f367a93a005e0694b8" title="COM_set_member_function" alt="" coords="137,1045,321,1075"/>
+<area shape="rect" id="node20" href="$com__c_09_09_8hpp.html#a5e5321de4f0f8940ea99b25b0060afe3" title="COM_set_object" alt="" coords="169,909,289,939"/>
+<area shape="rect" id="node27" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="1036,17,1199,47"/>
+<area shape="rect" id="node32" href="$classHDF4.html#a70b4697594d7b06a25b156e3286f8718" title="Create and start the I/O thread. " alt="" coords="188,1099,271,1128"/>
+<area shape="rect" id="node34" href="$classRocin.html#a79c8ed4bac873c689cb7a2b7bf2123d4" title="Fill the destination (second) dataitem from files using the data corresponding to the source (first) ..." alt="" coords="152,1152,307,1181"/>
+<area shape="rect" id="node53" href="$classRocin.html#ad36f0ab7780acfa2b2aa54907ef9627b" title="Create a single Roccom window by reading in the files specified by the given control file..." alt="" coords="140,729,319,759"/>
+<area shape="rect" id="node70" href="$classRocin.html#acf03f03f4f5120c44178c0494fe93299" title="Create a single Roccom window by reading in a list of files. " alt="" coords="379,527,517,556"/>
+<area shape="rect" id="node72" href="$classRocin.html#af873ef4548be6ffa64ebec35a23a8010" title="Create a series of Roccom windows by reading in a list of files. " alt="" coords="573,493,720,523"/>
+<area shape="rect" id="node106" href="$classRocin.html#aee80f20e824112ff9b2b9c8a13b7ceff" title="Read in parameters from a given file into the given window. " alt="" coords="785,123,964,152"/>
+<area shape="rect" id="node124" href="$classRocin.html#aef4f8893139c558064fbe0dfba2b0715" title="Default constructor. " alt="" coords="180,1205,279,1235"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="1288,411,1397,440"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ae4d775df72eadf0171e9401fafebffc1" title="Creates a new dataitem for a window. " alt="" coords="1264,341,1421,387"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="1481,671,1665,700"/>
+<area shape="rect" id="node11" href="$COM__base_8C.html#afe90d629a5053e5b8e54940849d34862" title="print_type" alt="" coords="1535,349,1612,379"/>
+<area shape="rect" id="node16" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="1264,773,1421,819"/>
+<area shape="rect" id="node23" href="$classCOM_1_1COM__base.html#af18580afc3217635b001174865d5fe40" title="Associates an object with a specific window. " alt="" coords="372,961,524,1007"/>
+<area shape="rect" id="node25" href="$classCOM__Object__derived.html#a36c68534221a004f785bb8871e66b28d" title="COM_Object_derived\l::cast_obj" alt="" coords="573,961,720,1007"/>
+<area shape="rect" id="node30" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="1253,5,1432,51"/>
+<area shape="rect" id="node36" href="$classComponentInterface.html#a6a04e50793be54ea2c1b33b407483fd9" title="Inherit the dataitems of another CI window with a different name. " alt="" coords="379,1177,517,1223"/>
+<area shape="rect" id="node38" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="820,1251,929,1280"/>
+<area shape="rect" id="node40" href="$classPane.html#a9df594af964506d3bb28668ac8e1fcd9" title="Get the ID of the pane. " alt="" coords="612,1132,681,1161"/>
+<area shape="rect" id="node42" href="$classDataItem.html#a4b23c8d271000dda6b3634abe6528d83" title="Inherit from parent. If depth&gt;0, then the procedure is for the subcomponents. " alt="" coords="816,1329,933,1359"/>
+<area shape="rect" id="node44" href="$classPane.html#ae879efeb45997f5005c2927e1a11f95f" title="Inherit an dataitem from another pane onto the current pane: " alt="" coords="600,1289,693,1319"/>
+<area shape="rect" id="node48" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="813,1120,936,1149"/>
+<area shape="rect" id="node51" href="$classDataItem.html#ac5be076b6aa11312e36ae4be607a21f5" title="Obtain a constant pointer to the parent window of the dataitem. " alt="" coords="583,1185,711,1215"/>
+<area shape="rect" id="node55" href="$com__c_09_09_8hpp.html#a6ebf7d3be61b364094596342a1d64827" title="COM_get_default_communicator" alt="" coords="768,859,981,888"/>
+<area shape="rect" id="node60" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="1048,704,1187,733"/>
+<area shape="rect" id="node62" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="427,807,469,836"/>
+<area shape="rect" id="node64" href="$classRocin.html#a4b2df6a6a1aa3c2069f000acdcfc1967" title="Rocin::cyclic_local" alt="" coords="383,580,513,609"/>
+<area shape="rect" id="node66" href="$classRocin.html#a0fbd613a0f486a2ab4184034a6c8ea45" title="Rocin::blockcyclic\l_local" alt="" coords="384,633,512,679"/>
+<area shape="rect" id="node68" href="$classRocin.html#af1bb7ac79cab1ccd5d7fa0032b8eff86" title="Rocin::explicit_local" alt="" coords="379,703,517,732"/>
+<area shape="rect" id="node57" href="$classCOM_1_1COM__base.html#ac8938cf9e232a054d7f93060c185b812" title="Get the default communicator of COM. " alt="" coords="1264,922,1421,969"/>
+<area shape="rect" id="node76" href="$Rocin_8C.html#a5a835ba1a84e5f4229a6d3f1141a78e1" title="Cast glob_error for portability (IBMSP has a different prototype) " alt="" coords="824,387,925,416"/>
+<area shape="rect" id="node78" href="$Rocin_8C.html#a53de10c8bd013ab3efff2bb23fb788dc" title="Error callback for glob. " alt="" coords="836,704,913,733"/>
+<area shape="rect" id="node81" href="$Rocin_8C.html#ab7a7fab44f0d3b76372865fb1442f1b7" title="Extract metadata from the list of files. " alt="" coords="813,440,936,469"/>
+<area shape="rect" id="node83" href="$Rocin_8C.html#adcf9504db90c57c3d46217ab38ceb3e1" title="CWD" alt="" coords="848,493,901,523"/>
+<area shape="rect" id="node86" href="$Rocin_8C.html#a3ea67de6202deaedd67eabe2d2744b40" title="new_dataitems" alt="" coords="820,333,929,363"/>
+<area shape="rect" id="node94" href="$classRocin.html#a8ffe8391555bf3dd62cbd62d651f9199" title="Rocin::register_panes" alt="" coords="800,600,949,629"/>
+<area shape="rect" id="node98" href="$Rocin_8C.html#a47c0cc95b287e4a13de0621aba5472e3" title="load_data_HDF4" alt="" coords="815,280,935,309"/>
+<area shape="rect" id="node101" href="$Rocin_8C.html#a08c628daa4eb752eb1a1d841a58e82c0" title="broadcast_win_dataitems" alt="" coords="789,547,960,576"/>
+<area shape="rect" id="node104" href="$Rocin_8C.html#a64721ab1a1fa246b6d226dcb98fddc28" title="free_blocks" alt="" coords="831,227,919,256"/>
+<area shape="rect" id="node89" href="$com__c_8h.html#a34c7c55b98221dbb95aba53c374cf596" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="1052,297,1183,327"/>
+<area shape="rect" id="node91" href="$com__c_09_09_8hpp.html#a000a075fb1782d7eeaae75a7136e6411" title="Set sizes of for a specific dataitem. " alt="" coords="1063,408,1172,437"/>
+<area shape="rect" id="node108" href="$read__parameter__file_8C.html#ada8bf50cc804cbc69e0b33f498288c76" title="get_parameter_list" alt="" coords="1053,71,1181,100"/>
+<area shape="rect" id="node113" href="$com__c_8h.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="1031,124,1204,153"/>
+<area shape="rect" id="node115" href="$classCOM_1_1COM__base.html#a0152a74ffb3a5828aa8e5dbb2941209e" title="COM::COM_base::get\l_window_object" alt="" coords="1041,177,1193,223"/>
+<area shape="rect" id="node110" href="$read__parameter__file_8C.html#a13ee49cc42ddb10accfb0ca2a351a73d" title="eat_whitespace_until" alt="" coords="1271,75,1415,104"/>
+</map>

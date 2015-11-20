@@ -1,0 +1,6 @@
+<map id="Node::addr" name="Node::addr">
+<area shape="rect" id="node3" href="$classNode.html#a3d5130560b688d86bf8c6c1e8fdee6d0" title="Obtain the dataitem on the parent pane of the node. " alt="" coords="161,5,241,35"/>
+<area shape="rect" id="node5" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="309,31,477,60"/>
+<area shape="rect" id="node7" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="141,109,261,139"/>
+<area shape="rect" id="node9" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="352,109,435,139"/>
+</map>

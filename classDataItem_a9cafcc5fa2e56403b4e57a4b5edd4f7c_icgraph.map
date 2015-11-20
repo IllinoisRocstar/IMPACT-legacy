@@ -1,0 +1,51 @@
+<map id="DataItem::fullname" name="DataItem::fullname">
+<area shape="rect" id="node3" href="$classRocblas.html#a0d1ad039ab3de8bfc87d267a708336a8" title="Wrapper for acos (y=acos(x)). " alt="" coords="484,324,591,353"/>
+<area shape="rect" id="node19" href="$classRocblas.html#ab74a35e74a814ff7152944004f8a1cf0" title="Operation wrapper for addition. " alt="" coords="488,903,587,932"/>
+<area shape="rect" id="node24" href="$classRocblas.html#a71dd7c35f72d237fed87e988ad680610" title="Operation wrapper for z = a * x + y. " alt="" coords="484,377,591,407"/>
+<area shape="rect" id="node27" href="$classRocblas.html#a2294d90628328833a90f826adba3d8e1" title="Performs the operation: z = a*x + y. " alt="" coords="216,168,349,197"/>
+<area shape="rect" id="node29" href="$classRocblas.html#a126b57260e55d844b1b2f8e428578477" title="Performs the operation: z = x op y. " alt="" coords="232,221,333,251"/>
+<area shape="rect" id="node31" href="$classRocblas.html#a3557b2ba07d978348c7a8b7e86ec9b79" title="Performs the operation: z = &lt;x, y&gt; " alt="" coords="221,275,344,304"/>
+<area shape="rect" id="node33" href="$classRocblas.html#a436204ce6e5fcd50b193210ed7fe9d06" title="Wrapper for copy. " alt="" coords="484,431,591,460"/>
+<area shape="rect" id="node36" href="$classDataItem.html#a4c31531ede36ba9a4c3f1aed7335f83b" title="Inherit an dataitem from another. " alt="" coords="213,379,352,408"/>
+<area shape="rect" id="node38" href="$classRocblas.html#a5cc3520d545ecf0d8f7ad25809401328" title="Operation wrapper for division. " alt="" coords="236,13,329,43"/>
+<area shape="rect" id="node47" href="$classRocblas.html#aeb2c9437a0c37517c6b4c70df699d307" title="Wrapper for dot product. " alt="" coords="220,693,345,723"/>
+<area shape="rect" id="node59" href="$classRocblas.html#ad1934a397629b99f2d2e7cda5b2493ac" title="Performs the operation opp(x, y) " alt="" coords="221,533,344,563"/>
+<area shape="rect" id="node61" href="$classPane.html#ae879efeb45997f5005c2927e1a11f95f" title="Inherit an dataitem from another pane onto the current pane: " alt="" coords="236,1068,329,1097"/>
+<area shape="rect" id="node79" href="$classPane.html#a765aecb9167da396507f79a3b3d5c392" title="Finalize the initialization of a pane. " alt="" coords="227,640,339,669"/>
+<area shape="rect" id="node81" href="$classRocblas.html#a51ebc43a699c2e97dabc6b7ff438a78b" title="Operation wrapper for limit1. " alt="" coords="483,745,592,775"/>
+<area shape="rect" id="node84" href="$classRocblas.html#a9babe9a392c0bd30fe5aaedee9eefc68" title="Operation wrapper for multiplication. " alt="" coords="488,799,587,828"/>
+<area shape="rect" id="node88" href="$classRocblas.html#a96d91d84551f9416d0fe8b8e7a496e89" title="Wrapper for neg (y=&#45;x). " alt="" coords="488,160,587,189"/>
+<area shape="rect" id="node91" href="$classRocblas.html#a17eba532cb086a5532c41003e588762b" title="Generate a random number between 0 and $a$ for each entry in z. " alt="" coords="487,259,588,288"/>
+<area shape="rect" id="node94" href="$classRocblas.html#ab5497cc4c7ceb5fdcb8eef6834ae72ed" title="Rocblas::reduce_MPI" alt="" coords="209,901,356,931"/>
+<area shape="rect" id="node96" href="$classRocblas.html#a4b197c93ad023d6c93a66c8d0f230dc1" title="Rocblas::reduce_scalar_MPI" alt="" coords="188,955,377,984"/>
+<area shape="rect" id="node98" href="$classPane.html#aaf93a477a77bee5dffd3325d622aeb7e" title="Pane::reinit_dataitem" alt="" coords="211,1168,355,1197"/>
+<area shape="rect" id="node106" href="$classRocblas.html#a3bbd5f21f85647e984b4f41b61c437ac" title="Wrapper for sqrt (y=sqrt(x)). " alt="" coords="233,848,332,877"/>
+<area shape="rect" id="node114" href="$classRocblas.html#aa3cc89b5540f50bc4bae8b8e4e954d12" title="Operation wrapper for subtraction. " alt="" coords="233,587,332,616"/>
+<area shape="rect" id="node5" href="$classRocblas.html#a0e325b7a81e569fbf806b1206c68b748" title="Creates window for Rocblas and registers functions. " alt="" coords="729,535,823,564"/>
+<area shape="rect" id="node7" href="$Rocblas_8C.html#a4174da4e11016426d7a8fcfb2d06a21a" title="Calls Rocblas initialization function. " alt="" coords="927,641,1068,671"/>
+<area shape="rect" id="node11" href="$Rocblas_8C.html#a742d8336cb08143ebc760dcee2465b0b" title="simpal_load_module" alt="" coords="928,428,1067,457"/>
+<area shape="rect" id="node13" href="$Rocblas_8C.html#a08594ea5f4bea96fc02c6d2a3051378b" title="simpal_load_module_" alt="" coords="924,481,1071,511"/>
+<area shape="rect" id="node15" href="$Rocblas_8C.html#af2071bfd2f117c3d3201c7c298cb1936" title="SIMPAL_LOAD_MODULE" alt="" coords="908,535,1087,564"/>
+<area shape="rect" id="node17" href="$Rocblas_8C.html#a7762ca27293f49955b01e36d3c7e4e7e" title="SIMPAL_LOAD_MODULE_" alt="" coords="905,588,1089,617"/>
+<area shape="rect" id="node9" href="$blastest_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1139,641,1189,671"/>
+<area shape="rect" id="node21" href="$classWindow__manifold__2.html#aad29e9f557854ef4546bb8614205abda" title="Perturb the given mesh along its normal direction by length equal to a random number between &#45;range a..." alt="" coords="703,881,849,927"/>
+<area shape="rect" id="node40" href="$classWindow__manifold__2.html#ae05664428109c4f77419326f09d41335" title="Window_manifold_2::\lcompute_mcn" alt="" coords="464,5,611,51"/>
+<area shape="rect" id="node42" href="$classRocsurf.html#ad080be024939ffb1aa52f944ba6f3af0" title="Computes nodal or elemental normals of a given window. " alt="" coords="697,13,855,43"/>
+<area shape="rect" id="node44" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="948,13,1047,43"/>
+<area shape="rect" id="node49" href="$classRocblas.html#a8675e4fc90f3652fe90557d81bda5e97" title="Wrapper for dot product. " alt="" coords="489,692,585,721"/>
+<area shape="rect" id="node52" href="$classRocblas.html#ac92dba3ed8f1cc5528747568103935bc" title="Wrapper for 2&#45;norm. " alt="" coords="484,535,591,564"/>
+<area shape="rect" id="node55" href="$classRocblas.html#a6d28ddf7bffcde721fe520aaabb4a870" title="Wrapper for 2&#45;norm with MPI. " alt="" coords="468,588,607,617"/>
+<area shape="rect" id="node63" href="$classComponentInterface.html#a6a04e50793be54ea2c1b33b407483fd9" title="Inherit the dataitems of another CI window with a different name. " alt="" coords="468,1063,607,1110"/>
+<area shape="rect" id="node65" href="$classComponentInterface.html#ab91fff7e2faeafdf2f82bd41854cb8a8" title="Copy an dataitem object onto another. " alt="" coords="707,1019,845,1066"/>
+<area shape="rect" id="node67" href="$classRocin.html#a79c8ed4bac873c689cb7a2b7bf2123d4" title="Fill the destination (second) dataitem from files using the data corresponding to the source (first) ..." alt="" coords="699,1089,853,1119"/>
+<area shape="rect" id="node71" href="$classRocout.html#a2e2164d5afda7f151ea67a062d6b1e30" title="Does the actual writing to file. " alt="" coords="697,1142,855,1189"/>
+<area shape="rect" id="node69" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="957,1067,1037,1096"/>
+<area shape="rect" id="node73" href="$classRocout.html#a2d93308090cd3780bbd1f2e4f8dd6e90" title="Write a (possibly aggregate) dataitem to a file. " alt="" coords="919,1120,1076,1149"/>
+<area shape="rect" id="node75" href="$classRocout.html#a822ceb7ba85d5bd64a61bf01671645c0" title="Write a (possibly aggregate) dataitem to a new file. " alt="" coords="924,1173,1071,1203"/>
+<area shape="rect" id="node77" href="$classRocout.html#a9a906712d8b14bf478607d20982b0db6" title="Append a (possibly aggregate) dataitem to a file. " alt="" coords="923,1227,1072,1256"/>
+<area shape="rect" id="node100" href="$classComponentInterface.html#ab71f29b6c8b6bbf8e723f19ee345d6dd" title="Implementation for setting (op==OP_SET or OP_SET_CONST), allocating (op==OP_ALLOC), resizing (op==OP_RESIZE) and deallocating (op==OP_DEALLOC) an array for a specific dataitem. " alt="" coords="468,1211,607,1258"/>
+<area shape="rect" id="node102" href="$classComponentInterface.html#abbbf0b173e6ba7e0745a7e1c4d4249df" title="ComponentInterface\l::dealloc_array" alt="" coords="707,1281,845,1327"/>
+<area shape="rect" id="node104" href="$classComponentInterface.html#a5cfd395d4e70e630dce44ffc095070df" title="ComponentInterface\l::resize_array" alt="" coords="707,1211,845,1258"/>
+<area shape="rect" id="node108" href="$classWindow__manifold__2.html#a6baebde0b11b6c524da190b5cf673010" title="Obtain shortest edge length of incident edges of each nodes. " alt="" coords="428,955,647,1002"/>
+<area shape="rect" id="node110" href="$classWindow__manifold__2.html#a5fb686b1cbe5940cbaa4a68b4e40c458" title="Obtain shortest edge length of incident edges of each node or element. " alt="" coords="703,950,849,997"/>
+</map>

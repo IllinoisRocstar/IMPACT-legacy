@@ -1,0 +1,8 @@
+<map id="TestModule_load_module" name="TestModule_load_module">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="239,48,372,77"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="224,101,387,131"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="469,75,579,104"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="445,5,603,51"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="663,75,847,104"/>
+<area shape="rect" id="node14" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="435,127,613,174"/>
+</map>

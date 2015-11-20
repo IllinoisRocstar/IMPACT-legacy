@@ -1,0 +1,5 @@
+<map id="Pane_communicator::reduce_maxabs_on_shared_nodes" name="Pane_communicator::reduce_maxabs_on_shared_nodes">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="277,5,397,35"/>
+<area shape="rect" id="node7" href="$Pane__communicator_8C.html#abf60b30d9ade9ec22c678364cd102669" title="reduce_maxabs" alt="" coords="280,59,395,88"/>
+<area shape="rect" id="node5" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="445,5,528,35"/>
+</map>

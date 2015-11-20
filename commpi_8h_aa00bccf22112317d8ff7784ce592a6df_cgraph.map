@@ -1,0 +1,6 @@
+<map id="COMMPI_Isend" name="COMMPI_Isend">
+<area shape="rect" id="node3" href="$commpi_8C.html#aec45fe584c7f0bc5e1f583e2f5945648" title="COM_send" alt="" coords="204,5,292,35"/>
+<area shape="rect" id="node7" href="$commpi_8h.html#a8a8389bc67ae874f8ec20c56f758c8bf" title="COMMPI_Comm_rank" alt="" coords="171,59,325,88"/>
+<area shape="rect" id="node9" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="179,112,317,141"/>
+<area shape="rect" id="node5" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="373,5,456,35"/>
+</map>

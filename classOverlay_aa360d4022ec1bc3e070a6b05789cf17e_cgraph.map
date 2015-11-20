@@ -1,0 +1,41 @@
+<map id="Overlay::insert_edge_into_queue" name="Overlay::insert_edge_into_queue">
+<area shape="rect" id="node3" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="223,180,364,209"/>
+<area shape="rect" id="node5" href="$classINode.html#aaf64375c225cf9813294a01267c8cd5a" title="INode::halfedge" alt="" coords="236,233,351,262"/>
+<area shape="rect" id="node9" href="$classHEdge.html#aa0830bfa26fb41e2815ee3b874180962" title="HEdge::is_border_g" alt="" coords="225,286,361,316"/>
+<area shape="rect" id="node11" href="$classHDS__accessor.html#ace828f7f07fe0b2dfd0a2d4b56f2ea1d" title="HDS_accessor::is_feature_0" alt="" coords="199,340,388,369"/>
+<area shape="rect" id="node64" href="$classHDS__accessor.html#a3e24744c5181ef204241f6698153a631" title="HDS_accessor::is_feature_1" alt="" coords="199,462,388,492"/>
+<area shape="rect" id="node74" href="$classHDS__accessor.html#a81942648cd4444012c103345be4cb528" title="HDS_accessor::is_on\l_feature" alt="" coords="219,392,368,439"/>
+<area shape="rect" id="node78" href="$classHDS__accessor.html#acb7f959b5cbc2e60f255ce413c7a5919" title="HDS_accessor::mark" alt="" coords="220,516,367,545"/>
+<area shape="rect" id="node84" href="$classHDS__accessor.html#acedd9fe17ebf5a5ae17c8a4e1fddfc27" title="HDS_accessor::marked" alt="" coords="212,569,375,598"/>
+<area shape="rect" id="node90" href="$classHEdge.html#ac4e3a22186171112305d6c58d00ec48b" title="HEdge::opposite_g" alt="" coords="227,622,360,652"/>
+<area shape="rect" id="node96" href="$classHEdge.html#ac0238c146ab6857ee7353a42eaa9aa74" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="239,676,348,705"/>
+<area shape="rect" id="node98" href="$classINode.html#a1c77092ecf43e5518d0549608b51ebeb" title="INode::parent_type" alt="" coords="227,733,360,762"/>
+<area shape="rect" id="node7" href="$structHost__face.html#a67c4fb93da962d287e6521c930a0619e" title="Host_face::halfedge" alt="" coords="461,233,600,262"/>
+<area shape="rect" id="node13" href="$classNode.html#adf0107b33f6fb7f02a8809905c0cc09d" title="Get the primary copy of the node. " alt="" coords="467,336,595,365"/>
+<area shape="rect" id="node60" href="$classNode.html#a6c04266bc4154e990bf5f485aef1d972" title="Obtain the owner Pane_manifold_2 of the node. " alt="" coords="487,389,575,418"/>
+<area shape="rect" id="node15" href="$classPane__manifold__2.html#a1f893a483b186536a0fc49227d4a67c1" title="Obtains a Node object corresponding to the primary copy of the given node. " alt="" coords="683,323,829,370"/>
+<area shape="rect" id="node17" href="$classPane__manifold__2.html#a0863d901ee1f77bb6a8f3da4cc56290a" title="Obtain the border node index (equal to ID of incident border edge). " alt="" coords="889,323,1036,370"/>
+<area shape="rect" id="node19" href="$classSimple__manifold__2.html#a665f845af0f5fe87e8102d711e16846b" title="Get the ID of an incident real edge within the pane of a given node. " alt="" coords="1085,323,1240,370"/>
+<area shape="rect" id="node23" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="1509,564,1645,593"/>
+<area shape="rect" id="node27" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="1696,272,1797,301"/>
+<area shape="rect" id="node21" href="$classSimple__manifold__2.html#aa36f82647c39a985eb0c17bf18905312" title="Is the given node a real node? " alt="" coords="1304,358,1443,404"/>
+<area shape="rect" id="node29" href="$classSimple__manifold__2.html#a87f547233b2a97b9d3289655a5f7c1ef" title="Get the opposite edge of a border edge for the ghost pane. " alt="" coords="1288,428,1459,492"/>
+<area shape="rect" id="node39" href="$classSimple__manifold__2.html#aa92fe92122f9ca1f08f20d2239a989b0" title="Get the opposite edge of an interior edge of the ghost part. " alt="" coords="1288,201,1459,265"/>
+<area shape="rect" id="node46" href="$classSimple__manifold__2.html#a03cc144ae629d353ded148f5dde2e330" title="Simple_manifold_2::\lget_next_ghost_edge\l_interior" alt="" coords="1300,113,1447,177"/>
+<area shape="rect" id="node52" href="$classSimple__manifold__2.html#a366fc28946bdaacef84f47e8f30f3ce6" title="Determine whether a given edge is a border edge of real part of the pane (either on physical border o..." alt="" coords="1304,515,1443,562"/>
+<area shape="rect" id="node56" href="$classSimple__manifold__2.html#a6bfa6e48aeb63f51b773946e174fec5b" title="Get the ID of the origin of a given edge. " alt="" coords="1304,288,1443,335"/>
+<area shape="rect" id="node25" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="1699,332,1795,361"/>
+<area shape="rect" id="node33" href="$classSimple__manifold__2.html#aea2c9e848508bbb89a130de20d360014" title="Is the element incident on the give edge a real element? " alt="" coords="1508,443,1647,490"/>
+<area shape="rect" id="node35" href="$classSimple__manifold__2.html#ad0308ff63a62c37f101527c4acbc4f30" title="Get an index for internal edges. " alt="" coords="1508,323,1647,370"/>
+<area shape="rect" id="node42" href="$classSimple__manifold__2.html#a66a3b37ab9a9feaedf64d5c27469c660" title="Is the element incident on the give edge a ghost element? " alt="" coords="1508,203,1647,250"/>
+<area shape="rect" id="node62" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="672,393,840,422"/>
+<area shape="rect" id="node66" href="$classRFC__Pane__overlay.html#ad8db42d8c66d936dbd38c8b09272ee55" title="RFC_Pane_overlay::is\l_feature_1" alt="" coords="453,442,608,488"/>
+<area shape="rect" id="node72" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="481,565,580,594"/>
+<area shape="rect" id="node68" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="675,503,837,550"/>
+<area shape="rect" id="node70" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="928,512,997,541"/>
+<area shape="rect" id="node80" href="$classRFC__Pane__overlay.html#a814d8df08eba85b58c226d1c1ece84df" title="RFC_Pane_overlay::mark" alt="" coords="444,512,617,541"/>
+<area shape="rect" id="node86" href="$classRFC__Pane__overlay.html#aaf71263f16d56c5502683de96fe6f516" title="RFC_Pane_overlay::marked" alt="" coords="437,618,624,648"/>
+<area shape="rect" id="node92" href="$classRFC__Pane__overlay.html#a44ba6aedde0749d2160e8dfa8dc17268" title="Obtain the opposite edge in a given access mode. " alt="" coords="449,671,612,718"/>
+<area shape="rect" id="node94" href="$classRFC__Pane__overlay.html#a9b9d9ab4f08bf73e5507581e4c5b9a66" title="RFC_Pane_overlay::get\l_counterpart" alt="" coords="675,671,837,718"/>
+<area shape="rect" id="node100" href="$structHost__face.html#a24a820e3f3356a4315de95fc62301f09" title="Host_face::parent_type" alt="" coords="452,741,609,770"/>
+</map>

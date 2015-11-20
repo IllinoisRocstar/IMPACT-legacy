@@ -1,0 +1,9 @@
+<map id="COM_F_FUNC2" name="COM_F_FUNC2">
+<area shape="rect" id="node3" href="$com__f_8C.html#af748519b6388fb3c50213ba79d090875" title="COM_F_FUNC2" alt="" coords="192,5,312,35"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="197,59,307,88"/>
+<area shape="rect" id="node9" href="$utilities_8f90.html#ae042a2ee599945f650d9f598bf65da47" title="com_getptr_int1d" alt="" coords="191,112,313,141"/>
+<area shape="rect" id="node13" href="$utilities_8f90.html#a962767bc64534b36fadd3e2cf05f9087" title="com_mapptr_int1d" alt="" coords="188,165,316,195"/>
+<area shape="rect" id="node16" href="$classCOM_1_1COM__base.html#a250dd8490749b0aab0170ca889977cfb" title="COM::COM_base::free\l_buffer" alt="" coords="173,218,331,265"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="380,59,564,88"/>
+<area shape="rect" id="node11" href="$classSolverUtils_1_1GeoPrim_1_1CPoint.html#ab34f4eb1a68ad1596bcd94cc746be455" title="SolverUtils::GeoPrim\l::CPoint::x" alt="" coords="400,134,544,181"/>
+</map>

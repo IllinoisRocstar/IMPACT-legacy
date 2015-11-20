@@ -1,0 +1,7 @@
+<map id="Rocout::write_rocin_control_file" name="Rocout::write_rocin_control_file">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a6ebf7d3be61b364094596342a1d64827" title="COM_get_default_communicator" alt="" coords="189,13,403,43"/>
+<area shape="rect" id="node9" href="$com__c_8h.html#ad744816e73fae2aec731bcbe41b52a16" title="COM_get_panes" alt="" coords="236,67,356,96"/>
+<area shape="rect" id="node11" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="227,120,365,149"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ac8938cf9e232a054d7f93060c185b812" title="Get the default communicator of COM. " alt="" coords="451,5,608,51"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="657,13,841,43"/>
+</map>

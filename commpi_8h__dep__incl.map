@@ -1,0 +1,51 @@
+<map id="commpi.h" name="commpi.h">
+<area shape="rect" id="node3" href="$com__c_8h.html" title="This file contains the C wrapper for COM_base. " alt="" coords="1460,83,1532,112"/>
+<area shape="rect" id="node7" href="$Agent_8h.html" title="Agent.h" alt="" coords="1005,237,1072,267"/>
+<area shape="rect" id="node11" href="$rocman_8h.html" title="rocman.h" alt="" coords="840,392,915,421"/>
+<area shape="rect" id="node80" href="$Rocface_8h.html" title="Rocface.h" alt="" coords="1224,237,1307,267"/>
+<area shape="rect" id="node82" href="$ex3_8C.html" title="ex3.C" alt="" coords="1533,237,1589,267"/>
+<area shape="rect" id="node84" href="$ex4_8C.html" title="ex4.C" alt="" coords="1613,237,1669,267"/>
+<area shape="rect" id="node86" href="$ex5_8C.html" title="ex5.C" alt="" coords="1693,237,1749,267"/>
+<area shape="rect" id="node88" href="$plot3d_8C.html" title="plot3d.C" alt="" coords="1773,237,1843,267"/>
+<area shape="rect" id="node92" href="$Function_8hpp.html" title="Contains the prototypes and implementation for the Funcion object. " alt="" coords="1891,83,1987,112"/>
+<area shape="rect" id="node96" href="$Pane__communicator_8h.html" title="Handles communication of shared nodes, ghost nodes or ghost cells across panes. " alt="" coords="1769,315,1921,344"/>
+<area shape="rect" id="node106" href="$RFC__Window__overlay_8h.html" title="RFC_Window_overlay.h" alt="" coords="1715,469,1877,499"/>
+<area shape="rect" id="node108" href="$RFC__Window__transfer_8h.html" title="RFC_Window_transfer.h" alt="" coords="2467,469,2632,499"/>
+<area shape="rect" id="node112" href="$Pane__connectivity_8h.html" title="Utility for constructing pane connectivities in parallel. " alt="" coords="2011,315,2149,344"/>
+<area shape="rect" id="node128" href="$DataItem_8C.html" title="Contains the implementation of the DataItem object. " alt="" coords="2061,237,2152,267"/>
+<area shape="rect" id="node130" href="$COM__base_8C.html" title="Contains the base implementation of the COM. " alt="" coords="2283,83,2384,112"/>
+<area shape="rect" id="node132" href="$commpi_8C.html" title="Contains a dummy implementation of MPI subroutines for one thread. " alt="" coords="2408,83,2491,112"/>
+<area shape="rect" id="node137" href="$Sync_8C.html" title="Sync.C" alt="" coords="2515,83,2581,112"/>
+<area shape="rect" id="node144" href="$rfc__assertions_8C.html" title="rfc_assertions.C" alt="" coords="2605,83,2723,112"/>
+<area shape="rect" id="node5" href="$com_8h.html" title="This file contains the prototypes for COM API. " alt="" coords="1467,160,1525,189"/>
+<area shape="rect" id="node90" href="$com__c_8C.html" title="This file contains the wrapper routines for the C binding of the COM implementation. " alt="" coords="1368,160,1443,189"/>
+<area shape="rect" id="node37" href="$Action_8C.html" title="Action.C" alt="" coords="1571,469,1643,499"/>
+<area shape="rect" id="node49" href="$Scheduler_8C.html" title="Scheduler.C" alt="" coords="1453,469,1547,499"/>
+<area shape="rect" id="node76" href="$Pane__communicator_8C.html" title="Handles communication of shared nodes across panes. " alt="" coords="1432,392,1587,421"/>
+<area shape="rect" id="node78" href="$Rocmap_8C.html" title="Rocmap.C" alt="" coords="1611,392,1696,421"/>
+<area shape="rect" id="node9" href="$Coupling_8h.html" title="Coupling.h" alt="" coords="965,315,1048,344"/>
+<area shape="rect" id="node21" href="$Agent_8C.html" title="Agent.C" alt="" coords="5,547,75,576"/>
+<area shape="rect" id="node55" href="$BurnAgent_8h.html" title="BurnAgent.h" alt="" coords="1067,469,1160,499"/>
+<area shape="rect" id="node61" href="$FluidAgent_8h.html" title="FluidAgent.h" alt="" coords="1235,469,1328,499"/>
+<area shape="rect" id="node67" href="$SolidAgent_8h.html" title="SolidAgent.h" alt="" coords="231,392,327,421"/>
+<area shape="rect" id="node13" href="$basic__actions_8h.html" title="basic_actions.h" alt="" coords="821,469,933,499"/>
+<area shape="rect" id="node15" href="$builtin__couplings_8C.html" title="builtin_couplings.C" alt="" coords="448,547,579,576"/>
+<area shape="rect" id="node17" href="$derived__couplings_8C.html" title="derived_couplings.C" alt="" coords="808,547,947,576"/>
+<area shape="rect" id="node19" href="$Interpolate_8h.html" title="Interpolate.h" alt="" coords="232,469,325,499"/>
+<area shape="rect" id="node24" href="$BurnAgent_8C.html" title="BurnAgent.C" alt="" coords="231,547,327,576"/>
+<area shape="rect" id="node27" href="$FluidAgent_8C.html" title="FluidAgent.C" alt="" coords="1232,547,1331,576"/>
+<area shape="rect" id="node29" href="$Interpolate_8C.html" title="Interpolate.C" alt="" coords="1088,547,1184,576"/>
+<area shape="rect" id="node31" href="$SolidAgent_8C.html" title="SolidAgent.C" alt="" coords="99,547,197,576"/>
+<area shape="rect" id="node33" href="$transfer__actions_8h.html" title="transfer_actions.h" alt="" coords="451,469,576,499"/>
+<area shape="rect" id="node42" href="$Coupling_8C.html" title="Coupling.C" alt="" coords="957,469,1043,499"/>
+<area shape="rect" id="node47" href="$rocstar__driver_8C.html" title="rocstar_driver.C" alt="" coords="600,469,715,499"/>
+<area shape="rect" id="node52" href="$test_8C.html" title="test.C" alt="" coords="739,469,797,499"/>
+<area shape="rect" id="node94" href="$com__devel_8hpp.html" title="com_devel.hpp" alt="" coords="1917,237,2027,267"/>
+<area shape="rect" id="node125" href="$ComponentInterface_8hpp.html" title="Contains the prototypes for the ComponentInterface object. " alt="" coords="1941,160,2107,189"/>
+<area shape="rect" id="node104" href="$RFC__Window__base_8h.html" title="RFC_Window_base.h" alt="" coords="1771,392,1920,421"/>
+<area shape="rect" id="node99" href="$Pane__ghost__connectivity_8C.html" title="Pane_ghost_connectivity.C" alt="" coords="2261,469,2443,499"/>
+<area shape="rect" id="node102" href="$Manifold__2_8C.html" title="Manifold_2.C" alt="" coords="1944,392,2043,421"/>
+<area shape="rect" id="node110" href="$RFC__Window__base_8C.html" title="RFC_Window_base.C" alt="" coords="1952,469,2104,499"/>
+<area shape="rect" id="node114" href="$Pane__ghost__connectivity_8h.html" title="Utility for constructing pane ghost connecvtivities in parallel. " alt="" coords="2283,392,2461,421"/>
+<area shape="rect" id="node118" href="$Pane__connectivity_8C.html" title="Pane_connectivity.C" alt="" coords="2117,392,2259,421"/>
+</map>

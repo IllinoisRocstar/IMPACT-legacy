@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node3" href="$namespaceCOM.html#a071a4ed0afce0146c60c14de880f8c0e" title="Drives the COM::TestObject for the COM tests. " alt="" coords="105,580,191,609"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#ab1d1395d3d329bd968a9e806ea1605f1" title="COM_initialized" alt="" coords="280,807,395,836"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#ac0f80d6e63759a2afe40ed883cea3d5e" title="COM_init" alt="" coords="299,275,376,304"/>
+<area shape="rect" id="node17" href="$classCOM_1_1TestComLine.html#ae98baa931d93c3aecea0db2d3de59203" title="COM::TestComLine::Initialize" alt="" coords="240,549,435,579"/>
+<area shape="rect" id="node19" href="$classCOM_1_1TestingObject.html#a102d13152c0a803003158db518f90dde" title="Runs a test specified by name. " alt="" coords="267,447,408,494"/>
+<area shape="rect" id="node93" href="$classCOM_1_1TestingObject.html#adc0220ab9f8f32b94ec41af81b8e1b57" title="Runs all tests implemented by the COM::TestingObject. " alt="" coords="267,602,408,649"/>
+<area shape="rect" id="node127" href="$com__c_09_09_8hpp.html#a47ed797bddcdd0aabcd9f8e47f326744" title="COM_finalize" alt="" coords="287,1129,388,1159"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a07d775bafee93322aa71b117fb776921" title="Checks whether COM has been initialized. " alt="" coords="1213,1133,1403,1163"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="1452,1055,1636,1084"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#a1d2b2dabf7654280cbba19673d22230e" title="COM::COM_base::init" alt="" coords="508,155,660,184"/>
+<area shape="rect" id="node15" href="$com__exception_8C.html#a968f8230d3a737acba9bc9b878b0f57d" title="Print the stack backtrace. " alt="" coords="764,155,903,184"/>
+<area shape="rect" id="node21" href="$classCOM_1_1TestingObject.html#afcaa8cb4c18f7e73b70c1d5ee7668244" title="Sets up the data fixtures for the tests. " alt="" coords="513,378,655,425"/>
+<area shape="rect" id="node23" href="$classCOM_1_1TestingObject.html#abb2cef5118ea30e67aaf03ecd1db8ef9" title="Module management tests. " alt="" coords="743,278,924,325"/>
+<area shape="rect" id="node36" href="$classCOM_1_1TestingObject.html#a88f4ef8961ffea25ddc88a07c6d7d06c" title="Test for Module function registration and access. " alt="" coords="740,347,927,394"/>
+<area shape="rect" id="node41" href="$classCOM_1_1TestingObject.html#a9bef407c06e77e108dc3e96af3680bff" title="Test for COM_get_modules. " alt="" coords="513,447,655,494"/>
+<area shape="rect" id="node43" href="$classCOM_1_1TestingObject.html#a48d2fdca4b3275849c92e94b305bc8b9" title="COM::TestingObject\l::Test__LoadUnloadMemTest" alt="" coords="487,207,681,254"/>
+<area shape="rect" id="node45" href="$classCOM_1_1TestingObject.html#a358a9ca0a519dab9cb451fd0fbd72dc4" title="COM::TestingObject\l::Test__LinearDataTransfer" alt="" coords="493,687,675,734"/>
+<area shape="rect" id="node80" href="$classCOM_1_1TestingObject.html#a48999c6e51334b89e895938db709c1ed" title="COM::TestingObject\l::Test__QuadraticDataTransfer" alt="" coords="483,757,685,803"/>
+<area shape="rect" id="node91" href="$classCOM_1_1TestingObject.html#a3e49d863102f8cc2bc8fd0b83e067904" title="Tears down the testing fixtures if needed. " alt="" coords="513,517,655,563"/>
+<area shape="rect" id="node25" href="$com__c_8h.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="987,352,1160,381"/>
+<area shape="rect" id="node27" href="$com__c_8h.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="985,405,1161,435"/>
+<area shape="rect" id="node29" href="$com__c_09_09_8hpp.html#acea2331d2de82625c440f35ff027ed05" title="COM_call_function" alt="" coords="1007,572,1140,601"/>
+<area shape="rect" id="node31" href="$classCOM_1_1COM__base.html#a1aaff6e38ab1626c2da02bf332edc88d" title="Invoke a function with given arguments. " alt="" coords="1231,563,1385,610"/>
+<area shape="rect" id="node33" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="1253,975,1363,1004"/>
+<area shape="rect" id="node47" href="$classCOM_1_1TransferSolver.html#ab40764e5c243885fdd18f5c18edd7ec4" title="COM::TransferSolver\l::Setup" alt="" coords="760,209,907,255"/>
+<area shape="rect" id="node59" href="$classSolverUtils_1_1TransferObject.html#a00e9d30ddccacb07650a5b8e42f9a737" title="SolverUtils::TransferObject\l::Overlay" alt="" coords="744,555,923,602"/>
+<area shape="rect" id="node64" href="$com__c_8h.html#a6dd240c15a2b3e85d2d91cbe9eec6611" title="Get the address for an dataitem on a specific pane. " alt="" coords="1016,815,1131,844"/>
+<area shape="rect" id="node66" href="$classCOM_1_1TestingObject.html#a34314f7e70429859bb053f28e149cd20" title="COM::TestingObject\l::ResetSolution" alt="" coords="763,883,904,930"/>
+<area shape="rect" id="node68" href="$classCOM_1_1TransferSolver.html#aaddc068a69f8265dd8e150b95ca46ac5" title="COM::TransferSolver\l::NodeCoordinates2" alt="" coords="760,745,907,791"/>
+<area shape="rect" id="node70" href="$classCOM_1_1TransferSolver.html#aeef561b916bf2d4ab3fdb5e1121c4a75" title="COM::TransferSolver\l::NodeCoordinates1" alt="" coords="760,814,907,861"/>
+<area shape="rect" id="node72" href="$classSolverUtils_1_1TransferObject.html#a99876ab25e198a7ab09438d67afdba60" title="SolverUtils::TransferObject\l::Transfer" alt="" coords="744,625,923,671"/>
+<area shape="rect" id="node76" href="$classCOM_1_1TestingObject.html#af91f6f6724dcaacda42de6ad80b8792c" title="COM::TestingObject\l::TwoSolutionsMatch" alt="" coords="761,417,905,463"/>
+<area shape="rect" id="node78" href="$classCOM_1_1TestingObject.html#a57b40f0f97c6495f2af5b2bdd379e50f" title="COM::TestingObject\l::CompareSolutionsWithDetail" alt="" coords="735,486,932,533"/>
+<area shape="rect" id="node49" href="$namespaceSolverUtils_1_1MeshUtils.html#ac6846a9e7cdae0ed38264a6344df5579" title="SolverUtils::MeshUtils\l::meshgen2d" alt="" coords="997,213,1149,259"/>
+<area shape="rect" id="node51" href="$classSolverUtils_1_1FEM_1_1SolverAgent.html#a57f58707f0ead43178b30c1f7230ec73" title="SolverUtils::FEM::Solver\lAgent::Mesh" alt="" coords="991,282,1156,329"/>
+<area shape="rect" id="node53" href="$namespaceSolverUtils_1_1Mesh.html#ad4367ce798da66717edb420d3b26323e" title="SolverUtils::Mesh::\lWriteVTKToStream" alt="" coords="1005,5,1141,51"/>
+<area shape="rect" id="node55" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#ac8f2f3df88ec389e2c88971e26c83a1d" title="SolverUtils::Mesh::\lNodalCoordinates::NNodes" alt="" coords="983,74,1164,121"/>
+<area shape="rect" id="node57" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a47a999c5ebdab2937397a9d6e4c51f8c" title="SolverUtils::Mesh::\lConnectivity::Nelem" alt="" coords="1003,143,1144,190"/>
+<area shape="rect" id="node61" href="$com__c_8h.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="984,633,1163,663"/>
+<area shape="rect" id="node89" href="$classCOM_1_1TestingObject.html#a59147e741ff69aa8de00c0e022ddd08f" title="COM::TestingObject\l::GetErrors" alt="" coords="763,1003,904,1050"/>
+<area shape="rect" id="node101" href="$classCOM_1_1TestingObject.html#ad7641daebe39bb1847bb9cc1de539b26" title="Test for COM_LOAD_MODULE_STATIC_DYNAMIC and COM_UNLOAD_MODULE_STATIC_DYNAMIC. " alt="" coords="735,1073,932,1119"/>
+<area shape="rect" id="node105" href="$com__c_8h.html#ad80020fdf2fa9c67eea7e0db8c6491cc" title="COM_get_dataitems" alt="" coords="1003,1188,1144,1217"/>
+<area shape="rect" id="node107" href="$com__c_8h.html#a0c557d350cb4b4b6e05938c9706aead3" title="Get the sizes of an dataitem. " alt="" coords="1007,921,1140,951"/>
+<area shape="rect" id="node112" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="1007,975,1140,1004"/>
+<area shape="rect" id="node115" href="$com__c_09_09_8hpp.html#a8d14cf34eccebd1168103d4624ac2677" title="Registering an dataitem type. " alt="" coords="1003,1028,1144,1057"/>
+<area shape="rect" id="node118" href="$com__c_09_09_8hpp.html#a000a075fb1782d7eeaae75a7136e6411" title="Set sizes of for a specific dataitem. " alt="" coords="1019,1081,1128,1111"/>
+<area shape="rect" id="node121" href="$com__c_09_09_8hpp.html#adca6827f3c065859156fa3562c2cd9a8" title="Associates an array with an dataitem for a specific pane. " alt="" coords="1016,868,1131,897"/>
+<area shape="rect" id="node124" href="$com__c_8h.html#aa2b647076100c442c949a67e8484270b" title="Get the sizes of an dataitem. " alt="" coords="1019,1135,1128,1164"/>
+<area shape="rect" id="node129" href="$classCOM_1_1COM__base.html#a7cad9c24d2d8c23ab9000c16da1526a4" title="COM::COM_base::finalize" alt="" coords="496,1292,672,1321"/>
+</map>

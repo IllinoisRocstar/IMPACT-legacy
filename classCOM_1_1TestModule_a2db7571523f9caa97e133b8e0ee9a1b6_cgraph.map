@@ -1,0 +1,6 @@
+<map id="COM::TestModule::get_communicator_module" name="COM::TestModule::get_communicator_module">
+<area shape="rect" id="node3" href="$com__c_8h.html#a7480cb279da4775836e08986b3c1ccad" title="COM_get_communicator" alt="" coords="237,5,403,35"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#a6ebf7d3be61b364094596342a1d64827" title="COM_get_default_communicator" alt="" coords="213,59,427,88"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ac8938cf9e232a054d7f93060c185b812" title="Get the default communicator of COM. " alt="" coords="475,50,632,97"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="681,59,865,88"/>
+</map>

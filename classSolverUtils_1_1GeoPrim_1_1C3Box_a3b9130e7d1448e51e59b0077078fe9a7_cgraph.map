@@ -1,0 +1,7 @@
+<map id="SolverUtils::GeoPrim::C3Box::intersect" name="SolverUtils::GeoPrim::C3Box::intersect">
+<area shape="rect" id="node3" href="$classSolverUtils_1_1GeoPrim_1_1C3Box.html#abbdd45a8294b4660277d201cfffa91f5" title="SolverUtils::GeoPrim\l::C3Box::collide" alt="" coords="201,141,345,188"/>
+<area shape="rect" id="node7" href="$classSolverUtils_1_1GeoPrim_1_1C3Point.html#a2d8c467fbe3507aad3076ccb8c20b64d" title="SolverUtils::GeoPrim\l::C3Point::x" alt="" coords="591,146,735,193"/>
+<area shape="rect" id="node9" href="$classSolverUtils_1_1GeoPrim_1_1C3Point.html#aa057b20b859ab27ffa7772fad99bac58" title="SolverUtils::GeoPrim\l::C3Point::y" alt="" coords="591,77,735,124"/>
+<area shape="rect" id="node11" href="$classSolverUtils_1_1GeoPrim_1_1C3Point.html#a143c99125a88807dba3c205ce0788c74" title="SolverUtils::GeoPrim\l::C3Point::z" alt="" coords="591,252,735,298"/>
+<area shape="rect" id="node5" href="$classSolverUtils_1_1GeoPrim_1_1C3Box.html#a17b09100b2e84fc885c4232c7f70a4ca" title="SolverUtils::GeoPrim\l::C3Box::empty" alt="" coords="396,141,540,188"/>
+</map>

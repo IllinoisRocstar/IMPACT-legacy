@@ -1,0 +1,37 @@
+<map id="Rocsurf::compute_signed_volumes" name="Rocsurf::compute_signed_volumes">
+<area shape="rect" id="node3" href="$classRocsurf.html#a04a870984e426e0c312aba78ec65cd39" title="Computes the center of a body. " alt="" coords="229,283,397,312"/>
+<area shape="rect" id="node7" href="$compute__bounded__volumes_8C.html#a979ce84eb276bc57b7c0be1341e27b5e" title="get_face_volume" alt="" coords="480,240,600,269"/>
+<area shape="rect" id="node27" href="$classElement__node__enumerator.html#aee7e8eecded55311aa51b51093dcb10f" title="Go to the next element within the connectivity tables of a pane. " alt="" coords="225,545,401,591"/>
+<area shape="rect" id="node76" href="$classElement__node__vectors__k__const.html#a8dafe6c2b1df03df6867143ca07b661d" title="initialize the accessor with a pointer and a specific stride. " alt="" coords="236,681,391,727"/>
+<area shape="rect" id="node82" href="$classElement__node__enumerator.html#a36af66db19d73a424ed640f9a54b3357" title="Number of edges per element. " alt="" coords="225,817,401,863"/>
+<area shape="rect" id="node5" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="471,187,609,216"/>
+<area shape="rect" id="node9" href="$classVector__3.html#af1401b8491543741ae27481c8253a464" title="Vector_3::cross_product" alt="" coords="679,5,841,35"/>
+<area shape="rect" id="node11" href="$classGeneric__element__2.html#a36f3c58190f212b3064614cd7a53ce63" title="Get the natrual coordinate associated with a Gauss point. " alt="" coords="689,58,831,105"/>
+<area shape="rect" id="node15" href="$classGeneric__element__2.html#a8124a13c737d93361fe186e36a11a9a1" title="Get the weight associated with a Gauss point. " alt="" coords="689,127,831,174"/>
+<area shape="rect" id="node18" href="$classGeneric__element__2.html#a37d965dd2bc0c5d0300a75132523b2fb" title="Get the number of Gauss points. " alt="" coords="689,197,831,243"/>
+<area shape="rect" id="node21" href="$classGeneric__element__2.html#af61fbbc383b0f2aa8a1eaaf7a73dbdc0" title="Interpolates the field data at a given point. " alt="" coords="689,266,831,313"/>
+<area shape="rect" id="node25" href="$classGeneric__element__2.html#a783b532cb5a9c7b18b45ff9d0ec3c11b" title="Evaluates the Jacobian at a given point. " alt="" coords="689,335,831,382"/>
+<area shape="rect" id="node13" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="965,171,1011,200"/>
+<area shape="rect" id="node23" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="892,275,1084,304"/>
+<area shape="rect" id="node29" href="$classPane.html#a9535b6c930d91b7ad225da2c2415a83f" title="Obtain the connectivity table containing the element with the given ID. " alt="" coords="475,501,605,531"/>
+<area shape="rect" id="node31" href="$classConnectivity.html#a9e8807b92c6b1f0458ed05c90e3e65f5" title="Get the index of the first element. " alt="" coords="693,458,827,505"/>
+<area shape="rect" id="node37" href="$classConnectivity.html#ab477915e1141220f8607ce8922e20ae9" title="Get the total number of elements (including ghost elements) in the table. " alt="" coords="697,527,823,574"/>
+<area shape="rect" id="node44" href="$classConnectivity.html#a2318f0941147bed78d113654271b7902" title="Get a constant pointer to the connectivity array. " alt="" coords="917,636,1059,665"/>
+<area shape="rect" id="node65" href="$classPane.html#a6aec0fd550c2d337ebe6e4aace3382b0" title="Dimension of the pane. " alt="" coords="701,765,819,795"/>
+<area shape="rect" id="node69" href="$classPane.html#a092bf21913c9d3499342f02515b69d4f" title="Get the number of nodes in i&#45;dimension if the mesh is structured. " alt="" coords="493,397,587,427"/>
+<area shape="rect" id="node74" href="$classConnectivity.html#a079310c5614c94a63e8cb4c9fa3ff586" title="Get the number of nodes per element of the current connectivity table. " alt="" coords="697,675,823,722"/>
+<area shape="rect" id="node33" href="$classConnectivity.html#af4c64fd10de2b2b73ed08387fced94b8" title="Root of use&#45;inheritance. " alt="" coords="925,367,1051,396"/>
+<area shape="rect" id="node35" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="1157,333,1264,363"/>
+<area shape="rect" id="node39" href="$classPane.html#aea6af7f8fa21f531276a598c665fba59" title="Pane::ignore_ghost" alt="" coords="1144,531,1277,560"/>
+<area shape="rect" id="node41" href="$classConnectivity.html#ad61825c72b551c6acd17e6b82f5c18ab" title="Determine whether the mesh is quadratic. " alt="" coords="899,583,1077,612"/>
+<area shape="rect" id="node46" href="$classDataItem.html#a08f48c8f21e708d438f3a1b6f0ffd8b0" title="Obtain the number of items in the dataitem. " alt="" coords="905,479,1071,508"/>
+<area shape="rect" id="node48" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="1337,449,1447,479"/>
+<area shape="rect" id="node61" href="$classDataItem.html#a923e28392d450d6f848c26afe6a59548" title="Obtain the number of real items in the dataitem. " alt="" coords="1133,410,1288,457"/>
+<area shape="rect" id="node50" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="1497,470,1636,517"/>
+<area shape="rect" id="node52" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="1741,421,1835,451"/>
+<area shape="rect" id="node54" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="1725,529,1851,559"/>
+<area shape="rect" id="node56" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="1687,476,1889,505"/>
+<area shape="rect" id="node71" href="$classPane.html#aa0bce3d272a709b1465b195d5048c643" title="Is mesh of the pane structured? " alt="" coords="693,405,827,435"/>
+<area shape="rect" id="node78" href="$classElement__node__enumerator.html#a2833009d2a6937ff7c369fc33b554e9f" title="Number of nodes per element. " alt="" coords="452,757,628,803"/>
+<area shape="rect" id="node85" href="$classConnectivity.html#ae0111f6c31663b766db83432cae097b7" title="Get the number of edges per element of the current connectivity table. " alt="" coords="477,877,603,923"/>
+</map>

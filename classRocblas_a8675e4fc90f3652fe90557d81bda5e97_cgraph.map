@@ -1,0 +1,11 @@
+<map id="Rocblas::dot" name="Rocblas::dot">
+<area shape="rect" id="node3" href="$classRocblas.html#aeb2c9437a0c37517c6b4c70df699d307" title="Wrapper for dot product. " alt="" coords="151,85,276,115"/>
+<area shape="rect" id="node5" href="$classDataItem.html#a61ab5f23ac78a344ef56534d83b84fa4" title="Obtain the data type of each component of the dataitem. " alt="" coords="357,5,499,35"/>
+<area shape="rect" id="node7" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="327,59,529,88"/>
+<area shape="rect" id="node9" href="$classDataItem.html#a8c75af27aa0199f827154ee5029da3e1" title="Checks whether the dataitem is associated with the window. " alt="" coords="349,112,507,141"/>
+<area shape="rect" id="node11" href="$classDataItem.html#a9cafcc5fa2e56403b4e57a4b5edd4f7c" title="Obtain the full name of the dataitem including window name suitable for printing out error messages..." alt="" coords="361,165,495,195"/>
+<area shape="rect" id="node13" href="$classComponentInterface.html#aa8b6fe25ffacb81765e94e5f008dcc9c" title="Obtain the CI&#39;s name. " alt="" coords="580,95,719,142"/>
+<area shape="rect" id="node15" href="$classDataItem.html#a5edd77180ff7e88445e31305c44ebbc0" title="Obtain the name of the dataitem. " alt="" coords="592,165,707,195"/>
+<area shape="rect" id="node17" href="$classDataItem.html#ac5be076b6aa11312e36ae4be607a21f5" title="Obtain a constant pointer to the parent window of the dataitem. " alt="" coords="585,219,713,248"/>
+<area shape="rect" id="node19" href="$classPane.html#add1c79360212a9bb77ac7bdc07883760" title="Obtain a constant pointer to its owner window object. " alt="" coords="768,219,872,248"/>
+</map>

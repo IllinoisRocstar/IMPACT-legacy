@@ -1,0 +1,8 @@
+<map id="RFC_Pane_overlay::get_prev_edge" name="RFC_Pane_overlay::get_prev_edge">
+<area shape="rect" id="node3" href="$classHEdge.html#aa4ec17db1a9122efde41a93929d5c988" title="HEdge::prev_g" alt="" coords="216,83,325,112"/>
+<area shape="rect" id="node5" href="$classHDS__accessor.html#ae2ba49f45a6c1855f0c38b8a5eefbf90" title="HDS_accessor::get_prev\l_around_destination" alt="" coords="375,5,543,51"/>
+<area shape="rect" id="node7" href="$classHDS__accessor.html#a1ba6209f0212ce8db14a00486e9a3ade" title="HDS_accessor::get_prev\l_around_origin" alt="" coords="375,74,543,121"/>
+<area shape="rect" id="node9" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="383,144,535,173"/>
+<area shape="rect" id="node11" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="592,135,717,182"/>
+<area shape="rect" id="node13" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="765,144,883,173"/>
+</map>

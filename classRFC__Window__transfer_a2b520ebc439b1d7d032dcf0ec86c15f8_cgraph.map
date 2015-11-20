@@ -1,0 +1,51 @@
+<map id="RFC_Window_transfer::replicate_metadata" name="RFC_Window_transfer::replicate_metadata">
+<area shape="rect" id="node3" href="$classRFC__Pane__base.html#a964e2579a22429c9b380fe68350e70fd" title="The id of its base COM::Pane object. " alt="" coords="1085,179,1243,208"/>
+<area shape="rect" id="node5" href="$classRFC__Window__transfer.html#a426959077bcf85e0ae30cce573252a68" title="RFC_Window_transfer\l::comm_rank" alt="" coords="411,747,565,794"/>
+<area shape="rect" id="node11" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="1068,283,1260,312"/>
+<area shape="rect" id="node13" href="$classRFC__Window__transfer.html#a49402c4ef8a594c205b984ee40dc2c0c" title="Obtain the list of incident faces in each pane of the opposite mesh. " alt="" coords="411,93,565,139"/>
+<area shape="rect" id="node15" href="$classRFC__Window__transfer.html#af88045a66430bf83bae0fa95d71b5595" title="RFC_Window_transfer\l::pane" alt="" coords="624,207,779,254"/>
+<area shape="rect" id="node17" href="$classRFC__Pane__base.html#a6051b48ff4916db700ce6e793f56db4c" title="The total number of faces in the subdivision of the pane. " alt="" coords="1087,83,1241,130"/>
+<area shape="rect" id="node19" href="$classRFC__Pane__transfer.html#a6d297c6fd2c02dba61738e6c503fbed0" title="RFC_Pane_transfer::\lis_master" alt="" coords="212,314,359,361"/>
+<area shape="rect" id="node22" href="$classRFC__Window__transfer.html#aec87cef0eb23358d2a3b4e54299e6bb4" title="Replicate the metadata of a remote pane only the local process. " alt="" coords="208,747,363,794"/>
+<area shape="rect" id="node7" href="$commpi_8h.html#a8a8389bc67ae874f8ec20c56f758c8bf" title="COMMPI_Comm_rank" alt="" coords="624,931,779,960"/>
+<area shape="rect" id="node9" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="632,984,771,1013"/>
+<area shape="rect" id="node25" href="$classRFC__Window__transfer.html#a811f88bbe239ab18600ca2440209ef64" title="RFC_Window_transfer\l::comm_size" alt="" coords="411,975,565,1022"/>
+<area shape="rect" id="node31" href="$classRFC__Window__transfer.html#a113ec6d52238aaf66dec1cd93e187309" title="RFC_Window_transfer\l::counts_to_displs" alt="" coords="411,867,565,914"/>
+<area shape="rect" id="node33" href="$classRFC__Window__transfer.html#a7c8c8bf039e5e2400abaf4b994543274" title="RFC_Window_transfer\l::init_recv_buffer" alt="" coords="411,609,565,655"/>
+<area shape="rect" id="node114" href="$classRFC__Window__transfer.html#a6b68a7efc1c8ad636d009456b2290e90" title="RFC_Window_transfer\l::init_send_buffer" alt="" coords="411,386,565,433"/>
+<area shape="rect" id="node27" href="$commpi_8h.html#a4e3337b1847be124709d7c1471c3834d" title="COMMPI_Comm_size" alt="" coords="624,1037,779,1067"/>
+<area shape="rect" id="node35" href="$classRFC__Window__base.html#ac45900e0e213b3996b9947767755a800" title="The color of the window for overlay or for data transfer (BLUE or GREEN). " alt="" coords="615,824,788,853"/>
+<area shape="rect" id="node37" href="$com__c_09_09_8hpp.html#acea2331d2de82625c440f35ff027ed05" title="COM_call_function" alt="" coords="635,877,768,907"/>
+<area shape="rect" id="node59" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="628,771,775,800"/>
+<area shape="rect" id="node64" href="$com__c_8h.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="839,491,1017,520"/>
+<area shape="rect" id="node66" href="$com__c_8h.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="613,456,789,485"/>
+<area shape="rect" id="node68" href="$classRFC__Window__base.html#ad07b6e173b8360548207c99d6e7a2ebd" title="RFC_Window_base::get\l_prefix_base" alt="" coords="619,509,784,555"/>
+<area shape="rect" id="node70" href="$classRFC__Window__base.html#ad15a478281e45d8b216416a11feb009a" title="RFC_Window_base::get\l_sdv_fname" alt="" coords="619,578,784,625"/>
+<area shape="rect" id="node72" href="$classRFC__Pane__base.html#a76e638a006b079f543f5cedb974e4930" title="RFC_Pane_base::init" alt="" coords="628,648,775,677"/>
+<area shape="rect" id="node75" href="$classRFC__Pane__base.html#acfca7f5a2547b35ace4ef2b391572e36" title="RFC_Pane_base::read\l_binary" alt="" coords="624,318,779,365"/>
+<area shape="rect" id="node91" href="$classRFC__Pane__base.html#a7bbaf48ac1f31aaaef84e1f3aa64ff4e" title="Read in using Rocin. " alt="" coords="624,701,779,747"/>
+<area shape="rect" id="node39" href="$classCOM_1_1COM__base.html#a1aaff6e38ab1626c2da02bf332edc88d" title="Invoke a function with given arguments. " alt="" coords="851,1191,1005,1238"/>
+<area shape="rect" id="node57" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="873,1069,983,1099"/>
+<area shape="rect" id="node41" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="1141,1173,1187,1203"/>
+<area shape="rect" id="node43" href="$classFunction.html#aac80473b8f73ed1b8baec92a960dbc37" title="Function::is_fortran" alt="" coords="1097,1227,1231,1256"/>
+<area shape="rect" id="node45" href="$classFunction.html#aa5031f769bd66be10dad1bf81403c8b2" title="Get the number of arguments. " alt="" coords="1087,1280,1241,1309"/>
+<area shape="rect" id="node47" href="$classFunction.html#aef045aa76c2bb77d92affee6d45b395a" title="Function::dataitem" alt="" coords="1099,1333,1229,1363"/>
+<area shape="rect" id="node49" href="$classFunction.html#a0ea5e190aa7c6788aacce403d9849d31" title="Function::intent" alt="" coords="1108,1387,1220,1416"/>
+<area shape="rect" id="node51" href="$classFunction.html#a9291d79e9365278ca11f609423f52000" title="Check whether the ith argument is raw. " alt="" coords="1093,1013,1235,1043"/>
+<area shape="rect" id="node53" href="$classDataItem.html#a9557c0dadf7d52c1058ff18ca6db0536" title="Returns whether the array is set to be read&#45;only. " alt="" coords="1097,1067,1231,1096"/>
+<area shape="rect" id="node55" href="$classDataItem.html#a61ab5f23ac78a344ef56534d83b84fa4" title="Obtain the data type of each component of the dataitem. " alt="" coords="1093,1120,1235,1149"/>
+<area shape="rect" id="node62" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="843,1122,1013,1169"/>
+<area shape="rect" id="node77" href="$classRFC__Pane__base.html#a6c909c5de88320225577d436b31a119b" title="Compute the natural coordinates. " alt="" coords="847,301,1009,347"/>
+<area shape="rect" id="node81" href="$classRFC__Pane__base.html#a6d670fed3e1d0fb329b1534bab009dc6" title="The total number of nodes in the pane. " alt="" coords="1087,361,1241,407"/>
+<area shape="rect" id="node84" href="$RFC__Window__base__IO__binary_8C.html#af1930767d4c34c323ea0c10d9d5d93d8" title="read" alt="" coords="905,248,951,277"/>
+<area shape="rect" id="node86" href="$classRFC__Pane__base.html#a0c07ffa46cc7bf6d42db3e1fea90778e" title="The total number of faces in the pane. " alt="" coords="851,421,1005,467"/>
+<area shape="rect" id="node89" href="$RFC__Window__base__IO__binary_8C.html#a2ec0c78c103ae710264bde85c247a45b" title="swap_endian" alt="" coords="879,195,977,224"/>
+<area shape="rect" id="node93" href="$com__c_8h.html#ad48f4fb5b3a3c580cdad0074ed235a3a" title="Copy an array from an dataitem on a specific pane into a given buffer. " alt="" coords="867,771,989,800"/>
+<area shape="rect" id="node97" href="$com__c_8h.html#aa2b647076100c442c949a67e8484270b" title="Get the sizes of an dataitem. " alt="" coords="873,824,983,853"/>
+<area shape="rect" id="node100" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="873,877,983,907"/>
+<area shape="rect" id="node102" href="$classCOM_1_1COM__base.html#acadfe481b44157fba5ec3492214ea9b1" title="COM::COM_base::get\l_window_handle" alt="" coords="852,930,1004,977"/>
+<area shape="rect" id="node104" href="$classCOM_1_1COM__base.html#a0152a74ffb3a5828aa8e5dbb2941209e" title="COM::COM_base::get\l_window_object" alt="" coords="852,999,1004,1046"/>
+<area shape="rect" id="node106" href="$classRFC__Pane__base.html#ab2cde20c26603b34272c9f998de08fdc" title="RFC_Pane_base::id" alt="" coords="859,595,997,624"/>
+<area shape="rect" id="node108" href="$classDataItem.html#a4b23c8d271000dda6b3634abe6528d83" title="Inherit from parent. If depth&gt;0, then the procedure is for the subcomponents. " alt="" coords="869,648,987,677"/>
+<area shape="rect" id="node110" href="$classComponentInterface.html#ab80a1a99516f6b9ceeaf381529abd29d" title="Find the pane with given ID. If not found, insert a pane with given ID. " alt="" coords="859,701,997,747"/>
+</map>

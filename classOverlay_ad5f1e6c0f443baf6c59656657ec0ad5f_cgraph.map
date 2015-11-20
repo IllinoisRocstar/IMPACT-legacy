@@ -1,0 +1,51 @@
+<map id="Overlay::associate_green_vertices" name="Overlay::associate_green_vertices">
+<area shape="rect" id="node3" href="$classIn__place__list.html#a2463ca58e9d7cd0722ec9d9e95eed26d" title="In_place_list::begin" alt="" coords="876,110,1009,139"/>
+<area shape="rect" id="node5" href="$classIn__place__list.html#a58be3eb329d157de9efdf27078324fc8" title="In_place_list::empty" alt="" coords="644,418,783,447"/>
+<area shape="rect" id="node7" href="$classIn__place__list.html#ab2dfc965dc9ca57af8a6f71924bc8ee8" title="In_place_list::end" alt="" coords="423,1727,545,1756"/>
+<area shape="rect" id="node9" href="$classHDS__accessor.html#a178ecb0501ecef295916a264a5b535ea" title="HDS_accessor::get_inode" alt="" coords="627,364,800,394"/>
+<area shape="rect" id="node19" href="$classHDS__accessor.html#a146bb3a0c25ce0e24b8ae79b1c7bbd26" title="HDS_accessor::get_inode_list" alt="" coords="615,730,812,759"/>
+<area shape="rect" id="node27" href="$classHEdge.html#aec510b3f7d79f31cdd0f8d5baaf9a446" title="HEdge::next_g" alt="" coords="888,574,997,603"/>
+<area shape="rect" id="node38" href="$classHEdge.html#ac4e3a22186171112305d6c58d00ec48b" title="HEdge::opposite_g" alt="" coords="876,960,1009,990"/>
+<area shape="rect" id="node41" href="$classHEdge.html#aa6ddcf44d16ec8e06d5b3a6aa54cbab6" title="HEdge::origin_g" alt="" coords="885,1498,1000,1527"/>
+<area shape="rect" id="node53" href="$classRFC__Window__derived.html#a07d6dba10adf3e6fa26f573aac589602" title="Get a vector of local panes contained in the window. " alt="" coords="193,1805,345,1852"/>
+<area shape="rect" id="node55" href="$classINode.html#a1c77092ecf43e5518d0549608b51ebeb" title="INode::parent_type" alt="" coords="647,1394,780,1423"/>
+<area shape="rect" id="node59" href="$classOverlay.html#a3fb9c07befb11760bebb3abf991eb238" title="Helper for associate_green_vertices(). " alt="" coords="184,914,355,961"/>
+<area shape="rect" id="node129" href="$classIn__place__list.html#a5ed6793803b6087a9808b1125249d1a3" title="In_place_list::rbegin" alt="" coords="200,1702,339,1731"/>
+<area shape="rect" id="node132" href="$classIn__place__list.html#a71236e34d630aa8585bb153ad44b1119" title="In_place_list::rend" alt="" coords="205,110,333,139"/>
+<area shape="rect" id="node11" href="$classNode.html#a9eedbae773c8327ce7aeb9f74c8c1e97" title="Is the node a primary? " alt="" coords="883,446,1003,475"/>
+<area shape="rect" id="node15" href="$classNode.html#a6c04266bc4154e990bf5f485aef1d972" title="Obtain the owner Pane_manifold_2 of the node. " alt="" coords="899,364,987,394"/>
+<area shape="rect" id="node13" href="$classPane__manifold__2.html#a4b675ab056a2c618081dd15a80651ea0" title="Determines whether a given node is a primary copy. " alt="" coords="1087,437,1225,484"/>
+<area shape="rect" id="node17" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="1072,338,1240,367"/>
+<area shape="rect" id="node21" href="$classRFC__Pane__overlay.html#a3c9f62f60de9db8c7ad06b3047c37883" title="RFC_Pane_overlay::get\l_inode_list" alt="" coords="861,702,1024,749"/>
+<area shape="rect" id="node25" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="1320,830,1419,859"/>
+<area shape="rect" id="node23" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="1075,685,1237,732"/>
+<area shape="rect" id="node29" href="$classRFC__Pane__overlay.html#ae700d6675c1fa8df293f102ec2e8f752" title="Obtain the next edge in a given access mode. " alt="" coords="1075,616,1237,662"/>
+<area shape="rect" id="node31" href="$classRFC__Pane__overlay.html#a44ba6aedde0749d2160e8dfa8dc17268" title="Obtain the opposite edge in a given access mode. " alt="" coords="1288,640,1451,686"/>
+<area shape="rect" id="node35" href="$classHEdge.html#a4f71a79a914824210145754d83b9f640" title="Obtain the ID of the edge. " alt="" coords="1540,862,1620,891"/>
+<area shape="rect" id="node33" href="$classRFC__Pane__overlay.html#a9b9d9ab4f08bf73e5507581e4c5b9a66" title="RFC_Pane_overlay::get\l_counterpart" alt="" coords="1499,640,1661,686"/>
+<area shape="rect" id="node43" href="$classRFC__Pane__overlay.html#a517f1ea249a0de3e50c5968e6058ca6c" title="RFC_Pane_overlay::get\l_primary" alt="" coords="1075,1172,1237,1218"/>
+<area shape="rect" id="node45" href="$classNode.html#aa5b47f7b5cd24a9b683e4584d816b5f2" title="Node::is_border_l" alt="" coords="1308,1154,1431,1183"/>
+<area shape="rect" id="node47" href="$classNode.html#aac4d353b59a291b4ca230ce6aa05c4d7" title="Get an incident halfedge destinated at the node. " alt="" coords="1520,1179,1640,1208"/>
+<area shape="rect" id="node49" href="$classRFC__Pane__overlay.html#a40291c56ede9397b44a2997cce10f5f6" title="RFC_Pane_overlay::get\l_border_index" alt="" coords="1288,982,1451,1029"/>
+<area shape="rect" id="node57" href="$structHost__face.html#a24a820e3f3356a4315de95fc62301f09" title="Host_face::parent_type" alt="" coords="864,1394,1021,1423"/>
+<area shape="rect" id="node61" href="$classINode.html#aaf64375c225cf9813294a01267c8cd5a" title="INode::halfedge" alt="" coords="656,623,771,652"/>
+<area shape="rect" id="node67" href="$classHEdge.html#ad2bbdda4f2351c154fa6c67cacfff466" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="869,1180,1016,1210"/>
+<area shape="rect" id="node72" href="$classIn__place__list.html#aa42c16f4d0ffe99c2ce84381ac6f5cce" title="In_place_list::back" alt="" coords="648,676,779,706"/>
+<area shape="rect" id="node74" href="$classIn__place__list.html#a54ec10d9dce165bf1e23dffe234c9b0d" title="In_place_list::size" alt="" coords="651,850,776,879"/>
+<area shape="rect" id="node78" href="$classIn__place__list.html#aa8670222a4ab048e9af53d9ca3875d4c" title="In_place_list::front" alt="" coords="649,471,777,500"/>
+<area shape="rect" id="node81" href="$classOverlay.html#a68dfca90be08ced05008b4e3767b1ace" title="Overlay::contains" alt="" coords="652,934,775,963"/>
+<area shape="rect" id="node91" href="$classRFC__Pane__overlay.html#ad3fbccaa0871f7896f7398dd08fe223c" title="RFC_Pane_overlay::get\l_normal" alt="" coords="403,776,565,822"/>
+<area shape="rect" id="node93" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="413,896,555,926"/>
+<area shape="rect" id="node95" href="$classOverlay__primitives.html#a16ee3c58170a16a6c56157bdf60e7915" title="Overlay_primitives\l::project_onto_element" alt="" coords="407,1170,561,1217"/>
+<area shape="rect" id="node103" href="$classNode.html#ac48da3915cb29c0947996182a426ca8f" title="Obtain the coordinates of a node. " alt="" coords="440,264,528,294"/>
+<area shape="rect" id="node106" href="$classOverlay__primitives.html#ab3ca7357a6e0d506abe78fa97bf610dd" title="Overlay_primitives\l::get_face_normal" alt="" coords="419,1101,549,1148"/>
+<area shape="rect" id="node109" href="$classOverlay.html#aad5a19da779f878a75c5078050e93c23" title="Overlay::logical_xor" alt="" coords="416,1342,552,1371"/>
+<area shape="rect" id="node111" href="$classINode.html#ae1c4573894f534f3ce6c4f4cc2c68711" title="INode::set_parent" alt="" coords="421,1446,547,1475"/>
+<area shape="rect" id="node113" href="$classOverlay.html#aa08c0367aef4569dad35bdeb6e25b148" title="Overlay::verify_inode" alt="" coords="412,723,556,752"/>
+<area shape="rect" id="node125" href="$classHDS__accessor.html#acf1acbccea7894f7b213d6610d1c88b4" title="HDS_accessor::set_inode" alt="" coords="627,524,800,554"/>
+<area shape="rect" id="node63" href="$structHost__face.html#a67c4fb93da962d287e6521c930a0619e" title="Host_face::halfedge" alt="" coords="873,627,1012,656"/>
+<area shape="rect" id="node84" href="$classHEdge.html#a066520f9796d5ef75a745c4d3dfc8745" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="896,907,989,936"/>
+<area shape="rect" id="node97" href="$classPoint__set.html#a5affcd30c1f78c4583af6ce8c728cbf8" title="Point_set::size_of\l_edges" alt="" coords="651,1064,776,1110"/>
+<area shape="rect" id="node99" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="617,1134,809,1163"/>
+<area shape="rect" id="node101" href="$Overlay__primitives_8C.html#a36d28ea1605de449993bd50d30cbd2ef" title="_solve_3x3" alt="" coords="669,1187,757,1216"/>
+</map>

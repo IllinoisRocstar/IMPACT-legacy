@@ -1,0 +1,29 @@
+<map id="Vertex_set::size_of_edges" name="Vertex_set::size_of_edges">
+<area shape="rect" id="node3" href="$classPoint__set.html#a5affcd30c1f78c4583af6ce8c728cbf8" title="Point_set::size_of\l_edges" alt="" coords="196,463,321,510"/>
+<area shape="rect" id="node60" href="$classNormal__set.html#acbd96a12afb3e70b914a7f8e28190354" title="Normal_set::size_of\l_edges" alt="" coords="189,583,328,630"/>
+<area shape="rect" id="node65" href="$classOverlay__primitives.html#a32cbd22e5afc0f65688f2501f29d3e58" title="Overlay_primitives\l::snap_blue_ridge_vertex" alt="" coords="377,705,543,751"/>
+<area shape="rect" id="node5" href="$classOverlay__primitives.html#ab3ca7357a6e0d506abe78fa97bf610dd" title="Overlay_primitives\l::get_face_normal" alt="" coords="604,567,735,614"/>
+<area shape="rect" id="node27" href="$classOverlay__primitives.html#a1127cbd7d866d96d6ff2cc97262c776e" title="Overlay_primitives\l::get_point" alt="" coords="604,199,735,246"/>
+<area shape="rect" id="node46" href="$classOverlay__primitives.html#afd8a9b6a0401d938825218671346550b" title="Overlay_primitives\l::get_tangent" alt="" coords="395,463,525,510"/>
+<area shape="rect" id="node55" href="$classOverlay__primitives.html#a16ee3c58170a16a6c56157bdf60e7915" title="Overlay_primitives\l::project_onto_element" alt="" coords="592,398,747,445"/>
+<area shape="rect" id="node7" href="$group__fdp.html#ga6e47e56141992ea8dce3e80d4762fadc" title="Compute the cosine of the face angle (dihedral angle) at an edge. " alt="" coords="816,597,968,643"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__overlay.html#a9a681aebc6f4127d32887fecc9224245" title="RFC_Pane_overlay::evaluate\l_normals" alt="" coords="796,666,988,713"/>
+<area shape="rect" id="node11" href="$group__ntc.html#ga7dc267edacebbbaa331fdf5ec58a8455" title="RFC_Window_overlay\l::evaluate_normals" alt="" coords="1251,682,1403,729"/>
+<area shape="rect" id="node15" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="827,338,957,385"/>
+<area shape="rect" id="node22" href="$classOverlay.html#a3fb9c07befb11760bebb3abf991eb238" title="Helper for associate_green_vertices(). " alt="" coords="807,527,977,574"/>
+<area shape="rect" id="node13" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1464,495,1581,524"/>
+<area shape="rect" id="node17" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="1043,355,1184,384"/>
+<area shape="rect" id="node19" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="1264,450,1389,497"/>
+<area shape="rect" id="node24" href="$classOverlay.html#ad5f1e6c0f443baf6c59656657ec0ad5f" title="Overlay::associate\l_green_vertices" alt="" coords="1261,521,1392,567"/>
+<area shape="rect" id="node30" href="$classOverlay__primitives.html#afa0a3f06a4a97a8aa41b72595c099789" title="Overlay_primitives\l::get_point" alt="" coords="827,58,957,105"/>
+<area shape="rect" id="node32" href="$classOverlay.html#ad62640b5cea6da6754b7232fd59486c3" title="Overlay::insert_node\l_in_blue_edge" alt="" coords="1043,285,1184,331"/>
+<area shape="rect" id="node38" href="$classOverlay.html#a4ff59bbb675d45034c0fcbcc41a74a2d" title="Overlay::write_inodes_tec" alt="" coords="805,128,979,157"/>
+<area shape="rect" id="node40" href="$classOverlay.html#af90c3c2ad6000ee96896dfea468d2446" title="Overlay::write_inodes_vec" alt="" coords="804,181,980,211"/>
+<area shape="rect" id="node42" href="$classOverlay.html#a1bdc98e9b544d9f79c03f544bd0088c6" title="Overlay::write_overlay_off" alt="" coords="805,285,979,315"/>
+<area shape="rect" id="node44" href="$classOverlay.html#a1024b43f46468592c95f2118197f94d1" title="Overlay::write_overlay_tec" alt="" coords="804,5,980,35"/>
+<area shape="rect" id="node35" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="1237,344,1416,373"/>
+<area shape="rect" id="node48" href="$classOverlay__primitives.html#ad55c86301a3c85c74f0151742c9df268" title="Overlay_primitives\l::intersect" alt="" coords="604,467,735,514"/>
+<area shape="rect" id="node50" href="$classOverlay.html#a47c99be0d881c11b755215b70787ea89" title="Overlay::intersect\l_link_helper" alt="" coords="829,458,955,505"/>
+<area shape="rect" id="node52" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="1037,461,1189,491"/>
+<area shape="rect" id="node62" href="$classOverlay__primitives.html#a817e07ec4290d949f5b3e52e2e6bda70" title="Overlay_primitives\l::get_projdir" alt="" coords="395,583,525,630"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="getWindow" name="getWindow">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#acea2331d2de82625c440f35ff027ed05" title="COM_call_function" alt="" coords="163,719,296,748"/>
+<area shape="rect" id="node51" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="156,772,303,801"/>
+<area shape="rect" id="node56" href="$com__c_8h.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="141,932,317,961"/>
+<area shape="rect" id="node58" href="$com__c_8h.html#ad744816e73fae2aec731bcbe41b52a16" title="COM_get_panes" alt="" coords="169,985,289,1015"/>
+<area shape="rect" id="node60" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="163,825,296,855"/>
+<area shape="rect" id="node65" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="148,879,311,908"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a1aaff6e38ab1626c2da02bf332edc88d" title="Invoke a function with given arguments. " alt="" coords="377,477,532,523"/>
+<area shape="rect" id="node47" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="400,799,509,828"/>
+<area shape="rect" id="node7" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="663,165,708,195"/>
+<area shape="rect" id="node9" href="$classFunction.html#aac80473b8f73ed1b8baec92a960dbc37" title="Function::is_fortran" alt="" coords="619,219,752,248"/>
+<area shape="rect" id="node11" href="$classFunction.html#aa5031f769bd66be10dad1bf81403c8b2" title="Get the number of arguments. " alt="" coords="608,272,763,301"/>
+<area shape="rect" id="node13" href="$classFunction.html#aef045aa76c2bb77d92affee6d45b395a" title="Function::dataitem" alt="" coords="620,325,751,355"/>
+<area shape="rect" id="node15" href="$classFunction.html#a0ea5e190aa7c6788aacce403d9849d31" title="Function::intent" alt="" coords="629,379,741,408"/>
+<area shape="rect" id="node17" href="$classFunction.html#a9291d79e9365278ca11f609423f52000" title="Check whether the ith argument is raw. " alt="" coords="615,432,756,461"/>
+<area shape="rect" id="node19" href="$classDataItem.html#a9557c0dadf7d52c1058ff18ca6db0536" title="Returns whether the array is set to be read&#45;only. " alt="" coords="619,485,752,515"/>
+<area shape="rect" id="node23" href="$classDataItem.html#a61ab5f23ac78a344ef56534d83b84fa4" title="Obtain the data type of each component of the dataitem. " alt="" coords="615,539,756,568"/>
+<area shape="rect" id="node25" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="624,592,747,621"/>
+<area shape="rect" id="node27" href="$classDataItem.html#ac5be076b6aa11312e36ae4be607a21f5" title="Obtain a constant pointer to the parent window of the dataitem. " alt="" coords="621,645,749,675"/>
+<area shape="rect" id="node31" href="$classComponentInterface.html#aa8b6fe25ffacb81765e94e5f008dcc9c" title="Obtain the CI&#39;s name. " alt="" coords="616,698,755,745"/>
+<area shape="rect" id="node33" href="$classDataItem.html#a5edd77180ff7e88445e31305c44ebbc0" title="Obtain the name of the dataitem. " alt="" coords="628,768,743,797"/>
+<area shape="rect" id="node35" href="$classFunction.html#a830af48c97efcd92b09f5779e53cb642" title="Check whether the ith argument is literal type. " alt="" coords="621,821,749,851"/>
+<area shape="rect" id="node37" href="$classFunction.html#a47cb78beaa59da7be901eb71f2d90812" title="Function::data_type" alt="" coords="617,875,753,904"/>
+<area shape="rect" id="node39" href="$commpi_8h.html#a02c2beefb210fecb8b4c0adfc9d0537f" title="COMMPI_Comm_f2c" alt="" coords="612,928,759,957"/>
+<area shape="rect" id="node41" href="$commpi_8h.html#a70d73d347e1c3de8f3d8876fd51b665c" title="COMMPI_Comm_c2f" alt="" coords="612,5,759,35"/>
+<area shape="rect" id="node43" href="$classFunction.html#af6fdc7e34b951ae5406e129bd836528a" title="Check whether the ith argument is optional. " alt="" coords="615,59,756,88"/>
+<area shape="rect" id="node45" href="$COM__base_8C.html#aa43ef0c9f5541ee647d3389925579809" title="get_wtime" alt="" coords="644,112,727,141"/>
+<area shape="rect" id="node21" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="827,485,933,515"/>
+<area shape="rect" id="node29" href="$classPane.html#add1c79360212a9bb77ac7bdc07883760" title="Obtain a constant pointer to its owner window object. " alt="" coords="828,645,932,675"/>
+<area shape="rect" id="node49" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="593,981,777,1011"/>
+<area shape="rect" id="node54" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="369,729,540,775"/>
+<area shape="rect" id="node63" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="376,851,533,898"/>
+<area shape="rect" id="node68" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="365,921,544,967"/>
+</map>

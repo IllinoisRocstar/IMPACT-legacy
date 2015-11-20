@@ -1,0 +1,15 @@
+<map id="COM::ParallelTestingObject::Test__WindowGetSetCommunicator" name="COM::ParallelTestingObject::Test__WindowGetSetCommunicator">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="329,132,476,161"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="588,215,697,244"/>
+<area shape="rect" id="node12" href="$com__c_09_09_8hpp.html#a6ebf7d3be61b364094596342a1d64827" title="COM_get_default_communicator" alt="" coords="296,21,509,51"/>
+<area shape="rect" id="node17" href="$com__c_8h.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="316,185,489,215"/>
+<area shape="rect" id="node19" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="336,289,469,319"/>
+<area shape="rect" id="node24" href="$com__c_09_09_8hpp.html#af747aaa399bb2b11240e4a5631e1be93" title="COM_set_default_communicator" alt="" coords="296,79,509,108"/>
+<area shape="rect" id="node29" href="$classComponentInterface.html#acf7fee0d74fc27148af099af83252dfc" title="Obtain the communicator of the CI. " alt="" coords="333,342,472,389"/>
+<area shape="rect" id="node31" href="$classCOM_1_1COM__base.html#a0152a74ffb3a5828aa8e5dbb2941209e" title="COM::COM_base::get\l_window_object" alt="" coords="327,411,479,458"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="557,143,728,190"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="777,83,961,112"/>
+<area shape="rect" id="node14" href="$classCOM_1_1COM__base.html#ac8938cf9e232a054d7f93060c185b812" title="Get the default communicator of COM. " alt="" coords="564,5,721,51"/>
+<area shape="rect" id="node22" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="564,281,721,327"/>
+<area shape="rect" id="node26" href="$classCOM_1_1COM__base.html#af83fb0e93e853820d22393283c22d034" title="Set the default communicator of COM. " alt="" coords="564,74,721,121"/>
+</map>

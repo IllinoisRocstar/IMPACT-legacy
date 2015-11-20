@@ -1,0 +1,15 @@
+<map id="Element_vectors_k_const::set" name="Element_vectors_k_const::set">
+<area shape="rect" id="node3" href="$classWindow__manifold__2.html#a57c6b6067d689e3c67abadd9ee212d9f" title="Convert element values to nodal values using weighted averaging. " alt="" coords="260,145,407,191"/>
+<area shape="rect" id="node28" href="$classElement__vectors__k.html#af76ab15d631bd1088b27002880051445" title="Element_vectors_k::set" alt="" coords="253,215,413,244"/>
+<area shape="rect" id="node5" href="$classWindow__manifold__2.html#a84ab729c39b78534b617728cd60582c8" title="Compute nodal normals using one of the following weighting schemes: E2N_ONE, E2N_AREA, and E2N_ANGLE, and E2N_USER. " alt="" coords="461,115,624,162"/>
+<area shape="rect" id="node25" href="$classRocsurf.html#ae88ac8c15c0952ecf710d15d67b8dea8" title="Computes nodal or elemental normals of a given window. " alt="" coords="883,142,1029,189"/>
+<area shape="rect" id="node7" href="$classWindow__manifold__2.html#a6c39c023dbe78b00e91b3d5693ea216d" title="Compute the normals at nodes or faces, depending on the type of the dataitem normals. " alt="" coords="672,46,819,93"/>
+<area shape="rect" id="node23" href="$classWindow__manifold__2.html#aad29e9f557854ef4546bb8614205abda" title="Perturb the given mesh along its normal direction by length equal to a random number between &#45;range a..." alt="" coords="672,115,819,162"/>
+<area shape="rect" id="node9" href="$classRocsurf.html#a94a02b38e559f4da89d554a661c68d01" title="Computes nodal or elemental normals of a given window. " alt="" coords="867,72,1045,101"/>
+<area shape="rect" id="node11" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="1095,112,1193,141"/>
+<area shape="rect" id="node13" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1271,5,1417,35"/>
+<area shape="rect" id="node15" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1273,59,1415,88"/>
+<area shape="rect" id="node17" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1247,112,1441,141"/>
+<area shape="rect" id="node19" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1271,165,1417,195"/>
+<area shape="rect" id="node21" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="1243,219,1445,248"/>
+</map>

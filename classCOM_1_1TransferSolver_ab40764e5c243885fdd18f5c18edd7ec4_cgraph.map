@@ -1,0 +1,37 @@
+<map id="COM::TransferSolver::Setup" name="COM::TransferSolver::Setup">
+<area shape="rect" id="node3" href="$classSolverUtils_1_1FEM_1_1SolutionMetaData.html#abb4ea4cfe4a639d6f65861ebd7ee7150" title="SolverUtils::FEM::Solution\lMetaData::AddField" alt="" coords="204,5,380,51"/>
+<area shape="rect" id="node5" href="$classSolverUtils_1_1FEM_1_1SolverAgent.html#a98e046af6e7fac4aebbffa9438c7ab81" title="SolverUtils::FEM::Solver\lAgent::CreateSoln" alt="" coords="447,301,612,347"/>
+<area shape="rect" id="node7" href="$classSolverUtils_1_1FEM_1_1SolverAgent.html#a4cd2aabea3b551affce4c45a4f87abc2" title="SolverUtils::FEM::Solver\lAgent::Solution" alt="" coords="681,125,847,171"/>
+<area shape="rect" id="node11" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a47a999c5ebdab2937397a9d6e4c51f8c" title="SolverUtils::Mesh::\lConnectivity::Nelem" alt="" coords="919,245,1060,291"/>
+<area shape="rect" id="node15" href="$classSolverUtils_1_1FEM_1_1SolverAgent.html#a57f58707f0ead43178b30c1f7230ec73" title="SolverUtils::FEM::Solver\lAgent::Mesh" alt="" coords="681,263,847,310"/>
+<area shape="rect" id="node18" href="$namespaceSolverUtils_1_1MeshUtils.html#ac6846a9e7cdae0ed38264a6344df5579" title="SolverUtils::MeshUtils\l::meshgen2d" alt="" coords="216,210,368,257"/>
+<area shape="rect" id="node22" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a62cb9b7f3f556d91efecb9e116e0afcd" title="SolverUtils::FEM::Solution\lData::Meta" alt="" coords="676,775,852,822"/>
+<area shape="rect" id="node25" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#ac8f2f3df88ec389e2c88971e26c83a1d" title="SolverUtils::Mesh::\lNodalCoordinates::NNodes" alt="" coords="201,566,383,613"/>
+<area shape="rect" id="node27" href="$namespaceSolverUtils.html#abd82bb11c3dd2f2f88ff31ca33755f5b" title="SolverUtils::RegisterSolver" alt="" coords="203,636,381,665"/>
+<area shape="rect" id="node89" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a71a0dfc038054d917b657b7a0e7f29eb" title="SolverUtils::FEM::Solution\lData::SetFieldBuffer" alt="" coords="204,689,380,735"/>
+<area shape="rect" id="node94" href="$namespaceSolverUtils_1_1Mesh.html#ad4367ce798da66717edb420d3b26323e" title="SolverUtils::Mesh::\lWriteVTKToStream" alt="" coords="224,758,360,805"/>
+<area shape="rect" id="node9" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a410c01f62c73de376811189123b2ea25" title="SolverUtils::FEM::Solution\lData::Create" alt="" coords="676,194,852,241"/>
+<area shape="rect" id="node13" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#a2fe650250a159633959c19fdb9e33a4e" title="SolverUtils::Mesh::\lNodalCoordinates::Size" alt="" coords="909,363,1069,410"/>
+<area shape="rect" id="node20" href="$namespaceSolverUtils_1_1Mesh.html#ad6e6f29d115ce758ecfd5203b183b943" title="SolverUtils::Mesh::\lReadMeshFromStream" alt="" coords="451,181,608,227"/>
+<area shape="rect" id="node29" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="463,999,596,1028"/>
+<area shape="rect" id="node37" href="$namespaceSolverUtils.html#a5715c31b1d60ded22957f9d3e53a713a" title="SolverUtils::CreateDataItems\lFromSolution" alt="" coords="432,806,627,853"/>
+<area shape="rect" id="node60" href="$namespaceSolverUtils.html#a040b0206db4efc72691b47e124622aef" title="SolverUtils::AgentToPane" alt="" coords="443,463,616,492"/>
+<area shape="rect" id="node84" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="448,1091,611,1120"/>
+<area shape="rect" id="node31" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="1163,879,1272,908"/>
+<area shape="rect" id="node35" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="685,1050,843,1097"/>
+<area shape="rect" id="node33" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="1359,879,1543,908"/>
+<area shape="rect" id="node39" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#af4e6ca4aa1351bda1e20915140ace949" title="SolverUtils::FEM::Solution\lData::Data" alt="" coords="676,706,852,753"/>
+<area shape="rect" id="node42" href="$com__c_09_09_8hpp.html#a8d14cf34eccebd1168103d4624ac2677" title="Registering an dataitem type. " alt="" coords="693,947,835,976"/>
+<area shape="rect" id="node49" href="$com__c_09_09_8hpp.html#a000a075fb1782d7eeaae75a7136e6411" title="Set sizes of for a specific dataitem. " alt="" coords="935,748,1044,777"/>
+<area shape="rect" id="node54" href="$com__c_09_09_8hpp.html#adca6827f3c065859156fa3562c2cd9a8" title="Associates an array with an dataitem for a specific pane. " alt="" coords="932,648,1047,677"/>
+<area shape="rect" id="node45" href="$classCOM_1_1COM__base.html#ae4d775df72eadf0171e9401fafebffc1" title="Creates a new dataitem for a window. " alt="" coords="911,930,1068,977"/>
+<area shape="rect" id="node47" href="$COM__base_8C.html#afe90d629a5053e5b8e54940849d34862" title="print_type" alt="" coords="1179,939,1256,968"/>
+<area shape="rect" id="node52" href="$classCOM_1_1COM__base.html#aee4022985c5a2541202401c029117b2e" title="Set the sizes of an dataitem. " alt="" coords="1125,748,1309,777"/>
+<area shape="rect" id="node57" href="$classCOM_1_1COM__base.html#a75c84e8f2474a41db1d7def84122051f" title="Associates an array with an dataitem for a specific pane. " alt="" coords="1141,639,1293,686"/>
+<area shape="rect" id="node64" href="$namespaceSolverUtils.html#ac956a14f8058561de46a633f07854aef" title="Creates a window pane from a Mesh object. (copy mode or use mode) " alt="" coords="679,485,849,531"/>
+<area shape="rect" id="node68" href="$com__c_8h.html#a34c7c55b98221dbb95aba53c374cf596" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="924,433,1055,463"/>
+<area shape="rect" id="node70" href="$com__c_8h.html#a6dd240c15a2b3e85d2d91cbe9eec6611" title="Get the address for an dataitem on a specific pane. " alt="" coords="932,556,1047,585"/>
+<area shape="rect" id="node73" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a182b355125fc9d502669d964028ba65d" title="SolverUtils::Mesh::\lConnectivity::AddElement" alt="" coords="903,486,1076,533"/>
+<area shape="rect" id="node87" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="675,1119,853,1166"/>
+<area shape="rect" id="node91" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a4372973e9ebc7c017e9c391e15104d55" title="SolverUtils::FEM::Solution\lData::GetDataIndex" alt="" coords="441,1143,617,1190"/>
+</map>

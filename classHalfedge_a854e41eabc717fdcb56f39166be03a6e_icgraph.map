@@ -1,0 +1,13 @@
+<map id="Halfedge::id" name="Halfedge::id">
+<area shape="rect" id="node3" href="$Manifold__2_8C.html#a305742238b48caccbf60160496982547" title="Get the face normal of a point in the element incident on h. " alt="" coords="193,25,279,55"/>
+<area shape="rect" id="node9" href="$classNode.html#abd9d27318bc9c523aa4937e46e63dfe2" title="Get an incident halfedge originated from the node. " alt="" coords="181,91,291,120"/>
+<area shape="rect" id="node21" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="147,159,325,188"/>
+<area shape="rect" id="node5" href="$classHalfedge.html#a138f3a3baa9aebaab4f589d8dfea1c55" title="Get the normal of the incident facet. " alt="" coords="387,13,507,43"/>
+<area shape="rect" id="node7" href="$classHalfedge.html#a269dc2510d5500c2747c77287d4e6da7" title="Return the dihedral angle at the edge. " alt="" coords="588,5,713,51"/>
+<area shape="rect" id="node11" href="$classWindow__manifold__2.html#a98d72b391248b8ad30f7a62176de09c4" title="Determine the primary nodes for across&#45;pane access. " alt="" coords="373,66,520,113"/>
+<area shape="rect" id="node19" href="$classNode.html#a34c43ffd7679daeb45bc4b040588b9fc" title="Is the node on the physical boundary? " alt="" coords="389,136,504,165"/>
+<area shape="rect" id="node13" href="$classWindow__manifold__2.html#af0271b5b6b206b3dd5e6e5650141fdde" title="Initialize the manifold by inheriting the given mesh. " alt="" coords="569,75,732,104"/>
+<area shape="rect" id="node15" href="$classWindow__manifold__2.html#a2cd4f1a3caa1a90704899c3e27e8bd72" title="Construct a Window_manifold_2 from a given window. " alt="" coords="789,31,936,78"/>
+<area shape="rect" id="node17" href="$classRFC__Window__overlay.html#abac82c95c8685d2e5455664c9f810a1c" title="RFC_Window_overlay\l::RFC_Window_overlay" alt="" coords="783,101,943,147"/>
+<area shape="rect" id="node23" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="388,189,505,219"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DataItem::allocate" name="DataItem::allocate">
+<area shape="rect" id="node3" href="$classDataItem.html#a2c2b7f9c0ef3902245892dd6c48ca7cd" title="DataItem::copy_array" alt="" coords="185,109,332,139"/>
+<area shape="rect" id="node5" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="381,57,464,87"/>
+<area shape="rect" id="node7" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="401,163,444,192"/>
+<area shape="rect" id="node10" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="236,163,281,192"/>
+<area shape="rect" id="node13" href="$classDataItem.html#aad06f21a0dd126f7495158a70e264696" title="Set the physical address of the dataitem values. " alt="" coords="185,5,332,35"/>
+</map>

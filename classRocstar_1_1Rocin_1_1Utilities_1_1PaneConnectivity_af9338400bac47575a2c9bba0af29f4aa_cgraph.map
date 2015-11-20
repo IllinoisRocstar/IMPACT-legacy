@@ -1,0 +1,5 @@
+<map id="Rocstar::Rocin::Utilities::PaneConnectivity::getPointConnectionPairs" name="Rocstar::Rocin::Utilities::PaneConnectivity::getPointConnectionPairs">
+<area shape="rect" id="node3" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#aed5aa620af6b2b1cfda3057ee9d6716c" title="Returns the index to the shared node list of the local point that is shared with the given remote pan..." alt="" coords="340,39,601,86"/>
+<area shape="rect" id="node5" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#ae6b459970eaa073c2aafe6747aba0e45" title="Checks if the pane exists in this instance. " alt="" coords="667,5,859,51"/>
+<area shape="rect" id="node7" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#a0024e3c89a5debbc147f1f3f6f3d939a" title="This method checks if the local point exists in this instance. " alt="" coords="652,74,873,121"/>
+</map>

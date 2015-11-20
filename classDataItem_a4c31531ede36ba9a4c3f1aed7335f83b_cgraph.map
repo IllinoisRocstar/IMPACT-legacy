@@ -1,0 +1,9 @@
+<map id="DataItem::DataItem" name="DataItem::DataItem">
+<area shape="rect" id="node3" href="$classDataItem.html#a4e73a76d01968d4327f8c547efb9159d" title="Default constructor. " alt="" coords="192,17,331,47"/>
+<area shape="rect" id="node5" href="$classDataItem.html#a9cafcc5fa2e56403b4e57a4b5edd4f7c" title="Obtain the full name of the dataitem including window name suitable for printing out error messages..." alt="" coords="195,71,328,100"/>
+<area shape="rect" id="node13" href="$classDataItem.html#a5edd77180ff7e88445e31305c44ebbc0" title="Obtain the name of the dataitem. " alt="" coords="392,128,507,157"/>
+<area shape="rect" id="node16" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="208,175,315,204"/>
+<area shape="rect" id="node7" href="$classDataItem.html#ac5be076b6aa11312e36ae4be607a21f5" title="Obtain a constant pointer to the parent window of the dataitem. " alt="" coords="385,5,513,35"/>
+<area shape="rect" id="node11" href="$classComponentInterface.html#aa8b6fe25ffacb81765e94e5f008dcc9c" title="Obtain the CI&#39;s name. " alt="" coords="380,58,519,105"/>
+<area shape="rect" id="node9" href="$classPane.html#add1c79360212a9bb77ac7bdc07883760" title="Obtain a constant pointer to its owner window object. " alt="" coords="568,5,672,35"/>
+</map>

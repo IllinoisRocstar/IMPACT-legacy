@@ -1,0 +1,6 @@
+<map id="Rocout::read_control_file" name="Rocout::read_control_file">
+<area shape="rect" id="node3" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="223,32,311,61"/>
+<area shape="rect" id="node5" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="361,32,513,61"/>
+<area shape="rect" id="node7" href="$Rocout_8C.html#aa61f5dc3c463c5fd8227b81d8ab9012f" title="COM_F_FUNC2" alt="" coords="604,5,724,35"/>
+<area shape="rect" id="node9" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="563,59,765,88"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RFC_Window_overlay::get_tangent" name="RFC_Window_overlay::get_tangent">
+<area shape="rect" id="node3" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="209,5,351,35"/>
+<area shape="rect" id="node5" href="$classHEdge.html#ac0238c146ab6857ee7353a42eaa9aa74" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="225,59,335,88"/>
+<area shape="rect" id="node7" href="$classNode.html#ac48da3915cb29c0947996182a426ca8f" title="Obtain the coordinates of a node. " alt="" coords="236,112,324,141"/>
+<area shape="rect" id="node9" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="400,112,568,141"/>
+</map>

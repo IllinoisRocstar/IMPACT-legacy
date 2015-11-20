@@ -1,0 +1,18 @@
+<map id="COM_print_window" name="COM_print_window">
+<area shape="rect" id="node3" href="$com__c_8h.html#a44547c3eab1bf444e5f9bb23c13fc123" title="COM_free_buffer" alt="" coords="219,5,341,35"/>
+<area shape="rect" id="node5" href="$com__c_8h.html#a6dd240c15a2b3e85d2d91cbe9eec6611" title="Get the address for an dataitem on a specific pane. " alt="" coords="223,59,337,88"/>
+<area shape="rect" id="node7" href="$com__c_8h.html#ac86843e321e2bb50722aa041663e962d" title="COM_get_connectivities" alt="" coords="197,112,363,141"/>
+<area shape="rect" id="node9" href="$com__c_8h.html#a0c557d350cb4b4b6e05938c9706aead3" title="Get the sizes of an dataitem. " alt="" coords="213,165,347,195"/>
+<area shape="rect" id="node21" href="$com__c_8h.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="191,219,369,248"/>
+<area shape="rect" id="node23" href="$com__c_8h.html#ad80020fdf2fa9c67eea7e0db8c6491cc" title="COM_get_dataitems" alt="" coords="209,272,351,301"/>
+<area shape="rect" id="node25" href="$com__c_8h.html#ad744816e73fae2aec731bcbe41b52a16" title="COM_get_panes" alt="" coords="220,325,340,355"/>
+<area shape="rect" id="node27" href="$com__c_8h.html#aa2b647076100c442c949a67e8484270b" title="Get the sizes of an dataitem. " alt="" coords="225,379,335,408"/>
+<area shape="rect" id="node29" href="$printfeas_8C.html#aa0225893958506b95a00d5b508df049c" title="PrintConn" alt="" coords="240,432,320,461"/>
+<area shape="rect" id="node31" href="$printfeas_8C.html#a3afe91611694a4c06719a5e3d1b1b40d" title="PrintStructured" alt="" coords="225,485,335,515"/>
+<area shape="rect" id="node33" href="$printfeas_8C.html#a542a0e41ef152b6adcb6d44e3e9af0eb" title="PrintUnstructured" alt="" coords="219,539,341,568"/>
+<area shape="rect" id="node11" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="441,73,551,103"/>
+<area shape="rect" id="node15" href="$classCOM_1_1COM__base.html#a9e78ff33f6875dec84c8c2bf9bb15b48" title="Information retrieval Get the information about an dataitem. " alt="" coords="420,126,572,173"/>
+<area shape="rect" id="node17" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="473,196,519,225"/>
+<area shape="rect" id="node19" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="475,249,517,279"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="623,73,807,103"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="KD_tree_3::search" name="KD_tree_3::search">
+<area shape="rect" id="node3" href="$Pane__connectivity_8C.html#ab44ce51f5b14da9a0745c9161d427828" title="collect_coincident\l_nodes" alt="" coords="191,5,316,51"/>
+<area shape="rect" id="node7" href="$classPane__connectivity.html#a09542a0a8dd7169332b9980829676f3a" title="Create b2v mapping (pane connectivity) for nodes or edges and store the results into a vector of vect..." alt="" coords="185,74,321,121"/>
+<area shape="rect" id="node5" href="$classPane__connectivity.html#a531d039d0116be1e1ef57c6e614e60bd" title="Collect the boundary nodes of all panes that are coincident with the boundary nodes of local panes..." alt="" coords="371,5,533,51"/>
+</map>

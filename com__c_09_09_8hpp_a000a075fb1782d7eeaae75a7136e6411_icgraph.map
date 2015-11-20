@@ -1,0 +1,51 @@
+<map id="COM_set_size" name="COM_set_size">
+<area shape="rect" id="node3" href="$namespaceSolverUtils.html#a040b0206db4efc72691b47e124622aef" title="SolverUtils::AgentToPane" alt="" coords="437,80,611,109"/>
+<area shape="rect" id="node24" href="$namespaceSolverUtils.html#a5715c31b1d60ded22957f9d3e53a713a" title="SolverUtils::CreateDataItems\lFromSolution" alt="" coords="427,133,621,179"/>
+<area shape="rect" id="node28" href="$blastest_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="245,253,296,283"/>
+<area shape="rect" id="node30" href="$Rocin_8C.html#a3ea67de6202deaedd67eabe2d2744b40" title="new_dataitems" alt="" coords="216,307,325,336"/>
+<area shape="rect" id="node41" href="$classMSH__Reader.html#aaf687b87fa88eef0d3186cfa5f855246" title="MSH_Reader::read_pane\l_coors" alt="" coords="187,463,355,510"/>
+<area shape="rect" id="node47" href="$classOBJ__Reader.html#ae2607edad92f244a60dc037f40a14d26" title="OBJ_Reader::read_pane\l_coors" alt="" coords="188,602,353,649"/>
+<area shape="rect" id="node53" href="$classSMF__Reader.html#a0da570c77eb3c4166446b158bc6214d7" title="SMF_Reader::read_pane\l_coors" alt="" coords="188,741,353,787"/>
+<area shape="rect" id="node59" href="$classOFF__Reader.html#ac7905fdcb65f1ecd31d8365f43cbdcb8" title="OFF_Reader::read_pane\l_coors" alt="" coords="188,879,353,926"/>
+<area shape="rect" id="node65" href="$classNeutral__Reader.html#aa85b2a46ab8c5a15d73b488bcd3632c1" title="Neutral_Reader::read\l_pane_coors" alt="" coords="197,1018,344,1065"/>
+<area shape="rect" id="node71" href="$classIM__Reader.html#add3be59e297d394b1b556b63a8ad2950" title="IM_Reader::read_pane\l_coors" alt="" coords="193,1157,348,1203"/>
+<area shape="rect" id="node83" href="$classOBJ__Reader.html#af8b17eeb6efcb369b01ab5dc3acc613c" title="OBJ_Reader::read_pane\l_elems" alt="" coords="188,671,353,718"/>
+<area shape="rect" id="node86" href="$classOFF__Reader.html#aca60eda10623116eb4d9072560ab3b5c" title="OFF_Reader::read_pane\l_elems" alt="" coords="188,949,353,995"/>
+<area shape="rect" id="node89" href="$classMSH__Reader.html#a09cb0bfac500a2d2c4f731009620b541" title="MSH_Reader::read_pane\l_elems" alt="" coords="187,533,355,579"/>
+<area shape="rect" id="node92" href="$classSMF__Reader.html#a343d93b4345a0b7846c036a5326afa58" title="SMF_Reader::read_pane\l_elems" alt="" coords="188,810,353,857"/>
+<area shape="rect" id="node95" href="$classNeutral__Reader.html#a46e72eba04a3dbe323f3f031e3f54ce5" title="Neutral_Reader::read\l_pane_elems" alt="" coords="197,1087,344,1134"/>
+<area shape="rect" id="node98" href="$classIM__Reader.html#a3d8e47f54d78f701e76aee5bae4d9b71" title="IM_Reader::read_pane\l_elems" alt="" coords="193,1226,348,1273"/>
+<area shape="rect" id="node102" href="$classRocin.html#aee80f20e824112ff9b2b9c8a13b7ceff" title="Read in parameters from a given file into the given window. " alt="" coords="681,412,860,441"/>
+<area shape="rect" id="node105" href="$classRocin.html#a8ffe8391555bf3dd62cbd62d651f9199" title="Rocin::register_panes" alt="" coords="196,360,345,389"/>
+<area shape="rect" id="node108" href="$classRFC__Pane__base.html#aaf3cff0660a06d4ff9723d6ae09f5afd" title="RFC_Pane_base::register\l_sdv_dataitems" alt="" coords="184,1295,357,1342"/>
+<area shape="rect" id="node110" href="$namespaceSolverUtils.html#ac956a14f8058561de46a633f07854aef" title="Creates a window pane from a Mesh object. (copy mode or use mode) " alt="" coords="185,82,356,129"/>
+<area shape="rect" id="node113" href="$classCOM_1_1TestingObject.html#ad7641daebe39bb1847bb9cc1de539b26" title="Test for COM_LOAD_MODULE_STATIC_DYNAMIC and COM_UNLOAD_MODULE_STATIC_DYNAMIC. " alt="" coords="921,194,1119,241"/>
+<area shape="rect" id="node116" href="$namespaceSolverUtils.html#a725d859f6513d7bdac690fbae04d362d" title="Creates a window from a Mesh object. (copies data) " alt="" coords="164,1365,377,1395"/>
+<area shape="rect" id="node5" href="$namespaceSolverUtils.html#abd82bb11c3dd2f2f88ff31ca33755f5b" title="SolverUtils::RegisterSolver" alt="" coords="681,80,860,109"/>
+<area shape="rect" id="node18" href="$namespaceSolverUtils.html#a4dc3eadf3c5b31e96ea58eaee60c4a59" title="SolverUtils::RegisterSolverInto" alt="" coords="669,141,872,171"/>
+<area shape="rect" id="node7" href="$classCOM_1_1TransferSolver.html#ab40764e5c243885fdd18f5c18edd7ec4" title="COM::TransferSolver\l::Setup" alt="" coords="947,71,1093,118"/>
+<area shape="rect" id="node9" href="$classCOM_1_1TestingObject.html#a358a9ca0a519dab9cb451fd0fbd72dc4" title="COM::TestingObject\l::Test__LinearDataTransfer" alt="" coords="1179,74,1360,121"/>
+<area shape="rect" id="node15" href="$classCOM_1_1TestingObject.html#a48999c6e51334b89e895938db709c1ed" title="COM::TestingObject\l::Test__QuadraticDataTransfer" alt="" coords="1168,5,1371,51"/>
+<area shape="rect" id="node11" href="$classCOM_1_1TestingObject.html#adc0220ab9f8f32b94ec41af81b8e1b57" title="Runs all tests implemented by the COM::TestingObject. " alt="" coords="1420,74,1561,121"/>
+<area shape="rect" id="node13" href="$namespaceCOM.html#a071a4ed0afce0146c60c14de880f8c0e" title="Drives the COM::TestObject for the COM tests. " alt="" coords="1612,83,1697,112"/>
+<area shape="rect" id="node20" href="$classCOM_1_1TestModule.html#abececf8081a3f8c9501c80ad5a0f4fb1" title="Initialize stub solver from config file. " alt="" coords="924,141,1116,171"/>
+<area shape="rect" id="node22" href="$classCOM_1_1TestModule.html#a2a675f6b63da85d9b8175d2b2df6b478" title="&quot;Loads&quot; the C++ TestModule " alt="" coords="1187,144,1352,173"/>
+<area shape="rect" id="node32" href="$classRocin.html#af873ef4548be6ffa64ebec35a23a8010" title="Create a series of Roccom windows by reading in a list of files. " alt="" coords="451,332,597,361"/>
+<area shape="rect" id="node34" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="980,359,1060,388"/>
+<area shape="rect" id="node38" href="$classRocin.html#acf03f03f4f5120c44178c0494fe93299" title="Create a single Roccom window by reading in a list of files. " alt="" coords="701,359,840,388"/>
+<area shape="rect" id="node36" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="1200,359,1339,388"/>
+<area shape="rect" id="node43" href="$classMSH__Reader.html#ab76a9bc167a6cc1bfff0ba28a2428b9c" title="MSH_Reader::read_mesh" alt="" coords="437,507,611,536"/>
+<area shape="rect" id="node45" href="$msh2hdf_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="745,507,796,536"/>
+<area shape="rect" id="node49" href="$classOBJ__Reader.html#abd4423f01542cd46cae21e391e6e36fd" title="OBJ_Reader::read_mesh" alt="" coords="440,645,608,675"/>
+<area shape="rect" id="node51" href="$obj2hdf_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="745,645,796,675"/>
+<area shape="rect" id="node55" href="$classSMF__Reader.html#a582f6ceb25a0f1d50dd8945404b730e9" title="SMF_Reader::read_mesh" alt="" coords="439,784,609,813"/>
+<area shape="rect" id="node57" href="$smf2hdf_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="745,784,796,813"/>
+<area shape="rect" id="node61" href="$classOFF__Reader.html#a52a87798d23d0388be53c4ea5ba07adc" title="OFF_Reader::read_mesh" alt="" coords="440,923,608,952"/>
+<area shape="rect" id="node63" href="$surfdiver_8C.html#a750b9ebf4f419ffa894958fb0beebd45" title="read_file" alt="" coords="736,923,805,952"/>
+<area shape="rect" id="node67" href="$classNeutral__Reader.html#aecb9eb4686bb5148267a1aa1af905575" title="Neutral_Reader::read_mesh" alt="" coords="432,1047,616,1076"/>
+<area shape="rect" id="node69" href="$neu2hdf_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="745,1047,796,1076"/>
+<area shape="rect" id="node73" href="$classIM__Reader.html#ab3bbac159a822265fd7fe8ba9a68f114" title="IM_Reader::read_pane_ij" alt="" coords="441,1120,607,1149"/>
+<area shape="rect" id="node77" href="$classIM__Reader.html#a45680b33016ef85ca52d559af6e1027f" title="IM_Reader::read_pane_uns" alt="" coords="433,1173,615,1203"/>
+<area shape="rect" id="node80" href="$classIM__Reader.html#a984663dbb3b5bcee8b3556931327b1f1" title="IM_Reader::read_pane\l_mixed" alt="" coords="447,1226,601,1273"/>
+<area shape="rect" id="node75" href="$classIM__Reader.html#a7334a18403c5dfb4c333bd1ebc13bc06" title="IM_Reader::read_mesh" alt="" coords="692,1173,849,1203"/>
+</map>

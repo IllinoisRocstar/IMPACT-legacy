@@ -1,0 +1,23 @@
+<map id="COM_set_object" name="COM_set_object">
+<area shape="rect" id="node3" href="$classCoupling.html#a0e57e35dd0512832f7c4075240f29c34" title="Coupling::baseInit" alt="" coords="193,5,319,35"/>
+<area shape="rect" id="node7" href="$classAgent.html#ae584ba64d7194b7643f7d82f91b98d74" title="Agent::create_window" alt="" coords="181,59,331,88"/>
+<area shape="rect" id="node11" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="212,112,300,141"/>
+<area shape="rect" id="node19" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="216,165,296,195"/>
+<area shape="rect" id="node29" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="207,299,305,328"/>
+<area shape="rect" id="node41" href="$classCOM_1_1TestModule.html#a2a675f6b63da85d9b8175d2b2df6b478" title="&quot;Loads&quot; the C++ TestModule " alt="" coords="173,432,339,461"/>
+<area shape="rect" id="node5" href="$classCoupling.html#a35180084948072398e9902edf132ccf1" title="Constructor. Derived class will add actions for the coupling scheme. " alt="" coords="423,5,553,35"/>
+<area shape="rect" id="node9" href="$classAgent.html#ad5a0bdccbd94e664ad130a6316f96ca7" title="Agent::Agent" alt="" coords="439,59,537,88"/>
+<area shape="rect" id="node13" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="412,112,564,141"/>
+<area shape="rect" id="node15" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="637,59,840,88"/>
+<area shape="rect" id="node17" href="$Rocout_8C.html#aa61f5dc3c463c5fd8227b81d8ab9012f" title="COM_F_FUNC2" alt="" coords="679,112,799,141"/>
+<area shape="rect" id="node21" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="419,165,557,195"/>
+<area shape="rect" id="node23" href="$readsdv_8C.html#a64be298d6315aab8ff717f2c8d1b7777" title="read_pane_sp" alt="" coords="688,165,789,195"/>
+<area shape="rect" id="node27" href="$Rocin_8C.html#a265d4c3356bff967be0965480956fe6b" title="COM_F_FUNC2" alt="" coords="679,219,799,248"/>
+<area shape="rect" id="node25" href="$readsdv_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="888,165,939,195"/>
+<area shape="rect" id="node31" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="415,219,561,248"/>
+<area shape="rect" id="node33" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="417,272,559,301"/>
+<area shape="rect" id="node35" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="391,325,585,355"/>
+<area shape="rect" id="node37" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="415,379,561,408"/>
+<area shape="rect" id="node39" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="387,432,589,461"/>
+<area shape="rect" id="node43" href="$COM_2testing_2src_2TestModule_8C.html#a8e6eff0527aa57bc1f60c67a9f6adabf" title="C/C++ bindings to load COMTESTMOD. " alt="" coords="389,485,587,515"/>
+</map>

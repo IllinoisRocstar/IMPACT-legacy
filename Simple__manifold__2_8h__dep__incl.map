@@ -1,0 +1,31 @@
+<map id="Simple_manifold_2.h" name="Simple_manifold_2.h">
+<area shape="rect" id="node3" href="$Pane__boundary_8h.html" title="Utility for detecting boundaries of a pane. " alt="" coords="301,83,424,112"/>
+<area shape="rect" id="node13" href="$Pane__connectivity_8h.html" title="Utility for constructing pane connectivities in parallel. " alt="" coords="688,83,827,112"/>
+<area shape="rect" id="node27" href="$Simple__manifold__2_8C.html" title="Simple_manifold_2.C" alt="" coords="1232,83,1379,112"/>
+<area shape="rect" id="node29" href="$Manifold__2_8h.html" title="Manifold_2.h" alt="" coords="1112,83,1208,112"/>
+<area shape="rect" id="node5" href="$Pane__boundary_8C.html" title="Pane_boundary.C" alt="" coords="5,160,131,189"/>
+<area shape="rect" id="node7" href="$Pane__connectivity_8C.html" title="Pane_connectivity.C" alt="" coords="155,160,296,189"/>
+<area shape="rect" id="node9" href="$Rocmap_8C.html" title="Rocmap.C" alt="" coords="320,160,405,189"/>
+<area shape="rect" id="node11" href="$RFC__Window__base_8C.html" title="RFC_Window_base.C" alt="" coords="429,160,581,189"/>
+<area shape="rect" id="node15" href="$Pane__ghost__connectivity_8h.html" title="Utility for constructing pane ghost connecvtivities in parallel. " alt="" coords="605,160,784,189"/>
+<area shape="rect" id="node17" href="$Pane__ghost__connectivity_8C.html" title="Pane_ghost_connectivity.C" alt="" coords="667,237,848,267"/>
+<area shape="rect" id="node19" href="$Pane__communicator_8C.html" title="Handles communication of shared nodes across panes. " alt="" coords="859,160,1013,189"/>
+<area shape="rect" id="node24" href="$Manifold__2_8C.html" title="Manifold_2.C" alt="" coords="1037,160,1136,189"/>
+<area shape="rect" id="node31" href="$compute__curvature_8C.html" title="compute_curvature.C" alt="" coords="1160,160,1307,189"/>
+<area shape="rect" id="node34" href="$Rocsurf_8C.html" title="Rocsurf.C" alt="" coords="1331,160,1413,189"/>
+<area shape="rect" id="node36" href="$HDS__overlay_8h.html" title="HDS_overlay.h" alt="" coords="1437,160,1547,189"/>
+<area shape="rect" id="node38" href="$RFC__Window__overlay_8h.html" title="RFC_Window_overlay.h" alt="" coords="1411,237,1573,267"/>
+<area shape="rect" id="node40" href="$HDS__accessor_8h.html" title="HDS_accessor.h" alt="" coords="1353,315,1476,344"/>
+<area shape="rect" id="node42" href="$Overlay_8h.html" title="Overlay.h" alt="" coords="1131,401,1208,431"/>
+<area shape="rect" id="node58" href="$RFC__Window__overlay_8C.html" title="RFC_Window_overlay.C" alt="" coords="1232,401,1397,431"/>
+<area shape="rect" id="node60" href="$RFC__Window__overlay__fea_8C.html" title="RFC_Window_overlay\l_fea.C" alt="" coords="1800,393,1952,439"/>
+<area shape="rect" id="node62" href="$RFC__Window__overlay__IO_8C.html" title="RFC_Window_overlay_IO.C" alt="" coords="1589,401,1776,431"/>
+<area shape="rect" id="node65" href="$Overlay__primitives_8h.html" title="Overlay_primitives.h" alt="" coords="1500,315,1641,344"/>
+<area shape="rect" id="node56" href="$Overlay__primitives_8C.html" title="Overlay_primitives.C" alt="" coords="1421,401,1565,431"/>
+<area shape="rect" id="node44" href="$Overlay_8C.html" title="Overlay.C" alt="" coords="827,488,907,517"/>
+<area shape="rect" id="node46" href="$Overlay__0d_8C.html" title="Overlay_0d.C" alt="" coords="931,488,1032,517"/>
+<area shape="rect" id="node48" href="$Overlay__1d_8C.html" title="Overlay_1d.C" alt="" coords="1056,488,1157,517"/>
+<area shape="rect" id="node50" href="$Overlay__init_8C.html" title="Overlay_init.C" alt="" coords="1181,488,1285,517"/>
+<area shape="rect" id="node52" href="$Overlay__IO_8C.html" title="Overlay_IO.C" alt="" coords="1309,488,1411,517"/>
+<area shape="rect" id="node54" href="$Rocface_8C.html" title="Rocface.C" alt="" coords="1435,488,1520,517"/>
+</map>

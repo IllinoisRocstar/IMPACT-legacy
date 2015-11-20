@@ -1,0 +1,21 @@
+<map id="Window_manifold_2::pm_begin" name="Window_manifold_2::pm_begin">
+<area shape="rect" id="node3" href="$classWindow__manifold__2.html#aa74576cadce123ed71fe6fabe86ebe76" title="Accumulate the values for border faces. " alt="" coords="201,5,356,51"/>
+<area shape="rect" id="node5" href="$classWindow__manifold__2.html#adef221f1b705b245c2af60ca4144b09d" title="Window_manifold_2::\lassign_global_nodeIDs" alt="" coords="408,230,565,277"/>
+<area shape="rect" id="node7" href="$classWindow__manifold__2.html#a167719b9a529f0acffb6a9ade04a5b30" title="Create a serial window (with single pane) from the current window. " alt="" coords="616,170,763,217"/>
+<area shape="rect" id="node23" href="$classRocsurf.html#a97d01c84761acbeb7f318e784e7618d3" title="Computes edge lengths of a given window. " alt="" coords="407,55,567,102"/>
+<area shape="rect" id="node27" href="$classWindow__manifold__2.html#a17a668c6ec5029c039c4f7a39aa3671e" title="Obtain the number of edges. " alt="" coords="205,245,352,291"/>
+<area shape="rect" id="node29" href="$classWindow__manifold__2.html#aebfe948b0c0a67ab7d8fb999ef4fe5fa" title="Obtain the number of faces. " alt="" coords="413,327,560,374"/>
+<area shape="rect" id="node32" href="$classWindow__manifold__2.html#aee0778c2048aafd64613b523d057e462" title="Obtain the number of nodes (shared nodes are counted only once. " alt="" coords="205,175,352,222"/>
+<area shape="rect" id="node36" href="$classWindow__manifold__2.html#a415b208be5de2e1e05304b0827ad046e" title="Obtain the number of quadrilaterals. " alt="" coords="205,415,352,462"/>
+<area shape="rect" id="node38" href="$classWindow__manifold__2.html#a0242fc2a97d4b8dcc172899755ddea5b" title="Obtain the number of triangles. " alt="" coords="205,485,352,531"/>
+<area shape="rect" id="node40" href="$classWindow__manifold__2.html#a8987985b88d034b6629c2b0f22f16abd" title="Update the flags for border faces. " alt="" coords="205,554,352,601"/>
+<area shape="rect" id="node42" href="$classWindow__manifold__2.html#ae45dccc86fb7d7af210e0cea7a8604d8" title="Update the normals for border faces. " alt="" coords="205,623,352,670"/>
+<area shape="rect" id="node44" href="$classWindow__manifold__2.html#a23abb1078a2c079a074e1a6a22ea20ac" title="Update bitmap for border edges. " alt="" coords="201,693,356,739"/>
+<area shape="rect" id="node9" href="$classRocsurf.html#a781a541c33d8fedc03577d7420e93712" title="Serialize the mesh of a given window. " alt="" coords="811,161,973,191"/>
+<area shape="rect" id="node11" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="1023,127,1121,156"/>
+<area shape="rect" id="node13" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1199,20,1345,49"/>
+<area shape="rect" id="node15" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1201,73,1343,103"/>
+<area shape="rect" id="node17" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1175,127,1369,156"/>
+<area shape="rect" id="node19" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1199,180,1345,209"/>
+<area shape="rect" id="node21" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="1171,233,1373,263"/>
+</map>

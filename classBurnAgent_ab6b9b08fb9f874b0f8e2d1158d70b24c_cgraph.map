@@ -1,0 +1,9 @@
+<map id="BurnAgent::unload_module" name="BurnAgent::unload_module">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a3b69f3c76a41cc5c16486cfbf2af9589" title="COM_close_module" alt="" coords="236,9,375,39"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#aa684c4e9ae00ebadfdaf5f5b230b47d9" title="COM_unload_module" alt="" coords="232,63,379,92"/>
+<area shape="rect" id="node15" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="237,116,373,145"/>
+<area shape="rect" id="node17" href="$classCoupling.html#a3e226a7ae0622d2c2a006aac1c8b9934" title="Coupling::in_restart" alt="" coords="239,169,372,199"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="459,5,568,35"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a008082532e10cdde27152c1838682359" title="Unload a module. " alt="" coords="427,58,600,105"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="649,5,833,35"/>
+</map>

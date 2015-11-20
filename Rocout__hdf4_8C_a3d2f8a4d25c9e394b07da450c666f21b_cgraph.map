@@ -1,0 +1,21 @@
+<map id="io_pane_coordinates" name="io_pane_coordinates">
+<area shape="rect" id="node3" href="$Rocout__hdf4_8C.html#a543d9911c012c3c4ba065dfa5ca7f43f" title="io_pane_dataitem" alt="" coords="196,271,319,300"/>
+<area shape="rect" id="node5" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="563,5,645,35"/>
+<area shape="rect" id="node7" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="748,272,793,301"/>
+<area shape="rect" id="node9" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="372,323,495,352"/>
+<area shape="rect" id="node11" href="$Rocout__hdf4_8C.html#aee7bc2fa39189845354f0a5b2badd0db" title="squared_sum" alt="" coords="384,376,483,405"/>
+<area shape="rect" id="node13" href="$classDataItem.html#ace6623b15df92803cbae82fb3feba8f0" title="Obtain the stride of the dataitem in base datatype. " alt="" coords="376,429,491,459"/>
+<area shape="rect" id="node17" href="$Rocout__hdf4_8C.html#ab888494a7b5fc6b35172edd255a03142" title="min_sqrt_element" alt="" coords="371,165,496,195"/>
+<area shape="rect" id="node27" href="$Rocout__hdf4_8C.html#a324b707f6ff5858512788c41158f3bf0" title="max_sqrt_element" alt="" coords="369,219,497,248"/>
+<area shape="rect" id="node36" href="$classDataItem.html#a5edd77180ff7e88445e31305c44ebbc0" title="Obtain the name of the dataitem. " alt="" coords="376,483,491,512"/>
+<area shape="rect" id="node38" href="$Rocout__hdf4_8C.html#a632044297047530d384b11f095ae5ca1" title="io_hdf_data" alt="" coords="389,85,477,115"/>
+<area shape="rect" id="node15" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="551,429,657,459"/>
+<area shape="rect" id="node19" href="$Rocout__hdf4_8C.html#ac8229bb03932fc8622ad0b87c1dbf66c" title="Template implementation for determining the minimum entry in an array. " alt="" coords="549,165,659,195"/>
+<area shape="rect" id="node21" href="$Rocout__hdf4_8C.html#aea6da2c883082aa85bdaa8411630f416" title="min_element" alt="" coords="723,112,819,141"/>
+<area shape="rect" id="node24" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="749,219,792,248"/>
+<area shape="rect" id="node29" href="$Rocout__hdf4_8C.html#a1449304ce4b6b899f4782fc0ff4e43a3" title="Template implementation for determining the maximum entry in an array. " alt="" coords="547,219,661,248"/>
+<area shape="rect" id="node31" href="$Rocout__hdf4_8C.html#a9713dbc5530df0639654ebc362314449" title="max_element" alt="" coords="721,165,820,195"/>
+<area shape="rect" id="node40" href="$Rocout__hdf4_8C.html#a5b13ee48befd0dc8b80e2d0c7fca56b7" title="append_str" alt="" coords="561,112,647,141"/>
+<area shape="rect" id="node43" href="$Rocout__hdf4_8C.html#ac7a080b59929cdee9d75d9fa40f7a43b" title="write_data" alt="" coords="563,59,645,88"/>
+<area shape="rect" id="node45" href="$Rocout__hdf4_8C.html#afd7f177d1c51ab54ac97e391edac5cd7" title="comtype2hdftype" alt="" coords="709,59,832,88"/>
+</map>

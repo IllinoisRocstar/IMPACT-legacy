@@ -1,0 +1,11 @@
+<map id="RFC_Pane_overlay::get_tangent" name="RFC_Pane_overlay::get_tangent">
+<area shape="rect" id="node3" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="227,5,368,35"/>
+<area shape="rect" id="node5" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="427,110,589,157"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__overlay.html#a604e702111a5f1adaf57a8da9eeda5de" title="RFC_Pane_overlay::get\l_tangent" alt="" coords="216,109,379,155"/>
+<area shape="rect" id="node11" href="$classRFC__Pane__overlay.html#ad8db42d8c66d936dbd38c8b09272ee55" title="RFC_Pane_overlay::is\l_feature_1" alt="" coords="220,178,375,225"/>
+<area shape="rect" id="node14" href="$classHEdge.html#ac4e3a22186171112305d6c58d00ec48b" title="HEdge::opposite_g" alt="" coords="231,248,364,277"/>
+<area shape="rect" id="node20" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="248,301,347,331"/>
+<area shape="rect" id="node7" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="684,119,753,148"/>
+<area shape="rect" id="node16" href="$classRFC__Pane__overlay.html#a44ba6aedde0749d2160e8dfa8dc17268" title="Obtain the opposite edge in a given access mode. " alt="" coords="427,239,589,286"/>
+<area shape="rect" id="node18" href="$classRFC__Pane__overlay.html#a9b9d9ab4f08bf73e5507581e4c5b9a66" title="RFC_Pane_overlay::get\l_counterpart" alt="" coords="637,239,800,286"/>
+</map>

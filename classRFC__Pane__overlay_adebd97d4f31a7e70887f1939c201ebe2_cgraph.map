@@ -1,0 +1,14 @@
+<map id="RFC_Pane_overlay::get_normal" name="RFC_Pane_overlay::get_normal">
+<area shape="rect" id="node3" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="227,5,368,35"/>
+<area shape="rect" id="node5" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="216,58,379,105"/>
+<area shape="rect" id="node9" href="$classHEdge.html#a4f71a79a914824210145754d83b9f640" title="Obtain the ID of the edge. " alt="" coords="257,128,337,157"/>
+<area shape="rect" id="node11" href="$classHEdge.html#ac4e3a22186171112305d6c58d00ec48b" title="HEdge::opposite_g" alt="" coords="231,181,364,211"/>
+<area shape="rect" id="node17" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="248,235,347,264"/>
+<area shape="rect" id="node19" href="$classNode.html#a6c04266bc4154e990bf5f485aef1d972" title="Obtain the owner Pane_manifold_2 of the node. " alt="" coords="253,288,341,317"/>
+<area shape="rect" id="node23" href="$classHEdge.html#aa7b9197fff083563c798153032f8d6ef" title="Get the previous halfedge of its owner element. " alt="" coords="245,341,349,371"/>
+<area shape="rect" id="node7" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="476,67,545,96"/>
+<area shape="rect" id="node13" href="$classRFC__Pane__overlay.html#a44ba6aedde0749d2160e8dfa8dc17268" title="Obtain the opposite edge in a given access mode. " alt="" coords="429,173,592,219"/>
+<area shape="rect" id="node15" href="$classRFC__Pane__overlay.html#a9b9d9ab4f08bf73e5507581e4c5b9a66" title="RFC_Pane_overlay::get\l_counterpart" alt="" coords="643,173,805,219"/>
+<area shape="rect" id="node21" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="427,288,595,317"/>
+<area shape="rect" id="node25" href="$classHEdge.html#ab459bde00b0954295a3bb65c4e503d5c" title="HEdge::HEdge" alt="" coords="456,341,565,371"/>
+</map>

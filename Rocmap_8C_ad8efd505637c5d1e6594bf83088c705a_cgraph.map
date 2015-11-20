@@ -1,0 +1,35 @@
+<map id="SURFMAP_LOAD_MODULE" name="SURFMAP_LOAD_MODULE">
+<area shape="rect" id="node3" href="$classRocmap.html#ac4cbff08c584711910366bd08711ed02" title="Loads Rocmap onto Roccom with a given module name. " alt="" coords="249,320,351,349"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="419,101,552,131"/>
+<area shape="rect" id="node13" href="$com__c_8h.html#aa236d5c98c0ac8cc26b313b6ccd720a8" title="COM_set_function" alt="" coords="420,155,551,184"/>
+<area shape="rect" id="node15" href="$classRocmap.html#a6c7167ebb9caaa4b9fb7abf8e212adab" title="Perform an average&#45;reduction on the shared nodes for the given attribute. " alt="" coords="400,207,571,254"/>
+<area shape="rect" id="node30" href="$classRocmap.html#a2f7026cc43749a6886f411419d4e1375" title="Perform a maxabs&#45;reduction on the shared nodes for the given attribute. " alt="" coords="400,277,571,323"/>
+<area shape="rect" id="node33" href="$classRocmap.html#a6625c20d1735cce29b0635f56913a917" title="Perform a minabs&#45;reduction on the shared nodes for the given attribute. " alt="" coords="403,346,568,393"/>
+<area shape="rect" id="node36" href="$classRocmap.html#af7bb495640c498473dc27269f71180b1" title="Update ghost nodal or elemental values for the given attribute. " alt="" coords="404,416,567,445"/>
+<area shape="rect" id="node39" href="$classRocmap.html#a3ee8edfae9b5c44497ae81b6ccc5f2bb" title="Compute pane connectivity map between shared nodes. " alt="" coords="400,469,571,499"/>
+<area shape="rect" id="node43" href="$classRocmap.html#a40efd96b43658a3c47174137a838d509" title="Determine the nodes at pane boundaries of a given mesh. " alt="" coords="411,522,560,569"/>
+<area shape="rect" id="node51" href="$classRocmap.html#a8e6e87f7e68f25b7baf824920cc797d7" title="Get the number of communicating panes. " alt="" coords="400,627,571,656"/>
+<area shape="rect" id="node70" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="404,48,567,77"/>
+<area shape="rect" id="node7" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="653,75,763,104"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="629,127,787,174"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="847,75,1031,104"/>
+<area shape="rect" id="node17" href="$classPane__communicator.html#a695dbe20d98cb9f5ac5be352a442bc6e" title="Initialize the communication buffers. " alt="" coords="625,316,791,345"/>
+<area shape="rect" id="node19" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="879,261,999,291"/>
+<area shape="rect" id="node23" href="$classPane__communicator.html#a1a31d31bb4ae29936b760d6141b6e1c4" title="For a given pane, obtain an internal pane ID which is unique and contiguous across processes..." alt="" coords="1080,310,1229,357"/>
+<area shape="rect" id="node25" href="$classPane__communicator.html#a4e9da8608bf6edf93e5bca58992546d3" title="Initialize a Pane_comm_buffers for ghost information. " alt="" coords="857,367,1020,414"/>
+<area shape="rect" id="node21" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="1113,257,1196,287"/>
+<area shape="rect" id="node27" href="$classPane__communicator.html#a292023010b824818aa19da1418c2a14e" title="Obtain the process rank of a given pane. " alt="" coords="1080,379,1229,426"/>
+<area shape="rect" id="node41" href="$classPane__connectivity.html#a93657c79cb2f2731ab59e024a8c968e5" title="Create b2v mapping for nodes and facets (edges or faces) correspondence. " alt="" coords="640,453,776,499"/>
+<area shape="rect" id="node45" href="$classPane__boundary.html#a8d38eca7375658c935208b18c67ce74d" title="Determine the nodes at pane boundaries of a given mesh. " alt="" coords="620,522,796,569"/>
+<area shape="rect" id="node47" href="$com__c_09_09_8hpp.html#a701c22c997913a2773d36a0b47683716" title="COM_compatible_types" alt="" coords="857,469,1020,499"/>
+<area shape="rect" id="node49" href="$classPane__boundary.html#ac000a4fb3b0c5a6d994aa0d29bd43bb8" title="Determine the border nodes (excluding isolated nodes) " alt="" coords="851,522,1027,569"/>
+<area shape="rect" id="node53" href="$classPane__connectivity.html#aa301519878e85489bade7f6d2b49d58c" title="Get the number of communicating panes. " alt="" coords="640,635,776,682"/>
+<area shape="rect" id="node55" href="$classComponentInterface.html#ab80a1a99516f6b9ceeaf381529abd29d" title="Find the pane with given ID. If not found, insert a pane with given ID. " alt="" coords="869,591,1008,638"/>
+<area shape="rect" id="node57" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="884,661,993,691"/>
+<area shape="rect" id="node68" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="877,715,1000,744"/>
+<area shape="rect" id="node59" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="1085,623,1224,670"/>
+<area shape="rect" id="node65" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="1333,689,1427,719"/>
+<area shape="rect" id="node61" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="1317,581,1443,611"/>
+<area shape="rect" id="node63" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="1279,635,1481,664"/>
+<area shape="rect" id="node73" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="619,5,797,51"/>
+</map>

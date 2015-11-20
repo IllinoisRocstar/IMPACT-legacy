@@ -1,0 +1,51 @@
+<map id="Overlay::intersect_link" name="Overlay::intersect_link">
+<area shape="rect" id="node3" href="$classOverlay.html#a68dfca90be08ced05008b4e3767b1ace" title="Overlay::contains" alt="" coords="399,312,521,341"/>
+<area shape="rect" id="node20" href="$classHEdge.html#af92013f922205b6206cd55bb4c803d05" title="Is the edge a border edge? " alt="" coords="1249,1025,1383,1055"/>
+<area shape="rect" id="node38" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="1056,212,1155,241"/>
+<area shape="rect" id="node40" href="$classHEdge.html#ac4e3a22186171112305d6c58d00ec48b" title="HEdge::opposite_g" alt="" coords="603,419,736,448"/>
+<area shape="rect" id="node43" href="$classHEdge.html#aa6ddcf44d16ec8e06d5b3a6aa54cbab6" title="HEdge::origin_g" alt="" coords="612,189,727,219"/>
+<area shape="rect" id="node47" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="824,603,965,632"/>
+<area shape="rect" id="node49" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="1024,622,1187,669"/>
+<area shape="rect" id="node53" href="$classRFC__Pane__base.html#ab2cde20c26603b34272c9f998de08fdc" title="RFC_Pane_base::id" alt="" coords="207,1356,345,1385"/>
+<area shape="rect" id="node55" href="$classOverlay.html#a47c99be0d881c11b755215b70787ea89" title="Overlay::intersect\l_link_helper" alt="" coords="213,705,339,751"/>
+<area shape="rect" id="node65" href="$classHEdge.html#aa0830bfa26fb41e2815ee3b874180962" title="HEdge::is_border_g" alt="" coords="601,1095,737,1124"/>
+<area shape="rect" id="node89" href="$classHEdge.html#ac0238c146ab6857ee7353a42eaa9aa74" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="405,963,515,992"/>
+<area shape="rect" id="node91" href="$classNode.html#ac48da3915cb29c0947996182a426ca8f" title="Obtain the coordinates of a node. " alt="" coords="416,1016,504,1045"/>
+<area shape="rect" id="node96" href="$classHEdge.html#aa7b9197fff083563c798153032f8d6ef" title="Get the previous halfedge of its owner element. " alt="" coords="408,1120,512,1149"/>
+<area shape="rect" id="node102" href="$classHDS__accessor.html#a3e24744c5181ef204241f6698153a631" title="HDS_accessor::is_feature_1" alt="" coords="575,472,764,501"/>
+<area shape="rect" id="node110" href="$classHEdge.html#a2fa0ea8f4238cadc5dcd7c73f8b14fbb" title="Get the next halfedge of its owner element. " alt="" coords="408,1173,512,1203"/>
+<area shape="rect" id="node118" href="$classOverlay.html#a9b5be97220606c4edb8fbdadc14b6a8f" title="Overlay::intersect\l_link_helper2" alt="" coords="213,109,339,155"/>
+<area shape="rect" id="node130" href="$classHEdge.html#aa4ec17db1a9122efde41a93929d5c988" title="HEdge::prev_g" alt="" coords="221,5,331,35"/>
+<area shape="rect" id="node5" href="$classHEdge.html#ad2bbdda4f2351c154fa6c67cacfff466" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="596,365,743,395"/>
+<area shape="rect" id="node27" href="$classHEdge.html#a066520f9796d5ef75a745c4d3dfc8745" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="623,312,716,341"/>
+<area shape="rect" id="node29" href="$classHEdge.html#aec510b3f7d79f31cdd0f8d5baaf9a446" title="HEdge::next_g" alt="" coords="615,133,724,163"/>
+<area shape="rect" id="node7" href="$classRFC__Pane__overlay.html#a517f1ea249a0de3e50c5968e6058ca6c" title="RFC_Pane_overlay::get\l_primary" alt="" coords="813,394,976,441"/>
+<area shape="rect" id="node9" href="$classNode.html#aa5b47f7b5cd24a9b683e4584d816b5f2" title="Node::is_border_l" alt="" coords="1044,455,1167,484"/>
+<area shape="rect" id="node11" href="$classNode.html#aac4d353b59a291b4ca230ce6aa05c4d7" title="Get an incident halfedge destinated at the node. " alt="" coords="1256,429,1376,459"/>
+<area shape="rect" id="node22" href="$classRFC__Pane__overlay.html#a40291c56ede9397b44a2997cce10f5f6" title="RFC_Pane_overlay::get\l_border_index" alt="" coords="1024,299,1187,346"/>
+<area shape="rect" id="node13" href="$classSimple__manifold__2.html#a665f845af0f5fe87e8102d711e16846b" title="Get the ID of an incident real edge within the pane of a given node. " alt="" coords="1445,351,1600,398"/>
+<area shape="rect" id="node15" href="$classSimple__manifold__2.html#a3973d25c56bf5b1d8cef3278d539d477" title="Get the ID of the opposite real edge of a given real or border edge. " alt="" coords="1649,451,1807,498"/>
+<area shape="rect" id="node17" href="$classSimple__manifold__2.html#ae3a4f2e516340dc968ce33377a0e7947" title="Get the ID of the previous real edge of the element or along the boundary. " alt="" coords="1453,421,1592,467"/>
+<area shape="rect" id="node24" href="$classHEdge.html#a4f71a79a914824210145754d83b9f640" title="Obtain the ID of the edge. " alt="" coords="1276,152,1356,181"/>
+<area shape="rect" id="node31" href="$classRFC__Pane__overlay.html#ae700d6675c1fa8df293f102ec2e8f752" title="Obtain the next edge in a given access mode. " alt="" coords="813,122,976,169"/>
+<area shape="rect" id="node33" href="$classRFC__Pane__overlay.html#a44ba6aedde0749d2160e8dfa8dc17268" title="Obtain the opposite edge in a given access mode. " alt="" coords="1024,33,1187,79"/>
+<area shape="rect" id="node35" href="$classRFC__Pane__overlay.html#a9b9d9ab4f08bf73e5507581e4c5b9a66" title="RFC_Pane_overlay::get\l_counterpart" alt="" coords="1235,33,1397,79"/>
+<area shape="rect" id="node51" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="1281,631,1351,660"/>
+<area shape="rect" id="node58" href="$Triangulation_8C.html#a995bdbcf526a0947f4904f36ba6d80d6" title="do_intersect" alt="" coords="413,739,507,768"/>
+<area shape="rect" id="node62" href="$classOverlay__primitives.html#ad55c86301a3c85c74f0151742c9df268" title="Overlay_primitives\l::intersect" alt="" coords="395,842,525,889"/>
+<area shape="rect" id="node100" href="$classOverlay__primitives.html#ad5fc1fd6f7263df9d35f4a61e1dcae98" title="Overlay_primitives\l::normalmatch" alt="" coords="395,567,525,614"/>
+<area shape="rect" id="node60" href="$Triangulation_8C.html#a13c6789b7ebf50733d52f6349bb0f301" title="do_intersect_intervals" alt="" coords="595,695,744,724"/>
+<area shape="rect" id="node68" href="$classHDS__accessor.html#a4e841429a68409d816d46a188662130d" title="HDS_accessor::get_normal" alt="" coords="579,540,760,569"/>
+<area shape="rect" id="node74" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="647,799,692,828"/>
+<area shape="rect" id="node76" href="$classOverlay__primitives.html#afd8a9b6a0401d938825218671346550b" title="Overlay_primitives\l::get_tangent" alt="" coords="604,1025,735,1071"/>
+<area shape="rect" id="node82" href="$classOverlay__primitives.html#a817e07ec4290d949f5b3e52e2e6bda70" title="Overlay_primitives\l::get_projdir" alt="" coords="604,955,735,1002"/>
+<area shape="rect" id="node87" href="$classVector__3.html#af1401b8491543741ae27481c8253a464" title="Vector_3::cross_product" alt="" coords="588,852,751,881"/>
+<area shape="rect" id="node71" href="$classRFC__Pane__overlay.html#ad3fbccaa0871f7896f7398dd08fe223c" title="RFC_Pane_overlay::get\l_normal" alt="" coords="813,533,976,579"/>
+<area shape="rect" id="node78" href="$classPoint__set.html#a5affcd30c1f78c4583af6ce8c728cbf8" title="Point_set::size_of\l_edges" alt="" coords="832,1025,957,1071"/>
+<area shape="rect" id="node80" href="$classVertex__set.html#aaeee57e03ca88288f297f4dcbe529bb4" title="Vertex_set::size_of\l_edges" alt="" coords="1039,990,1172,1037"/>
+<area shape="rect" id="node84" href="$classNormal__set.html#acbd96a12afb3e70b914a7f8e28190354" title="Normal_set::size_of\l_edges" alt="" coords="825,955,964,1002"/>
+<area shape="rect" id="node93" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="585,1199,753,1228"/>
+<area shape="rect" id="node98" href="$classHEdge.html#ab459bde00b0954295a3bb65c4e503d5c" title="HEdge::HEdge" alt="" coords="615,1252,724,1281"/>
+<area shape="rect" id="node104" href="$classRFC__Pane__overlay.html#ad8db42d8c66d936dbd38c8b09272ee55" title="RFC_Pane_overlay::is\l_feature_1" alt="" coords="817,463,972,510"/>
+<area shape="rect" id="node132" href="$classRFC__Pane__overlay.html#af253e459d531c3db7ad7e833a8820a7d" title="Obtain the previous edge in a given access mode. " alt="" coords="813,53,976,99"/>
+</map>

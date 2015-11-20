@@ -1,0 +1,11 @@
+<map id="Pane_boundary::determine_border_nodes" name="Pane_boundary::determine_border_nodes">
+<area shape="rect" id="node3" href="$classPane__boundary.html#a8d38eca7375658c935208b18c67ce74d" title="Determine the nodes at pane boundaries of a given mesh. " alt="" coords="233,103,409,150"/>
+<area shape="rect" id="node19" href="$classPane__connectivity.html#a17397016afe7cc09b60a941f0a81f892" title="Obtains the IDs and coordinates of boundary nodes of all local panes. " alt="" coords="233,173,409,219"/>
+<area shape="rect" id="node5" href="$classRocmap.html#a40efd96b43658a3c47174137a838d509" title="Determine the nodes at pane boundaries of a given mesh. " alt="" coords="460,103,609,150"/>
+<area shape="rect" id="node7" href="$classRocmap.html#ac4cbff08c584711910366bd08711ed02" title="Loads Rocmap onto Roccom with a given module name. " alt="" coords="660,112,761,141"/>
+<area shape="rect" id="node9" href="$Rocmap_8C.html#a854500cd46c6918f4ffb881b05af9606" title="SurfMap_load_module" alt="" coords="837,5,987,35"/>
+<area shape="rect" id="node11" href="$Rocmap_8C.html#a14accefd182641bddae978ed7f612276" title="surfmap_load_module" alt="" coords="837,59,987,88"/>
+<area shape="rect" id="node13" href="$Rocmap_8C.html#ad8efd505637c5d1e6594bf83088c705a" title="SURFMAP_LOAD_MODULE" alt="" coords="815,112,1009,141"/>
+<area shape="rect" id="node15" href="$Rocmap_8C.html#a3527249235c1523cdb95ecadab39b637" title="surfmap_load_module_" alt="" coords="835,165,989,195"/>
+<area shape="rect" id="node17" href="$Rocmap_8C.html#a208fc25281b64438d096fe9ed0709ae9" title="SURFMAP_LOAD_MODULE_" alt="" coords="811,219,1013,248"/>
+</map>

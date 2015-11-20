@@ -1,0 +1,5 @@
+<map id="Agent::init_module" name="Agent::init_module">
+<area shape="rect" id="node3" href="$classBurnAgent.html#a799f861cf7920237d8097fc74de69700" title="BurnAgent::init_module" alt="" coords="185,5,343,35"/>
+<area shape="rect" id="node5" href="$classFluidAgent.html#a0c01376de270182df4814452ecff49f2" title="FluidAgent::init_module" alt="" coords="185,59,343,88"/>
+<area shape="rect" id="node7" href="$classSolidAgent.html#a4a86fd68688d68f112fbb017c4d1e282" title="SolidAgent::init_module" alt="" coords="185,112,343,141"/>
+</map>

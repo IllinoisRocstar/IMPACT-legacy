@@ -1,0 +1,28 @@
+<map id="Node::get_primary" name="Node::get_primary">
+<area shape="rect" id="node3" href="$classWindow__manifold__2.html#adef221f1b705b245c2af60ca4144b09d" title="Window_manifold_2::\lassign_global_nodeIDs" alt="" coords="201,202,359,249"/>
+<area shape="rect" id="node21" href="$classNode.html#a05b7ce236753e2187954c7e3c17e782d" title="Node::halfedge_g" alt="" coords="219,405,341,435"/>
+<area shape="rect" id="node49" href="$group__ntc.html#ga6a3ec3c05ce48113f35b47f2d1df076a" title="Dump out the 0&#45; and 1&#45;features in Tecplot format into files &lt;name&gt;f0.plt, &lt;name&gt;f1.plt, respectively. " alt="" coords="427,554,579,601"/>
+<area shape="rect" id="node51" href="$classHDS__accessor.html#ace828f7f07fe0b2dfd0a2d4b56f2ea1d" title="HDS_accessor::is_feature_0" alt="" coords="185,665,375,695"/>
+<area shape="rect" id="node56" href="$classHDS__accessor.html#a81942648cd4444012c103345be4cb528" title="HDS_accessor::is_on\l_feature" alt="" coords="428,623,577,670"/>
+<area shape="rect" id="node62" href="$group__pio.html#ga8ce246b515bdf91456a673acc28c071a" title="Check whether given two vertices correspond to the same physical point. " alt="" coords="204,718,356,765"/>
+<area shape="rect" id="node5" href="$classWindow__manifold__2.html#a167719b9a529f0acffb6a9ade04a5b30" title="Create a serial window (with single pane) from the current window. " alt="" coords="429,103,576,150"/>
+<area shape="rect" id="node7" href="$classRocsurf.html#a781a541c33d8fedc03577d7420e93712" title="Serialize the mesh of a given window. " alt="" coords="632,112,795,141"/>
+<area shape="rect" id="node9" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="885,112,984,141"/>
+<area shape="rect" id="node11" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1100,59,1247,88"/>
+<area shape="rect" id="node13" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1103,112,1244,141"/>
+<area shape="rect" id="node15" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1076,165,1271,195"/>
+<area shape="rect" id="node17" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1100,219,1247,248"/>
+<area shape="rect" id="node19" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="1072,5,1275,35"/>
+<area shape="rect" id="node23" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="845,221,1024,251"/>
+<area shape="rect" id="node27" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="437,431,568,478"/>
+<area shape="rect" id="node34" href="$classNode.html#a232bc169e2dbdd3c31dc57da48979b6d" title="Node::is_border_g" alt="" coords="439,501,567,531"/>
+<area shape="rect" id="node43" href="$group__fdp.html#gaebe1d4159b8cbdd4de9e06063b513e53" title="Compute the angle defect of a vertex. " alt="" coords="427,293,579,339"/>
+<area shape="rect" id="node45" href="$group__fdp.html#gad70c380d1621387d642c8c59000f9457" title="Determine whether a vertex is strong (either theta&#45;strong or relatively strong) in angle defect..." alt="" coords="427,362,579,409"/>
+<area shape="rect" id="node47" href="$group__mf1.html#ga5dfc30e51e67c154900fed43cd7c8820" title="Determine whether a curve is false strong. " alt="" coords="424,223,581,270"/>
+<area shape="rect" id="node25" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1115,387,1232,416"/>
+<area shape="rect" id="node29" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="643,391,784,420"/>
+<area shape="rect" id="node31" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="872,494,997,541"/>
+<area shape="rect" id="node37" href="$classOverlay__primitives.html#a448294402b5adcfe218507704d7a755d" title="Overlay_primitives\l::snap_blue_ridge_edge" alt="" coords="635,563,792,610"/>
+<area shape="rect" id="node40" href="$classOverlay__primitives.html#a32cbd22e5afc0f65688f2501f29d3e58" title="Overlay_primitives\l::snap_blue_ridge_vertex" alt="" coords="631,494,796,541"/>
+<area shape="rect" id="node53" href="$classOverlay.html#aa360d4022ec1bc3e070a6b05789cf17e" title="Overlay::insert_edge\l_into_queue" alt="" coords="643,683,784,730"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Window_manifold_2::determine_counterparts" name="Window_manifold_2::determine_counterparts">
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#a53744dae8b2c4d8f5a9d560d21b02559" title="Get the border edge index. Return &#45;1 if not a border edge. " alt="" coords="228,23,367,70"/>
+<area shape="rect" id="node11" href="$classSimple__manifold__2.html#a3973d25c56bf5b1d8cef3278d539d477" title="Get the ID of the opposite real edge of a given real or border edge. " alt="" coords="219,93,376,139"/>
+<area shape="rect" id="node13" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="213,163,381,192"/>
+<area shape="rect" id="node5" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="448,5,549,35"/>
+<area shape="rect" id="node7" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="431,59,567,88"/>
+<area shape="rect" id="node9" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="617,59,713,88"/>
+</map>

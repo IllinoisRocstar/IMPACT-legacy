@@ -1,0 +1,8 @@
+<map id="com_obtain_array_helper" name="com_obtain_array_helper">
+<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#ad1d1eed986060334060208f3ac56dcca" title="Allocate space for an dataitem on a specific pane and return the address by setting addr..." alt="" coords="223,5,401,51"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="257,75,367,104"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a597da9ff31c895b61e363e0a96c50ad8" title="Copy an array from an dataitem on a specific pane into a given buffer. " alt="" coords="231,127,393,174"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#a8cf645e01c77bcb97614df58feaf9328" title="Get the address for an dataitem on a specific pane. " alt="" coords="236,197,388,243"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#a7554b5d8e8f2756e078e931294b96af4" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="227,266,397,313"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="452,75,636,104"/>
+</map>

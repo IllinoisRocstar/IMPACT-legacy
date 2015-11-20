@@ -1,0 +1,17 @@
+<map id="Rocsurf" name="Rocsurf">
+<area shape="rect" id="node4" href="$classWindow__manifold__2.html" title="This class implements a data structure for 2&#45;manifold over a whole window, which can be composed of m..." alt="" coords="956,568,1095,597"/>
+<area shape="rect" id="node16" href="$classPane__manifold__2.html" title="This class implements a data structure for 2&#45;manifold on each pane. " alt="" coords="1299,1489,1421,1519"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="165,300,288,329"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="169,1189,284,1219"/>
+<area shape="rect" id="node38" href="$classHalfedge.html" title="This class encapsulate a halfedge over a window manifold. " alt="" coords="1673,1548,1748,1577"/>
+<area shape="rect" id="node47" href="$classNode.html" title="This class encapsulate a node over a window manifold. " alt="" coords="1684,1429,1737,1459"/>
+<area shape="rect" id="node18" href="$classSimple__manifold__2.html" title="Provides a data structure accessing nodes, elements, and edges in a pane, in a manner similar to the ..." alt="" coords="960,1501,1091,1531"/>
+<area shape="rect" id="node51" href="$classRFC__Pane__base.html" title="The base implementation of RFC_Pane. " alt="" coords="1299,1029,1421,1059"/>
+<area shape="rect" id="node49" href="$classRFC__Pane__overlay.html" title="RFC_Pane_overlay" alt="" coords="2635,1396,2771,1425"/>
+<area shape="rect" id="node33" href="$classFacet__ID.html" title="The ID of a facet (edge in 2D and face in 3D) encodes an element ID and the local facet&#39;s ID internal..." alt="" coords="189,1857,264,1887"/>
+<area shape="rect" id="node85" href="$classINode.html" title="INode" alt="" coords="199,2001,255,2031"/>
+<area shape="rect" id="node93" href="$classRFC__Window__overlay.html" title="A window is a collection of panes. " alt="" coords="2371,199,2523,228"/>
+<area shape="rect" id="node95" href="$classRFC__Window__derived.html" title="RFC_Window_derived\l\&lt; RFC_Pane_overlay \&gt;" alt="" coords="1996,113,2156,159"/>
+<area shape="rect" id="node123" href="$classVector__3.html" title="Some basic geometric data types. " alt="" coords="164,2169,289,2199"/>
+<area shape="rect" id="node134" href="$classVector__3.html" title="Vector_3\&lt; Real \&gt;" alt="" coords="584,2172,709,2201"/>
+</map>

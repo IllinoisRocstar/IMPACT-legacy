@@ -1,0 +1,9 @@
+<map id="Simple_manifold_2::get_border_edgeID" name="Simple_manifold_2::get_border_edgeID">
+<area shape="rect" id="node3" href="$classWindow__manifold__2.html#aca3358d6a994dd96c93e69ccabd97bc7" title="Determine the counterparts of pane&#45;border edges for across&#45;pane access. " alt="" coords="196,74,353,121"/>
+<area shape="rect" id="node11" href="$classPane__manifold__2.html#a4023b0e5f0fdd205e2590d9715f82ec4" title="Is the given edge a physical border edge? " alt="" coords="197,143,352,190"/>
+<area shape="rect" id="node5" href="$classWindow__manifold__2.html#af0271b5b6b206b3dd5e6e5650141fdde" title="Initialize the manifold by inheriting the given mesh. " alt="" coords="404,83,567,112"/>
+<area shape="rect" id="node7" href="$classWindow__manifold__2.html#a2cd4f1a3caa1a90704899c3e27e8bd72" title="Construct a Window_manifold_2 from a given window. " alt="" coords="624,5,771,51"/>
+<area shape="rect" id="node9" href="$classRFC__Window__overlay.html#abac82c95c8685d2e5455664c9f810a1c" title="RFC_Window_overlay\l::RFC_Window_overlay" alt="" coords="617,74,777,121"/>
+<area shape="rect" id="node13" href="$classHalfedge.html#ad6684628ad56da96f378d75743058596" title="Is the edge on the physical boundary? " alt="" coords="412,143,559,190"/>
+<area shape="rect" id="node15" href="$classHalfedge.html#a269dc2510d5500c2747c77287d4e6da7" title="Return the dihedral angle at the edge. " alt="" coords="635,143,760,190"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Connectivity::is_element_name" name="Connectivity::is_element_name">
+<area shape="rect" id="node3" href="$classComponentInterface.html#ab23b03b5ae5b6d34a3b172e4d640dbe5" title="Allocate memory for an dataitem for a specific pane and set addr to the address. " alt="" coords="260,5,399,51"/>
+<area shape="rect" id="node5" href="$classComponentInterface.html#ab4152ccab0ba75e94f2c687ebeb2143b" title="Append the given array to the end of the dataitem on a specific pane, and reallocate memory for the d..." alt="" coords="260,74,399,121"/>
+<area shape="rect" id="node7" href="$classComponentInterface.html#add4dce2ee2cc1a64b3a5d74de3033d90" title="Copy an dataitem on a specific pane into a given array. " alt="" coords="260,143,399,190"/>
+<area shape="rect" id="node9" href="$classComponentInterface.html#ab8b82507ecd43c7d6a3253cc5bf3bbae" title="Deallocate memory for an dataitem for a specific pane if allocated by Roccom. " alt="" coords="260,213,399,259"/>
+<area shape="rect" id="node11" href="$classComponentInterface.html#a6f4ed365eadea8894113615065623ab2" title="Get the address associated with an dataitem for a specific pane. " alt="" coords="260,282,399,329"/>
+<area shape="rect" id="node16" href="$classComponentInterface.html#aef3d266b979b45feb1c72b9b20e65e31" title="Get the meta&#45;information about an dataitem. " alt="" coords="260,351,399,398"/>
+<area shape="rect" id="node18" href="$classComponentInterface.html#aec73ef511b9ac7c06f717ae8cfbb86f7" title="Get the parent name of an dataitem and load into name. " alt="" coords="260,421,399,467"/>
+<area shape="rect" id="node20" href="$classComponentInterface.html#a03a38da9f73af63cf05c890a2c3e39c3" title="Get the sizes of an dataitem for a specific pane. " alt="" coords="260,490,399,537"/>
+<area shape="rect" id="node25" href="$classComponentInterface.html#a4efd4a189bf2d7ce85cab2e8d3d731de" title="Get the status of an dataitem or pane. " alt="" coords="260,559,399,606"/>
+<area shape="rect" id="node31" href="$classComponentInterface.html#ac876e0204892477a7c1f6cf24b1fe785" title="Create a new DataItem object with given properties. " alt="" coords="260,629,399,675"/>
+<area shape="rect" id="node33" href="$classComponentInterface.html#a7088f973928015a3fd9b70ebc747fa41" title="Resize memory for an dataitem for a specific pane and set addr to the address. " alt="" coords="260,698,399,745"/>
+<area shape="rect" id="node35" href="$classComponentInterface.html#a5df681b3789f79cf4daafaa727546178" title="Associate an array with an dataitem for a specific pane. " alt="" coords="260,767,399,814"/>
+<area shape="rect" id="node37" href="$classComponentInterface.html#af76c06d8223cef9e93c79cc34190e19f" title="Set the sizes of an dataitem for a specific pane. " alt="" coords="260,837,399,883"/>
+<area shape="rect" id="node13" href="$ComponentInterface_8C.html#a271f0bc743521c6de8aaf7b120bc660d" title="get_array_common" alt="" coords="459,291,592,320"/>
+<area shape="rect" id="node22" href="$ComponentInterface_8C.html#a9789dd13ce75091fd8a24b88d973751c" title="get_size_common" alt="" coords="461,499,589,528"/>
+<area shape="rect" id="node27" href="$classCOM_1_1COM__base.html#a8838c121b3143e1a3b92090ffc67e3d3" title="Get the status of an dataitem. " alt="" coords="449,559,601,606"/>
+<area shape="rect" id="node29" href="$com__f_8C.html#a43091aaabb9859293314459ff82418fc" title="COM_F_FUNC2" alt="" coords="651,568,771,597"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RFC_Window_base::write_tec_ascii" name="RFC_Window_base::write_tec_ascii">
+<area shape="rect" id="node3" href="$classRFC__Pane__base.html#aeb9ed34abf648b5c882d3eccf68c4740" title="Is this pane a master copy? " alt="" coords="229,5,416,35"/>
+<area shape="rect" id="node5" href="$classRFC__Window__base.html#a7a16c8abbaf1fa61f1fe0e61ff8bbd7f" title="RFC_Window_base::pane" alt="" coords="236,59,409,88"/>
+<area shape="rect" id="node7" href="$classRFC__Pane__base.html#a6e1cf19e10a18e99718b5de08f869f17" title="RFC_Pane_base::write\l_tec_ascii" alt="" coords="244,111,401,158"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__base.html#adc016a52faf8bf925809d6d1a711e979" title="RFC_Pane_base::write\l_tec_ij" alt="" coords="465,42,623,89"/>
+<area shape="rect" id="node13" href="$classRFC__Pane__base.html#a2ac4a5d76ddaa1f394f7a9e46fa3a7ad" title="RFC_Pane_base::write\l_tec_mixed" alt="" coords="465,111,623,158"/>
+<area shape="rect" id="node16" href="$classRFC__Pane__base.html#aaaee8032997d65f89bbdc148454d89a0" title="RFC_Pane_base::write\l_tec_tri" alt="" coords="465,181,623,227"/>
+<area shape="rect" id="node11" href="$RFC__Window__base__IO__tecplot_8C.html#aef5d80dcd680892670937b5b30528396" title="write_dataitem" alt="" coords="672,120,779,149"/>
+</map>

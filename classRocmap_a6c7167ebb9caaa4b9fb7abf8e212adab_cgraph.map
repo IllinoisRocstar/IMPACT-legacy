@@ -1,0 +1,8 @@
+<map id="Rocmap::reduce_average_on_shared_nodes" name="Rocmap::reduce_average_on_shared_nodes">
+<area shape="rect" id="node3" href="$classPane__communicator.html#a695dbe20d98cb9f5ac5be352a442bc6e" title="Initialize the communication buffers. " alt="" coords="225,63,391,92"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="463,8,583,37"/>
+<area shape="rect" id="node9" href="$classPane__communicator.html#a4e9da8608bf6edf93e5bca58992546d3" title="Initialize a Pane_comm_buffers for ghost information. " alt="" coords="441,114,604,161"/>
+<area shape="rect" id="node11" href="$classPane__communicator.html#a1a31d31bb4ae29936b760d6141b6e1c4" title="For a given pane, obtain an internal pane ID which is unique and contiguous across processes..." alt="" coords="653,58,803,105"/>
+<area shape="rect" id="node7" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="687,5,769,35"/>
+<area shape="rect" id="node13" href="$classPane__communicator.html#a292023010b824818aa19da1418c2a14e" title="Obtain the process rank of a given pane. " alt="" coords="653,127,803,174"/>
+</map>

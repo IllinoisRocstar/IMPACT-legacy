@@ -1,0 +1,17 @@
+<map id="Action::finalize" name="Action::finalize">
+<area shape="rect" id="node3" href="$classScheduler.html#a0730f19dd30bb10018c7d70b2d749996" title="Scheduler::finalize\l_actions" alt="" coords="164,119,292,166"/>
+<area shape="rect" id="node5" href="$classSchedulerAction.html#a0f0c78ff542e069682f790130b602125" title="SchedulerAction::finalize" alt="" coords="343,5,508,35"/>
+<area shape="rect" id="node7" href="$classUserSchedulerAction.html#aaa416bdca1c30c6078765acdc94b8314" title="UserSchedulerAction\l::finalize" alt="" coords="353,58,497,105"/>
+<area shape="rect" id="node9" href="$classAgent.html#a4f9585c787b6cc1797dd4be5d4733370" title="Agent::finalize" alt="" coords="373,128,477,157"/>
+<area shape="rect" id="node17" href="$classCoupling.html#a6888419b899c892b397a74924ab5b81b" title="Invoke finalization of the actions in the scheduler and the agents. " alt="" coords="364,181,487,211"/>
+<area shape="rect" id="node33" href="$test_8C.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="400,235,451,264"/>
+<area shape="rect" id="node11" href="$classBurnAgent.html#a06c34ec93f6d2e8b85aaca510676c409" title="BurnAgent::finalize" alt="" coords="560,21,691,51"/>
+<area shape="rect" id="node13" href="$classFluidAgent.html#a9fe10771113cdcb71a06b39f5a9e8c55" title="FluidAgent::finalize" alt="" coords="559,75,692,104"/>
+<area shape="rect" id="node15" href="$classSolidAgent.html#a012ed08aa4e2ae89c828e1c8d05e0757" title="SolidAgent::finalize" alt="" coords="559,128,692,157"/>
+<area shape="rect" id="node19" href="$classCoupling.html#a359efb26ef8ba68b33f7e57a2d18c71a" title="Coupling::restart_at_time" alt="" coords="741,179,909,208"/>
+<area shape="rect" id="node21" href="$rocstar__driver_8C.html#ad1de69ebc9df30ede377e74fdc577cd4" title="rocstar_driver" alt="" coords="973,231,1075,260"/>
+<area shape="rect" id="node23" href="$classCoupling.html#ad4ffd58e3e8b367567b3f21c15f9390d" title="Coupling::Interrupt" alt="" coords="561,283,689,312"/>
+<area shape="rect" id="node25" href="$classCoupling.html#a0e57e35dd0512832f7c4075240f29c34" title="Coupling::baseInit" alt="" coords="763,336,888,365"/>
+<area shape="rect" id="node29" href="$rocstar__driver_8C.html#a05bfdef40d695af301e8ebe637e24e5c" title="check_for_interrupt" alt="" coords="759,283,892,312"/>
+<area shape="rect" id="node27" href="$classCoupling.html#a35180084948072398e9902edf132ccf1" title="Constructor. Derived class will add actions for the coupling scheme. " alt="" coords="959,336,1089,365"/>
+</map>

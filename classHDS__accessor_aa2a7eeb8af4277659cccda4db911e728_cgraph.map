@@ -1,0 +1,9 @@
+<map id="HDS_accessor::get_next_around_origin" name="HDS_accessor::get_next_around_origin">
+<area shape="rect" id="node3" href="$classHEdge.html#aec510b3f7d79f31cdd0f8d5baaf9a446" title="HEdge::next_g" alt="" coords="224,72,333,101"/>
+<area shape="rect" id="node15" href="$classHEdge.html#ac4e3a22186171112305d6c58d00ec48b" title="HEdge::opposite_g" alt="" coords="396,13,529,43"/>
+<area shape="rect" id="node5" href="$classRFC__Pane__overlay.html#ae700d6675c1fa8df293f102ec2e8f752" title="Obtain the next edge in a given access mode. " alt="" coords="381,66,544,113"/>
+<area shape="rect" id="node7" href="$classRFC__Pane__overlay.html#a44ba6aedde0749d2160e8dfa8dc17268" title="Obtain the opposite edge in a given access mode. " alt="" coords="592,5,755,51"/>
+<area shape="rect" id="node11" href="$classHEdge.html#a4f71a79a914824210145754d83b9f640" title="Obtain the ID of the edge. " alt="" coords="633,75,713,104"/>
+<area shape="rect" id="node13" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="624,128,723,157"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__overlay.html#a9b9d9ab4f08bf73e5507581e4c5b9a66" title="RFC_Pane_overlay::get\l_counterpart" alt="" coords="803,5,965,51"/>
+</map>

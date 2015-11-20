@@ -1,0 +1,10 @@
+<map id="SolverUtils::Mesh::CollideMeshWithBox" name="SolverUtils::Mesh::CollideMeshWithBox">
+<area shape="rect" id="node3" href="$classSolverUtils_1_1GeoPrim_1_1CBox.html#a9591eff539a1efed80d9ee7d58532f33" title="SolverUtils::GeoPrim\l::CBox::empty" alt="" coords="588,65,732,111"/>
+<area shape="rect" id="node11" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a258c8be71b4d5c3500cfd00eeff02636" title="SolverUtils::Mesh::\lConnectivity::Esize" alt="" coords="203,165,339,211"/>
+<area shape="rect" id="node13" href="$classSolverUtils_1_1GeoPrim_1_1CBox.html#a4317dd6505c739fae4c6835767818199" title="SolverUtils::GeoPrim\l::CBox::intersect" alt="" coords="199,95,343,142"/>
+<area shape="rect" id="node24" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a63fa2badfdce95ee7ab56ca16bff8768" title="SolverUtils::Mesh::\lConnectivity::Node" alt="" coords="204,234,337,281"/>
+<area shape="rect" id="node5" href="$classSolverUtils_1_1GeoPrim_1_1CPoint.html#ab34f4eb1a68ad1596bcd94cc746be455" title="SolverUtils::GeoPrim\l::CPoint::x" alt="" coords="783,5,927,51"/>
+<area shape="rect" id="node7" href="$classSolverUtils_1_1GeoPrim_1_1CPoint.html#a5af989d61d09e0998527d9a346612fc9" title="SolverUtils::GeoPrim\l::CPoint::y" alt="" coords="783,115,927,162"/>
+<area shape="rect" id="node9" href="$classSolverUtils_1_1GeoPrim_1_1CPoint.html#a14d6c475730c4a15b31d7340c286540f" title="SolverUtils::GeoPrim\l::CPoint::z" alt="" coords="783,185,927,231"/>
+<area shape="rect" id="node15" href="$classSolverUtils_1_1GeoPrim_1_1CBox.html#af2774b12e10f3ced2810204254631f5c" title="SolverUtils::GeoPrim\l::CBox::collide" alt="" coords="393,95,537,142"/>
+</map>

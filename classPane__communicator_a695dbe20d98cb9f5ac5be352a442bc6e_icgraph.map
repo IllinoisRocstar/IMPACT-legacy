@@ -1,0 +1,13 @@
+<map id="Pane_communicator::init" name="Pane_communicator::init">
+<area shape="rect" id="node3" href="$classPane__communicator.html#a7a792dfac21ccf648532fc52eb47eee1" title="Initialize the communication buffers. " alt="" coords="224,5,389,35"/>
+<area shape="rect" id="node5" href="$classRocmap.html#a6c7167ebb9caaa4b9fb7abf8e212adab" title="Perform an average&#45;reduction on the shared nodes for the given attribute. " alt="" coords="221,58,392,105"/>
+<area shape="rect" id="node19" href="$classRocmap.html#a2f7026cc43749a6886f411419d4e1375" title="Perform a maxabs&#45;reduction on the shared nodes for the given attribute. " alt="" coords="221,127,392,174"/>
+<area shape="rect" id="node22" href="$classRocmap.html#a6625c20d1735cce29b0635f56913a917" title="Perform a minabs&#45;reduction on the shared nodes for the given attribute. " alt="" coords="224,197,389,243"/>
+<area shape="rect" id="node25" href="$classRocmap.html#af7bb495640c498473dc27269f71180b1" title="Update ghost nodal or elemental values for the given attribute. " alt="" coords="225,267,388,296"/>
+<area shape="rect" id="node7" href="$classRocmap.html#ac4cbff08c584711910366bd08711ed02" title="Loads Rocmap onto Roccom with a given module name. " alt="" coords="441,171,543,200"/>
+<area shape="rect" id="node9" href="$Rocmap_8C.html#a854500cd46c6918f4ffb881b05af9606" title="SurfMap_load_module" alt="" coords="619,64,768,93"/>
+<area shape="rect" id="node11" href="$Rocmap_8C.html#a14accefd182641bddae978ed7f612276" title="surfmap_load_module" alt="" coords="619,117,768,147"/>
+<area shape="rect" id="node13" href="$Rocmap_8C.html#ad8efd505637c5d1e6594bf83088c705a" title="SURFMAP_LOAD_MODULE" alt="" coords="596,171,791,200"/>
+<area shape="rect" id="node15" href="$Rocmap_8C.html#a3527249235c1523cdb95ecadab39b637" title="surfmap_load_module_" alt="" coords="616,224,771,253"/>
+<area shape="rect" id="node17" href="$Rocmap_8C.html#a208fc25281b64438d096fe9ed0709ae9" title="SURFMAP_LOAD_MODULE_" alt="" coords="592,277,795,307"/>
+</map>

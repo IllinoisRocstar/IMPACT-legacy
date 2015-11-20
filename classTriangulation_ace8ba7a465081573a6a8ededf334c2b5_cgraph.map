@@ -1,0 +1,14 @@
+<map id="Triangulation::is_diagonal" name="Triangulation::is_diagonal">
+<area shape="rect" id="node3" href="$classTriangulation.html#a97c595c7460fbff532009135107e88b8" title="Triangulation::in_cone" alt="" coords="239,167,388,196"/>
+<area shape="rect" id="node23" href="$classTriangulation.html#a4eb926d3c2c9692ced08288a2ce315a0" title="Triangulation::is_diagonalie" alt="" coords="224,83,403,112"/>
+<area shape="rect" id="node5" href="$classTriangulation.html#a5cde103de8cac53c0020dd514d92ea4d" title="Triangulation::get_next" alt="" coords="451,128,605,157"/>
+<area shape="rect" id="node7" href="$classTriangulation.html#a604332a8745fec83fade7b71a00f7405" title="Triangulation::get\l_point" alt="" coords="467,58,589,105"/>
+<area shape="rect" id="node11" href="$classTriangulation.html#aadecdcedc770164dc0db3000769f74fa" title="Triangulation::get_prev" alt="" coords="451,181,605,211"/>
+<area shape="rect" id="node13" href="$Triangulation_8C.html#a96d6a3dd5220e95195578ffe971ff102" title="leftturn" alt="" coords="497,235,559,264"/>
+<area shape="rect" id="node19" href="$Triangulation_8C.html#a90f076a1e2c95a1655b0cf1b1cda10ca" title="rightturn" alt="" coords="493,288,563,317"/>
+<area shape="rect" id="node9" href="$classTriangulation_1_1Node.html#aa847c737511b4b80e9f451fc9a4037cf" title="Triangulation::Node::id" alt="" coords="655,67,807,96"/>
+<area shape="rect" id="node15" href="$classVector__2.html#aadcff8070a199c701f2a344f1d52a204" title="Vector_2::x" alt="" coords="687,235,775,264"/>
+<area shape="rect" id="node17" href="$classVector__2.html#a2781c5dda11ae81027deebe181d42be1" title="Vector_2::y" alt="" coords="687,288,775,317"/>
+<area shape="rect" id="node26" href="$Triangulation_8C.html#a995bdbcf526a0947f4904f36ba6d80d6" title="do_intersect" alt="" coords="481,5,575,35"/>
+<area shape="rect" id="node28" href="$Triangulation_8C.html#a13c6789b7ebf50733d52f6349bb0f301" title="do_intersect_intervals" alt="" coords="656,5,805,35"/>
+</map>

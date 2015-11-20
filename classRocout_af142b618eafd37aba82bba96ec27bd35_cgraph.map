@@ -1,0 +1,6 @@
+<map id="Rocout::write_parameter_file" name="Rocout::write_parameter_file">
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="276,5,385,35"/>
+<area shape="rect" id="node7" href="$com__c_8h.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="244,59,417,88"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a0152a74ffb3a5828aa8e5dbb2941209e" title="COM::COM_base::get\l_window_object" alt="" coords="255,111,407,158"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="468,5,652,35"/>
+</map>

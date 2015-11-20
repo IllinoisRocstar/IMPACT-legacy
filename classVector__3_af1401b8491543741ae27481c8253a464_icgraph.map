@@ -1,0 +1,45 @@
+<map id="Vector_3::cross_product" name="Vector_3::cross_product">
+<area shape="rect" id="node3" href="$classRocsurf.html#ab4882edc82971adb06406bcc3e10cd73" title="Computes elemental normals of a given window. " alt="" coords="219,293,397,339"/>
+<area shape="rect" id="node27" href="$compute__curvature_8C.html#a6e65cb8f6a84edced8eedb0e978b5b71" title="compute_lbop_weights" alt="" coords="231,473,385,503"/>
+<area shape="rect" id="node34" href="$classWindow__manifold__2.html#a57c6b6067d689e3c67abadd9ee212d9f" title="Convert element values to nodal values using weighted averaging. " alt="" coords="235,390,381,437"/>
+<area shape="rect" id="node40" href="$Manifold__2_8C.html#adaa5ff78d434322162d994d114b59362" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="235,553,381,583"/>
+<area shape="rect" id="node44" href="$classOverlay__primitives.html#ab3ca7357a6e0d506abe78fa97bf610dd" title="Overlay_primitives\l::get_face_normal" alt="" coords="243,630,373,677"/>
+<area shape="rect" id="node66" href="$compute__bounded__volumes_8C.html#a979ce84eb276bc57b7c0be1341e27b5e" title="get_face_volume" alt="" coords="704,103,824,132"/>
+<area shape="rect" id="node77" href="$Manifold__2_8C.html#a305742238b48caccbf60160496982547" title="Get the face normal of a point in the element incident on h. " alt="" coords="265,769,351,799"/>
+<area shape="rect" id="node83" href="$classOverlay__primitives.html#ad55c86301a3c85c74f0151742c9df268" title="Overlay_primitives\l::intersect" alt="" coords="243,699,373,746"/>
+<area shape="rect" id="node90" href="$classGeneric__element__2.html#ad2caa897d287ecb8a7bdf6eb555f9159" title="Evaluates the determinant of the Jacobian (dx/dxi,dx/deta). " alt="" coords="237,822,379,869"/>
+<area shape="rect" id="node92" href="$classOverlay__primitives.html#a2972dcd096d1fb09686a2a6c41aafa80" title="Overlay_primitives\l::project_blue_feature" alt="" coords="235,891,381,938"/>
+<area shape="rect" id="node94" href="$classOverlay__primitives.html#abd19a24374ea6495aa988c09586849dc" title="Overlay_primitives\l::project_green_feature" alt="" coords="231,961,385,1007"/>
+<area shape="rect" id="node96" href="$classGeneric__element__2.html#a2c7f92d0fb9c4babeb9a6cb2774fe9a4" title="Generic_element_2::\lsolve" alt="" coords="237,1030,379,1077"/>
+<area shape="rect" id="node5" href="$classWindow__manifold__2.html#a84ab729c39b78534b617728cd60582c8" title="Compute nodal normals using one of the following weighting schemes: E2N_ONE, E2N_AREA, and E2N_ANGLE, and E2N_USER. " alt="" coords="461,327,624,374"/>
+<area shape="rect" id="node7" href="$classWindow__manifold__2.html#a6c39c023dbe78b00e91b3d5693ea216d" title="Compute the normals at nodes or faces, depending on the type of the dataitem normals. " alt="" coords="691,261,837,307"/>
+<area shape="rect" id="node11" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="1129,212,1228,241"/>
+<area shape="rect" id="node23" href="$classWindow__manifold__2.html#aad29e9f557854ef4546bb8614205abda" title="Perturb the given mesh along its normal direction by length equal to a random number between &#45;range a..." alt="" coords="691,330,837,377"/>
+<area shape="rect" id="node9" href="$classRocsurf.html#a94a02b38e559f4da89d554a661c68d01" title="Computes nodal or elemental normals of a given window. " alt="" coords="891,268,1069,297"/>
+<area shape="rect" id="node13" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1313,105,1460,135"/>
+<area shape="rect" id="node15" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1316,159,1457,188"/>
+<area shape="rect" id="node17" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1289,212,1484,241"/>
+<area shape="rect" id="node19" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1313,265,1460,295"/>
+<area shape="rect" id="node21" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="1285,319,1488,348"/>
+<area shape="rect" id="node29" href="$classWindow__manifold__2.html#ae05664428109c4f77419326f09d41335" title="Window_manifold_2::\lcompute_mcn" alt="" coords="691,450,837,497"/>
+<area shape="rect" id="node31" href="$classRocsurf.html#ad080be024939ffb1aa52f944ba6f3af0" title="Computes nodal or elemental normals of a given window. " alt="" coords="901,443,1059,472"/>
+<area shape="rect" id="node37" href="$classRocsurf.html#ae88ac8c15c0952ecf710d15d67b8dea8" title="Computes nodal or elemental normals of a given window. " alt="" coords="907,339,1053,386"/>
+<area shape="rect" id="node42" href="$classHalfedge.html#a76e0044df4c95e470db499808e3d5749" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="475,501,611,547"/>
+<area shape="rect" id="node46" href="$group__fdp.html#ga6e47e56141992ea8dce3e80d4762fadc" title="Compute the cosine of the face angle (dihedral angle) at an edge. " alt="" coords="467,570,619,617"/>
+<area shape="rect" id="node48" href="$classRFC__Pane__overlay.html#a9a681aebc6f4127d32887fecc9224245" title="RFC_Pane_overlay::evaluate\l_normals" alt="" coords="447,639,639,686"/>
+<area shape="rect" id="node50" href="$group__ntc.html#ga7dc267edacebbbaa331fdf5ec58a8455" title="RFC_Window_overlay\l::evaluate_normals" alt="" coords="904,699,1056,746"/>
+<area shape="rect" id="node54" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="477,829,608,875"/>
+<area shape="rect" id="node61" href="$classOverlay.html#a3fb9c07befb11760bebb3abf991eb238" title="Helper for associate_green_vertices(). " alt="" coords="457,759,628,806"/>
+<area shape="rect" id="node52" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1120,768,1237,797"/>
+<area shape="rect" id="node56" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="693,837,835,867"/>
+<area shape="rect" id="node58" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="917,829,1043,875"/>
+<area shape="rect" id="node63" href="$classOverlay.html#ad5f1e6c0f443baf6c59656657ec0ad5f" title="Overlay::associate\l_green_vertices" alt="" coords="699,759,829,806"/>
+<area shape="rect" id="node68" href="$classRocsurf.html#a43a793ae1d3903fcc5af65cb4a6694b9" title="Computes the volume bounded between two different locations of each face of the surface mesh of windo..." alt="" coords="889,143,1071,190"/>
+<area shape="rect" id="node71" href="$classRocsurf.html#a95b20617337bb0684ffc49502d88d128" title="Computes the signed volume of a body. " alt="" coords="895,5,1065,51"/>
+<area shape="rect" id="node74" href="$classRocsurf.html#af6fe1ea3b45b9c65542dbe1d9239e3f0" title="Computes the swept volume by a given displacement of each face of the surface mesh of window volumes&#45;..." alt="" coords="896,74,1064,121"/>
+<area shape="rect" id="node79" href="$classHalfedge.html#a138f3a3baa9aebaab4f589d8dfea1c55" title="Get the normal of the incident facet. " alt="" coords="483,968,603,997"/>
+<area shape="rect" id="node81" href="$classHalfedge.html#a269dc2510d5500c2747c77287d4e6da7" title="Return the dihedral angle at the edge. " alt="" coords="701,959,827,1006"/>
+<area shape="rect" id="node85" href="$classOverlay.html#a47c99be0d881c11b755215b70787ea89" title="Overlay::intersect\l_link_helper" alt="" coords="480,898,605,945"/>
+<area shape="rect" id="node87" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="688,899,840,928"/>
+<area shape="rect" id="node98" href="$classGeneric__element__2.html#ac443f0a0297e992b43b2fb1ffa131dfe" title="Evaluates the gradient of the shape functions. " alt="" coords="472,1030,613,1077"/>
+</map>

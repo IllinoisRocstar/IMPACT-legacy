@@ -1,0 +1,5 @@
+<map id="Pane_dual_connectivity::construct_connectivity_str_2" name="Pane_dual_connectivity::construct_connectivity_str_2">
+<area shape="rect" id="node3" href="$classElement__node__enumerator__str__2.html#a70c101f9a668d805039623e8cabdce31" title="Element_node_enumerator\l_str_2::next" alt="" coords="252,5,428,51"/>
+<area shape="rect" id="node5" href="$classPane.html#a092bf21913c9d3499342f02515b69d4f" title="Get the number of nodes in i&#45;dimension if the mesh is structured. " alt="" coords="479,13,572,43"/>
+<area shape="rect" id="node7" href="$classPane.html#aa0bce3d272a709b1465b195d5048c643" title="Is mesh of the pane structured? " alt="" coords="623,13,756,43"/>
+</map>

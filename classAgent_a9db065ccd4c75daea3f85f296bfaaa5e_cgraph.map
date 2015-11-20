@@ -1,0 +1,10 @@
+<map id="Agent::split_surface_window" name="Agent::split_surface_window">
+<area shape="rect" id="node3" href="$com__c_8h.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="193,5,367,35"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="213,59,347,88"/>
+<area shape="rect" id="node13" href="$com__c_8h.html#ae3e30c27235665f7b77c7c25dc5e2407" title="Use the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="211,112,349,141"/>
+<area shape="rect" id="node15" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="199,165,361,195"/>
+<area shape="rect" id="node7" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="451,112,560,141"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="427,42,584,89"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="644,112,828,141"/>
+<area shape="rect" id="node18" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="416,165,595,211"/>
+</map>

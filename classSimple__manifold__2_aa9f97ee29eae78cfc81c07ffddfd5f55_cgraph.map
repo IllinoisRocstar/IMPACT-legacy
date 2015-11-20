@@ -1,0 +1,13 @@
+<map id="Simple_manifold_2::get_borders" name="Simple_manifold_2::get_borders">
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#a1e43d5a16c915ca112f8ace270531571" title="Is the node on pane boundary (not isolated)? " alt="" coords="199,181,337,227"/>
+<area shape="rect" id="node9" href="$classSimple__manifold__2.html#afcbdb6d8deb9bfdfe8c6b53fefdee053" title="Is the node isolated (i.e. not incident on any element)? " alt="" coords="199,42,337,89"/>
+<area shape="rect" id="node17" href="$classSimple__manifold__2.html#a82ed080f73030a2265cae4f7f373c32a" title="Is the node on the pane boundary of real part (not isolated)? " alt="" coords="199,111,337,158"/>
+<area shape="rect" id="node24" href="$classSimple__manifold__2.html#a75b13f532c6b41f13b7fa11eb65a716e" title="Number of ghost nodes of the pane. " alt="" coords="196,250,340,297"/>
+<area shape="rect" id="node26" href="$classSimple__manifold__2.html#afffa1f2f2b0a193485af03ffc6b53ac7" title="Number of real nodes of the pane. " alt="" coords="199,319,337,366"/>
+<area shape="rect" id="node5" href="$classSimple__manifold__2.html#a4e4008eee073094b7b70cdf332a59469" title="Is the given node a ghost node? " alt="" coords="391,181,529,227"/>
+<area shape="rect" id="node7" href="$classSimple__manifold__2.html#ad694db7da92b198d405713e2bea1f8f3" title="Is a given edge on the boundary of the whole pane? " alt="" coords="391,250,529,297"/>
+<area shape="rect" id="node11" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="392,59,528,88"/>
+<area shape="rect" id="node15" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="409,5,511,35"/>
+<area shape="rect" id="node13" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="580,59,676,88"/>
+<area shape="rect" id="node19" href="$classSimple__manifold__2.html#aa36f82647c39a985eb0c17bf18905312" title="Is the given node a real node? " alt="" coords="391,111,529,158"/>
+</map>

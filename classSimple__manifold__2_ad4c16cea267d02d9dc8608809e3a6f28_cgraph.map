@@ -1,0 +1,6 @@
+<map id="Simple_manifold_2::get_prev_ghost_edge_interior" name="Simple_manifold_2::get_prev_ghost_edge_interior">
+<area shape="rect" id="node3" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="389,7,491,37"/>
+<area shape="rect" id="node5" href="$classSimple__manifold__2.html#ad0308ff63a62c37f101527c4acbc4f30" title="Get an index for internal edges. " alt="" coords="201,27,340,73"/>
+<area shape="rect" id="node8" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="392,63,488,93"/>
+<area shape="rect" id="node10" href="$classSimple__manifold__2.html#a66a3b37ab9a9feaedf64d5c27469c660" title="Is the element incident on the give edge a ghost element? " alt="" coords="201,147,340,193"/>
+</map>

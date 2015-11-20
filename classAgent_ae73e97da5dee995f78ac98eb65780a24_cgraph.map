@@ -1,0 +1,11 @@
+<map id="Agent::create_buffer_all" name="Agent::create_buffer_all">
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="229,21,363,51"/>
+<area shape="rect" id="node11" href="$com__c_8h.html#ae3e30c27235665f7b77c7c25dc5e2407" title="Use the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="227,75,365,104"/>
+<area shape="rect" id="node13" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="215,128,377,157"/>
+<area shape="rect" id="node18" href="$classAgent.html#af8949828b3043cb37c72b5a545f28be3" title="Agent::create_registered\l_window_dataitems" alt="" coords="215,181,377,227"/>
+<area shape="rect" id="node20" href="$classAgent.html#a19d0e6abee6acfb6bf03a59868cdac35" title="Agent::get_agent_name" alt="" coords="216,251,376,280"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="461,75,571,104"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="437,5,595,51"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="655,75,839,104"/>
+<area shape="rect" id="node16" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="427,127,605,174"/>
+</map>

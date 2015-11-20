@@ -1,0 +1,14 @@
+<map id="RFC_Window_transfer::allreduce" name="RFC_Window_transfer::allreduce">
+<area shape="rect" id="node3" href="$classRFC__Window__transfer.html#acef598ebced45ebc2b59b59120fa7624" title="RFC_Window_transfer\l::allreduce" alt="" coords="212,5,367,51"/>
+<area shape="rect" id="node5" href="$classTransfer__base.html#a6070fa57a0b06da0a6f6d088a554c5de" title="Transfer_base::dot" alt="" coords="224,75,355,104"/>
+<area shape="rect" id="node7" href="$classTransfer__base.html#adc2416ef6a7a8948fe73eeb214f01523" title="Transfer_base::dot2" alt="" coords="220,128,359,157"/>
+<area shape="rect" id="node21" href="$classTransfer__base.html#a02257148834054f33dfed50a49b697e0" title="Transfer_base::integrate" alt="" coords="208,181,371,211"/>
+<area shape="rect" id="node23" href="$classTransfer__base.html#af3094efa2224034a669ee0fbdd60a141" title="Transfer_base::minmax" alt="" coords="211,235,368,264"/>
+<area shape="rect" id="node25" href="$classTransfer__base.html#a3d2e7ad9d63f8e748fe6abe51633328b" title="Transfer_base::norm2" alt="" coords="215,288,364,317"/>
+<area shape="rect" id="node9" href="$classTransfer__base.html#a72af6118d39e2674252c3c7713b8c317" title="Transfer_base::pcg" alt="" coords="420,208,553,237"/>
+<area shape="rect" id="node11" href="$classTransfer__base.html#ae66d6f5e5b452c86f35a34f1ab65b30a" title="template function for transfering from nodes/faces to nodes. " alt="" coords="603,208,781,237"/>
+<area shape="rect" id="node13" href="$classTransfer__n2n.html#a4a7968d6b0ac79f9530c07f132f380ec" title="The main entry to the data transfer algorithm. " alt="" coords="831,164,980,193"/>
+<area shape="rect" id="node17" href="$classTransfer__f2n.html#a015cd3110a73f23e2944e0abc6e2f108" title="The main entry to the data transfer algorithm. " alt="" coords="832,235,979,264"/>
+<area shape="rect" id="node15" href="$classTransfer__traits_3_01Nodal__data__const_00_01Nodal__data_00_01true_01_4.html#a11358f505450d456411ef25d8e6857c6" title="Transfer_traits\&lt; Nodal\l_data_const, Nodal_data,\l true \&gt;::transfer" alt="" coords="1029,137,1200,201"/>
+<area shape="rect" id="node19" href="$classTransfer__traits_3_01Facial__data__const_00_01Nodal__data_00_01true_01_4.html#a6102b51650934050a0c69e076216b5cf" title="See above. " alt="" coords="1029,225,1200,289"/>
+</map>

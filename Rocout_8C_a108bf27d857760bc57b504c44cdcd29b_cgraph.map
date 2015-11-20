@@ -1,0 +1,12 @@
+<map id="COM_F_FUNC2" name="COM_F_FUNC2">
+<area shape="rect" id="node3" href="$Rocout_8C.html#af24b285bb3a41796f16f0f12becb8d88" title="Unload the module Rocout from Roccom. " alt="" coords="175,132,340,161"/>
+<area shape="rect" id="node5" href="$classRocout.html#a952d0bf1f37b189c98bb6a696861f803" title="Finalize the module by deregistering it from Roccom. " alt="" coords="391,132,503,161"/>
+<area shape="rect" id="node7" href="$com__c_09_09_8hpp.html#a51cd80e32371211a6a01185579eff4ee" title="COM_get_object" alt="" coords="565,75,685,104"/>
+<area shape="rect" id="node15" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="552,132,699,161"/>
+<area shape="rect" id="node20" href="$classHDF4.html#af9f8b8e006969965ea656f193aa35053" title="Destroy the I/O thread. " alt="" coords="572,189,679,219"/>
+<area shape="rect" id="node9" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="777,75,887,104"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#aa324d33cad35e5b289b8592ed056f14c" title="Associates an object with a specific window. " alt="" coords="756,5,908,51"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="967,75,1151,104"/>
+<area shape="rect" id="node18" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="747,127,917,174"/>
+<area shape="rect" id="node22" href="$classHDF4.html#a9f30e60fde6f6546fa0877229f27525d" title="Terminate the I/O thread. " alt="" coords="771,197,893,227"/>
+</map>

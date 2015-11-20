@@ -1,0 +1,51 @@
+<map id="Node::id" name="Node::id">
+<area shape="rect" id="node3" href="$classWindow__manifold__2.html#adef221f1b705b245c2af60ca4144b09d" title="Window_manifold_2::\lassign_global_nodeIDs" alt="" coords="139,478,296,525"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="136,1055,299,1102"/>
+<area shape="rect" id="node103" href="$classRFC__Pane__overlay.html#ae4449cd55421672ea62ac045ad5025b1" title="RFC_Pane_overlay::get_lid" alt="" coords="127,2103,308,2132"/>
+<area shape="rect" id="node115" href="$classVertex__set.html#ae4c32c5f594190aebd2627d2f6a2d476" title="Vertex_set::Vertex_set" alt="" coords="140,2156,295,2185"/>
+<area shape="rect" id="node5" href="$classWindow__manifold__2.html#a167719b9a529f0acffb6a9ade04a5b30" title="Create a serial window (with single pane) from the current window. " alt="" coords="385,5,532,51"/>
+<area shape="rect" id="node7" href="$classRocsurf.html#a781a541c33d8fedc03577d7420e93712" title="Serialize the mesh of a given window. " alt="" coords="627,13,789,43"/>
+<area shape="rect" id="node11" href="$classOverlay.html#ad62640b5cea6da6754b7232fd59486c3" title="Overlay::insert_node\l_in_blue_edge" alt="" coords="861,651,1003,698"/>
+<area shape="rect" id="node13" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="1083,771,1208,818"/>
+<area shape="rect" id="node17" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="1056,660,1235,689"/>
+<area shape="rect" id="node21" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="856,900,1008,929"/>
+<area shape="rect" id="node25" href="$group__ntc.html#ga7dc267edacebbbaa331fdf5ec58a8455" title="RFC_Window_overlay\l::evaluate_normals" alt="" coords="632,471,784,518"/>
+<area shape="rect" id="node28" href="$classRFC__Pane__overlay.html#adebd97d4f31a7e70887f1939c201ebe2" title="RFC_Pane_overlay::get\l_normal" alt="" coords="377,711,540,758"/>
+<area shape="rect" id="node30" href="$classRFC__Pane__overlay.html#a374439035208ac1aa6e043ef9f88266c" title="RFC_Pane_overlay::get\l_tangent" alt="" coords="627,1458,789,1505"/>
+<area shape="rect" id="node32" href="$classRFC__Pane__overlay.html#ae3afcc4bc58bb230f2a85af3fd0b97e2" title="RFC_Pane_overlay::get\l_point" alt="" coords="377,831,540,878"/>
+<area shape="rect" id="node34" href="$classRFC__Pane__overlay.html#ac1b29381f165c70de4e6f5cc1b4bcfb3" title="RFC_Pane_overlay::add\l_tangent" alt="" coords="376,471,541,518"/>
+<area shape="rect" id="node37" href="$classRFC__Pane__overlay.html#a5a260837536e2a48d398f5765da63a1e" title="RFC_Pane_overlay::get\l_inode" alt="" coords="377,951,540,998"/>
+<area shape="rect" id="node39" href="$classRFC__Pane__overlay.html#a8744675c2570f6fc0a7944426ae330cf" title="RFC_Pane_overlay::set\l_inode" alt="" coords="377,1021,540,1067"/>
+<area shape="rect" id="node41" href="$classRFC__Pane__overlay.html#a3c9f62f60de9db8c7ad06b3047c37883" title="RFC_Pane_overlay::get\l_inode_list" alt="" coords="377,642,540,689"/>
+<area shape="rect" id="node47" href="$classRFC__Pane__overlay.html#a87d375466d7f1d9795e7e5a8871f9e84" title="RFC_Pane_overlay::get\l_buffered_inode" alt="" coords="377,1090,540,1137"/>
+<area shape="rect" id="node51" href="$classRFC__Pane__overlay.html#ad3d4bf01ee39f25094bd3526178ef785" title="RFC_Pane_overlay::set\l_buffered_inode" alt="" coords="377,1159,540,1206"/>
+<area shape="rect" id="node54" href="$classRFC__Pane__overlay.html#a814d8df08eba85b58c226d1c1ece84df" title="RFC_Pane_overlay::mark" alt="" coords="372,1229,545,1259"/>
+<area shape="rect" id="node58" href="$classRFC__Pane__overlay.html#a345e8027700eab46e04136a33de74a41" title="RFC_Pane_overlay::unmark" alt="" coords="365,1283,552,1312"/>
+<area shape="rect" id="node62" href="$classRFC__Pane__overlay.html#aaf71263f16d56c5502683de96fe6f516" title="RFC_Pane_overlay::marked" alt="" coords="365,1336,552,1365"/>
+<area shape="rect" id="node68" href="$classRFC__Pane__overlay.html#aaf4bf32c2c85c41df5519183e570b60e" title="RFC_Pane_overlay::is\l_on_feature" alt="" coords="381,1389,536,1435"/>
+<area shape="rect" id="node71" href="$classRFC__Pane__overlay.html#ad5d46fc53c684ac4e1a78eaaf8e032e6" title="RFC_Pane_overlay::is\l_feature_0" alt="" coords="381,1509,536,1555"/>
+<area shape="rect" id="node73" href="$classRFC__Pane__overlay.html#ad8db42d8c66d936dbd38c8b09272ee55" title="RFC_Pane_overlay::is\l_feature_1" alt="" coords="381,1578,536,1625"/>
+<area shape="rect" id="node81" href="$classRFC__Pane__overlay.html#af2cb35f3fa9e3bde1d7c86bb5a71af05" title="RFC_Pane_overlay::get\l_cos_face_angle" alt="" coords="377,1647,540,1694"/>
+<area shape="rect" id="node83" href="$classRFC__Pane__overlay.html#a346c84a0abc48955d34c1a1de82bb106" title="RFC_Pane_overlay::get\l_angle_defect" alt="" coords="377,1717,540,1763"/>
+<area shape="rect" id="node85" href="$classRFC__Pane__overlay.html#a67e6782c6c0fc290027e8a7e944e0277" title="RFC_Pane_overlay::get\l_cos_edge_angle" alt="" coords="377,1786,540,1833"/>
+<area shape="rect" id="node87" href="$classRFC__Pane__overlay.html#acb5ba606c865c7790b7f7a10a2e3030d" title="RFC_Pane_overlay::reset\l_cos_edge_angle" alt="" coords="372,1855,545,1902"/>
+<area shape="rect" id="node89" href="$classRFC__Pane__overlay.html#ac509a45728a585a6b781b24dc662a52b" title="RFC_Pane_overlay::set\l_strong_edge" alt="" coords="377,1925,540,1971"/>
+<area shape="rect" id="node91" href="$classRFC__Pane__overlay.html#a397fb2792380d019a3b3bd18ef3e46b8" title="RFC_Pane_overlay::unset\l_strong_edge" alt="" coords="371,1994,547,2041"/>
+<area shape="rect" id="node93" href="$classRFC__Pane__overlay.html#ae53f79ee697b6796ab499a9327d61fd0" title="RFC_Pane_overlay::set\l_feature_0" alt="" coords="377,74,540,121"/>
+<area shape="rect" id="node95" href="$classRFC__Pane__overlay.html#aca9311712821a1866b968e87cac91f86" title="RFC_Pane_overlay::unset\l_feature_0" alt="" coords="371,143,547,190"/>
+<area shape="rect" id="node97" href="$classRFC__Pane__overlay.html#abdfd69ee19c2b27e1bb882df28a51d6d" title="RFC_Pane_overlay::set\l_on_feature" alt="" coords="377,213,540,259"/>
+<area shape="rect" id="node99" href="$classRFC__Pane__overlay.html#a20d16d393a2aa971027d939bf59a5f3b" title="RFC_Pane_overlay::unset\l_on_feature" alt="" coords="371,282,547,329"/>
+<area shape="rect" id="node101" href="$group__mf1.html#gaf74e1853d0de497ff96c6d4b028ccc32" title="Remove a false strong curve. " alt="" coords="383,351,535,398"/>
+<area shape="rect" id="node15" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1283,720,1400,749"/>
+<area shape="rect" id="node43" href="$classHDS__accessor.html#a146bb3a0c25ce0e24b8ae79b1c7bbd26" title="HDS_accessor::get_inode_list" alt="" coords="609,660,807,689"/>
+<area shape="rect" id="node49" href="$classOverlay.html#a6f62ad4058005a62c39b6cf532af573a" title="Overlay::insert_node\l_in_green_edge" alt="" coords="637,1125,779,1171"/>
+<area shape="rect" id="node56" href="$classHDS__accessor.html#acb7f959b5cbc2e60f255ce413c7a5919" title="HDS_accessor::mark" alt="" coords="635,1229,781,1259"/>
+<area shape="rect" id="node60" href="$classHDS__accessor.html#a82261d367550225ce521869df34ef1cb" title="HDS_accessor::unmark" alt="" coords="627,1283,789,1312"/>
+<area shape="rect" id="node64" href="$classHDS__accessor.html#acedd9fe17ebf5a5ae17c8a4e1fddfc27" title="HDS_accessor::marked" alt="" coords="627,1336,789,1365"/>
+<area shape="rect" id="node66" href="$group__pio.html#ga712081715f4755c4e60eaf51b408ea62" title="RFC_Window_overlay\l::get_an_unmarked_halfedge" alt="" coords="613,1389,803,1435"/>
+<area shape="rect" id="node75" href="$classHDS__accessor.html#a3e24744c5181ef204241f6698153a631" title="HDS_accessor::is_feature_1" alt="" coords="613,1528,803,1557"/>
+<area shape="rect" id="node105" href="$classOverlay.html#a31b447338dffe7665f56d8ba48cefca4" title="Overlay::convert_nat\l_coordinates" alt="" coords="388,2063,529,2110"/>
+<area shape="rect" id="node107" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="619,2072,797,2101"/>
+<area shape="rect" id="node111" href="$classRFC__Pane__overlay.html#a21750738025a0b7db7ed51755717ff70" title="RFC_Pane_overlay::determine\l_counterparts" alt="" coords="359,2183,559,2230"/>
+<area shape="rect" id="node113" href="$classRFC__Pane__overlay.html#a417ba5f4b63a77569e7d8a806e79a29a" title="RFC_Pane_overlay::construct\l_bvpair2edge" alt="" coords="360,2253,557,2299"/>
+</map>

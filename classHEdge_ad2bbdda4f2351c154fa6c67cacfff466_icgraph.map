@@ -1,0 +1,26 @@
+<map id="HEdge::destination_g" name="HEdge::destination_g">
+<area shape="rect" id="node3" href="$classOverlay.html#a68dfca90be08ced05008b4e3767b1ace" title="Overlay::contains" alt="" coords="216,373,339,402"/>
+<area shape="rect" id="node7" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="883,192,1008,239"/>
+<area shape="rect" id="node14" href="$classOverlay.html#a3fb9c07befb11760bebb3abf991eb238" title="Helper for associate_green_vertices(). " alt="" coords="633,372,804,419"/>
+<area shape="rect" id="node22" href="$classOverlay.html#a47c99be0d881c11b755215b70787ea89" title="Overlay::intersect\l_link_helper" alt="" coords="425,151,551,198"/>
+<area shape="rect" id="node28" href="$classOverlay.html#ac52cb7e1f1199d800e2615709c6c7966" title="Overlay::get_edge_parent" alt="" coords="403,578,573,608"/>
+<area shape="rect" id="node33" href="$classOverlay.html#a7a8d6647ea8a36283218e98b9701bad9" title="Overlay::get_next_inode_ccw" alt="" coords="621,720,816,749"/>
+<area shape="rect" id="node55" href="$group__fdp.html#gaa8387189012dde7070282bb9162588b6" title="Compute the cosine of the edge angle at a vertex between two incident feature edges. " alt="" coords="201,682,353,728"/>
+<area shape="rect" id="node57" href="$group__ntc.html#ga7dc267edacebbbaa331fdf5ec58a8455" title="RFC_Window_overlay\l::evaluate_normals" alt="" coords="869,47,1021,94"/>
+<area shape="rect" id="node64" href="$group__ntc.html#ga6a3ec3c05ce48113f35b47f2d1df076a" title="Dump out the 0&#45; and 1&#45;features in Tecplot format into files &lt;name&gt;f0.plt, &lt;name&gt;f1.plt, respectively. " alt="" coords="201,751,353,798"/>
+<area shape="rect" id="node67" href="$classOverlay__primitives.html#a448294402b5adcfe218507704d7a755d" title="Overlay_primitives\l::snap_blue_ridge_edge" alt="" coords="409,82,567,128"/>
+<area shape="rect" id="node5" href="$classOverlay.html#ad62640b5cea6da6754b7232fd59486c3" title="Overlay::insert_node\l_in_blue_edge" alt="" coords="648,252,789,299"/>
+<area shape="rect" id="node19" href="$classOverlay.html#aa08c0367aef4569dad35bdeb6e25b148" title="Overlay::verify_inode" alt="" coords="416,373,560,402"/>
+<area shape="rect" id="node24" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="643,200,795,229"/>
+<area shape="rect" id="node35" href="$classOverlay.html#a2032d3131e516d3b02b6194baac2e62c" title="Overlay::get_next_inode" alt="" coords="864,545,1027,574"/>
+<area shape="rect" id="node50" href="$classOverlay.html#a74f40e4d1490d9df76d8f09175b914d5" title="Overlay::get_parent_face" alt="" coords="635,442,803,472"/>
+<area shape="rect" id="node11" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="1075,261,1253,290"/>
+<area shape="rect" id="node9" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1528,261,1645,290"/>
+<area shape="rect" id="node16" href="$classOverlay.html#ad5f1e6c0f443baf6c59656657ec0ad5f" title="Overlay::associate\l_green_vertices" alt="" coords="1099,328,1229,375"/>
+<area shape="rect" id="node31" href="$classOverlay.html#a77011830c449836fc954135b3cb179b6" title="Overlay::get_edge_pair\l_parents" alt="" coords="641,650,796,696"/>
+<area shape="rect" id="node46" href="$classOverlay.html#a8194f71d9a04a3a41e8a86cb0e681cde" title="Overlay::get_next_inode_cw" alt="" coords="625,597,812,626"/>
+<area shape="rect" id="node37" href="$classOverlay.html#a8aa2a59fabbae58db239b83a4f51fa48" title="Overlay::subdivide" alt="" coords="1099,533,1229,562"/>
+<area shape="rect" id="node39" href="$classOverlay.html#a1024b43f46468592c95f2118197f94d1" title="Overlay::write_overlay_tec" alt="" coords="1303,573,1479,602"/>
+<area shape="rect" id="node41" href="$classOverlay.html#a1bdc98e9b544d9f79c03f544bd0088c6" title="Overlay::write_overlay_off" alt="" coords="1304,520,1477,549"/>
+<area shape="rect" id="node43" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="1301,442,1480,472"/>
+</map>

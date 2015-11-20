@@ -1,0 +1,51 @@
+<map id="HEdge::id" name="HEdge::id">
+<area shape="rect" id="node3" href="$group__pifd.html#gacc6431518438cfdb0c5f73b2b02159d8" title="The main entry of feature detection. " alt="" coords="1051,82,1203,129"/>
+<area shape="rect" id="node7" href="$classRFC__Pane__overlay.html#a40291c56ede9397b44a2997cce10f5f6" title="RFC_Pane_overlay::get\l_border_index" alt="" coords="133,1054,296,1101"/>
+<area shape="rect" id="node93" href="$classRFC__Pane__overlay.html#af2cb35f3fa9e3bde1d7c86bb5a71af05" title="RFC_Pane_overlay::get\l_cos_face_angle" alt="" coords="133,1193,296,1240"/>
+<area shape="rect" id="node97" href="$classRFC__Pane__overlay.html#af8a79eba56d0b992bfbf1dc140829e4b" title="RFC_Pane_overlay::get\l_counterpart" alt="" coords="133,1262,296,1309"/>
+<area shape="rect" id="node99" href="$classRFC__Pane__overlay.html#a63c641bd719ea0bc699b53f3c76259b4" title="RFC_Pane_overlay::get\l_index" alt="" coords="133,1356,296,1402"/>
+<area shape="rect" id="node102" href="$classRFC__Pane__overlay.html#ae700d6675c1fa8df293f102ec2e8f752" title="Obtain the next edge in a given access mode. " alt="" coords="364,768,527,814"/>
+<area shape="rect" id="node139" href="$classRFC__Pane__overlay.html#adebd97d4f31a7e70887f1939c201ebe2" title="RFC_Pane_overlay::get\l_normal" alt="" coords="133,1425,296,1472"/>
+<area shape="rect" id="node141" href="$classRFC__Pane__overlay.html#af253e459d531c3db7ad7e833a8820a7d" title="Obtain the previous edge in a given access mode. " alt="" coords="133,1124,296,1170"/>
+<area shape="rect" id="node150" href="$classVertex__set.html#aee37a6b3f9c3ba1ebcd28ebbab101f2b" title="Vertex_set::Vertex_set" alt="" coords="137,1495,292,1524"/>
+<area shape="rect" id="node5" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1685,456,1803,486"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__overlay.html#a21750738025a0b7db7ed51755717ff70" title="RFC_Pane_overlay::determine\l_counterparts" alt="" coords="345,1054,545,1101"/>
+<area shape="rect" id="node11" href="$classRFC__Pane__overlay.html#a94aee5386cc230bf6574ffd3d547305e" title="RFC_Pane_overlay::is\l_primary" alt="" coords="368,985,523,1032"/>
+<area shape="rect" id="node17" href="$classRFC__Pane__overlay.html#a517f1ea249a0de3e50c5968e6058ca6c" title="RFC_Pane_overlay::get\l_primary" alt="" coords="364,1124,527,1170"/>
+<area shape="rect" id="node13" href="$classRFC__Pane__overlay.html#a5a260837536e2a48d398f5765da63a1e" title="RFC_Pane_overlay::get\l_inode" alt="" coords="599,1020,761,1066"/>
+<area shape="rect" id="node15" href="$classRFC__Pane__overlay.html#a8744675c2570f6fc0a7944426ae330cf" title="RFC_Pane_overlay::set\l_inode" alt="" coords="599,950,761,997"/>
+<area shape="rect" id="node19" href="$classHEdge.html#aa6ddcf44d16ec8e06d5b3a6aa54cbab6" title="HEdge::origin_g" alt="" coords="623,1111,737,1140"/>
+<area shape="rect" id="node78" href="$classHEdge.html#ad2bbdda4f2351c154fa6c67cacfff466" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="607,1658,753,1687"/>
+<area shape="rect" id="node21" href="$classOverlay.html#ad62640b5cea6da6754b7232fd59486c3" title="Overlay::insert_node\l_in_blue_edge" alt="" coords="1056,770,1197,817"/>
+<area shape="rect" id="node23" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="1512,1129,1637,1176"/>
+<area shape="rect" id="node26" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="1277,331,1456,360"/>
+<area shape="rect" id="node30" href="$classOverlay.html#a7cd675313ef45f71fa2d0b40eb067578" title="Overlay::sort_on_green\l_edges" alt="" coords="1048,322,1205,369"/>
+<area shape="rect" id="node33" href="$classOverlay.html#a6f62ad4058005a62c39b6cf532af573a" title="Overlay::insert_node\l_in_green_edge" alt="" coords="828,445,969,492"/>
+<area shape="rect" id="node36" href="$classOverlay.html#ad5f1e6c0f443baf6c59656657ec0ad5f" title="Overlay::associate\l_green_vertices" alt="" coords="1301,1417,1432,1464"/>
+<area shape="rect" id="node39" href="$classOverlay.html#a3fb9c07befb11760bebb3abf991eb238" title="Helper for associate_green_vertices(). " alt="" coords="1041,1437,1212,1484"/>
+<area shape="rect" id="node42" href="$classOverlay.html#a47c99be0d881c11b755215b70787ea89" title="Overlay::intersect\l_link_helper" alt="" coords="1064,1061,1189,1108"/>
+<area shape="rect" id="node44" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="1291,1099,1443,1128"/>
+<area shape="rect" id="node48" href="$classOverlay.html#ac52cb7e1f1199d800e2615709c6c7966" title="Overlay::get_edge_parent" alt="" coords="1041,1232,1212,1262"/>
+<area shape="rect" id="node53" href="$classOverlay.html#a8194f71d9a04a3a41e8a86cb0e681cde" title="Overlay::get_next_inode_cw" alt="" coords="1273,959,1460,988"/>
+<area shape="rect" id="node55" href="$classOverlay.html#a68dfca90be08ced05008b4e3767b1ace" title="Overlay::contains" alt="" coords="837,1163,960,1192"/>
+<area shape="rect" id="node63" href="$classOverlay.html#a17598749be120787a437d6303b08443b" title="Overlay::get_nat_coor" alt="" coords="824,787,973,816"/>
+<area shape="rect" id="node66" href="$classOverlay.html#a3edcb5b01d892098d78aafd39d02ab3e" title="Overlay::get_inodes\l_of_face" alt="" coords="829,840,968,886"/>
+<area shape="rect" id="node69" href="$classOverlay__primitives.html#a448294402b5adcfe218507704d7a755d" title="Overlay_primitives\l::snap_blue_ridge_edge" alt="" coords="820,1589,977,1636"/>
+<area shape="rect" id="node72" href="$classOverlay__primitives.html#a32cbd22e5afc0f65688f2501f29d3e58" title="Overlay_primitives\l::snap_blue_ridge_vertex" alt="" coords="1284,1332,1449,1378"/>
+<area shape="rect" id="node75" href="$group__fdp.html#gaa8387189012dde7070282bb9162588b6" title="Compute the cosine of the edge angle at a vertex between two incident feature edges. " alt="" coords="823,1520,975,1566"/>
+<area shape="rect" id="node51" href="$classOverlay.html#a7a8d6647ea8a36283218e98b9701bad9" title="Overlay::get_next_inode_ccw" alt="" coords="1269,1279,1464,1308"/>
+<area shape="rect" id="node82" href="$group__ntc.html#ga7dc267edacebbbaa331fdf5ec58a8455" title="RFC_Window_overlay\l::evaluate_normals" alt="" coords="1051,549,1203,596"/>
+<area shape="rect" id="node89" href="$group__ntc.html#ga6a3ec3c05ce48113f35b47f2d1df076a" title="Dump out the 0&#45; and 1&#45;features in Tecplot format into files &lt;name&gt;f0.plt, &lt;name&gt;f1.plt, respectively. " alt="" coords="823,1912,975,1958"/>
+<area shape="rect" id="node95" href="$group__fdp.html#ga3e96d97dd88bb9e3f81c938846006afd" title="Compute the cosine of the face angle (dihedral angle) at an edge. " alt="" coords="369,1862,521,1909"/>
+<area shape="rect" id="node104" href="$classHEdge.html#aec510b3f7d79f31cdd0f8d5baaf9a446" title="HEdge::next_g" alt="" coords="625,659,735,688"/>
+<area shape="rect" id="node106" href="$classHDS__accessor.html#aa2a7eeb8af4277659cccda4db911e728" title="HDS_accessor::get_next\l_around_origin" alt="" coords="815,514,983,561"/>
+<area shape="rect" id="node119" href="$classHDS__accessor.html#a0b04b63ee2112fb08379c8facad020ca" title="HDS_accessor::get_next\l_around_destination" alt="" coords="815,154,983,201"/>
+<area shape="rect" id="node130" href="$classOverlay.html#a9b5be97220606c4edb8fbdadc14b6a8f" title="Overlay::intersect\l_link_helper2" alt="" coords="1064,890,1189,937"/>
+<area shape="rect" id="node137" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="833,224,964,270"/>
+<area shape="rect" id="node108" href="$classOverlay.html#ae6dda48a0c80ba9ea6195ea66948ee54" title="Overlay::count_subnodes" alt="" coords="1041,443,1212,472"/>
+<area shape="rect" id="node117" href="$classOverlay.html#ab59c337258025909c5231e6503e49975" title="Overlay::number_a_subnode" alt="" coords="1033,496,1220,526"/>
+<area shape="rect" id="node121" href="$group__mf1.html#ga5dfc30e51e67c154900fed43cd7c8820" title="Determine whether a curve is false strong. " alt="" coords="1048,152,1205,198"/>
+<area shape="rect" id="node143" href="$classHEdge.html#aa4ec17db1a9122efde41a93929d5c988" title="HEdge::prev_g" alt="" coords="391,1810,500,1839"/>
+<area shape="rect" id="node145" href="$classHDS__accessor.html#a1ba6209f0212ce8db14a00486e9a3ade" title="HDS_accessor::get_prev\l_around_origin" alt="" coords="596,1861,764,1908"/>
+<area shape="rect" id="node147" href="$classHDS__accessor.html#ae2ba49f45a6c1855f0c38b8a5eefbf90" title="HDS_accessor::get_prev\l_around_destination" alt="" coords="596,1930,764,1977"/>
+</map>

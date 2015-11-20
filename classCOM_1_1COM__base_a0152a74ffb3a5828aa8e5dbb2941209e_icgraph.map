@@ -1,0 +1,24 @@
+<map id="COM::COM_base::get_window_object" name="COM::COM_base::get_window_object">
+<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#a4f91713926c24f4002ec17e4f494af2e" title="COM::COM_base::get\l_window_object" alt="" coords="253,5,405,51"/>
+<area shape="rect" id="node5" href="$classRocin.html#aee80f20e824112ff9b2b9c8a13b7ceff" title="Read in parameters from a given file into the given window. " alt="" coords="240,75,419,104"/>
+<area shape="rect" id="node17" href="$classRFC__Pane__base.html#a7bbaf48ac1f31aaaef84e1f3aa64ff4e" title="Read in using Rocin. " alt="" coords="252,127,407,174"/>
+<area shape="rect" id="node25" href="$classCOM_1_1ParallelTestingObject.html#a8ab71da9961529ff46eea73fbb6ab517" title="Test for get and set communicator functions. " alt="" coords="208,197,451,243"/>
+<area shape="rect" id="node38" href="$classRocout.html#af142b618eafd37aba82bba96ec27bd35" title="Write out the parameters defined in the fiven window into a parameter file. " alt="" coords="235,301,424,331"/>
+<area shape="rect" id="node7" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="552,75,632,104"/>
+<area shape="rect" id="node9" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="757,75,896,104"/>
+<area shape="rect" id="node11" href="$Rocin_8C.html#a265d4c3356bff967be0965480956fe6b" title="COM_F_FUNC2" alt="" coords="1009,21,1129,51"/>
+<area shape="rect" id="node13" href="$readsdv_8C.html#a64be298d6315aab8ff717f2c8d1b7777" title="read_pane_sp" alt="" coords="1019,75,1120,104"/>
+<area shape="rect" id="node15" href="$readsdv_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1219,75,1269,104"/>
+<area shape="rect" id="node19" href="$classRFC__Window__transfer.html#a7c8c8bf039e5e2400abaf4b994543274" title="RFC_Window_transfer\l::init_recv_buffer" alt="" coords="515,127,669,174"/>
+<area shape="rect" id="node21" href="$classRFC__Window__transfer.html#aec87cef0eb23358d2a3b4e54299e6bb4" title="Replicate the metadata of a remote pane only the local process. " alt="" coords="749,127,904,174"/>
+<area shape="rect" id="node23" href="$classRFC__Window__transfer.html#a2b520ebc439b1d7d032dcf0ec86c15f8" title="Replicate the remote panes that are in contact with the local panes in opp_win. " alt="" coords="992,127,1147,174"/>
+<area shape="rect" id="node27" href="$classCOM_1_1ParallelTestingObject.html#add04c337994958e45dbc07b264b128d5" title="Runs all tests implemented by the COM::ParallelTestingObject. " alt="" coords="500,197,684,243"/>
+<area shape="rect" id="node33" href="$classCOM_1_1ParallelTestingObject.html#abedc3b64f59caaa0d5c9ef1236079acb" title="Runs a test specified by name. " alt="" coords="500,266,684,313"/>
+<area shape="rect" id="node29" href="$namespaceCOM.html#a1d0a68356a3a05cd228d57000ba009fc" title="Drives the COM::TestObject. " alt="" coords="761,209,892,239"/>
+<area shape="rect" id="node31" href="$ParallelTestCOM_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1044,209,1095,239"/>
+<area shape="rect" id="node35" href="$classCOM_1_1ParallelTestingObject.html#a3d3428ec82199b2208091c599d5625bb" title="Runs a list of tests specified by name. " alt="" coords="735,266,919,313"/>
+<area shape="rect" id="node40" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="548,336,636,365"/>
+<area shape="rect" id="node42" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="751,336,903,365"/>
+<area shape="rect" id="node44" href="$Rocout_8C.html#aa61f5dc3c463c5fd8227b81d8ab9012f" title="COM_F_FUNC2" alt="" coords="1009,309,1129,339"/>
+<area shape="rect" id="node46" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="968,363,1171,392"/>
+</map>

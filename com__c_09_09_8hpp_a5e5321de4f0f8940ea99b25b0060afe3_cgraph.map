@@ -1,0 +1,8 @@
+<map id="COM_set_object" name="COM_set_object">
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="196,5,305,35"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#af18580afc3217635b001174865d5fe40" title="Associates an object with a specific window. " alt="" coords="175,58,327,105"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="377,5,561,35"/>
+<area shape="rect" id="node9" href="$classCOM__Object__derived.html#a36c68534221a004f785bb8871e66b28d" title="COM_Object_derived\l::cast_obj" alt="" coords="396,58,543,105"/>
+<area shape="rect" id="node11" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="612,36,804,65"/>
+<area shape="rect" id="node13" href="$classCOM__Object__derived.html#ac6f8f042f6bb9be7a4e65b9af4174241" title="COM_Object_derived\l::validate_object" alt="" coords="635,89,781,135"/>
+</map>

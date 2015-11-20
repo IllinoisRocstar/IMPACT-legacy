@@ -1,0 +1,18 @@
+<map id="comtype2hdftype" name="comtype2hdftype">
+<area shape="rect" id="node3" href="$Rocout__hdf4_8C.html#ac7a080b59929cdee9d75d9fa40f7a43b" title="write_data" alt="" coords="176,32,259,61"/>
+<area shape="rect" id="node5" href="$Rocout__hdf4_8C.html#a709a82e6a4b8623efe284464ce294f76" title="io_pane_header" alt="" coords="652,5,764,35"/>
+<area shape="rect" id="node29" href="$Rocout__hdf4_8C.html#a632044297047530d384b11f095ae5ca1" title="io_hdf_data" alt="" coords="308,57,396,87"/>
+<area shape="rect" id="node7" href="$Rocout__hdf4_8C.html#a3ddbc692396639d517fac62d51307a03" title="io_pane" alt="" coords="827,83,893,112"/>
+<area shape="rect" id="node9" href="$Rocout__hdf4_8C.html#a44f2f2b657aa8428789bf4fccbac4774" title="write_dataitem_HDF4" alt="" coords="941,83,1091,112"/>
+<area shape="rect" id="node11" href="$classRocout.html#a2e2164d5afda7f151ea67a062d6b1e30" title="Does the actual writing to file. " alt="" coords="1139,74,1296,121"/>
+<area shape="rect" id="node13" href="$classRocout.html#a2d93308090cd3780bbd1f2e4f8dd6e90" title="Write a (possibly aggregate) dataitem to a file. " alt="" coords="1344,29,1501,59"/>
+<area shape="rect" id="node23" href="$classRocout.html#a822ceb7ba85d5bd64a61bf01671645c0" title="Write a (possibly aggregate) dataitem to a new file. " alt="" coords="1349,83,1496,112"/>
+<area shape="rect" id="node26" href="$classRocout.html#a9a906712d8b14bf478607d20982b0db6" title="Append a (possibly aggregate) dataitem to a file. " alt="" coords="1348,136,1497,165"/>
+<area shape="rect" id="node15" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="1551,83,1639,112"/>
+<area shape="rect" id="node17" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="1689,83,1841,112"/>
+<area shape="rect" id="node19" href="$Rocout_8C.html#aa61f5dc3c463c5fd8227b81d8ab9012f" title="COM_F_FUNC2" alt="" coords="1932,56,2052,85"/>
+<area shape="rect" id="node21" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="1891,109,2093,139"/>
+<area shape="rect" id="node31" href="$Rocout__hdf4_8C.html#a3150ef0f916ef5dbbb65ab91da41a411" title="io_pane_connectivity" alt="" coords="445,57,589,87"/>
+<area shape="rect" id="node34" href="$Rocout__hdf4_8C.html#a543d9911c012c3c4ba065dfa5ca7f43f" title="io_pane_dataitem" alt="" coords="456,111,579,140"/>
+<area shape="rect" id="node37" href="$Rocout__hdf4_8C.html#a3d2f8a4d25c9e394b07da450c666f21b" title="io_pane_coordinates" alt="" coords="637,160,779,189"/>
+</map>
