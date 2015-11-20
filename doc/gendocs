@@ -1,3 +1,0 @@
-./cleandocs
-doxygen IMPACT.cfg
-tar zcvf impact_html_docs.tgz html
