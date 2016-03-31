@@ -1,7 +1,0 @@
-<map id="RFC_Pane_base::get_point_of_subnode" name="RFC_Pane_base::get_point_of_subnode">
-<area shape="rect" id="node3" href="$classRFC__Pane__base.html#aaf3cff0660a06d4ff9723d6ae09f5afd" title="RFC_Pane_base::register\l_sdv_dataitems" alt="" coords="207,5,380,51"/>
-<area shape="rect" id="node5" href="$classRFC__Pane__base.html#a8792f222d5873390de14065e8e84fce5" title="RFC_Pane_base::write_off" alt="" coords="204,75,383,104"/>
-<area shape="rect" id="node9" href="$classRFC__Pane__base.html#aae491e87abdd75ea2ab2970ad8cf9b15" title="RFC_Pane_base::write\l_tec_sub" alt="" coords="215,127,372,174"/>
-<area shape="rect" id="node7" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="432,75,635,104"/>
-<area shape="rect" id="node11" href="$classRFC__Window__base.html#a307effa23c85f139495a40e8866fd324" title="Ouptut a subdivision of a mesh in Tecplot format. " alt="" coords="447,127,620,174"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="COM::TestingObject::ResetSolution" name="COM::TestingObject::ResetSolution">
-<area shape="rect" id="node3" href="$classCOM_1_1TestingObject.html#a358a9ca0a519dab9cb451fd0fbd72dc4" title="COM::TestingObject\l::Test__LinearDataTransfer" alt="" coords="208,5,389,51"/>
-<area shape="rect" id="node16" href="$classCOM_1_1TestingObject.html#a48999c6e51334b89e895938db709c1ed" title="COM::TestingObject\l::Test__QuadraticDataTransfer" alt="" coords="197,74,400,121"/>
-<area shape="rect" id="node5" href="$classCOM_1_1TestingObject.html#adc0220ab9f8f32b94ec41af81b8e1b57" title="Runs all tests implemented by the COM::TestingObject. " alt="" coords="449,5,591,51"/>
-<area shape="rect" id="node11" href="$classCOM_1_1TestingObject.html#a102d13152c0a803003158db518f90dde" title="Runs a test specified by name. " alt="" coords="449,74,591,121"/>
-<area shape="rect" id="node7" href="$namespaceCOM.html#a071a4ed0afce0146c60c14de880f8c0e" title="Drives the COM::TestObject for the COM tests. " alt="" coords="669,17,755,47"/>
-<area shape="rect" id="node9" href="$TestCOM_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="832,17,883,47"/>
-<area shape="rect" id="node13" href="$classCOM_1_1TestingObject.html#a0b87cb849cde43284a7a7103a35d2aed" title="Runs a list of tests specified by name. " alt="" coords="641,74,783,121"/>
-</map>

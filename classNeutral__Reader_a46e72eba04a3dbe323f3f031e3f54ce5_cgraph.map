@@ -1,8 +1,0 @@
-<map id="Neutral_Reader::read_pane_elems" name="Neutral_Reader::read_pane_elems">
-<area shape="rect" id="node3" href="$com__c_8h.html#a989b969be3cb07c32a05d4aad3a0f710" title="Allocate space for an dataitem on a specific pane and return the address by setting addr..." alt="" coords="200,5,341,35"/>
-<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#a000a075fb1782d7eeaae75a7136e6411" title="Set sizes of for a specific dataitem. " alt="" coords="216,59,325,88"/>
-<area shape="rect" id="node13" href="$classNeutral__Reader.html#aa2251f8913a27ff24027683975160e65" title="Neutral_Reader::get\l_nextline" alt="" coords="201,111,340,158"/>
-<area shape="rect" id="node7" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="427,32,536,61"/>
-<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#aee4022985c5a2541202401c029117b2e" title="Set the sizes of an dataitem. " alt="" coords="389,85,573,115"/>
-<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="623,32,807,61"/>
-</map>

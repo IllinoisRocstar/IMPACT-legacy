@@ -1,5 +1,0 @@
-<map id="ExtractExponent" name="ExtractExponent">
-<area shape="rect" id="node3" href="$Rocout__cgns_8C.html#a84c4722ac95a0d2834773e1f39c14318" title="ModifyExponents" alt="" coords="173,13,296,43"/>
-<area shape="rect" id="node5" href="$Rocout__cgns_8C.html#a07d1d501ec5ee2fa6a6a034733ee9cad" title="cg_exponents_as_string\l_write" alt="" coords="344,5,507,51"/>
-<area shape="rect" id="node7" href="$Rocout__cgns_8C.html#a7990143fb4771045077db916f5cc0e4e" title="Write the data for the given dataitem to file. " alt="" coords="555,13,677,43"/>
-</map>

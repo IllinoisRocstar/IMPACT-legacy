@@ -1,8 +1,0 @@
-<map id="Agent::create_buffer_all" name="Agent::create_buffer_all">
-<area shape="rect" id="node3" href="$classBurnAgent.html#a21ad0c154515bf44027b4653c600e4fd" title="BurnAgent::create_buffer_all" alt="" coords="213,5,400,35"/>
-<area shape="rect" id="node5" href="$classFluidAgent.html#aefa1b063d0f50769ad00646d55463cd7" title="FluidAgent::create\l_buffer_all" alt="" coords="243,58,371,105"/>
-<area shape="rect" id="node7" href="$classSolidAgent.html#a0fd6e5283143a0c079db8d4023868c2e" title="SolidAgent::create\l_buffer_all" alt="" coords="243,127,371,174"/>
-<area shape="rect" id="node9" href="$classAgent.html#a3c282342a075445fb4fb99cf3be75af6" title="Agent::init_callback" alt="" coords="239,197,375,227"/>
-<area shape="rect" id="node11" href="$classAgent.html#ae584ba64d7194b7643f7d82f91b98d74" title="Agent::create_window" alt="" coords="449,197,599,227"/>
-<area shape="rect" id="node13" href="$classAgent.html#ad5a0bdccbd94e664ad130a6316f96ca7" title="Agent::Agent" alt="" coords="648,197,747,227"/>
-</map>

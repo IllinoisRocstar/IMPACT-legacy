@@ -1,8 +1,0 @@
-<map id="SolverUtils::Mesh::GenericElement::jacobian" name="SolverUtils::Mesh::GenericElement::jacobian">
-<area shape="rect" id="node3" href="$classSolverUtils_1_1Mesh_1_1GenericElement.html#a4a72cbf75a94f1c3e8b9f8b11b69edd6" title="SolverUtils::Mesh::\lGenericElement::shapef\l_jacobian_at" alt="" coords="224,65,387,129"/>
-<area shape="rect" id="node5" href="$namespaceSolverUtils_1_1Mesh.html#ad84eea91bf820f949ef0f5a05e53783d" title="Newton&#45;Raphson method, customized for using the GeoPrimitives and computational mesh constructs..." alt="" coords="436,74,569,121"/>
-<area shape="rect" id="node7" href="$namespaceSolverUtils_1_1Mesh.html#aacf9714b883da9b352adb4c83830b23d" title="Locate element containing given physical point. " alt="" coords="631,5,764,51"/>
-<area shape="rect" id="node9" href="$namespaceSolverUtils_1_1Mesh.html#af2c79343340b796d9166369a47303c72" title="Locate element containing given physical point. " alt="" coords="631,74,764,121"/>
-<area shape="rect" id="node13" href="$namespaceSolverUtils_1_1Mesh.html#a358c71a1cffe0b18f8142c96b62e31f4" title="SolverUtils::Mesh::\lGlobalFindPointInMesh" alt="" coords="619,143,776,190"/>
-<area shape="rect" id="node11" href="$meshtest1_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="824,83,875,112"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SolverUtils::Mesh::GetCoordinateBounds" name="SolverUtils::Mesh::GetCoordinateBounds">
-<area shape="rect" id="node3" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="263,5,308,35"/>
-<area shape="rect" id="node5" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#a2fe650250a159633959c19fdb9e33a4e" title="SolverUtils::Mesh::\lNodalCoordinates::Size" alt="" coords="205,58,365,105"/>
-<area shape="rect" id="node7" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#adb939eec625b2ad303b0adebd33d6f6f" title="SolverUtils::Mesh::\lNodalCoordinates::x" alt="" coords="215,127,356,174"/>
-<area shape="rect" id="node9" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#a01c89d35a66f97a0a7c25b73126da368" title="SolverUtils::Mesh::\lNodalCoordinates::y" alt="" coords="215,197,356,243"/>
-<area shape="rect" id="node11" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#aa52fc025565593d4196fe2fd0cf0df66" title="SolverUtils::Mesh::\lNodalCoordinates::z" alt="" coords="215,266,356,313"/>
-</map>

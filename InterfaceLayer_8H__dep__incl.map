@@ -1,8 +1,0 @@
-<map id="InterfaceLayer.H" name="InterfaceLayer.H">
-<area shape="rect" id="node3" href="$COMTest_8H.html" title="Testing object for COM. " alt="" coords="96,83,189,112"/>
-<area shape="rect" id="node11" href="$TestSolver_8H.html" title="TestSolver.H" alt="" coords="215,83,313,112"/>
-<area shape="rect" id="node5" href="$TestCOM_8H.html" title="Testing utilities for COM. " alt="" coords="96,160,189,189"/>
-<area shape="rect" id="node7" href="$ParallelTestCOM_8C.html" title="Implements a command&#45;line interface for the COM tests. " alt="" coords="5,237,141,267"/>
-<area shape="rect" id="node9" href="$TestCOM_8C.html" title="Implements a command&#45;line interface for the COM tests. " alt="" coords="165,237,259,267"/>
-<area shape="rect" id="node13" href="$COM_2testing_2src_2TestModule_8C.html" title="C++ Test Module. " alt="" coords="213,160,317,189"/>
-</map>

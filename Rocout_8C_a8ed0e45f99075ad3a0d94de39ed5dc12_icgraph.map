@@ -1,8 +1,0 @@
-<map id="is_option_value" name="is_option_value">
-<area shape="rect" id="node3" href="$classRocout.html#ad98ab6ccf791bde995299b9f03c62d7b" title="Set options for Rocout via a control file. " alt="" coords="348,5,513,35"/>
-<area shape="rect" id="node13" href="$classRocout.html#a2dc62659087729f5a98725a05f3ab173" title="Set an option for Rocout, such as controlling the output format. " alt="" coords="167,57,297,87"/>
-<area shape="rect" id="node5" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="564,32,652,61"/>
-<area shape="rect" id="node7" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="703,32,855,61"/>
-<area shape="rect" id="node9" href="$Rocout_8C.html#aa61f5dc3c463c5fd8227b81d8ab9012f" title="COM_F_FUNC2" alt="" coords="945,5,1065,35"/>
-<area shape="rect" id="node11" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="904,59,1107,88"/>
-</map>

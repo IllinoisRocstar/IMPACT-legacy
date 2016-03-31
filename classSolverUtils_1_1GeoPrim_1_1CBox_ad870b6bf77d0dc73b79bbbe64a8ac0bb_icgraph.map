@@ -1,7 +1,0 @@
-<map id="SolverUtils::GeoPrim::CBox::contains" name="SolverUtils::GeoPrim::CBox::contains">
-<area shape="rect" id="node3" href="$namespaceSolverUtils_1_1Mesh.html#a5b2b84848a689c08307fc946dcb0d4a3" title="Get elements in box. " alt="" coords="200,39,336,86"/>
-<area shape="rect" id="node5" href="$namespaceSolverUtils_1_1Mesh.html#af2c79343340b796d9166369a47303c72" title="Locate element containing given physical point. " alt="" coords="385,5,519,51"/>
-<area shape="rect" id="node9" href="$namespaceSolverUtils_1_1Mesh.html#a76031b810abcce88df6a9727ef086e13" title="Locate element containing given physical point. " alt="" coords="385,74,519,121"/>
-<area shape="rect" id="node7" href="$meshtest1_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="568,13,619,43"/>
-<area shape="rect" id="node11" href="$test__2d_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="568,83,619,112"/>
-</map>

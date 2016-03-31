@@ -1,7 +1,0 @@
-<map id="write_dataitem" name="write_dataitem">
-<area shape="rect" id="node3" href="$classRFC__Pane__base.html#adc016a52faf8bf925809d6d1a711e979" title="RFC_Pane_base::write\l_tec_ij" alt="" coords="161,5,319,51"/>
-<area shape="rect" id="node9" href="$classRFC__Pane__base.html#a2ac4a5d76ddaa1f394f7a9e46fa3a7ad" title="RFC_Pane_base::write\l_tec_mixed" alt="" coords="161,74,319,121"/>
-<area shape="rect" id="node12" href="$classRFC__Pane__base.html#aaaee8032997d65f89bbdc148454d89a0" title="RFC_Pane_base::write\l_tec_tri" alt="" coords="161,143,319,190"/>
-<area shape="rect" id="node5" href="$classRFC__Pane__base.html#a6e1cf19e10a18e99718b5de08f869f17" title="RFC_Pane_base::write\l_tec_ascii" alt="" coords="369,74,527,121"/>
-<area shape="rect" id="node7" href="$classRFC__Window__base.html#ad4a5888c788c3ed816ed71da66134b84" title="Ouptut a mesh in Tecplot format. " alt="" coords="577,74,751,121"/>
-</map>

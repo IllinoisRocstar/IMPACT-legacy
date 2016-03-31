@@ -1,8 +1,0 @@
-<map id="Scheduler::set_name" name="Scheduler::set_name">
-<area shape="rect" id="node3" href="$classAgent.html#a7f0b51f2b394e54d4d4e28be92317ede" title="Agent::add_bcaction" alt="" coords="200,59,341,88"/>
-<area shape="rect" id="node13" href="$classAgent.html#ad5a0bdccbd94e664ad130a6316f96ca7" title="Agent::Agent" alt="" coords="221,112,320,141"/>
-<area shape="rect" id="node5" href="$builtin__couplings_8C.html#aae652ed0b25fcf6c8486f30999da49cf" title="declare_fluid_actions" alt="" coords="404,5,548,35"/>
-<area shape="rect" id="node9" href="$builtin__couplings_8C.html#a61cbf367c53ee680746cc1e9bceab86b" title="declare_solid_actions" alt="" coords="403,59,549,88"/>
-<area shape="rect" id="node11" href="$classFluidBurnAlone.html#aa248accf402e49b57a1682c8886f420a" title="FluidBurnAlone::FluidBurn\lAlone" alt="" coords="389,111,563,158"/>
-<area shape="rect" id="node7" href="$classFluidAlone.html#a0f86d918b29ff2ac33c11ca48f6abecf" title="FluidAlone::FluidAlone" alt="" coords="611,5,763,35"/>
-</map>

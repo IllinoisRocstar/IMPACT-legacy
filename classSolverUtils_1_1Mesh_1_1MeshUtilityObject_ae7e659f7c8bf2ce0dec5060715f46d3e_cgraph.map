@@ -1,7 +1,0 @@
-<map id="SolverUtils::Mesh::MeshUtilityObject::FormConnectivity" name="SolverUtils::Mesh::MeshUtilityObject::FormConnectivity">
-<area shape="rect" id="node3" href="$classSolverUtils_1_1Mesh_1_1MeshUtilityObject.html#aa8dfa0adbf8dfeb25267f89e2cbe2fe2" title="SolverUtils::Mesh::\lMeshUtilityObject::ECon" alt="" coords="292,5,457,51"/>
-<area shape="rect" id="node5" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#aec9a9384d1460da87251582bdeb169a6" title="SolverUtils::Mesh::\lConnectivity::Inverse" alt="" coords="301,74,448,121"/>
-<area shape="rect" id="node11" href="$classSolverUtils_1_1Mesh_1_1MeshUtilityObject.html#a2a8d19fff8116b067f1b0b69163fd146" title="SolverUtils::Mesh::\lMeshUtilityObject::NC" alt="" coords="297,143,452,190"/>
-<area shape="rect" id="node7" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a9aa1ab6cfea5a78c94c8af1e2eec9fb5" title="SolverUtils::Mesh::\lConnectivity::Resize" alt="" coords="507,39,651,86"/>
-<area shape="rect" id="node9" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#aa5da47ae4d738690dfe4d9d74d24db30" title="SolverUtils::Mesh::\lConnectivity::Sync" alt="" coords="512,109,645,155"/>
-</map>

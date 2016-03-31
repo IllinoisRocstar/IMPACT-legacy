@@ -1,6 +1,0 @@
-<map id="Rocface.h" name="Rocface.h">
-<area shape="rect" id="node3" href="$commpi_8h.html" title="Contains declarations of MPI subroutines used in COPM. " alt="" coords="5,237,83,267"/>
-<area shape="rect" id="node7" href="$com_8h.html" title="This file contains the prototypes for COM API. " alt="" coords="93,83,152,112"/>
-<area shape="rect" id="node9" href="$com__c_8h.html" title="This file contains the C wrapper for COM_base. " alt="" coords="109,160,181,189"/>
-<area shape="rect" id="node11" href="$com__basic_8h.html" title="This file contains some definitions of macros and constants for COM. " alt="" coords="107,237,203,267"/>
-</map>

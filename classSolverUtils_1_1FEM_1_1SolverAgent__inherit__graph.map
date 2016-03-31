@@ -1,7 +1,0 @@
-<map id="SolverUtils::FEM::SolverAgent" name="SolverUtils::FEM::SolverAgent">
-<area shape="rect" id="node3" href="$classCOM_1_1TestSolver.html" title="COM::TestSolver" alt="" coords="8,111,131,140"/>
-<area shape="rect" id="node7" href="$classCOM_1_1TransferSolver.html" title="COM::TransferSolver" alt="" coords="155,111,301,140"/>
-<area shape="rect" id="node9" href="$classSolverUtils_1_1FEM_1_1FDSolverAgent.html" title="SolverUtils::FEM::FDSolver\lAgent" alt="" coords="325,102,509,149"/>
-<area shape="rect" id="node5" href="$classCOM_1_1TestModule.html" title="COM::TestModule" alt="" coords="5,207,133,236"/>
-<area shape="rect" id="node11" href="$classSolverUtils_1_1FEM_1_1TCPSolverClient.html" title="SolverUtils::FEM::TCPSolver\lClient" alt="" coords="320,198,515,245"/>
-</map>

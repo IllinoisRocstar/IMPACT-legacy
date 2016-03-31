@@ -1,8 +1,0 @@
-<map id="Transfer_base::precondition_Jacobi" name="Transfer_base::precondition_Jacobi">
-<area shape="rect" id="node3" href="$classTransfer__base.html#a72af6118d39e2674252c3c7713b8c317" title="Transfer_base::pcg" alt="" coords="239,49,372,79"/>
-<area shape="rect" id="node5" href="$classTransfer__base.html#ae66d6f5e5b452c86f35a34f1ab65b30a" title="template function for transfering from nodes/faces to nodes. " alt="" coords="421,76,600,105"/>
-<area shape="rect" id="node7" href="$classTransfer__n2n.html#a4a7968d6b0ac79f9530c07f132f380ec" title="The main entry to the data transfer algorithm. " alt="" coords="649,32,799,61"/>
-<area shape="rect" id="node11" href="$classTransfer__f2n.html#a015cd3110a73f23e2944e0abc6e2f108" title="The main entry to the data transfer algorithm. " alt="" coords="651,103,797,132"/>
-<area shape="rect" id="node9" href="$classTransfer__traits_3_01Nodal__data__const_00_01Nodal__data_00_01true_01_4.html#a11358f505450d456411ef25d8e6857c6" title="Transfer_traits\&lt; Nodal\l_data_const, Nodal_data,\l true \&gt;::transfer" alt="" coords="848,5,1019,69"/>
-<area shape="rect" id="node13" href="$classTransfer__traits_3_01Facial__data__const_00_01Nodal__data_00_01true_01_4.html#a6102b51650934050a0c69e076216b5cf" title="See above. " alt="" coords="848,93,1019,157"/>
-</map>

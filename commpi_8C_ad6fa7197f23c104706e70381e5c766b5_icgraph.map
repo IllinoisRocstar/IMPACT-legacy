@@ -1,9 +1,0 @@
-<map id="COMMPI_Irecv" name="COMMPI_Irecv">
-<area shape="rect" id="node3" href="$classPane__communicator.html#a32d3ff804a39435c9cc8f9762f6d9f4f" title="Initiates updating by calling MPI_Isend and MPI_Irecv. " alt="" coords="177,91,327,138"/>
-<area shape="rect" id="node11" href="$classPane__ghost__connectivity.html#a04ab38aedb0a5fd9a295a4baf98bb78e" title="Pane_ghost_connectivity\l::send_pane_info" alt="" coords="168,195,336,242"/>
-<area shape="rect" id="node5" href="$classPane__communicator.html#a309f0502f15dd23ec882eeec8423e1d7" title="Initiates updating shared nodes by calling MPI_Isend and MPI_Irecv. " alt="" coords="384,5,571,51"/>
-<area shape="rect" id="node7" href="$classPane__communicator.html#a618bc4aab1e0e7ba801deec2b42254e4" title="Initiates updating ghost nodes by calling MPI_Isend and MPI_Irecv. " alt="" coords="388,74,567,121"/>
-<area shape="rect" id="node9" href="$classPane__communicator.html#a1caec87abc7303c0590054752dd1480c" title="Initiates updating ghost nodes by calling MPI_Isend and MPI_Irecv. " alt="" coords="392,143,563,190"/>
-<area shape="rect" id="node13" href="$classPane__ghost__connectivity.html#a784e86e31134161edb47002339aa41be" title="Pane_ghost_connectivity\l::send_gelem_lists" alt="" coords="393,213,561,259"/>
-<area shape="rect" id="node15" href="$classPane__ghost__connectivity.html#a989bd27961e066dbe732fcdf21282574" title="Pane_ghost_connectivity\l::build_pconn" alt="" coords="619,213,787,259"/>
-</map>

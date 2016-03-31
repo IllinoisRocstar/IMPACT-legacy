@@ -1,5 +1,0 @@
-<map id="SolverUtils::GeoPrim::CBox::collide" name="SolverUtils::GeoPrim::CBox::collide">
-<area shape="rect" id="node3" href="$classSolverUtils_1_1GeoPrim_1_1CBox.html#a4317dd6505c739fae4c6835767818199" title="SolverUtils::GeoPrim\l::CBox::intersect" alt="" coords="201,39,345,86"/>
-<area shape="rect" id="node5" href="$namespaceSolverUtils_1_1Mesh.html#aaec947a31d6638635dc99879b001df71" title="SolverUtils::Mesh::\lCollideCellsWithBox" alt="" coords="396,5,537,51"/>
-<area shape="rect" id="node7" href="$namespaceSolverUtils_1_1Mesh.html#aeaf5f5644df9c31039801f23cf7ba67e" title="SolverUtils::Mesh::\lCollideMeshWithBox" alt="" coords="395,74,539,121"/>
-</map>

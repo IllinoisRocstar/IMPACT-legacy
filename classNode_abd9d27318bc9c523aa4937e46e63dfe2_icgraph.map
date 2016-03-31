@@ -1,7 +1,0 @@
-<map id="Node::halfedge" name="Node::halfedge">
-<area shape="rect" id="node3" href="$classWindow__manifold__2.html#a98d72b391248b8ad30f7a62176de09c4" title="Determine the primary nodes for across&#45;pane access. " alt="" coords="165,39,312,86"/>
-<area shape="rect" id="node11" href="$classNode.html#a34c43ffd7679daeb45bc4b040588b9fc" title="Is the node on the physical boundary? " alt="" coords="181,109,296,139"/>
-<area shape="rect" id="node5" href="$classWindow__manifold__2.html#af0271b5b6b206b3dd5e6e5650141fdde" title="Initialize the manifold by inheriting the given mesh. " alt="" coords="361,48,524,77"/>
-<area shape="rect" id="node7" href="$classWindow__manifold__2.html#a2cd4f1a3caa1a90704899c3e27e8bd72" title="Construct a Window_manifold_2 from a given window. " alt="" coords="581,5,728,51"/>
-<area shape="rect" id="node9" href="$classRFC__Window__overlay.html#abac82c95c8685d2e5455664c9f810a1c" title="RFC_Window_overlay\l::RFC_Window_overlay" alt="" coords="575,74,735,121"/>
-</map>

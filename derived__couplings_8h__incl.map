@@ -1,8 +1,0 @@
-<map id="derived_couplings.h" name="derived_couplings.h">
-<area shape="rect" id="node3" href="$Coupling_8h.html" title="Coupling.h" alt="" coords="57,83,140,112"/>
-<area shape="rect" id="node9" href="$Agent_8h.html" title="Agent.h" alt="" coords="149,160,216,189"/>
-<area shape="rect" id="node14" href="$com_8h.html" title="This file contains the prototypes for COM API. " alt="" coords="173,237,232,267"/>
-<area shape="rect" id="node22" href="$commpi_8h.html" title="Contains declarations of MPI subroutines used in COPM. " alt="" coords="239,392,316,421"/>
-<area shape="rect" id="node16" href="$com__c_8h.html" title="This file contains the C wrapper for COM_base. " alt="" coords="152,315,224,344"/>
-<area shape="rect" id="node18" href="$com__basic_8h.html" title="This file contains some definitions of macros and constants for COM. " alt="" coords="31,392,127,421"/>
-</map>

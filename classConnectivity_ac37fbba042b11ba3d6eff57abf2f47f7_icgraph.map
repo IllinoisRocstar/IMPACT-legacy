@@ -1,4 +1,0 @@
-<map id="Connectivity::dimension" name="Connectivity::dimension">
-<area shape="rect" id="node3" href="$classConnectivity.html#aafb0da4d0dad6ad7e409725520a4fa88" title="Get the number of nodes in j&#45;dimension if the mesh is structured. " alt="" coords="219,5,355,35"/>
-<area shape="rect" id="node5" href="$classConnectivity.html#a2a115a50fa49a229ee2d28a5b2e968f5" title="Get the number of nodes in k&#45;dimension if the mesh is structured. " alt="" coords="216,59,357,88"/>
-</map>

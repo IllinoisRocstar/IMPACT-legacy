@@ -1,9 +1,0 @@
-<map id="Pane_connectivity::compute_pconn" name="Pane_connectivity::compute_pconn">
-<area shape="rect" id="node3" href="$classRocmap.html#a3ee8edfae9b5c44497ae81b6ccc5f2bb" title="Compute pane connectivity map between shared nodes. " alt="" coords="192,112,363,141"/>
-<area shape="rect" id="node5" href="$classRocmap.html#ac4cbff08c584711910366bd08711ed02" title="Loads Rocmap onto Roccom with a given module name. " alt="" coords="412,112,513,141"/>
-<area shape="rect" id="node7" href="$Rocmap_8C.html#a854500cd46c6918f4ffb881b05af9606" title="SurfMap_load_module" alt="" coords="589,5,739,35"/>
-<area shape="rect" id="node9" href="$Rocmap_8C.html#a14accefd182641bddae978ed7f612276" title="surfmap_load_module" alt="" coords="589,59,739,88"/>
-<area shape="rect" id="node11" href="$Rocmap_8C.html#ad8efd505637c5d1e6594bf83088c705a" title="SURFMAP_LOAD_MODULE" alt="" coords="567,112,761,141"/>
-<area shape="rect" id="node13" href="$Rocmap_8C.html#a3527249235c1523cdb95ecadab39b637" title="surfmap_load_module_" alt="" coords="587,165,741,195"/>
-<area shape="rect" id="node15" href="$Rocmap_8C.html#a208fc25281b64438d096fe9ed0709ae9" title="SURFMAP_LOAD_MODULE_" alt="" coords="563,219,765,248"/>
-</map>

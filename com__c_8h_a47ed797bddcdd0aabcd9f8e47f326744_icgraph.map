@@ -1,9 +1,0 @@
-<map id="COM_finalize" name="COM_finalize">
-<area shape="rect" id="node3" href="$namespaceSolverUtils.html#afac2f8d5e809b8fe85526f3e8ef1c100" title="SolverUtils::FinalizeInterface" alt="" coords="156,5,345,35"/>
-<area shape="rect" id="node5" href="$addpconn_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="225,59,276,88"/>
-<area shape="rect" id="node7" href="$namespaceCOM.html#a1d0a68356a3a05cd228d57000ba009fc" title="Drives the COM::TestObject. " alt="" coords="185,112,316,141"/>
-<area shape="rect" id="node11" href="$rocstar__driver_8C.html#a83f4e1cc14f5787ea19907b93f0cd5cb" title="RocstarShutdown" alt="" coords="188,165,313,195"/>
-<area shape="rect" id="node13" href="$namespaceCOM.html#a071a4ed0afce0146c60c14de880f8c0e" title="Drives the COM::TestObject for the COM tests. " alt="" coords="208,219,293,248"/>
-<area shape="rect" id="node9" href="$ParallelTestCOM_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="395,112,445,141"/>
-<area shape="rect" id="node15" href="$TestCOM_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="395,219,445,248"/>
-</map>

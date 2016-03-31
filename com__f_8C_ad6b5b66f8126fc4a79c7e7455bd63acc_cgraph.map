@@ -1,9 +1,0 @@
-<map id="COM_F_FUNC2" name="COM_F_FUNC2">
-<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="196,5,305,35"/>
-<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a912d41e185f99534b559b734da51a29c" title="Obtain the connectivity tables of a pane of the given window. " alt="" coords="175,58,327,105"/>
-<area shape="rect" id="node9" href="$com__f_8C.html#a907ad01193d15bdddc9a6f23d0b0c018" title="mapcharptr" alt="" coords="208,128,293,157"/>
-<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="377,5,561,35"/>
-<area shape="rect" id="node11" href="$com__f_8C.html#af748519b6388fb3c50213ba79d090875" title="COM_F_FUNC2" alt="" coords="409,101,529,131"/>
-<area shape="rect" id="node13" href="$utilities_8f90.html#af48a4fde18d7d296b709b2ed7e875f09" title="com_mapptr_chr1d" alt="" coords="403,155,536,184"/>
-<area shape="rect" id="node15" href="$classSolverUtils_1_1GeoPrim_1_1CPoint.html#ab34f4eb1a68ad1596bcd94cc746be455" title="SolverUtils::GeoPrim\l::CPoint::x" alt="" coords="612,146,756,193"/>
-</map>

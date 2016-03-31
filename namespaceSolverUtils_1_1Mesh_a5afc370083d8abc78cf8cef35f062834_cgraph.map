@@ -1,6 +1,0 @@
-<map id="SolverUtils::Mesh::TRIANGLE_OK" name="SolverUtils::Mesh::TRIANGLE_OK">
-<area shape="rect" id="node3" href="$classSolverUtils_1_1GeoPrim_1_1C3Line.html#a020cb929d2ded45de649c98c372a4f41" title="SolverUtils::GeoPrim\l::C3Line::has_point" alt="" coords="191,5,335,51"/>
-<area shape="rect" id="node5" href="$classSolverUtils_1_1GeoPrim_1_1C3Vector.html#af825e12cb69d6dfe9574c83cb007cf53" title="SolverUtils::GeoPrim\l::C3Vector::Normalize" alt="" coords="579,5,731,51"/>
-<area shape="rect" id="node9" href="$classSolverUtils_1_1GeoPrim_1_1C3Vector.html#a14c73282f884542c89ea079d3cc96942" title="SolverUtils::GeoPrim\l::C3Vector::Unit" alt="" coords="385,34,529,81"/>
-<area shape="rect" id="node7" href="$classSolverUtils_1_1GeoPrim_1_1C3Vector.html#a40a6d285a31b76e240a1b8b91d45b7c4" title="SolverUtils::GeoPrim\l::C3Vector::Norm" alt="" coords="780,5,924,51"/>
-</map>

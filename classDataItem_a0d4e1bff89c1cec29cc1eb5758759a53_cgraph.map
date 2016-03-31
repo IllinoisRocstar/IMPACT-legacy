@@ -1,8 +1,0 @@
-<map id="DataItem::size_of_ghost_items" name="DataItem::size_of_ghost_items">
-<area shape="rect" id="node3" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="232,32,341,61"/>
-<area shape="rect" id="node14" href="$classPane.html#aea6af7f8fa21f531276a598c665fba59" title="Pane::ignore_ghost" alt="" coords="220,85,353,115"/>
-<area shape="rect" id="node5" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="404,54,543,101"/>
-<area shape="rect" id="node7" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="648,5,741,35"/>
-<area shape="rect" id="node9" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="632,60,757,89"/>
-<area shape="rect" id="node11" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="593,113,796,143"/>
-</map>

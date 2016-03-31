@@ -1,9 +1,0 @@
-<map id="RFC_Window_overlay::cos_face_angle" name="RFC_Window_overlay::cos_face_angle">
-<area shape="rect" id="node3" href="$classRFC__Pane__overlay.html#af2cb35f3fa9e3bde1d7c86bb5a71af05" title="RFC_Pane_overlay::get\l_cos_face_angle" alt="" coords="208,58,371,105"/>
-<area shape="rect" id="node13" href="$classHEdge.html#aa0830bfa26fb41e2815ee3b874180962" title="HEdge::is_border_g" alt="" coords="221,128,357,157"/>
-<area shape="rect" id="node15" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="240,181,339,211"/>
-<area shape="rect" id="node5" href="$classHEdge.html#a4f71a79a914824210145754d83b9f640" title="Obtain the ID of the edge. " alt="" coords="460,5,540,35"/>
-<area shape="rect" id="node7" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="419,58,581,105"/>
-<area shape="rect" id="node11" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="479,128,521,157"/>
-<area shape="rect" id="node9" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="631,67,700,96"/>
-</map>

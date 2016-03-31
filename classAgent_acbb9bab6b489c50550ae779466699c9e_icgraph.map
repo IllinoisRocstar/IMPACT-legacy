@@ -1,6 +1,0 @@
-<map id="Agent::write_control_file" name="Agent::write_control_file">
-<area shape="rect" id="node3" href="$classBurnAgent.html#a45d437d5416fb01204c4cedfaac4dd6b" title="BurnAgent::output_restart\l_files" alt="" coords="216,5,387,51"/>
-<area shape="rect" id="node5" href="$classFluidAgent.html#a8cb3d29065ed5719de3ed7dace9b3965" title="FluidAgent::output\l_restart_files" alt="" coords="237,74,365,121"/>
-<area shape="rect" id="node9" href="$classSolidAgent.html#a498151000ec43d91efa8333c8b5540b8" title="SolidAgent::output\l_restart_files" alt="" coords="237,143,365,190"/>
-<area shape="rect" id="node7" href="$classSurfDiver.html#afdc8761a55aa472e6fc0b3dd0921bf7b" title="SurfDiver::run" alt="" coords="436,117,537,147"/>
-</map>

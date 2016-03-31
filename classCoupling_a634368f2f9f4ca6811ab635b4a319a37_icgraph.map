@@ -1,5 +1,0 @@
-<map id="Coupling::run_initactions" name="Coupling::run_initactions">
-<area shape="rect" id="node3" href="$classCoupling.html#a6030e34451d81c7c5dfd5d3d629c9541" title="Coupling::initialize" alt="" coords="219,32,347,61"/>
-<area shape="rect" id="node5" href="$classCoupling.html#a359efb26ef8ba68b33f7e57a2d18c71a" title="Coupling::restart_at_time" alt="" coords="395,5,563,35"/>
-<area shape="rect" id="node7" href="$rocstar__driver_8C.html#ad1de69ebc9df30ede377e74fdc577cd4" title="rocstar_driver" alt="" coords="611,32,712,61"/>
-</map>

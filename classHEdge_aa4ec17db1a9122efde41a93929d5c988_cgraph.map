@@ -1,7 +1,0 @@
-<map id="HEdge::prev_g" name="HEdge::prev_g">
-<area shape="rect" id="node3" href="$classRFC__Pane__overlay.html#af253e459d531c3db7ad7e833a8820a7d" title="Obtain the previous edge in a given access mode. " alt="" coords="163,66,325,113"/>
-<area shape="rect" id="node5" href="$classRFC__Pane__overlay.html#a44ba6aedde0749d2160e8dfa8dc17268" title="Obtain the opposite edge in a given access mode. " alt="" coords="373,5,536,51"/>
-<area shape="rect" id="node9" href="$classHEdge.html#a4f71a79a914824210145754d83b9f640" title="Obtain the ID of the edge. " alt="" coords="415,75,495,104"/>
-<area shape="rect" id="node11" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="405,128,504,157"/>
-<area shape="rect" id="node7" href="$classRFC__Pane__overlay.html#a9b9d9ab4f08bf73e5507581e4c5b9a66" title="RFC_Pane_overlay::get\l_counterpart" alt="" coords="584,5,747,51"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="Triangulation::get_next" name="Triangulation::get_next">
-<area shape="rect" id="node3" href="$classTriangulation.html#a97c595c7460fbff532009135107e88b8" title="Triangulation::in_cone" alt="" coords="223,5,372,35"/>
-<area shape="rect" id="node7" href="$classTriangulation.html#ab16e295fab9b3d3fb4b2d392d5c99504" title="Main entry for triangulation. " alt="" coords="655,85,817,115"/>
-<area shape="rect" id="node13" href="$classTriangulation.html#a4eb926d3c2c9692ced08288a2ce315a0" title="Triangulation::is_diagonalie" alt="" coords="208,59,387,88"/>
-<area shape="rect" id="node5" href="$classTriangulation.html#ace8ba7a465081573a6a8ededf334c2b5" title="Triangulation::is_diagonal" alt="" coords="436,59,604,88"/>
-<area shape="rect" id="node9" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="867,85,1045,115"/>
-<area shape="rect" id="node11" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1093,85,1211,115"/>
-</map>

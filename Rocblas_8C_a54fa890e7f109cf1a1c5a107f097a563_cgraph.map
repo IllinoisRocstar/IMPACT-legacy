@@ -1,7 +1,0 @@
-<map id="SIMPAL_UNLOAD_MODULE_" name="SIMPAL_UNLOAD_MODULE_">
-<area shape="rect" id="node3" href="$classRocblas.html#ae8806bf586c058a002b16aca76e108ab" title="Delete window for Rocblas. " alt="" coords="260,36,377,65"/>
-<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="427,36,573,65"/>
-<area shape="rect" id="node7" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="652,5,761,35"/>
-<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="621,58,792,105"/>
-<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="841,5,1025,35"/>
-</map>

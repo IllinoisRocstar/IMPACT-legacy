@@ -1,8 +1,0 @@
-<map id="Rocmap::reduce_minabs_on_shared_nodes" name="Rocmap::reduce_minabs_on_shared_nodes">
-<area shape="rect" id="node3" href="$classRocmap.html#ac4cbff08c584711910366bd08711ed02" title="Loads Rocmap onto Roccom with a given module name. " alt="" coords="223,112,324,141"/>
-<area shape="rect" id="node5" href="$Rocmap_8C.html#a854500cd46c6918f4ffb881b05af9606" title="SurfMap_load_module" alt="" coords="400,5,549,35"/>
-<area shape="rect" id="node7" href="$Rocmap_8C.html#a14accefd182641bddae978ed7f612276" title="surfmap_load_module" alt="" coords="400,59,549,88"/>
-<area shape="rect" id="node9" href="$Rocmap_8C.html#ad8efd505637c5d1e6594bf83088c705a" title="SURFMAP_LOAD_MODULE" alt="" coords="377,112,572,141"/>
-<area shape="rect" id="node11" href="$Rocmap_8C.html#a3527249235c1523cdb95ecadab39b637" title="surfmap_load_module_" alt="" coords="397,165,552,195"/>
-<area shape="rect" id="node13" href="$Rocmap_8C.html#a208fc25281b64438d096fe9ed0709ae9" title="SURFMAP_LOAD_MODULE_" alt="" coords="373,219,576,248"/>
-</map>

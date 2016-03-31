@@ -1,8 +1,0 @@
-<map id="Transfer_base::saxpy" name="Transfer_base::saxpy">
-<area shape="rect" id="node3" href="$classRFC__Data__const.html#a64d423517bf5a497f868baf60313e6db" title="RFC_Data_const::get\l_value" alt="" coords="204,5,353,51"/>
-<area shape="rect" id="node11" href="$classRFC__Data.html#aa2c2e99d6fea73f1e587e124df4dc82b" title="RFC_Data::get_value" alt="" coords="204,75,353,104"/>
-<area shape="rect" id="node14" href="$classRFC__Data__const.html#afc4f79e06276f4f8635e9505bfa9242c" title="RFC_Data_const::id" alt="" coords="208,128,349,157"/>
-<area shape="rect" id="node5" href="$classRFC__Pane__transfer.html#a447e5db9a1bae6496298c6e723fb1436" title="RFC_Pane_transfer::\lpointer" alt="" coords="403,35,549,82"/>
-<area shape="rect" id="node7" href="$classRFC__Pane__transfer.html#a6d297c6fd2c02dba61738e6c503fbed0" title="RFC_Pane_transfer::\lis_master" alt="" coords="609,5,756,51"/>
-<area shape="rect" id="node9" href="$classRFC__Pane__base.html#ace7d5e6c2f3ce8abfe8f4c79cafd0311" title="Get the address of a given dataitem with id i. " alt="" coords="599,75,767,104"/>
-</map>

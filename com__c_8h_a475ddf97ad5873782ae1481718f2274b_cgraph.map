@@ -1,6 +1,0 @@
-<map id="COM_set_profiling_barrier" name="COM_set_profiling_barrier">
-<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="249,5,359,35"/>
-<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a4a1de0ea06ccf0c93c0ff36dfdcab65b" title="COM::COM_base::set\l_profiling_barrier" alt="" coords="228,58,380,105"/>
-<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="431,5,615,35"/>
-<area shape="rect" id="node9" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="453,67,592,96"/>
-</map>

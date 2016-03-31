@@ -1,9 +1,0 @@
-<map id="COM_copy_dataitem" name="COM_copy_dataitem">
-<area shape="rect" id="node3" href="$classTemperatureTransfer__SF.html#a00eee783049243a66c1aec61351a1b19" title="TemperatureTransfer\l_SF::run" alt="" coords="233,5,375,51"/>
-<area shape="rect" id="node5" href="$classHeatTransfer__FS.html#a9530ad9d00ff55b883c35be5026778bb" title="HeatTransfer_FS::run" alt="" coords="231,75,377,104"/>
-<area shape="rect" id="node7" href="$classCopyBurnFromParentMesh.html#a530d18696726100b919bf34773a2953a" title="CopyBurnFromParentMesh::run" alt="" coords="201,128,407,157"/>
-<area shape="rect" id="node9" href="$classCopyBflagFromBurn.html#af15d32ced54933d2eef2fc5c90443c6b" title="CopyBflagFromBurn::run" alt="" coords="221,181,387,211"/>
-<area shape="rect" id="node11" href="$classAgent.html#afd3708afd43a5ac94896504d7ccbcae3" title="Agent::store_solutions" alt="" coords="228,235,380,264"/>
-<area shape="rect" id="node13" href="$classAgent.html#a0f49813b09191d24d106001b10a573b7" title="Agent::init_convergence" alt="" coords="456,235,619,264"/>
-<area shape="rect" id="node15" href="$classFluidAgent.html#a825d26146395a88ac9c577743a7ff786" title="FluidAgent::init_convergence" alt="" coords="668,235,857,264"/>
-</map>

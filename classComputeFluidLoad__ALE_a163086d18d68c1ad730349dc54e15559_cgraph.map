@@ -1,6 +1,0 @@
-<map id="ComputeFluidLoad_ALE::init" name="ComputeFluidLoad_ALE::init">
-<area shape="rect" id="node3" href="$com__c_8h.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="409,20,588,50"/>
-<area shape="rect" id="node5" href="$com__c_8h.html#a0cf6cac97ec35afed6607c6ee89478f3" title="COM_get_dataitem_handle\l_const" alt="" coords="409,102,588,149"/>
-<area shape="rect" id="node7" href="$classAction.html#ac9e67425e327459222bf5157196fa141" title="Action::get_dataitem\l_handle" alt="" coords="217,26,359,73"/>
-<area shape="rect" id="node10" href="$classAction.html#a277dae8095da439e218eb61a9540a431" title="Action::get_dataitem\l_handle_const" alt="" coords="217,146,359,193"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="FluidPropagateSurface::FluidPropagateSurface" name="FluidPropagateSurface::FluidPropagateSurface">
-<area shape="rect" id="node3" href="$classAgent.html#a3c3dc9d734e031d36afcbc2a70eaf517" title="Agent::register_new\l_dataitem" alt="" coords="216,5,355,51"/>
-<area shape="rect" id="node5" href="$classAction.html#aeb5f73fd9d89939c1c6b23f5294910a7" title="Action::set_attr" alt="" coords="231,75,340,104"/>
-<area shape="rect" id="node7" href="$classAction.html#a94bd99d7c53b5a9a11cefda09e254376" title="Action::set_io" alt="" coords="235,128,336,157"/>
-</map>

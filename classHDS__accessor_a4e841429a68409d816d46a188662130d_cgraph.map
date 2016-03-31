@@ -1,5 +1,0 @@
-<map id="HDS_accessor::get_normal" name="HDS_accessor::get_normal">
-<area shape="rect" id="node3" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="248,5,389,35"/>
-<area shape="rect" id="node5" href="$classRFC__Pane__overlay.html#ad3fbccaa0871f7896f7398dd08fe223c" title="RFC_Pane_overlay::get\l_normal" alt="" coords="237,58,400,105"/>
-<area shape="rect" id="node7" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="269,128,368,157"/>
-</map>

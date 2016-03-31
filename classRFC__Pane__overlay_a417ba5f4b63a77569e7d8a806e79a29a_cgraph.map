@@ -1,6 +1,0 @@
-<map id="RFC_Pane_overlay::construct_bvpair2edge" name="RFC_Pane_overlay::construct_bvpair2edge">
-<area shape="rect" id="node3" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="275,5,416,35"/>
-<area shape="rect" id="node5" href="$classRFC__Pane__overlay.html#ae4449cd55421672ea62ac045ad5025b1" title="RFC_Pane_overlay::get_lid" alt="" coords="255,59,436,88"/>
-<area shape="rect" id="node9" href="$classHEdge.html#ac0238c146ab6857ee7353a42eaa9aa74" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="291,112,400,141"/>
-<area shape="rect" id="node7" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="487,59,556,88"/>
-</map>

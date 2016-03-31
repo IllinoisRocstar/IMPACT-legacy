@@ -1,5 +1,0 @@
-<map id="Connectivity::size_of_real_nodes" name="Connectivity::size_of_real_nodes">
-<area shape="rect" id="node3" href="$classConnectivity.html#ad61825c72b551c6acd17e6b82f5c18ab" title="Determine whether the mesh is quadratic. " alt="" coords="181,5,360,35"/>
-<area shape="rect" id="node5" href="$classConnectivity.html#a2318f0941147bed78d113654271b7902" title="Get a constant pointer to the connectivity array. " alt="" coords="200,59,341,88"/>
-<area shape="rect" id="node7" href="$classPane.html#a107485fca84ef808d4cd21bc384d7fee" title="Get the number of real nodes in the pane (excluding ghost nodes). " alt="" coords="205,111,336,158"/>
-</map>

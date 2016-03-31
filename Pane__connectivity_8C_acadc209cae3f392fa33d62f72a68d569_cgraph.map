@@ -1,8 +1,0 @@
-<map id="make_kd_tree" name="make_kd_tree">
-<area shape="rect" id="node3" href="$classKD__tree__3.html#ad0cbb37ef6cbe24bc03c430e8bb1cf5c" title="KD_tree_3::build" alt="" coords="159,32,276,61"/>
-<area shape="rect" id="node5" href="$classKD__tree__3.html#a37c003b59820c82cb55ab46417cedac0" title="KD_tree_3::kdtree_build_3" alt="" coords="333,59,509,88"/>
-<area shape="rect" id="node13" href="$classKD__tree__3.html#aec3777df973c29c2534911af86323850" title="KD_tree_3::kdtree_bboxes_3" alt="" coords="327,5,516,35"/>
-<area shape="rect" id="node7" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="591,59,633,88"/>
-<area shape="rect" id="node9" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="589,5,635,35"/>
-<area shape="rect" id="node11" href="$KD__tree__3_8C.html#a1012cbbf6088ae4e18504cf34296dff6" title="select_entry" alt="" coords="565,112,659,141"/>
-</map>

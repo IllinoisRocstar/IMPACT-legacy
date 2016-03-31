@@ -1,5 +1,0 @@
-<map id="Vertex_set::Vertex_set" name="Vertex_set::Vertex_set">
-<area shape="rect" id="node3" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="212,5,353,35"/>
-<area shape="rect" id="node5" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="248,59,317,88"/>
-<area shape="rect" id="node7" href="$classHEdge.html#ac0238c146ab6857ee7353a42eaa9aa74" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="228,112,337,141"/>
-</map>

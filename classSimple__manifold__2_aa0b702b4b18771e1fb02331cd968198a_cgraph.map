@@ -1,7 +1,0 @@
-<map id="Simple_manifold_2::get_opposite_edge" name="Simple_manifold_2::get_opposite_edge">
-<area shape="rect" id="node3" href="$classSimple__manifold__2.html#afebc876026c42aa917a1d5c24805d57b" title="Get the opposite edge of a border edge for the whole pane. " alt="" coords="197,53,371,99"/>
-<area shape="rect" id="node5" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="423,5,559,35"/>
-<area shape="rect" id="node11" href="$classSimple__manifold__2.html#a62d09e02cd8f1c534e57d7a3bbb38212" title="Get the opposite edge of an interior edge of the whole pane. " alt="" coords="196,122,372,169"/>
-<area shape="rect" id="node9" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="440,61,541,91"/>
-<area shape="rect" id="node7" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="609,5,705,35"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Mutex::Lock" name="Mutex::Lock">
-<area shape="rect" id="node3" href="$classSemaphore.html#a152df8c28355a4e9a77b6d2707f6c412" title="Semaphore::Post" alt="" coords="160,5,283,35"/>
-<area shape="rect" id="node5" href="$classSemaphore.html#a2965d5aaefb8b178c525a6e9df36dd60" title="Semaphore::TryWait" alt="" coords="151,59,292,88"/>
-<area shape="rect" id="node7" href="$classSemaphore.html#adad3e76bed0b295ef2d7c3e73b736eac" title="Semaphore::Wait" alt="" coords="160,112,283,141"/>
-</map>

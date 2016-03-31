@@ -1,5 +1,0 @@
-<map id="Pane_manifold_2::get_bdedge_flag" name="Pane_manifold_2::get_bdedge_flag">
-<area shape="rect" id="node3" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="221,5,323,35"/>
-<area shape="rect" id="node5" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="204,59,340,88"/>
-<area shape="rect" id="node7" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="391,59,487,88"/>
-</map>

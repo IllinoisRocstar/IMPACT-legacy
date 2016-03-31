@@ -1,7 +1,0 @@
-<map id="HDS_accessor::is_on_feature" name="HDS_accessor::is_on_feature">
-<area shape="rect" id="node3" href="$classOverlay.html#aa360d4022ec1bc3e070a6b05789cf17e" title="Overlay::insert_edge\l_into_queue" alt="" coords="219,5,360,51"/>
-<area shape="rect" id="node5" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="421,95,547,142"/>
-<area shape="rect" id="node10" href="$classOverlay__primitives.html#a448294402b5adcfe218507704d7a755d" title="Overlay_primitives\l::snap_blue_ridge_edge" alt="" coords="211,125,368,171"/>
-<area shape="rect" id="node13" href="$classOverlay__primitives.html#a32cbd22e5afc0f65688f2501f29d3e58" title="Overlay_primitives\l::snap_blue_ridge_vertex" alt="" coords="207,194,372,241"/>
-<area shape="rect" id="node7" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="595,104,712,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Pane::~Pane" name="Pane::~Pane">
-<area shape="rect" id="node3" href="$classPane.html#a422cfe1979ee0cdcf0ec91eb43610326" title="Delete an existing dataitem with given id. " alt="" coords="152,32,304,61"/>
-<area shape="rect" id="node5" href="$classDataItem.html#a42a68b5dcac42dc37d91c549be685d52" title="Obtain a constant pointer to the owner pane of the dataitem. " alt="" coords="399,5,511,35"/>
-<area shape="rect" id="node7" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="353,59,556,88"/>
-</map>

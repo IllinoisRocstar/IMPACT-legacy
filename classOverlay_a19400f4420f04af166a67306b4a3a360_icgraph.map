@@ -1,7 +1,0 @@
-<map id="Overlay::count_edges" name="Overlay::count_edges">
-<area shape="rect" id="node3" href="$classOverlay.html#ad62640b5cea6da6754b7232fd59486c3" title="Overlay::insert_node\l_in_blue_edge" alt="" coords="221,57,363,103"/>
-<area shape="rect" id="node12" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="203,127,381,156"/>
-<area shape="rect" id="node5" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="456,5,581,51"/>
-<area shape="rect" id="node9" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="429,75,608,104"/>
-<area shape="rect" id="node7" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="656,75,773,104"/>
-</map>

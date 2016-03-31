@@ -1,5 +1,0 @@
-<map id="SolverUtils::Mesh::GenericCell_2::shapef_jacobian_at" name="SolverUtils::Mesh::GenericCell_2::shapef_jacobian_at">
-<area shape="rect" id="node3" href="$namespaceSolverUtils_1_1Mesh.html#aad517d44e29b92bc4cc8b508f1bbcae3" title="Newton&#45;Raphson method, customized for using the GeoPrimitives and computational mesh constructs..." alt="" coords="207,14,340,61"/>
-<area shape="rect" id="node5" href="$namespaceSolverUtils_1_1Mesh.html#a76031b810abcce88df6a9727ef086e13" title="Locate element containing given physical point. " alt="" coords="391,14,524,61"/>
-<area shape="rect" id="node7" href="$test__2d_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="573,23,624,52"/>
-</map>

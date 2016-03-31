@@ -1,6 +1,0 @@
-<map id="COMMPI_Irecv" name="COMMPI_Irecv">
-<area shape="rect" id="node3" href="$commpi_8C.html#a78389db06a6bd6c7f0ca305c8399923a" title="COM_recv" alt="" coords="203,5,288,35"/>
-<area shape="rect" id="node7" href="$commpi_8h.html#a8a8389bc67ae874f8ec20c56f758c8bf" title="COMMPI_Comm_rank" alt="" coords="168,59,323,88"/>
-<area shape="rect" id="node9" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="176,112,315,141"/>
-<area shape="rect" id="node5" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="371,5,453,35"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="check_for_interrupt" name="check_for_interrupt">
-<area shape="rect" id="node3" href="$classCoupling.html#ad4ffd58e3e8b367567b3f21c15f9390d" title="Coupling::Interrupt" alt="" coords="188,105,316,135"/>
-<area shape="rect" id="node5" href="$classCoupling.html#a6888419b899c892b397a74924ab5b81b" title="Invoke finalization of the actions in the scheduler and the agents. " alt="" coords="395,44,517,73"/>
-<area shape="rect" id="node13" href="$classCoupling.html#a3d46b308bb3f682c3083c5e73b731ea6" title="Coupling::output_restart\l_files" alt="" coords="376,97,536,143"/>
-<area shape="rect" id="node15" href="$classCoupling.html#aecc06a1b6a8d6bb006a157df7f79c3c0" title="Coupling::write_restart_info" alt="" coords="365,167,547,196"/>
-<area shape="rect" id="node7" href="$classScheduler.html#a0730f19dd30bb10018c7d70b2d749996" title="Scheduler::finalize\l_actions" alt="" coords="596,35,724,82"/>
-<area shape="rect" id="node9" href="$structScheduler_1_1ActionItem.html#a836e74a247f64af430f10bf3c8ce2b8d" title="Scheduler::ActionItem\l::action" alt="" coords="775,5,924,51"/>
-<area shape="rect" id="node11" href="$classAction.html#ac25cdec7b0ff8bd7c9084092f126484b" title="Action::finalize" alt="" coords="796,75,903,104"/>
-</map>

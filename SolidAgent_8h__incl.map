@@ -1,7 +1,0 @@
-<map id="SolidAgent.h" name="SolidAgent.h">
-<area shape="rect" id="node3" href="$Agent_8h.html" title="Agent.h" alt="" coords="127,83,193,112"/>
-<area shape="rect" id="node9" href="$com_8h.html" title="This file contains the prototypes for COM API. " alt="" coords="173,160,232,189"/>
-<area shape="rect" id="node17" href="$commpi_8h.html" title="Contains declarations of MPI subroutines used in COPM. " alt="" coords="239,315,316,344"/>
-<area shape="rect" id="node11" href="$com__c_8h.html" title="This file contains the C wrapper for COM_base. " alt="" coords="152,237,224,267"/>
-<area shape="rect" id="node13" href="$com__basic_8h.html" title="This file contains some definitions of macros and constants for COM. " alt="" coords="31,315,127,344"/>
-</map>

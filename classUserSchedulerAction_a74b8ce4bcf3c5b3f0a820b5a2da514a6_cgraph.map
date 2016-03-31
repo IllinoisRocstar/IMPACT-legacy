@@ -1,6 +1,0 @@
-<map id="UserSchedulerAction::run" name="UserSchedulerAction::run">
-<area shape="rect" id="node3" href="$classScheduler.html#a122bb8620adbf00287819aa43ed29e27" title="Scheduler::run_actions" alt="" coords="224,44,379,73"/>
-<area shape="rect" id="node9" href="$classScheduler.html#ae9661180801f47fb37fd85a8a385fa17" title="Scheduler::set_alpha" alt="" coords="229,97,373,127"/>
-<area shape="rect" id="node5" href="$structScheduler_1_1ActionItem.html#a836e74a247f64af430f10bf3c8ce2b8d" title="Scheduler::ActionItem\l::action" alt="" coords="428,5,577,51"/>
-<area shape="rect" id="node7" href="$classAction.html#a7604370a3f813885f040c4e8d3a4812c" title="Action::run" alt="" coords="460,75,545,104"/>
-</map>

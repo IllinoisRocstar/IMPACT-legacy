@@ -1,5 +1,0 @@
-<map id="Element_node_vectors_k_const::set" name="Element_node_vectors_k_const::set">
-<area shape="rect" id="node3" href="$classElement__node__enumerator.html#a2833009d2a6937ff7c369fc33b554e9f" title="Number of nodes per element. " alt="" coords="209,27,385,74"/>
-<area shape="rect" id="node5" href="$classPane.html#a6aec0fd550c2d337ebe6e4aace3382b0" title="Dimension of the pane. " alt="" coords="440,5,557,35"/>
-<area shape="rect" id="node7" href="$classConnectivity.html#a079310c5614c94a63e8cb4c9fa3ff586" title="Get the number of nodes per element of the current connectivity table. " alt="" coords="436,58,561,105"/>
-</map>

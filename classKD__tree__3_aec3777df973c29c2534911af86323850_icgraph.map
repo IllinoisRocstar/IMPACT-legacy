@@ -1,7 +1,0 @@
-<map id="KD_tree_3::kdtree_bboxes_3" name="KD_tree_3::kdtree_bboxes_3">
-<area shape="rect" id="node3" href="$classKD__tree__3.html#ad0cbb37ef6cbe24bc03c430e8bb1cf5c" title="KD_tree_3::build" alt="" coords="247,32,364,61"/>
-<area shape="rect" id="node5" href="$classKD__tree__3.html#a777f8c5c61cb86697ae26933b9cc70fa" title="KD_tree_3::KD_tree_3" alt="" coords="413,5,568,35"/>
-<area shape="rect" id="node7" href="$Pane__connectivity_8C.html#acadc209cae3f392fa33d62f72a68d569" title="make_kd_tree" alt="" coords="439,59,543,88"/>
-<area shape="rect" id="node9" href="$classPane__connectivity.html#a531d039d0116be1e1ef57c6e614e60bd" title="Collect the boundary nodes of all panes that are coincident with the boundary nodes of local panes..." alt="" coords="616,15,779,62"/>
-<area shape="rect" id="node11" href="$classPane__connectivity.html#a09542a0a8dd7169332b9980829676f3a" title="Create b2v mapping (pane connectivity) for nodes or edges and store the results into a vector of vect..." alt="" coords="629,85,765,131"/>
-</map>

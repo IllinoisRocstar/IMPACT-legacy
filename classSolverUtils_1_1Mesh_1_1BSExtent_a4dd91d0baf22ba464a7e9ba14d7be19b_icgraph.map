@@ -1,6 +1,0 @@
-<map id="SolverUtils::Mesh::BSExtent::ND" name="SolverUtils::Mesh::BSExtent::ND">
-<area shape="rect" id="node3" href="$classSolverUtils_1_1Mesh_1_1BSExtent.html#a9003f007ffc2fd072ae6d1f0338666b6" title="SolverUtils::Mesh::\lBSExtent::GetFlatIndices" alt="" coords="189,5,360,51"/>
-<area shape="rect" id="node7" href="$classSolverUtils_1_1Mesh_1_1BSExtent.html#ad0dc480bc2e70c432114b101cb57970e" title="SolverUtils::Mesh::\lBSExtent::Overlap" alt="" coords="208,74,341,121"/>
-<area shape="rect" id="node5" href="$classSolverUtils_1_1Mesh_1_1BSExtent.html#a56a34a6e89f164c977972437af6076ec" title="SolverUtils::Mesh::\lBSExtent::CreateUnstructuredMesh" alt="" coords="408,5,640,51"/>
-<area shape="rect" id="node9" href="$classSolverUtils_1_1Mesh_1_1BSExtent.html#a2fbc5be5d039c560cb3757512e73eefa" title="SolverUtils::Mesh::\lBSExtent::FindSharedNodes" alt="" coords="429,74,619,121"/>
-</map>

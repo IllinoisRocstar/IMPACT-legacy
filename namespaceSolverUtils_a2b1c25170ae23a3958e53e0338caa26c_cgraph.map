@@ -1,5 +1,0 @@
-<map id="SolverUtils::InitializeInterface" name="SolverUtils::InitializeInterface">
-<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#ac0f80d6e63759a2afe40ed883cea3d5e" title="COM_init" alt="" coords="248,5,325,35"/>
-<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a1d2b2dabf7654280cbba19673d22230e" title="COM::COM_base::init" alt="" coords="373,5,525,35"/>
-<area shape="rect" id="node7" href="$com__exception_8C.html#a968f8230d3a737acba9bc9b878b0f57d" title="Print the stack backtrace. " alt="" coords="575,5,713,35"/>
-</map>

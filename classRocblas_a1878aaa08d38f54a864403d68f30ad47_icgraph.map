@@ -1,9 +1,0 @@
-<map id="Rocblas::max_MPI" name="Rocblas::max_MPI">
-<area shape="rect" id="node3" href="$classRocblas.html#a0e325b7a81e569fbf806b1206c68b748" title="Creates window for Rocblas and registers functions. " alt="" coords="191,112,284,141"/>
-<area shape="rect" id="node5" href="$Rocblas_8C.html#a4174da4e11016426d7a8fcfb2d06a21a" title="Calls Rocblas initialization function. " alt="" coords="356,5,497,35"/>
-<area shape="rect" id="node9" href="$Rocblas_8C.html#a742d8336cb08143ebc760dcee2465b0b" title="simpal_load_module" alt="" coords="357,59,496,88"/>
-<area shape="rect" id="node11" href="$Rocblas_8C.html#af2071bfd2f117c3d3201c7c298cb1936" title="SIMPAL_LOAD_MODULE" alt="" coords="337,112,516,141"/>
-<area shape="rect" id="node13" href="$Rocblas_8C.html#a08594ea5f4bea96fc02c6d2a3051378b" title="simpal_load_module_" alt="" coords="353,165,500,195"/>
-<area shape="rect" id="node15" href="$Rocblas_8C.html#a7762ca27293f49955b01e36d3c7e4e7e" title="SIMPAL_LOAD_MODULE_" alt="" coords="335,219,519,248"/>
-<area shape="rect" id="node7" href="$blastest_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="568,5,619,35"/>
-</map>
