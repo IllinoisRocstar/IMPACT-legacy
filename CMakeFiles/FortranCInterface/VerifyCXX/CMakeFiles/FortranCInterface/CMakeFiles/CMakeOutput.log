@@ -1,0 +1,20 @@
+Performing C SOURCE FILE Test C_SUPPORTS_DOLLAR succeeded with the following output:
+Change Dir: C:/Users/brianweis/code/IMPACT/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/FortranCInterface/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Qt/Tools/mingw492_32/bin/mingw32-make.exe" "cmTC_fc5ec/fast"
+C:/Qt/Tools/mingw492_32/bin/mingw32-make.exe -f CMakeFiles\cmTC_fc5ec.dir\build.make CMakeFiles/cmTC_fc5ec.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/brianweis/code/IMPACT/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/FortranCInterface/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fc5ec.dir/src.c.obj
+C:\Qt\Tools\mingw492_32\bin\gcc.exe    -DC_SUPPORTS_DOLLAR   -o CMakeFiles\cmTC_fc5ec.dir\src.c.obj   -c C:\Users\brianweis\code\IMPACT\CMakeFiles\FortranCInterface\VerifyCXX\CMakeFiles\FortranCInterface\CMakeFiles\CMakeTmp\src.c
+Linking C executable cmTC_fc5ec.exe
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_fc5ec.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_fc5ec.dir/objects.a
+C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\cmTC_fc5ec.dir/objects.a @CMakeFiles\cmTC_fc5ec.dir\objects1.rsp
+C:\Qt\Tools\mingw492_32\bin\gcc.exe   -DC_SUPPORTS_DOLLAR    -Wl,--whole-archive CMakeFiles\cmTC_fc5ec.dir/objects.a -Wl,--no-whole-archive  -o cmTC_fc5ec.exe -Wl,--out-implib,libcmTC_fc5ec.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_fc5ec.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/brianweis/code/IMPACT/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/FortranCInterface/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+extern int dollar$(void);
+int main() { return 0; }
+

@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw492_32\bin\ar.exe qc libVerifyFortran.a  CMakeFiles/VerifyFortran.dir/VerifyFortran.f.obj
+C:\Qt\Tools\mingw492_32\bin\ranlib.exe libVerifyFortran.a

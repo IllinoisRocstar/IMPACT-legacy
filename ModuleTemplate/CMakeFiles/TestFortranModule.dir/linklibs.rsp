@@ -1,0 +1,1 @@
+../lib/libSITCOMF.dll.a ../lib/libSITCOM.dll.a C:/Users/brianweis/code/dlib/dl.dll "C:/Program Files (x86)/Microsoft SDKs/MPI/lib/x86/msmpi.lib" -lgfortran -lquadmath -lm -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

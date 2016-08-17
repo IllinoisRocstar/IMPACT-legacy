@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\surfextractor.dir/objects.a
+C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\surfextractor.dir/objects.a @CMakeFiles\surfextractor.dir\objects1.rsp
+C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\surfextractor.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\surfextractor.exe -Wl,--out-implib,..\bin\libsurfextractor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\surfextractor.dir\linklibs.rsp

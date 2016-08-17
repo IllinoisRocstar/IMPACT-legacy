@@ -19,6 +19,7 @@
 #include "com.h"
 #include "com_devel.hpp"
 #include "TestSolver.H"
+#include "COMM.H"
 
 namespace COM {
   /// Simple test function sets integer to 1.
@@ -443,12 +444,11 @@ namespace COM {
       SolverUtils::WriteVTKToStream(my_window_name,*this,Ouf);
       Ouf.close();
     };
-    ///
-    /// @brief 
-    /// 
-    /// This function ...
-    void get_communicator_module( int *commworks)
+
+void get_communicator_module( int *commworks)
     {
+	//IRAD::Comm::CommunicatorObject caim;
+      //caim.Size();
       const char *comm_name = "TestParallelWin1";
       typedef IRAD::Comm::CommunicatorObject CommType;
       CommType _communicator;
@@ -456,7 +456,6 @@ namespace COM {
       MPI_Comm comm, default_comm;
       COM_get_communicator(comm_name, &comm);
       default_comm = COM_get_default_communicator();
-
       if(comm != MPI_COMM_SELF){
         _communicator.SetErr(1);
         std::cout << "COM_get_communicator does not return the communicator"
@@ -472,6 +471,11 @@ namespace COM {
       _communicator.ClearErr();
 
     };
+    ///
+    /// @brief 
+    /// 
+    /// This function ...
+    
     
     ///
     /// @brief "Loads" the C++ TestModule

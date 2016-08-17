@@ -1,6 +1,11 @@
 #include "PGeoPrim.H"
 
 namespace SolverUtils { namespace GeoPrim {
+	
+  int GeoPrim::PBox::PrepareBuffer(size_t bsize)
+  {
+	return 0;
+  }
 
   int GeoPrim::PBox::Pack(void **inbuf)
   {

@@ -102,8 +102,96 @@ namespace SolverUtils { namespace Mesh {
     PartInfo            _info;
     std::vector<Border> _borders;
     int Read(const std::string &meshname,int id);
+//definition moved into header file for ease
     int Read(const std::string &MeshName,IRAD::Comm::CommunicatorObject &comm,
-	     bool allow_n2m,std::ostream &ErrOut);
+	     bool allow_n2m,std::ostream &ErrOut)
+{
+    unsigned int nproc = comm.Size();
+    unsigned int rank = comm.Rank();
+    unsigned int id = rank + 1;
+    std::cout << "Partition::Read " << MeshName << "(" << nproc << "," << rank << "," << id << ")" << std::endl;
+    // Read the partitioning info
+    if(nproc > 1){
+      std::ifstream InfoInf;
+      std::ostringstream FNOstr;
+      FNOstr << MeshName << "." << id << ".info";
+      InfoInf.open(FNOstr.str().c_str());
+      if(!InfoInf){
+	comm.SetErr(1);
+      }
+      if(comm.Check()){
+	ErrOut << "Partition::Read Could not find partition info for " << MeshName;
+	return(1);
+      }
+      InfoInf >> _info.npart >> _info.part >> _info.nelem >> _info.nnodes >> _info.nborder 
+	      >> _info.nshared >> _info.nown;
+      std::cout << _info.npart << _info.part << _info.nelem << _info.nnodes << _info.nborder 
+		<< _info.nshared << _info.nown;
+      if(_info.npart != nproc && !allow_n2m){
+	comm.SetErr(1);
+      }
+      if(comm.Check()){
+	ErrOut << "Partition::Read " << MeshName << " has partition/processor mismatch: ("
+	       << _info.npart << "/" << nproc << ").\n";
+	return(1);
+      }
+      _info.nlocal = _info.nnodes  - _info.nshared + _info.nown;
+      InfoInf.close();
+    }
+    else{
+      _info.nborder = 0;
+      _info.nshared = 0;
+    }
+    // done reading partition info
+    std::ifstream Inf;
+    std::ostringstream Ostr;
+    Ostr << MeshName;
+    if(nproc > 1)
+      Ostr << "." << id << ".pmesh";
+    else
+      Ostr << ".mesh";
+    Inf.open(Ostr.str().c_str());
+    // Don't blink or you'll miss the mesh actually being loaded here.
+    Inf >> _mesh.NC();
+    Inf >> _mesh.ECon();
+    _mesh.ECon().ShrinkWrap();
+    //    Inf >> _nc >> _ec;
+    //    _ec.ShrinkWrap();
+    // done loading actual mesh  
+    //    Mesh::IndexType number_of_nodes    = _nc.Size();
+    //    Mesh::IndexType number_of_elements = _ec.Nelem();
+    Mesh::IndexType number_of_nodes    = _mesh.NumberOfNodes();
+    Mesh::IndexType number_of_elements = _mesh.NumberOfElements();
+    if(nproc == 1){
+      _info.nnodes = number_of_nodes;
+      _info.nown   = 0;
+      _info.nlocal = number_of_nodes;
+      _info.nelem  = number_of_elements;
+    }
+    else{
+      Inf >> _info.nborder;
+      _borders.resize(_info.nborder);
+      for(Mesh::IndexType nn = 0;nn < _info.nborder;nn++){
+	Mesh::IndexType nrecv = 0;
+	Mesh::IndexType nsend = 0;
+	Inf >> _borders[nn].rpart >> nrecv >> nsend;
+	_borders[nn].nrecv.resize(nrecv);
+	for(Mesh::IndexType ii = 0;ii < nrecv;ii++){
+	  Mesh::IndexType nodeid = 0;
+	  Inf >> _borders[nn].nrecv[ii] >> nodeid;
+	}
+	_borders[nn].nsend.resize(nsend);
+	for(Mesh::IndexType ii = 0;ii < nsend;ii++){
+	  Mesh::IndexType nodeid = 0;
+	  Inf >> _borders[nn].nsend[ii] >> nodeid;
+	}
+      }
+    }
+    Inf.close();
+    _communicator = &comm;
+    return(0);
+  };
+
     //    IRAD::Comm::CommunicatorObject *CommunicatorPtr(){ return(_communicator); };
     //    std::ostream &Report(std::ostream &Ostr);
     MeshUtilityObject &Mesh() { return (_mesh); };

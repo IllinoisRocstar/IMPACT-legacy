@@ -7,9 +7,10 @@ namespace SolverUtils { namespace GeoPrim {
 
   class PBox : public GeoPrim::C3Box, public IRAD::Comm::MobileObject
   {
+	virtual int PrepareBuffer(size_t bsize);
     virtual int Pack(void **inbuf = NULL);
     virtual int UnPack(const void *outbuf = NULL);
-  };
+    };
   
   } };
 

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\plagprep.dir/objects.a
+C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\plagprep.dir/objects.a @CMakeFiles\plagprep.dir\objects1.rsp
+C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\plagprep.dir/objects.a -Wl,--no-whole-archive  -o ..\..\bin\plagprep.exe -Wl,--out-implib,..\..\bin\libplagprep.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\plagprep.dir\linklibs.rsp
