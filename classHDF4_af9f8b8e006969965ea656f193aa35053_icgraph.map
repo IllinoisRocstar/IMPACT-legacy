@@ -1,0 +1,6 @@
+<map id="HDF4::finalize" name="HDF4::finalize">
+<area shape="rect" id="node2" href="$classRocout.html#a952d0bf1f37b189c98bb6a696861f803" title="Finalize the module by deregistering it from Roccom. " alt="" coords="161,5,274,32"/>
+<area shape="rect" id="node4" href="$classRocin.html#af2d60d1fa05640301d229c5ccceaf38b" title="Finalize the module by deregistering it from Roccom. " alt="" coords="165,56,270,83"/>
+<area shape="rect" id="node3" href="$RFC__Window__base__IO_8C.html#a49f69229543728c213e575bbddad668e" title="Unload the module Rocout from Roccom. " alt="" coords="323,5,490,32"/>
+<area shape="rect" id="node5" href="$readsdv_8C.html#a97834867693794b12e4d32cf0171b62f" title="Unload the module Rocin from Roccom. " alt="" coords="330,56,483,83"/>
+</map>

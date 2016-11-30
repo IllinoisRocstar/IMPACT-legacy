@@ -1,0 +1,5 @@
+<map id="Pane_manifold_2::get_bd_normal" name="Pane_manifold_2::get_bd_normal">
+<area shape="rect" id="node2" href="$Manifold__2_8C.html#a305742238b48caccbf60160496982547" title="Get the face normal of a point in the element incident on h. " alt="" coords="203,12,290,39"/>
+<area shape="rect" id="node3" href="$classHalfedge.html#a138f3a3baa9aebaab4f589d8dfea1c55" title="Get the normal of the incident facet. " alt="" coords="339,12,461,39"/>
+<area shape="rect" id="node4" href="$classHalfedge.html#a269dc2510d5500c2747c77287d4e6da7" title="Return the dihedral angle at the edge. " alt="" coords="510,5,637,46"/>
+</map>

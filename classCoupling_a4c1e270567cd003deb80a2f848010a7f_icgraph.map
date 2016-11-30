@@ -1,0 +1,8 @@
+<map id="Coupling::get_max_ipc" name="Coupling::get_max_ipc">
+<area shape="rect" id="node2" href="$classBurnAgent.html#a21ad0c154515bf44027b4653c600e4fd" title="BurnAgent::create_buffer_all" alt="" coords="208,5,395,32"/>
+<area shape="rect" id="node3" href="$classFluidAgent.html#aefa1b063d0f50769ad00646d55463cd7" title="FluidAgent::create\l_buffer_all" alt="" coords="237,57,365,98"/>
+<area shape="rect" id="node4" href="$classSolidAgent.html#a0fd6e5283143a0c079db8d4023868c2e" title="SolidAgent::create\l_buffer_all" alt="" coords="237,122,366,163"/>
+<area shape="rect" id="node5" href="$classFluidAgent.html#a9fe10771113cdcb71a06b39f5a9e8c55" title="FluidAgent::finalize" alt="" coords="235,188,368,215"/>
+<area shape="rect" id="node6" href="$classBurnAgent.html#a06c34ec93f6d2e8b85aaca510676c409" title="BurnAgent::finalize" alt="" coords="235,239,367,265"/>
+<area shape="rect" id="node7" href="$classSolidAgent.html#a012ed08aa4e2ae89c828e1c8d05e0757" title="SolidAgent::finalize" alt="" coords="234,289,369,316"/>
+</map>

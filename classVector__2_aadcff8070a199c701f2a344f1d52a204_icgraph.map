@@ -1,0 +1,18 @@
+<map id="Vector_2::x" name="Vector_2::x">
+<area shape="rect" id="node2" href="$Triangulation_8C.html#a96d6a3dd5220e95195578ffe971ff102" title="leftturn" alt="" coords="202,5,265,32"/>
+<area shape="rect" id="node8" href="$classVector__2.html#ad172eab4498514b2ced9e4877c107556" title="Vector_2\&lt; T \&gt;::operator!=" alt="" coords="147,56,320,83"/>
+<area shape="rect" id="node9" href="$classPoint__2.html#a97cfaed74ece963157baf4bf9469210d" title="Point_2::operator!=" alt="" coords="167,107,300,133"/>
+<area shape="rect" id="node10" href="$classPoint__2.html#a3579659be9b3a78fa4e14d61df4bce67" title="Arithmatic operators. " alt="" coords="169,157,298,184"/>
+<area shape="rect" id="node11" href="$classPoint__2.html#ac1056a6913ec592414ac9be76fca51e6" title="Assign operators. " alt="" coords="165,208,302,235"/>
+<area shape="rect" id="node12" href="$classPoint__2.html#a7c3dab3d23da123aa22f47cb0dcfbd77" title="Point_2::operator&#45;" alt="" coords="171,259,296,285"/>
+<area shape="rect" id="node13" href="$classPoint__2.html#a40ef682464d392c5d58c93d768060aae" title="Point_2::operator&#45;=" alt="" coords="167,309,300,336"/>
+<area shape="rect" id="node14" href="$mapbasic_8h.html#a83089fd71355a0fb64e8a444d2d57fa5" title="operator\&lt;\&lt;" alt="" coords="191,360,276,387"/>
+<area shape="rect" id="node15" href="$classVector__2.html#a59f2b12a579fa9552467cc0efd5d842c" title="Vector_2\&lt; T \&gt;::operator==" alt="" coords="145,411,322,437"/>
+<area shape="rect" id="node16" href="$classPoint__2.html#a9b87244aa4cee66f23692243afe4599a" title="Point_2::operator==" alt="" coords="165,461,302,488"/>
+<area shape="rect" id="node17" href="$Triangulation_8C.html#a90f076a1e2c95a1655b0cf1b1cda10ca" title="rightturn" alt="" coords="199,512,268,539"/>
+<area shape="rect" id="node3" href="$classTriangulation.html#a97c595c7460fbff532009135107e88b8" title="Triangulation::in_cone" alt="" coords="371,259,520,285"/>
+<area shape="rect" id="node4" href="$classTriangulation.html#ace8ba7a465081573a6a8ededf334c2b5" title="Triangulation::is_diagonal" alt="" coords="569,259,738,285"/>
+<area shape="rect" id="node5" href="$classTriangulation.html#ab16e295fab9b3d3fb4b2d392d5c99504" title="Main entry for triangulation. " alt="" coords="787,259,951,285"/>
+<area shape="rect" id="node6" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="1000,259,1179,285"/>
+<area shape="rect" id="node7" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1227,259,1344,285"/>
+</map>

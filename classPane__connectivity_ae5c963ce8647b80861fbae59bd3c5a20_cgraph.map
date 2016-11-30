@@ -1,0 +1,6 @@
+<map id="Pane_connectivity::collect_nodes" name="Pane_connectivity::collect_nodes">
+<area shape="rect" id="node2" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="192,5,293,32"/>
+<area shape="rect" id="node3" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="194,56,291,83"/>
+<area shape="rect" id="node4" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="219,107,266,133"/>
+<area shape="rect" id="node5" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="221,157,264,184"/>
+</map>

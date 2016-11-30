@@ -1,0 +1,18 @@
+<map id="COM_print_window" name="COM_print_window">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#ab5a8ac8121d23b45ad8c8354970a2130" title="COM_free_buffer" alt="" coords="211,125,333,152"/>
+<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#a390dfbadbcb267ac867fabbcd586683b" title="COM_get_connectivities" alt="" coords="189,75,355,101"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#a16b2a9aeed9d53bd2d11d4221ef2c148" title="COM_get_dataitem" alt="" coords="205,176,339,203"/>
+<area shape="rect" id="node10" href="$com__c_09_09_8hpp.html#a48824b0cc48b3d1310e84d87c7af9c80" title="COM_get_dataitems" alt="" coords="201,227,343,253"/>
+<area shape="rect" id="node12" href="$com__c_09_09_8hpp.html#a6e38c0b1f83c30b166b7500902e13be1" title="COM_get_panes" alt="" coords="212,277,332,304"/>
+<area shape="rect" id="node14" href="$com__c_09_09_8hpp.html#a74e2d52abbc3b6532fc19b38deabba26" title="Get the sizes of an dataitem. " alt="" coords="217,328,327,355"/>
+<area shape="rect" id="node16" href="$printin_8C.html#ab1960a4db627260901ca411e5cad8926" title="Convert COM datatype to human&#45;readable string. " alt="" coords="217,379,327,405"/>
+<area shape="rect" id="node17" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="249,429,295,456"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="439,201,550,228"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a250dd8490749b0aab0170ca889977cfb" title="COM::COM_base::free\l_buffer" alt="" coords="416,70,573,111"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="635,201,821,228"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a912d41e185f99534b559b734da51a29c" title="Obtain the connectivity tables of a pane of the given window. " alt="" coords="418,5,571,46"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a9e78ff33f6875dec84c8c2bf9bb15b48" title="Information retrieval Get the information about an dataitem. " alt="" coords="418,135,571,177"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#ae215fed4fc9b313b61afbd9be375eabf" title="Obtain the user&#45;defined dataitems of the given window. " alt="" coords="418,253,571,294"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#a03135368bceaffadde879eef56e5415d" title="Obtain the panes of a given window on a specific process. " alt="" coords="418,318,571,359"/>
+<area shape="rect" id="node15" href="$classCOM_1_1COM__base.html#a0e2679d6d293b67ff7616f587db2e106" title="Get the sizes of an dataitem. The opposite of set_size. " alt="" coords="403,384,587,411"/>
+</map>

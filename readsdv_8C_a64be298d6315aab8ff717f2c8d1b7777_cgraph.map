@@ -1,0 +1,18 @@
+<map id="read_pane_sp" name="read_pane_sp">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="181,9,315,36"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a92237a2ea1b3833484b9fd0c01cc1f0a" title="Copy an array from an dataitem on a specific pane into a given buffer. " alt="" coords="186,111,310,137"/>
+<area shape="rect" id="node7" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="175,60,321,87"/>
+<area shape="rect" id="node9" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="158,161,338,188"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="160,212,336,239"/>
+<area shape="rect" id="node14" href="$com__c_09_09_8hpp.html#a74e2d52abbc3b6532fc19b38deabba26" title="Get the sizes of an dataitem. " alt="" coords="193,263,303,289"/>
+<area shape="rect" id="node16" href="$Rocin_8h.html#a9a5653231c25fb53ddd09141b30c5325" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="179,313,317,340"/>
+<area shape="rect" id="node17" href="$Rocin_8h.html#acdedc77eb6b4a411c841f00dfe43c716" title="Unload the module Rocin from Roccom. " alt="" coords="171,364,325,391"/>
+<area shape="rect" id="node4" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="423,136,534,163"/>
+<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#a597da9ff31c895b61e363e0a96c50ad8" title="Copy an array from an dataitem on a specific pane into a given buffer. " alt="" coords="397,70,560,111"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="623,136,809,163"/>
+<area shape="rect" id="node8" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="393,5,564,46"/>
+<area shape="rect" id="node10" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="402,187,555,229"/>
+<area shape="rect" id="node12" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="402,253,555,294"/>
+<area shape="rect" id="node13" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="619,260,813,287"/>
+<area shape="rect" id="node15" href="$classCOM_1_1COM__base.html#a0e2679d6d293b67ff7616f587db2e106" title="Get the sizes of an dataitem. The opposite of set_size. " alt="" coords="387,319,571,345"/>
+</map>

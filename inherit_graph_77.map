@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIRAD_1_1Util_1_1TestingObject.html" title="Interface for a general testing object. " alt="" coords="6,38,178,79"/>
+<area shape="rect" id="node2" href="$classCOM_1_1TestingObject.html" title="Project&#45;specific testing object. " alt="" coords="237,5,379,46"/>
+<area shape="rect" id="node4" href="$classIMPACT_1_1TestingObject.html" title="Project&#45;specific testing object. " alt="" coords="227,70,389,111"/>
+<area shape="rect" id="node3" href="$classCOM_1_1ParallelTestingObject.html" title="Project&#45;specific parallel testing object. " alt="" coords="442,5,638,46"/>
+<area shape="rect" id="node5" href="$classIMPACT_1_1ParallelTestingObject.html" title="Project&#45;specific parallel testing object. " alt="" coords="437,70,643,111"/>
+</map>

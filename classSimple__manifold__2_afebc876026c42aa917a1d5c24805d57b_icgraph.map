@@ -1,0 +1,30 @@
+<map id="Simple_manifold_2::get_opposite_edge_border" name="Simple_manifold_2::get_opposite_edge_border">
+<area shape="rect" id="node2" href="$classSimple__manifold__2.html#a3e748de05ae795960b1fbf07850678ba" title="Get the ID of the next edge of the element or along the boundary. " alt="" coords="423,342,563,383"/>
+<area shape="rect" id="node26" href="$classSimple__manifold__2.html#aa0b702b4b18771e1fb02331cd968198a" title="Get the ID of the opposite edge of a given interior or border edge. " alt="" coords="230,279,370,321"/>
+<area shape="rect" id="node3" href="$classPane__manifold__2.html#a6835f6cd1cf3bc4545f2d7c7a8917127" title="Obtain the next edge in a given access mode. " alt="" coords="795,334,943,375"/>
+<area shape="rect" id="node4" href="$classHalfedge.html#a0fe0a86f9d9591a47a840c4283a1ee66" title="Get the next halfedge of its owner element. " alt="" coords="992,232,1099,259"/>
+<area shape="rect" id="node5" href="$classRocsurf.html#a97d01c84761acbeb7f318e784e7618d3" title="Computes edge lengths of a given window. " alt="" coords="1147,99,1309,141"/>
+<area shape="rect" id="node12" href="$classHalfedge.html#a5f30a8704a58f4aa46141dbacd9578b6" title="Get the average value of the nodes of the incident face of a given halfedge. " alt="" coords="1148,320,1308,347"/>
+<area shape="rect" id="node14" href="$classFace.html#a38c58b1d84a930047814c2a5f2e36ab4" title="Get the average value of the nodes of a given face. " alt="" coords="1159,216,1297,243"/>
+<area shape="rect" id="node16" href="$Manifold__2_8C.html#adaa5ff78d434322162d994d114b59362" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="1155,268,1301,295"/>
+<area shape="rect" id="node18" href="$classPane__manifold__2.html#ae14fb991ffb413357ecf8e3d79f8b51a" title="Obtain the previous edge in a given access mode. " alt="" coords="1154,375,1302,417"/>
+<area shape="rect" id="node6" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="1383,107,1483,133"/>
+<area shape="rect" id="node7" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1585,107,1732,133"/>
+<area shape="rect" id="node8" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1588,157,1729,184"/>
+<area shape="rect" id="node9" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1561,208,1756,235"/>
+<area shape="rect" id="node10" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1585,5,1733,32"/>
+<area shape="rect" id="node11" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="1557,56,1760,83"/>
+<area shape="rect" id="node13" href="$classHalfedge.html#ace575c12a667acbbd28410222403ccb1" title="Get the face center of the incident face of a given halfedge. " alt="" coords="1358,333,1509,360"/>
+<area shape="rect" id="node15" href="$classFace.html#a6038a217872bc5f54a720e32cd68fcfb" title="Get the face center of a given face. " alt="" coords="1370,216,1497,243"/>
+<area shape="rect" id="node17" href="$classHalfedge.html#a76e0044df4c95e470db499808e3d5749" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="1365,267,1501,309"/>
+<area shape="rect" id="node19" href="$classHalfedge.html#a8979f345eb790cfa810ba90a36f50202" title="Get the previous halfedge of its owner element. " alt="" coords="1380,384,1487,411"/>
+<area shape="rect" id="node20" href="$classNode.html#abd9d27318bc9c523aa4937e46e63dfe2" title="Get an incident halfedge originated from the node. " alt="" coords="1603,321,1714,348"/>
+<area shape="rect" id="node21" href="$classWindow__manifold__2.html#a98d72b391248b8ad30f7a62176de09c4" title="Determine the primary nodes for across&#45;pane access. " alt="" coords="1808,285,1955,326"/>
+<area shape="rect" id="node25" href="$classNode.html#a34c43ffd7679daeb45bc4b040588b9fc" title="Is the node on the physical boundary? " alt="" coords="1824,351,1939,377"/>
+<area shape="rect" id="node22" href="$classWindow__manifold__2.html#af0271b5b6b206b3dd5e6e5650141fdde" title="Initialize the manifold by inheriting the given mesh. " alt="" coords="2003,292,2167,319"/>
+<area shape="rect" id="node23" href="$classWindow__manifold__2.html#a2cd4f1a3caa1a90704899c3e27e8bd72" title="Construct a Window_manifold_2 from a given window. " alt="" coords="2224,251,2371,293"/>
+<area shape="rect" id="node24" href="$classRFC__Window__overlay.html#abac82c95c8685d2e5455664c9f810a1c" title="RFC_Window_overlay\l::RFC_Window_overlay" alt="" coords="2217,317,2378,358"/>
+<area shape="rect" id="node27" href="$classPane__manifold__2.html#aaa6ed9cbc7040924925f5be239996124" title="Obtain the opposite edge in a given access mode. " alt="" coords="419,277,567,318"/>
+<area shape="rect" id="node28" href="$classHalfedge.html#ab27e39dce783c39b49650fac18adf175" title="Get the ID of the opposite edge of a given edge. " alt="" coords="616,231,747,257"/>
+<area shape="rect" id="node29" href="$classHalfedge.html#a269dc2510d5500c2747c77287d4e6da7" title="Return the dihedral angle at the edge. " alt="" coords="806,217,933,258"/>
+</map>

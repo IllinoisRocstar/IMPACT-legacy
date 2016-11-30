@@ -1,0 +1,36 @@
+<map id="Rocmap::load" name="Rocmap::load">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="175,129,310,156"/>
+<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#aa236d5c98c0ac8cc26b313b6ccd720a8" title="COM_set_function" alt="" coords="177,71,308,97"/>
+<area shape="rect" id="node9" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="161,195,324,221"/>
+<area shape="rect" id="node11" href="$classRocmap.html#a3ee8edfae9b5c44497ae81b6ccc5f2bb" title="Compute pane connectivity map between shared nodes. " alt="" coords="157,249,328,276"/>
+<area shape="rect" id="node13" href="$classRocmap.html#a40efd96b43658a3c47174137a838d509" title="Determine the nodes at pane boundaries of a given mesh. " alt="" coords="167,301,318,342"/>
+<area shape="rect" id="node17" href="$classRocmap.html#a6c7167ebb9caaa4b9fb7abf8e212adab" title="Perform an average&#45;reduction on the shared nodes for the given attribute. " alt="" coords="157,483,328,525"/>
+<area shape="rect" id="node24" href="$classRocmap.html#a2f7026cc43749a6886f411419d4e1375" title="Perform a maxabs&#45;reduction on the shared nodes for the given attribute. " alt="" coords="157,549,328,590"/>
+<area shape="rect" id="node25" href="$classRocmap.html#a6625c20d1735cce29b0635f56913a917" title="Perform a minabs&#45;reduction on the shared nodes for the given attribute. " alt="" coords="159,366,326,407"/>
+<area shape="rect" id="node26" href="$classRocmap.html#a8e6e87f7e68f25b7baf824920cc797d7" title="Get the number of communicating panes. " alt="" coords="157,617,328,644"/>
+<area shape="rect" id="node35" href="$classRocmap.html#af7bb495640c498473dc27269f71180b1" title="Update ghost nodal or elemental values for the given attribute. " alt="" coords="161,432,325,459"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="410,71,521,97"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="386,122,545,163"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="603,71,789,97"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#abfa5c988d6c62840ebce34c7e5a9a7c9" title="Registers a function to the window. " alt="" coords="389,5,542,46"/>
+<area shape="rect" id="node8" href="$COM__base_8C.html#afe90d629a5053e5b8e54940849d34862" title="print_type" alt="" coords="657,12,735,39"/>
+<area shape="rect" id="node10" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="376,187,555,229"/>
+<area shape="rect" id="node12" href="$classPane__connectivity.html#a93657c79cb2f2731ab59e024a8c968e5" title="Create b2v mapping for nodes and facets (edges or faces) correspondence. " alt="" coords="397,253,534,294"/>
+<area shape="rect" id="node14" href="$classPane__boundary.html#a8d38eca7375658c935208b18c67ce74d" title="Determine the nodes at pane boundaries of a given mesh. " alt="" coords="377,318,554,359"/>
+<area shape="rect" id="node15" href="$com__c_09_09_8hpp.html#a701c22c997913a2773d36a0b47683716" title="COM_compatible_types" alt="" coords="615,267,777,293"/>
+<area shape="rect" id="node16" href="$classPane__boundary.html#ac000a4fb3b0c5a6d994aa0d29bd43bb8" title="Determine the border nodes (excluding isolated nodes) " alt="" coords="607,318,785,359"/>
+<area shape="rect" id="node18" href="$classPane__communicator.html#a695dbe20d98cb9f5ac5be352a442bc6e" title="Initialize the communication buffers. " alt="" coords="382,435,549,461"/>
+<area shape="rect" id="node19" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="636,384,756,411"/>
+<area shape="rect" id="node21" href="$classPane__communicator.html#a4e9da8608bf6edf93e5bca58992546d3" title="Initialize a Pane_comm_buffers for ghost information. " alt="" coords="614,486,778,527"/>
+<area shape="rect" id="node22" href="$classPane__communicator.html#a1a31d31bb4ae29936b760d6141b6e1c4" title="For a given pane, obtain an internal pane ID which is unique and contiguous across processes..." alt="" coords="837,427,987,469"/>
+<area shape="rect" id="node20" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="871,376,953,403"/>
+<area shape="rect" id="node23" href="$classPane__communicator.html#a292023010b824818aa19da1418c2a14e" title="Obtain the process rank of a given pane. " alt="" coords="837,493,987,534"/>
+<area shape="rect" id="node27" href="$classPane__connectivity.html#aa301519878e85489bade7f6d2b49d58c" title="Get the number of communicating panes. " alt="" coords="397,614,534,655"/>
+<area shape="rect" id="node28" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="641,565,751,592"/>
+<area shape="rect" id="node33" href="$classComponentInterface.html#ab80a1a99516f6b9ceeaf381529abd29d" title="Find the pane with given ID. If not found, insert a pane with given ID. " alt="" coords="626,617,766,658"/>
+<area shape="rect" id="node34" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="635,683,757,709"/>
+<area shape="rect" id="node29" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="842,558,982,599"/>
+<area shape="rect" id="node30" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="1090,620,1185,647"/>
+<area shape="rect" id="node31" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="1075,517,1200,544"/>
+<area shape="rect" id="node32" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="1035,568,1239,595"/>
+</map>

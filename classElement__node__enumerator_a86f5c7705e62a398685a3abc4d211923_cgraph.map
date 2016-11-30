@@ -1,0 +1,23 @@
+<map id="Element_node_enumerator::Element_node_enumerator" name="Element_node_enumerator::Element_node_enumerator">
+<area shape="rect" id="node2" href="$classPane.html#a6aec0fd550c2d337ebe6e4aace3382b0" title="Dimension of the pane. " alt="" coords="262,5,381,32"/>
+<area shape="rect" id="node3" href="$classConnectivity.html#a9e8807b92c6b1f0458ed05c90e3e65f5" title="Get the index of the first element. " alt="" coords="254,57,389,98"/>
+<area shape="rect" id="node6" href="$classPane.html#a8fe18517efa6a2626ec6b68726b0fb54" title="Is mesh of the pane unstructured? " alt="" coords="247,123,396,149"/>
+<area shape="rect" id="node7" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="517,107,563,133"/>
+<area shape="rect" id="node8" href="$classConnectivity.html#a2318f0941147bed78d113654271b7902" title="Get a constant pointer to the connectivity array. " alt="" coords="469,333,611,360"/>
+<area shape="rect" id="node9" href="$classPane.html#a092bf21913c9d3499342f02515b69d4f" title="Get the number of nodes in i&#45;dimension if the mesh is structured. " alt="" coords="274,341,369,368"/>
+<area shape="rect" id="node11" href="$classPane.html#ad1e1617678c5c37f59ba512f9986153f" title="Get the total number of elements in the pane (including ghost elements). " alt="" coords="240,392,403,419"/>
+<area shape="rect" id="node12" href="$classConnectivity.html#ab477915e1141220f8607ce8922e20ae9" title="Get the total number of elements (including ghost elements) in the table. " alt="" coords="258,225,385,266"/>
+<area shape="rect" id="node22" href="$classConnectivity.html#a079310c5614c94a63e8cb4c9fa3ff586" title="Get the number of nodes per element of the current connectivity table. " alt="" coords="258,443,385,485"/>
+<area shape="rect" id="node4" href="$classConnectivity.html#af4c64fd10de2b2b73ed08387fced94b8" title="Root of use&#45;inheritance. " alt="" coords="477,56,603,83"/>
+<area shape="rect" id="node5" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="701,56,808,83"/>
+<area shape="rect" id="node10" href="$classPane.html#aa0bce3d272a709b1465b195d5048c643" title="Is mesh of the pane structured? " alt="" coords="473,384,607,411"/>
+<area shape="rect" id="node13" href="$classPane.html#aea6af7f8fa21f531276a598c665fba59" title="Pane::ignore_ghost" alt="" coords="687,169,822,196"/>
+<area shape="rect" id="node14" href="$classConnectivity.html#ad61825c72b551c6acd17e6b82f5c18ab" title="Determine whether the mesh is quadratic. " alt="" coords="451,283,629,309"/>
+<area shape="rect" id="node15" href="$classDataItem.html#a08f48c8f21e708d438f3a1b6f0ffd8b0" title="Obtain the number of items in the dataitem. " alt="" coords="457,232,623,259"/>
+<area shape="rect" id="node16" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="881,267,991,293"/>
+<area shape="rect" id="node21" href="$classDataItem.html#a923e28392d450d6f848c26afe6a59548" title="Obtain the number of real items in the dataitem. " alt="" coords="677,301,832,342"/>
+<area shape="rect" id="node17" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="1041,289,1181,330"/>
+<area shape="rect" id="node18" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="1285,241,1379,268"/>
+<area shape="rect" id="node19" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="1269,293,1395,320"/>
+<area shape="rect" id="node20" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="1230,344,1434,371"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="COM::COM_base::get_f90pointer" name="COM::COM_base::get_f90pointer">
+<area shape="rect" id="node2" href="$classDataItem.html#a61ab5f23ac78a344ef56534d83b84fa4" title="Obtain the data type of each component of the dataitem. " alt="" coords="235,5,376,32"/>
+<area shape="rect" id="node3" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="209,56,402,83"/>
+<area shape="rect" id="node4" href="$classDataItem.html#a6ba98b61339aa97a2aa213848893d791" title="Obtain the location of the dataitem. " alt="" coords="241,107,370,133"/>
+<area shape="rect" id="node5" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="244,157,367,184"/>
+</map>

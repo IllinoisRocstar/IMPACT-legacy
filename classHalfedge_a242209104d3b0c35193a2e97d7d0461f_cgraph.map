@@ -1,0 +1,10 @@
+<map id="Halfedge::is_border" name="Halfedge::is_border">
+<area shape="rect" id="node2" href="$classPane__manifold__2.html#a9ef5b0f5f84f2f82d2361784c9527d65" title="Is the edge on the boundary of a given mode? " alt="" coords="190,95,330,137"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#a366fc28946bdaacef84f47e8f30f3ce6" title="Determine whether a given edge is a border edge of real part of the pane (either on physical border o..." alt="" coords="394,30,534,71"/>
+<area shape="rect" id="node7" href="$classSimple__manifold__2.html#a17a6ad1d6e1acb1b551f98a4e1688651" title="Determine whether a given edge is a border edge of real part of the whole pane (on physical border)..." alt="" coords="379,95,549,137"/>
+<area shape="rect" id="node4" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="598,45,735,72"/>
+<area shape="rect" id="node8" href="$classPane__manifold__2.html#a598b2a659322c43fcbc59586b7952b45" title="Get the counterpart of an edge in the ACROSS_PANE mode, i.e. " alt="" coords="390,161,538,202"/>
+<area shape="rect" id="node9" href="$classHalfedge.html#aed6bb7abce0d79b2b3850f0c2a19bb74" title="Obtain the pane manifold that owns the edge. " alt="" coords="381,227,547,253"/>
+<area shape="rect" id="node6" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="616,103,717,129"/>
+<area shape="rect" id="node5" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="785,45,882,72"/>
+</map>

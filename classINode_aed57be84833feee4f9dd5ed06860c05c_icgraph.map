@@ -1,0 +1,10 @@
+<map id="INode::id" name="INode::id">
+<area shape="rect" id="node2" href="$classOverlay.html#a3105e02e6a1ccb4c3b4c2e3ba465a344" title="Overlay::get_subnode\l_copies" alt="" coords="137,5,287,46"/>
+<area shape="rect" id="node3" href="$classOverlay.html#a4cbf1c777db8262fcf53ca8ac5f61ce9" title="Overlay::get_subnode_id" alt="" coords="129,71,295,97"/>
+<area shape="rect" id="node7" href="$classOverlay.html#aacb6110a1a5e15edc056d22a76a8f81f" title="Overlay::set_subnode_id" alt="" coords="129,123,295,149"/>
+<area shape="rect" id="node4" href="$classOverlay.html#a31b447338dffe7665f56d8ba48cefca4" title="Overlay::convert_nat\l_coordinates" alt="" coords="367,61,510,102"/>
+<area shape="rect" id="node5" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="583,71,761,97"/>
+<area shape="rect" id="node6" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="811,97,928,124"/>
+<area shape="rect" id="node8" href="$classOverlay.html#ab59c337258025909c5231e6503e49975" title="Overlay::number_a_subnode" alt="" coords="345,127,533,153"/>
+<area shape="rect" id="node9" href="$classOverlay.html#aaac0ba0230d11d6a468860c138022e01" title="Overlay::number_subnodes" alt="" coords="581,123,763,149"/>
+</map>

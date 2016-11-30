@@ -1,0 +1,10 @@
+<map id="IRAD::Comm::CommunicatorObject::GetCommunicator" name="IRAD::Comm::CommunicatorObject::GetCommunicator">
+<area shape="rect" id="node2" href="$classCOM_1_1ParallelTestingObject.html#a7fc53e52c2bcdfbd2c4640e21e95a9d7" title="Test for get and set communicator functions. " alt="" coords="271,5,467,46"/>
+<area shape="rect" id="node8" href="$classCOM_1_1ParallelTestingObject.html#a0e2f86ad52086591439c7c793edf518f" title="Parallel Module management tests. " alt="" coords="256,70,483,111"/>
+<area shape="rect" id="node9" href="$classCOM_1_1ParallelTestingObject.html#a8ab71da9961529ff46eea73fbb6ab517" title="Test for get and set communicator functions. " alt="" coords="248,135,491,177"/>
+<area shape="rect" id="node3" href="$classCOM_1_1ParallelTestingObject.html#add04c337994958e45dbc07b264b128d5" title="Runs all tests implemented by the COM::ParallelTestingObject. " alt="" coords="539,38,725,79"/>
+<area shape="rect" id="node6" href="$classCOM_1_1ParallelTestingObject.html#abedc3b64f59caaa0d5c9ef1236079acb" title="Runs a test specified by name. " alt="" coords="539,103,725,145"/>
+<area shape="rect" id="node4" href="$namespaceCOM.html#a1d0a68356a3a05cd228d57000ba009fc" title="Drives the COM::TestObject. " alt="" coords="801,49,932,76"/>
+<area shape="rect" id="node5" href="$ParallelTestCOM_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1008,49,1059,76"/>
+<area shape="rect" id="node7" href="$classCOM_1_1ParallelTestingObject.html#a3d3428ec82199b2208091c599d5625bb" title="Runs a list of tests specified by name. " alt="" coords="774,103,959,145"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Halfedge::pane" name="Halfedge::pane">
+<area shape="rect" id="node2" href="$Manifold__2_8C.html#a305742238b48caccbf60160496982547" title="Get the face normal of a point in the element incident on h. " alt="" coords="199,12,286,39"/>
+<area shape="rect" id="node5" href="$classPane__manifold__2.html#a95868398bbb5eb619ca86bc6154a291f" title="Number of primary edges of the pane in a given mode. " alt="" coords="165,63,320,105"/>
+<area shape="rect" id="node3" href="$classHalfedge.html#a138f3a3baa9aebaab4f589d8dfea1c55" title="Get the normal of the incident facet. " alt="" coords="369,12,490,39"/>
+<area shape="rect" id="node4" href="$classHalfedge.html#a269dc2510d5500c2747c77287d4e6da7" title="Return the dihedral angle at the edge. " alt="" coords="539,5,666,46"/>
+</map>

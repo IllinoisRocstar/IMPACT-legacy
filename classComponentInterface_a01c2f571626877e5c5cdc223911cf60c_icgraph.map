@@ -1,0 +1,8 @@
+<map id="ComponentInterface::panes" name="ComponentInterface::panes">
+<area shape="rect" id="node2" href="$classRocblas.html#a2294d90628328833a90f826adba3d8e1" title="Performs the operation: z = a*x + y. " alt="" coords="198,5,333,32"/>
+<area shape="rect" id="node3" href="$classRocblas.html#a126b57260e55d844b1b2f8e428578477" title="Performs the operation: z = x op y. " alt="" coords="214,56,317,83"/>
+<area shape="rect" id="node4" href="$classRocblas.html#a3557b2ba07d978348c7a8b7e86ec9b79" title="Performs the operation: z = &lt;x, y&gt; " alt="" coords="204,107,327,133"/>
+<area shape="rect" id="node5" href="$classRocblas.html#ad1934a397629b99f2d2e7cda5b2493ac" title="Performs the operation opp(x, y) " alt="" coords="203,157,327,184"/>
+<area shape="rect" id="node6" href="$classComponentInterface.html#a556f949e63cd3081b7acc909700b3914" title="Obtain all the local panes of the CI window. " alt="" coords="195,209,335,250"/>
+<area shape="rect" id="node7" href="$classPane__connectivity.html#aa00ce05b4c14a1a28e4d75074694455e" title="Determine the number of pconn blocks for all panes. " alt="" coords="197,274,334,315"/>
+</map>

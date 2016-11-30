@@ -1,0 +1,10 @@
+<map id="Simple_manifold_2::get_opposite_ghost_edge" name="Simple_manifold_2::get_opposite_ghost_edge">
+<area shape="rect" id="node2" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="632,127,733,154"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#a87f547233b2a97b9d3289655a5f7c1ef" title="Get the opposite edge of a border edge for the ghost pane. " alt="" coords="224,114,395,170"/>
+<area shape="rect" id="node8" href="$classSimple__manifold__2.html#aa92fe92122f9ca1f08f20d2239a989b0" title="Get the opposite edge of an interior edge of the ghost part. " alt="" coords="224,194,395,250"/>
+<area shape="rect" id="node4" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="445,266,582,293"/>
+<area shape="rect" id="node9" href="$classSimple__manifold__2.html#a66a3b37ab9a9feaedf64d5c27469c660" title="Is the element incident on the give edge a ghost element? " alt="" coords="443,317,583,359"/>
+<area shape="rect" id="node6" href="$classSimple__manifold__2.html#aea2c9e848508bbb89a130de20d360014" title="Is the element incident on the give edge a real element? " alt="" coords="443,32,583,73"/>
+<area shape="rect" id="node7" href="$classSimple__manifold__2.html#ad0308ff63a62c37f101527c4acbc4f30" title="Get an index for internal edges. " alt="" coords="443,149,583,191"/>
+<area shape="rect" id="node5" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="634,237,731,263"/>
+</map>

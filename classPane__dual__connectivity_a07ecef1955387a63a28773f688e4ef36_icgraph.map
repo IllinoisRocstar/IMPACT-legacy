@@ -1,0 +1,5 @@
+<map id="Pane_dual_connectivity::incident_elements" name="Pane_dual_connectivity::incident_elements">
+<area shape="rect" id="node2" href="$classSimple__manifold__2.html#ad08b42d3f07db76ededaa39f325aff72" title="Determine the opposite halfedges of each halfedge, and identify border halfedge. " alt="" coords="214,5,413,46"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#ad647c35abb6220310bf811329c69c453" title="Initialize the database for the pane, including ghost information, opposite halfedges, incident halfedges, and border halfedges. " alt="" coords="461,12,619,39"/>
+<area shape="rect" id="node4" href="$classSimple__manifold__2.html#a01448d24de8701479e1a9bc59b694599" title="Constructors. " alt="" coords="667,5,807,46"/>
+</map>

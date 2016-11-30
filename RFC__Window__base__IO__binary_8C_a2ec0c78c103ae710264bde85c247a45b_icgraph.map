@@ -1,0 +1,7 @@
+<map id="swap_endian" name="swap_endian">
+<area shape="rect" id="node2" href="$classRFC__Pane__base.html#acfca7f5a2547b35ace4ef2b391572e36" title="RFC_Pane_base::read\l_binary" alt="" coords="152,27,307,69"/>
+<area shape="rect" id="node3" href="$classRFC__Window__base.html#a42d4637d4957136072cdbf9b7691766f" title="Read in local panes in native binary format or using Rocin. " alt="" coords="355,5,555,32"/>
+<area shape="rect" id="node4" href="$classRFC__Window__transfer.html#a7c8c8bf039e5e2400abaf4b994543274" title="RFC_Window_transfer\l::init_recv_buffer" alt="" coords="377,57,532,98"/>
+<area shape="rect" id="node5" href="$classRFC__Window__transfer.html#aec87cef0eb23358d2a3b4e54299e6bb4" title="Replicate the metadata of a remote pane only the local process. " alt="" coords="603,57,757,98"/>
+<area shape="rect" id="node6" href="$classRFC__Window__transfer.html#a2b520ebc439b1d7d032dcf0ec86c15f8" title="Replicate the remote panes that are in contact with the local panes in opp_win. " alt="" coords="805,57,960,98"/>
+</map>

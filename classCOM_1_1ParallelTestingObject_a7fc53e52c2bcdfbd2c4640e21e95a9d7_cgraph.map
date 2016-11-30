@@ -1,0 +1,23 @@
+<map id="COM::ParallelTestingObject::Test__GetSetCommunicator" name="COM::ParallelTestingObject::Test__GetSetCommunicator">
+<area shape="rect" id="node2" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#a66782d457013b0d98cbba29be8bab849" title="IRAD::Comm::Communicator\lObject::Check" alt="" coords="260,13,455,54"/>
+<area shape="rect" id="node4" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#a1923e58cd6637cf897bd612dd1d7812a" title="IRAD::Comm::Communicator\lObject::ClearErr" alt="" coords="260,85,455,126"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="284,201,431,228"/>
+<area shape="rect" id="node9" href="$com__c_09_09_8hpp.html#a7480cb279da4775836e08986b3c1ccad" title="COM_get_communicator" alt="" coords="274,151,441,177"/>
+<area shape="rect" id="node13" href="$com__c_09_09_8hpp.html#a6ebf7d3be61b364094596342a1d64827" title="COM_get_default_communicator" alt="" coords="251,303,464,329"/>
+<area shape="rect" id="node15" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="290,252,425,279"/>
+<area shape="rect" id="node17" href="$com__c_09_09_8hpp.html#af747aaa399bb2b11240e4a5631e1be93" title="COM_set_default_communicator" alt="" coords="251,353,464,380"/>
+<area shape="rect" id="node19" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#ae327b02d89a1db87421d065fae1b611f" title="IRAD::Comm::Communicator\lObject::GetCommunicator" alt="" coords="260,405,455,446"/>
+<area shape="rect" id="node20" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#abd74c8c53a5355725a71008957608561" title="IRAD::Comm::Communicator\lObject::SetErr" alt="" coords="260,470,455,511"/>
+<area shape="rect" id="node21" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#aaf8c03f6a68a5d60cc276333993d5995" title="IRAD::Comm::Communicator\lObject::Size" alt="" coords="260,535,455,577"/>
+<area shape="rect" id="node22" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#ac8157e8ee3beb3ce7c640538331d8aaa" title="IRAD::Comm::Communicator\lObject::Split" alt="" coords="260,601,455,642"/>
+<area shape="rect" id="node3" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#ab8d3a56070a038773bca99d935514914" title="IRAD::Comm::Communicator\lObject::ResolveOp" alt="" coords="512,5,707,46"/>
+<area shape="rect" id="node6" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="554,201,665,228"/>
+<area shape="rect" id="node8" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="524,135,695,177"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="755,325,941,352"/>
+<area shape="rect" id="node10" href="$classCOM_1_1COM__base.html#af99bb368e6bc0ac95632f3a5e336c08a" title="COM::COM_base::get\l_communicator" alt="" coords="533,70,686,111"/>
+<area shape="rect" id="node11" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="779,48,917,75"/>
+<area shape="rect" id="node12" href="$classComponentInterface.html#acf7fee0d74fc27148af099af83252dfc" title="Obtain the communicator of the CI. " alt="" coords="778,99,918,141"/>
+<area shape="rect" id="node14" href="$classCOM_1_1COM__base.html#ac8938cf9e232a054d7f93060c185b812" title="Get the default communicator of COM. " alt="" coords="531,318,688,359"/>
+<area shape="rect" id="node16" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="530,253,689,294"/>
+<area shape="rect" id="node18" href="$classCOM_1_1COM__base.html#af83fb0e93e853820d22393283c22d034" title="Set the default communicator of COM. " alt="" coords="531,383,688,425"/>
+</map>

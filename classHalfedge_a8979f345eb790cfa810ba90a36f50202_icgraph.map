@@ -1,0 +1,24 @@
+<map id="Halfedge::prev" name="Halfedge::prev">
+<area shape="rect" id="node2" href="$classPane__manifold__2.html#a6835f6cd1cf3bc4545f2d7c7a8917127" title="Obtain the next edge in a given access mode. " alt="" coords="161,123,309,165"/>
+<area shape="rect" id="node18" href="$classNode.html#abd9d27318bc9c523aa4937e46e63dfe2" title="Get an incident halfedge originated from the node. " alt="" coords="179,243,290,269"/>
+<area shape="rect" id="node3" href="$classHalfedge.html#a0fe0a86f9d9591a47a840c4283a1ee66" title="Get the next halfedge of its owner element. " alt="" coords="377,125,484,152"/>
+<area shape="rect" id="node4" href="$classRocsurf.html#a97d01c84761acbeb7f318e784e7618d3" title="Computes edge lengths of a given window. " alt="" coords="554,115,715,157"/>
+<area shape="rect" id="node11" href="$classHalfedge.html#a5f30a8704a58f4aa46141dbacd9578b6" title="Get the average value of the nodes of the incident face of a given halfedge. " alt="" coords="555,181,715,208"/>
+<area shape="rect" id="node13" href="$classFace.html#a38c58b1d84a930047814c2a5f2e36ab4" title="Get the average value of the nodes of a given face. " alt="" coords="566,9,703,36"/>
+<area shape="rect" id="node15" href="$Manifold__2_8C.html#adaa5ff78d434322162d994d114b59362" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="561,64,708,91"/>
+<area shape="rect" id="node17" href="$classPane__manifold__2.html#ae14fb991ffb413357ecf8e3d79f8b51a" title="Obtain the previous edge in a given access mode. " alt="" coords="561,233,709,274"/>
+<area shape="rect" id="node5" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="797,123,897,149"/>
+<area shape="rect" id="node6" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1004,21,1151,48"/>
+<area shape="rect" id="node7" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1007,72,1148,99"/>
+<area shape="rect" id="node8" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="980,123,1175,149"/>
+<area shape="rect" id="node9" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1003,173,1151,200"/>
+<area shape="rect" id="node10" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="976,224,1179,251"/>
+<area shape="rect" id="node12" href="$classHalfedge.html#ace575c12a667acbbd28410222403ccb1" title="Get the face center of the incident face of a given halfedge. " alt="" coords="771,181,922,208"/>
+<area shape="rect" id="node14" href="$classFace.html#a6038a217872bc5f54a720e32cd68fcfb" title="Get the face center of a given face. " alt="" coords="783,5,910,32"/>
+<area shape="rect" id="node16" href="$classHalfedge.html#a76e0044df4c95e470db499808e3d5749" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="779,57,915,98"/>
+<area shape="rect" id="node19" href="$classWindow__manifold__2.html#a98d72b391248b8ad30f7a62176de09c4" title="Determine the primary nodes for across&#45;pane access. " alt="" coords="357,294,504,335"/>
+<area shape="rect" id="node23" href="$classNode.html#a34c43ffd7679daeb45bc4b040588b9fc" title="Is the node on the physical boundary? " alt="" coords="373,243,488,269"/>
+<area shape="rect" id="node20" href="$classWindow__manifold__2.html#af0271b5b6b206b3dd5e6e5650141fdde" title="Initialize the manifold by inheriting the given mesh. " alt="" coords="553,301,717,328"/>
+<area shape="rect" id="node21" href="$classWindow__manifold__2.html#a2cd4f1a3caa1a90704899c3e27e8bd72" title="Construct a Window_manifold_2 from a given window. " alt="" coords="773,263,920,305"/>
+<area shape="rect" id="node22" href="$classRFC__Window__overlay.html#abac82c95c8685d2e5455664c9f810a1c" title="RFC_Window_overlay\l::RFC_Window_overlay" alt="" coords="766,329,927,370"/>
+</map>

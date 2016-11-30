@@ -1,0 +1,10 @@
+<map id="Rocmap::size_of_cpanes" name="Rocmap::size_of_cpanes">
+<area shape="rect" id="node2" href="$classPane__connectivity.html#aa301519878e85489bade7f6d2b49d58c" title="Get the number of communicating panes. " alt="" coords="225,82,362,123"/>
+<area shape="rect" id="node3" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="426,31,537,57"/>
+<area shape="rect" id="node8" href="$classComponentInterface.html#ab80a1a99516f6b9ceeaf381529abd29d" title="Find the pane with given ID. If not found, insert a pane with given ID. " alt="" coords="411,82,551,123"/>
+<area shape="rect" id="node9" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="420,148,543,175"/>
+<area shape="rect" id="node4" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="601,53,741,94"/>
+<area shape="rect" id="node5" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="845,5,939,32"/>
+<area shape="rect" id="node6" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="829,57,955,84"/>
+<area shape="rect" id="node7" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="790,108,994,135"/>
+</map>

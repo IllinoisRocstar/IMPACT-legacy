@@ -1,0 +1,5 @@
+<map id="IMPACT::ExampleProgram::ParallelProgram::Run" name="IMPACT::ExampleProgram::ParallelProgram::Run">
+<area shape="rect" id="node2" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="486,23,679,50"/>
+<area shape="rect" id="node3" href="$namespaceIMPACT.html#a0e21a5be6cfda3878c0e6847868e59e2" title="Integrates f with composite midpoint rule. " alt="" coords="238,23,434,50"/>
+<area shape="rect" id="node4" href="$namespaceIMPACT.html#a370ebd33d6deedb9033295e0f9d0d406" title="Integrates f with composite trapezoid rule. " alt="" coords="235,74,437,101"/>
+</map>

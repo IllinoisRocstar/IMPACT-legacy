@@ -1,0 +1,11 @@
+<map id="HDF4::SDendaccess" name="HDF4::SDendaccess">
+<area shape="rect" id="node2" href="$Rocin_8C.html#a168ceb3da43ff476c81ba29160c5f26f" title="Find the first geometry dataset for the given block. " alt="" coords="352,107,528,133"/>
+<area shape="rect" id="node9" href="$Rocin_8C.html#a47c0cc95b287e4a13de0621aba5472e3" title="load_data_HDF4" alt="" coords="380,5,500,32"/>
+<area shape="rect" id="node3" href="$Rocin_8C.html#ab7a7fab44f0d3b76372865fb1442f1b7" title="Extract metadata from the list of files. " alt="" coords="576,95,699,121"/>
+<area shape="rect" id="node10" href="$classHDF4.html#ad926b3095d6c45ab9361939452d32eac" title="&quot;Open&quot; and &quot;close&quot; HDF files efficiently. " alt="" coords="201,56,303,83"/>
+<area shape="rect" id="node4" href="$classRocin.html#af873ef4548be6ffa64ebec35a23a8010" title="Create a series of Roccom windows by reading in a list of files. " alt="" coords="747,57,893,84"/>
+<area shape="rect" id="node5" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="1361,83,1442,109"/>
+<area shape="rect" id="node7" href="$classRocin.html#acf03f03f4f5120c44178c0494fe93299" title="Create a single Roccom window by reading in a list of files. " alt="" coords="942,83,1082,109"/>
+<area shape="rect" id="node6" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="1491,83,1629,109"/>
+<area shape="rect" id="node8" href="$classRocin.html#ad36f0ab7780acfa2b2aa54907ef9627b" title="Create a single Roccom window by reading in the files specified by the given control file..." alt="" coords="1131,83,1311,109"/>
+</map>

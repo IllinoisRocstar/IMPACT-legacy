@@ -1,0 +1,14 @@
+<map id="COM::COM_base::clone_dataitem" name="COM::COM_base::clone_dataitem">
+<area shape="rect" id="node2" href="$com__c_8h.html#a336aeb862cca7846bc208c09e1800761" title="Clone the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="222,208,370,235"/>
+<area shape="rect" id="node3" href="$classCloneDataItem.html#ae55e0cd3abcbf21829a528d2a3652f3a" title="CloneDataItem::create" alt="" coords="439,5,593,32"/>
+<area shape="rect" id="node4" href="$classFluidAgent.html#aefa1b063d0f50769ad00646d55463cd7" title="FluidAgent::create\l_buffer_all" alt="" coords="688,99,816,141"/>
+<area shape="rect" id="node5" href="$classBurnAgent.html#a21ad0c154515bf44027b4653c600e4fd" title="BurnAgent::create_buffer_all" alt="" coords="423,107,609,133"/>
+<area shape="rect" id="node6" href="$classSolidAgent.html#a0fd6e5283143a0c079db8d4023868c2e" title="SolidAgent::create\l_buffer_all" alt="" coords="687,273,817,314"/>
+<area shape="rect" id="node7" href="$autosurfer_8C.html#a61aedb2ed2b960eb62f1ea07936ec18d" title="read_file" alt="" coords="481,208,551,235"/>
+<area shape="rect" id="node8" href="$surfdiver_8C.html#adb620b4b4bf75298388dfc39a64d1246" title="read_file_rocin" alt="" coords="463,360,569,387"/>
+<area shape="rect" id="node10" href="$classSolverUtils_1_1TransferObjectPar.html#a137e017f3ae9886188688ba985b681d2" title="SolverUtils::TransferObject\lPar::read_file_rocin" alt="" coords="426,411,606,453"/>
+<area shape="rect" id="node12" href="$classFluidAgent.html#a0eab49b0aecad63533bc8db3e4ed5976" title="FluidAgent::read_restart_data" alt="" coords="419,56,613,83"/>
+<area shape="rect" id="node13" href="$classSolidAgent.html#ab1c54075587371b534fbafeb24624f9b" title="SolidAgent::read_restart_data" alt="" coords="419,309,613,336"/>
+<area shape="rect" id="node9" href="$surfdiver_8C.html#a8d48e1f238836404bda19c9a3e580abd" title="read_file" alt="" coords="717,360,787,387"/>
+<area shape="rect" id="node11" href="$classSolverUtils_1_1TransferObjectPar.html#aeff5e8f021e8d4d370ba15468686ad81" title="SolverUtils::TransferObject\lPar::Overlay" alt="" coords="662,411,842,453"/>
+</map>

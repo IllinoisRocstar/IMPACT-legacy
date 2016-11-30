@@ -1,0 +1,20 @@
+<map id="read_file" name="read_file">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="149,24,283,51"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a7ba04c696e63cdfeb6d9b0f4b70a30ec" title="Clone the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="142,277,290,304"/>
+<area shape="rect" id="node9" href="$com__c_09_09_8hpp.html#ad092d9a8763517eb4473ad4731fe4c99" title="Delete an existing dataitem. " alt="" coords="140,75,292,101"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="143,125,289,152"/>
+<area shape="rect" id="node13" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="126,176,306,203"/>
+<area shape="rect" id="node15" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="128,227,304,253"/>
+<area shape="rect" id="node18" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="149,328,283,355"/>
+<area shape="rect" id="node4" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="385,201,495,228"/>
+<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#aa70e14ef8971b8c21c07636ddb15e3f0" title="Clone the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="357,318,523,359"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="578,201,763,228"/>
+<area shape="rect" id="node7" href="$classDataItem.html#af1613e242912ca9334a8ca5c643e38e0" title="Check whether the number of items of the dataitem is zero. " alt="" coords="611,325,731,352"/>
+<area shape="rect" id="node8" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="816,325,923,352"/>
+<area shape="rect" id="node10" href="$classCOM_1_1COM__base.html#ab2b11e9b5c108ac97ad7defbc880749e" title="Delete an existing dataitem from a window. " alt="" coords="355,5,525,46"/>
+<area shape="rect" id="node12" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="355,70,525,111"/>
+<area shape="rect" id="node14" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="363,135,517,177"/>
+<area shape="rect" id="node16" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="363,253,517,294"/>
+<area shape="rect" id="node17" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="574,260,767,287"/>
+<area shape="rect" id="node19" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="361,383,519,425"/>
+</map>

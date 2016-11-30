@@ -1,0 +1,8 @@
+<map id="FullyCoupling::update_distances" name="FullyCoupling::update_distances">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="203,35,379,61"/>
+<area shape="rect" id="node7" href="$classAgent.html#a4872c74606e0cf054274b68d2d0a33ac" title="Agent::get_communicator" alt="" coords="205,85,376,112"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="449,5,559,32"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="427,57,581,98"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="634,5,819,32"/>
+<area shape="rect" id="node6" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="630,64,823,91"/>
+</map>

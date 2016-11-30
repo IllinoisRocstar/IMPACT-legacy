@@ -1,0 +1,8 @@
+<map id="Rocmap::update_ghosts" name="Rocmap::update_ghosts">
+<area shape="rect" id="node2" href="$classPane__communicator.html#a695dbe20d98cb9f5ac5be352a442bc6e" title="Initialize the communication buffers. " alt="" coords="219,60,386,87"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="457,8,577,35"/>
+<area shape="rect" id="node5" href="$classPane__communicator.html#a4e9da8608bf6edf93e5bca58992546d3" title="Initialize a Pane_comm_buffers for ghost information. " alt="" coords="435,111,599,153"/>
+<area shape="rect" id="node6" href="$classPane__communicator.html#a1a31d31bb4ae29936b760d6141b6e1c4" title="For a given pane, obtain an internal pane ID which is unique and contiguous across processes..." alt="" coords="648,57,797,98"/>
+<area shape="rect" id="node4" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="681,5,764,32"/>
+<area shape="rect" id="node7" href="$classPane__communicator.html#a292023010b824818aa19da1418c2a14e" title="Obtain the process rank of a given pane. " alt="" coords="648,122,797,163"/>
+</map>

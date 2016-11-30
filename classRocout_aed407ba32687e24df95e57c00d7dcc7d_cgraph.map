@@ -1,0 +1,9 @@
+<map id="Rocout::write_rocin_control_file" name="Rocout::write_rocin_control_file">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6ebf7d3be61b364094596342a1d64827" title="COM_get_default_communicator" alt="" coords="189,16,403,43"/>
+<area shape="rect" id="node5" href="$com__c_09_09_8hpp.html#a6e38c0b1f83c30b166b7500902e13be1" title="COM_get_panes" alt="" coords="236,71,356,97"/>
+<area shape="rect" id="node8" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="227,121,365,148"/>
+<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#ac8938cf9e232a054d7f93060c185b812" title="Get the default communicator of COM. " alt="" coords="451,5,608,46"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="657,41,842,68"/>
+<area shape="rect" id="node6" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="474,71,585,97"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a03135368bceaffadde879eef56e5415d" title="Obtain the panes of a given window on a specific process. " alt="" coords="453,122,606,163"/>
+</map>

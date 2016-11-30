@@ -1,0 +1,51 @@
+<map id="Connectivity::size_of_elements" name="Connectivity::size_of_elements">
+<area shape="rect" id="node2" href="$classPane.html#a9535b6c930d91b7ad225da2c2415a83f" title="Obtain the connectivity table containing the element with the given ID. " alt="" coords="209,292,340,319"/>
+<area shape="rect" id="node49" href="$classElement__node__enumerator.html#a86f5c7705e62a398685a3abc4d211923" title="Constructor for an element in a structured or an unstructured mesh. " alt="" coords="182,858,367,899"/>
+<area shape="rect" id="node14" href="$classElement__node__enumerator.html#aee7e8eecded55311aa51b51093dcb10f" title="Go to the next element within the connectivity tables of a pane. " alt="" coords="417,749,594,790"/>
+<area shape="rect" id="node44" href="$classElement__node__enumerator__uns.html#af11ca7d05b1fd0ee5d5c84b2d7ced8ec" title="Element_node_enumerator\l_uns::next" alt="" coords="417,1022,594,1063"/>
+<area shape="rect" id="node50" href="$classPane.html#ab89c7c053d6e59eb9fd3a69bc28623e2" title="Update offsets and sizes of connectivity of an unstructured mesh. " alt="" coords="186,924,363,951"/>
+<area shape="rect" id="node3" href="$classComponentInterface.html#af76c06d8223cef9e93c79cc34190e19f" title="Set the sizes of an dataitem for a specific pane. " alt="" coords="435,253,575,294"/>
+<area shape="rect" id="node4" href="$classComponentInterface.html#a03a38da9f73af63cf05c890a2c3e39c3" title="Get the sizes of an dataitem for a specific pane. " alt="" coords="435,318,575,359"/>
+<area shape="rect" id="node6" href="$classComponentInterface.html#a4efd4a189bf2d7ce85cab2e8d3d731de" title="Get the status of an dataitem or pane. " alt="" coords="435,383,575,425"/>
+<area shape="rect" id="node10" href="$classComponentInterface.html#aec73ef511b9ac7c06f717ae8cfbb86f7" title="Get the parent name of an dataitem and load into name. " alt="" coords="435,5,575,46"/>
+<area shape="rect" id="node11" href="$classComponentInterface.html#a6f4ed365eadea8894113615065623ab2" title="Get the address associated with an dataitem for a specific pane. " alt="" coords="435,70,575,111"/>
+<area shape="rect" id="node13" href="$classComponentInterface.html#add4dce2ee2cc1a64b3a5d74de3033d90" title="Copy an dataitem on a specific pane into a given array. " alt="" coords="435,135,575,177"/>
+<area shape="rect" id="node48" href="$classPane.html#a5bb29d375d64fdd75063497c6b782efe" title="Pane::connectivity" alt="" coords="440,201,571,228"/>
+<area shape="rect" id="node5" href="$ComponentInterface_8C.html#a9789dd13ce75091fd8a24b88d973751c" title="get_size_common" alt="" coords="689,227,817,253"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a8838c121b3143e1a3b92090ffc67e3d3" title="Get the status of an dataitem. " alt="" coords="677,278,830,319"/>
+<area shape="rect" id="node8" href="$com__c_8h.html#a1da9106f23205e969ae8407deebbfdfe" title="COM_get_status" alt="" coords="943,187,1065,213"/>
+<area shape="rect" id="node9" href="$com__f_8C.html#a43091aaabb9859293314459ff82418fc" title="COM_F_FUNC2" alt="" coords="944,237,1064,264"/>
+<area shape="rect" id="node12" href="$ComponentInterface_8C.html#a271f0bc743521c6de8aaf7b120bc660d" title="get_array_common" alt="" coords="687,77,820,104"/>
+<area shape="rect" id="node15" href="$classRocsurf.html#a43a793ae1d3903fcc5af65cb4a6694b9" title="Computes the volume bounded between two different locations of each face of the surface mesh of windo..." alt="" coords="913,1185,1095,1226"/>
+<area shape="rect" id="node21" href="$classRocsurf.html#af6fe1ea3b45b9c65542dbe1d9239e3f0" title="Computes the swept volume by a given displacement of each face of the surface mesh of window volumes&#45;..." alt="" coords="920,705,1088,746"/>
+<area shape="rect" id="node22" href="$classRocsurf.html#a95b20617337bb0684ffc49502d88d128" title="Computes the signed volume of a body. " alt="" coords="919,770,1089,811"/>
+<area shape="rect" id="node23" href="$classWindow__manifold__2.html#ae05664428109c4f77419326f09d41335" title="Window_manifold_2::\lcompute_mcn" alt="" coords="680,1062,827,1103"/>
+<area shape="rect" id="node25" href="$classRocsurf.html#aaa5c77cef5d88304a4065c87cfc1167a" title="Computes the area of each face of the surface mesh of window areas&#45;&gt;window and saves the results in d..." alt="" coords="915,639,1093,681"/>
+<area shape="rect" id="node26" href="$classRocsurf.html#adaa7a2e8a5b441c3e737d00264944308" title="Integrate a function given by an elemental dataitem over surface z is an array of size equal to numbe..." alt="" coords="690,1128,817,1155"/>
+<area shape="rect" id="node27" href="$classRocsurf.html#ab4882edc82971adb06406bcc3e10cd73" title="Computes elemental normals of a given window. " alt="" coords="664,498,843,539"/>
+<area shape="rect" id="node31" href="$classWindow__manifold__2.html#a6baebde0b11b6c524da190b5cf673010" title="Obtain shortest edge length of incident edges of each nodes. " alt="" coords="643,343,863,385"/>
+<area shape="rect" id="node33" href="$classWindow__manifold__2.html#addbcbb990002a33c624f192557484aac" title="Obtain shortest edge length of incident edges of each element. " alt="" coords="664,412,843,468"/>
+<area shape="rect" id="node34" href="$classWindow__manifold__2.html#a57c6b6067d689e3c67abadd9ee212d9f" title="Convert element values to nodal values using weighted averaging. " alt="" coords="680,574,827,615"/>
+<area shape="rect" id="node36" href="$classPane__boundary.html#a6a567707ee5a4668af1831d4bd7444a0" title="Determine the border nodes for a 3&#45;D mesh. " alt="" coords="665,749,842,790"/>
+<area shape="rect" id="node37" href="$classRFC__Pane__base.html#a6c909c5de88320225577d436b31a119b" title="Compute the natural coordinates. " alt="" coords="672,866,835,907"/>
+<area shape="rect" id="node41" href="$classSimple__manifold__2.html#ad08b42d3f07db76ededaa39f325aff72" title="Determine the opposite halfedges of each halfedge, and identify border halfedge. " alt="" coords="654,931,853,973"/>
+<area shape="rect" id="node43" href="$classSimple__manifold__2.html#ab4a0e43dcf45a3047b2034df29662101" title="Determine an incident halfedge for each node. " alt="" coords="656,997,851,1038"/>
+<area shape="rect" id="node16" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="1167,745,1267,772"/>
+<area shape="rect" id="node17" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1363,669,1509,696"/>
+<area shape="rect" id="node18" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1365,720,1507,747"/>
+<area shape="rect" id="node19" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1339,771,1533,797"/>
+<area shape="rect" id="node20" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1362,821,1510,848"/>
+<area shape="rect" id="node24" href="$classRocsurf.html#ad080be024939ffb1aa52f944ba6f3af0" title="Computes nodal or elemental normals of a given window. " alt="" coords="925,1083,1083,1109"/>
+<area shape="rect" id="node28" href="$classWindow__manifold__2.html#a84ab729c39b78534b617728cd60582c8" title="Compute nodal normals using one of the following weighting schemes: E2N_ONE, E2N_AREA, and E2N_ANGLE, and E2N_USER. " alt="" coords="923,457,1085,498"/>
+<area shape="rect" id="node29" href="$classWindow__manifold__2.html#a6c39c023dbe78b00e91b3d5693ea216d" title="Compute the normals at nodes or faces, depending on the type of the dataitem normals. " alt="" coords="1144,429,1291,470"/>
+<area shape="rect" id="node30" href="$classWindow__manifold__2.html#aad29e9f557854ef4546bb8614205abda" title="Perturb the given mesh along its normal direction by length equal to a random number between &#45;range a..." alt="" coords="1144,309,1291,350"/>
+<area shape="rect" id="node32" href="$classWindow__manifold__2.html#a5fb686b1cbe5940cbaa4a68b4e40c458" title="Obtain shortest edge length of incident edges of each node or element. " alt="" coords="931,339,1077,381"/>
+<area shape="rect" id="node35" href="$classRocsurf.html#ae88ac8c15c0952ecf710d15d67b8dea8" title="Computes nodal or elemental normals of a given window. " alt="" coords="931,574,1077,615"/>
+<area shape="rect" id="node38" href="$classRFC__Window__base.html#a0674616c94b7d6a7751fe92e2b30e25a" title="RFC_Window_base::export\l_window" alt="" coords="913,901,1095,942"/>
+<area shape="rect" id="node39" href="$classRFC__Pane__base.html#a7bbaf48ac1f31aaaef84e1f3aa64ff4e" title="Read in using Rocin. " alt="" coords="927,966,1081,1007"/>
+<area shape="rect" id="node40" href="$classRFC__Pane__base.html#acfca7f5a2547b35ace4ef2b391572e36" title="RFC_Pane_base::read\l_binary" alt="" coords="927,835,1081,877"/>
+<area shape="rect" id="node42" href="$classSimple__manifold__2.html#ad647c35abb6220310bf811329c69c453" title="Initialize the database for the pane, including ghost information, opposite halfedges, incident halfedges, and border halfedges. " alt="" coords="925,1032,1083,1059"/>
+<area shape="rect" id="node45" href="$classPane__dual__connectivity.html#a33cf4bfe5fe8ffb4afd7ab8f697fb132" title="Construct dual connectivity for unstructured meshes. " alt="" coords="655,1230,852,1271"/>
+<area shape="rect" id="node47" href="$classPane__boundary.html#a350b139530532dd03024d964f428a731" title="Determine the isolated nodes (i.e. not belonging to any element) " alt="" coords="665,1295,842,1337"/>
+<area shape="rect" id="node46" href="$classPane__dual__connectivity.html#a113e6838653f279065d924d61735c1e4" title="Constructs the dual connectivity for a given pane. " alt="" coords="920,1250,1088,1291"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="ComponentInterface::inherit" name="ComponentInterface::inherit">
+<area shape="rect" id="node2" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="774,151,885,177"/>
+<area shape="rect" id="node7" href="$classPane.html#a9df594af964506d3bb28668ac8e1fcd9" title="Get the ID of the pane. " alt="" coords="207,892,278,919"/>
+<area shape="rect" id="node8" href="$classDataItem.html#a4b23c8d271000dda6b3634abe6528d83" title="Inherit from parent. If depth&gt;0, then the procedure is for the subcomponents. " alt="" coords="362,572,481,599"/>
+<area shape="rect" id="node16" href="$classPane.html#ae879efeb45997f5005c2927e1a11f95f" title="Inherit an dataitem from another pane onto the current pane: " alt="" coords="195,521,290,548"/>
+<area shape="rect" id="node33" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="360,943,483,969"/>
+<area shape="rect" id="node28" href="$classDataItem.html#ac5be076b6aa11312e36ae4be607a21f5" title="Obtain a constant pointer to the parent window of the dataitem. " alt="" coords="565,787,693,813"/>
+<area shape="rect" id="node3" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="953,327,1093,369"/>
+<area shape="rect" id="node4" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="1197,276,1291,303"/>
+<area shape="rect" id="node5" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="1181,335,1307,361"/>
+<area shape="rect" id="node6" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="1142,403,1346,429"/>
+<area shape="rect" id="node9" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="576,471,683,497"/>
+<area shape="rect" id="node10" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="981,551,1064,577"/>
+<area shape="rect" id="node11" href="$classDataItem.html#ac22169fd62810286b8614f0de6326766" title="Allocate memory for the dataitem. " alt="" coords="565,572,694,599"/>
+<area shape="rect" id="node12" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="806,627,853,653"/>
+<area shape="rect" id="node13" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="1001,703,1044,729"/>
+<area shape="rect" id="node14" href="$classDataItem.html#aad06f21a0dd126f7495158a70e264696" title="Set the physical address of the dataitem values. " alt="" coords="755,576,903,603"/>
+<area shape="rect" id="node15" href="$classDataItem.html#a2c2b7f9c0ef3902245892dd6c48ca7cd" title="DataItem::copy_array" alt="" coords="755,677,903,704"/>
+<area shape="rect" id="node17" href="$classDataItem.html#a42a68b5dcac42dc37d91c549be685d52" title="Obtain a constant pointer to the owner pane of the dataitem. " alt="" coords="365,319,477,345"/>
+<area shape="rect" id="node18" href="$classDataItem.html#a8c75af27aa0199f827154ee5029da3e1" title="Checks whether the dataitem is associated with the window. " alt="" coords="342,369,501,396"/>
+<area shape="rect" id="node19" href="$classDataItem.html#a08f48c8f21e708d438f3a1b6f0ffd8b0" title="Obtain the number of items in the dataitem. " alt="" coords="339,151,504,177"/>
+<area shape="rect" id="node21" href="$classDataItem.html#a923e28392d450d6f848c26afe6a59548" title="Obtain the number of real items in the dataitem. " alt="" coords="552,210,707,251"/>
+<area shape="rect" id="node22" href="$classConnectivity.html#a2318f0941147bed78d113654271b7902" title="Get a constant pointer to the connectivity array. " alt="" coords="350,471,493,497"/>
+<area shape="rect" id="node23" href="$classDataItem.html#ace6623b15df92803cbae82fb3feba8f0" title="Obtain the stride of the dataitem in base datatype. " alt="" coords="363,521,479,548"/>
+<area shape="rect" id="node24" href="$classDataItem.html#a0f231c5f200b92d767aca74ddb35fc80" title="DataItem::compatible\l_types" alt="" coords="348,674,495,715"/>
+<area shape="rect" id="node26" href="$classDataItem.html#a61ab5f23ac78a344ef56534d83b84fa4" title="Obtain the data type of each component of the dataitem. " alt="" coords="351,740,492,767"/>
+<area shape="rect" id="node27" href="$classDataItem.html#a9cafcc5fa2e56403b4e57a4b5edd4f7c" title="Obtain the full name of the dataitem including window name suitable for printing out error messages..." alt="" coords="355,841,488,868"/>
+<area shape="rect" id="node32" href="$classDataItem.html#a6ba98b61339aa97a2aa213848893d791" title="Obtain the location of the dataitem. " alt="" coords="357,892,486,919"/>
+<area shape="rect" id="node20" href="$classPane.html#aea6af7f8fa21f531276a598c665fba59" title="Pane::ignore_ghost" alt="" coords="562,135,697,161"/>
+<area shape="rect" id="node25" href="$classDataItem.html#a8d07cf4343e51d9ef9eb2fa5f0df91c4" title="DataItem::get_sizeof" alt="" coords="557,681,701,708"/>
+<area shape="rect" id="node30" href="$classComponentInterface.html#aa8b6fe25ffacb81765e94e5f008dcc9c" title="Obtain the CI&#39;s name. " alt="" coords="559,838,699,879"/>
+<area shape="rect" id="node31" href="$classDataItem.html#a5edd77180ff7e88445e31305c44ebbc0" title="Obtain the name of the dataitem. " alt="" coords="571,904,687,931"/>
+<area shape="rect" id="node29" href="$classPane.html#add1c79360212a9bb77ac7bdc07883760" title="Obtain a constant pointer to its owner window object. " alt="" coords="777,787,881,813"/>
+</map>

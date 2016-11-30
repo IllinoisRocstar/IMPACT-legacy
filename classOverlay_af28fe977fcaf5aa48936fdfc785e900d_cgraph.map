@@ -1,0 +1,51 @@
+<map id="Overlay::overlay" name="Overlay::overlay">
+<area shape="rect" id="node2" href="$classOverlay.html#ad5f1e6c0f443baf6c59656657ec0ad5f" title="Overlay::associate\l_green_vertices" alt="" coords="196,352,327,393"/>
+<area shape="rect" id="node16" href="$group__pio.html#ga46985cd4d993cd8ddb811373ba8660b7" title="RFC_Window_overlay\l::create_overlay_data" alt="" coords="185,2687,338,2728"/>
+<area shape="rect" id="node18" href="$group__pio.html#ga74bf1a77cf22ca7fd2c9e328caf0a7ae" title="RFC_Window_overlay\l::delete_overlay_data" alt="" coords="185,2107,338,2148"/>
+<area shape="rect" id="node23" href="$group__pifd.html#gacc6431518438cfdb0c5f73b2b02159d8" title="The main entry of feature detection. " alt="" coords="185,2359,338,2400"/>
+<area shape="rect" id="node34" href="$classBbox__3.html#ae28d38d3e0896c215a04e7aa339d66d8" title="Bbox_3::do_match" alt="" coords="196,2905,327,2931"/>
+<area shape="rect" id="node41" href="$group__ntc.html#ga7dc267edacebbbaa331fdf5ec58a8455" title="RFC_Window_overlay\l::evaluate_normals" alt="" coords="185,1955,338,1996"/>
+<area shape="rect" id="node42" href="$classRFC__Window__base.html#ac76688e4c854ccf4003f293bdb6a0fc2" title="Get the bounding box of the window. " alt="" coords="179,3108,344,3149"/>
+<area shape="rect" id="node26" href="$Timing_8h.html#ac22e6dd75e231747e5713d9ecb150d8f" title="get_wtime" alt="" coords="452,2635,535,2662"/>
+<area shape="rect" id="node43" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="199,1305,324,1347"/>
+<area shape="rect" id="node44" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="172,1646,351,1673"/>
+<area shape="rect" id="node33" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="472,2686,515,2713"/>
+<area shape="rect" id="node45" href="$classRFC__Window__base.html#a7677153aa00c31180a92808a0cc7076a" title="The name of the window. " alt="" coords="404,1785,583,1811"/>
+<area shape="rect" id="node46" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="172,1254,351,1281"/>
+<area shape="rect" id="node47" href="$classOverlay.html#aaac0ba0230d11d6a468860c138022e01" title="Overlay::number_subnodes" alt="" coords="171,1051,352,1078"/>
+<area shape="rect" id="node48" href="$classRFC__Window__base.html#a2a46c020b265b489d33356a2a8d0d553" title="Get the total number of faces contained the window. " alt="" coords="176,3173,347,3215"/>
+<area shape="rect" id="node49" href="$classRFC__Window__base.html#ad774f2c90ceb24d863463530c207fb92" title="Get the total number of nodes contained the window. " alt="" coords="176,3239,347,3280"/>
+<area shape="rect" id="node50" href="$classOverlay.html#a7cd675313ef45f71fa2d0b40eb067578" title="Overlay::sort_on_green\l_edges" alt="" coords="183,707,340,748"/>
+<area shape="rect" id="node35" href="$classBbox__3.html#a24a923d181b58e91a7250dd3bf435583" title="Bbox_3::xmax" alt="" coords="440,2803,547,2830"/>
+<area shape="rect" id="node36" href="$classBbox__3.html#a75bd7e422f1485cc47da35e6c33123bd" title="Bbox_3::xmin" alt="" coords="442,2854,545,2881"/>
+<area shape="rect" id="node37" href="$classBbox__3.html#a37c4bceb53bde963ec4f1adb8f2fbcd1" title="Bbox_3::ymax" alt="" coords="440,2905,547,2931"/>
+<area shape="rect" id="node38" href="$classBbox__3.html#a41b9cd5fdd3b032a47933064671e2401" title="Bbox_3::ymin" alt="" coords="442,2955,545,2982"/>
+<area shape="rect" id="node39" href="$classBbox__3.html#ab48a8c3691b28f2272debfa64008752a" title="Bbox_3::zmax" alt="" coords="440,3006,547,3033"/>
+<area shape="rect" id="node40" href="$classBbox__3.html#a8bd486c9bd1bbf0e380701b3e90a6e17" title="Bbox_3::zmin" alt="" coords="442,3057,545,3083"/>
+<area shape="rect" id="node3" href="$classIn__place__list.html#a2463ca58e9d7cd0722ec9d9e95eed26d" title="In_place_list::begin" alt="" coords="667,663,802,690"/>
+<area shape="rect" id="node4" href="$classIn__place__list.html#a58be3eb329d157de9efdf27078324fc8" title="In_place_list::empty" alt="" coords="665,197,804,223"/>
+<area shape="rect" id="node5" href="$classIn__place__list.html#ab2dfc965dc9ca57af8a6f71924bc8ee8" title="In_place_list::end" alt="" coords="673,461,797,487"/>
+<area shape="rect" id="node6" href="$classHDS__accessor.html#a178ecb0501ecef295916a264a5b535ea" title="HDS_accessor::get_inode" alt="" coords="647,739,822,766"/>
+<area shape="rect" id="node7" href="$classHDS__accessor.html#a146bb3a0c25ce0e24b8ae79b1c7bbd26" title="HDS_accessor::get_inode_list" alt="" coords="635,109,834,135"/>
+<area shape="rect" id="node8" href="$classHEdge.html#aec510b3f7d79f31cdd0f8d5baaf9a446" title="HEdge::next_g" alt="" coords="680,1414,789,1441"/>
+<area shape="rect" id="node9" href="$classHEdge.html#ac4e3a22186171112305d6c58d00ec48b" title="HEdge::opposite_g" alt="" coords="668,1621,801,1647"/>
+<area shape="rect" id="node10" href="$classHEdge.html#aa6ddcf44d16ec8e06d5b3a6aa54cbab6" title="HEdge::origin_g" alt="" coords="677,1077,792,1103"/>
+<area shape="rect" id="node11" href="$classRFC__Window__derived.html#a07d6dba10adf3e6fa26f573aac589602" title="Get a vector of local panes contained in the window. " alt="" coords="417,943,570,984"/>
+<area shape="rect" id="node12" href="$classINode.html#a1c77092ecf43e5518d0549608b51ebeb" title="INode::parent_type" alt="" coords="668,29,801,55"/>
+<area shape="rect" id="node13" href="$classOverlay.html#a3fb9c07befb11760bebb3abf991eb238" title="Helper for associate_green_vertices(). " alt="" coords="408,116,579,157"/>
+<area shape="rect" id="node14" href="$classIn__place__list.html#a5ed6793803b6087a9808b1125249d1a3" title="In_place_list::rbegin" alt="" coords="424,334,563,361"/>
+<area shape="rect" id="node15" href="$classIn__place__list.html#a71236e34d630aa8585bb153ad44b1119" title="In_place_list::rend" alt="" coords="429,638,557,665"/>
+<area shape="rect" id="node17" href="$classRFC__Pane__overlay.html#a9fb790370f8890f6ba73602361fedaf1" title="RFC_Pane_overlay::create\l_overlay_data" alt="" coords="403,2737,583,2779"/>
+<area shape="rect" id="node19" href="$classRFC__Pane__overlay.html#a3f4e2ad722a18fe86b43a970671efe9c" title="RFC_Pane_overlay::delete\l_overlay_data" alt="" coords="404,2169,583,2211"/>
+<area shape="rect" id="node21" href="$classRFC__Pane__base.html#aeb9ed34abf648b5c882d3eccf68c4740" title="Is this pane a master copy? " alt="" coords="400,1987,587,2014"/>
+<area shape="rect" id="node22" href="$classRFC__Window__derived.html#a94c5b58f7a61da0a98f2dc1d5e6c5764" title="Get a reference to the pane with give id pid. " alt="" coords="413,2038,573,2094"/>
+<area shape="rect" id="node20" href="$rfc__basic_8h.html#a795ce3604512c9a6faeb5ee7129703a1" title="free_vector" alt="" coords="691,2177,778,2203"/>
+<area shape="rect" id="node24" href="$classHDS__accessor.html#aa2a7eeb8af4277659cccda4db911e728" title="HDS_accessor::get_next\l_around_origin" alt="" coords="409,1668,578,1709"/>
+<area shape="rect" id="node25" href="$Manifold__2_8h.html#ab7fe7c92789b1a3b0ba18f2ae189af40" title="Get the tangent of the given halfedge. " alt="" coords="448,2585,539,2611"/>
+<area shape="rect" id="node27" href="$classHEdge.html#a4f71a79a914824210145754d83b9f640" title="Obtain the ID of the edge. " alt="" coords="453,2337,533,2363"/>
+<area shape="rect" id="node28" href="$classRFC__Pane__base.html#ab2cde20c26603b34272c9f998de08fdc" title="RFC_Pane_base::id" alt="" coords="423,1617,563,1643"/>
+<area shape="rect" id="node29" href="$classRFC__Pane__overlay.html#a6f6fb582947cbaa8c9da14dfa6e5b0d7" title="RFC_Pane_overlay::init\l_angle_defect" alt="" coords="413,2388,574,2429"/>
+<area shape="rect" id="node30" href="$classRFC__Pane__overlay.html#a6fb077a07b9042e664f40bd1e3b99ddb" title="RFC_Pane_overlay::init\l_edge_angle" alt="" coords="413,2453,574,2495"/>
+<area shape="rect" id="node31" href="$classRFC__Pane__overlay.html#a15e1d3db27c1074e4b0cc5e6493d2d0b" title="RFC_Pane_overlay::init\l_face_angle" alt="" coords="413,2519,574,2560"/>
+<area shape="rect" id="node32" href="$classHEdge.html#af92013f922205b6206cd55bb4c803d05" title="Is the edge a border edge? " alt="" coords="427,1937,560,1963"/>
+</map>

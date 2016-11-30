@@ -1,0 +1,10 @@
+<map id="Pane_communicator::reduce_average_on_shared_nodes" name="Pane_communicator::reduce_average_on_shared_nodes">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="496,5,616,32"/>
+<area shape="rect" id="node4" href="$classPane__communicator.html#a292023010b824818aa19da1418c2a14e" title="Obtain the process rank of a given pane. " alt="" coords="288,119,437,161"/>
+<area shape="rect" id="node5" href="$classPane__communicator.html#a15540b5a0013c06fb37d34746d12a3d5" title="Perform a reduction operation using locally cached values of the shared nodes, assuming begin_update_..." alt="" coords="277,54,448,95"/>
+<area shape="rect" id="node3" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="664,5,747,32"/>
+<area shape="rect" id="node6" href="$Pane__communicator_8C.html#af6611d12c8cae97823c7366929385918" title="Local level implementation of reduce operations. " alt="" coords="515,60,597,87"/>
+<area shape="rect" id="node9" href="$Pane__communicator_8C.html#aed0b0238d1296f65b4684c099aebb962" title="Local level implementation of reduce operations. " alt="" coords="511,111,601,137"/>
+<area shape="rect" id="node7" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="682,111,729,137"/>
+<area shape="rect" id="node8" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="684,60,727,87"/>
+</map>

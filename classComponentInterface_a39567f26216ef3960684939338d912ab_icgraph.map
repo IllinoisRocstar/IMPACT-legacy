@@ -1,0 +1,12 @@
+<map id="ComponentInterface::dataitems" name="ComponentInterface::dataitems">
+<area shape="rect" id="node2" href="$classRocblas.html#a436204ce6e5fcd50b193210ed7fe9d06" title="Wrapper for copy. " alt="" coords="196,56,303,83"/>
+<area shape="rect" id="node10" href="$classRocblas.html#a17eba532cb086a5532c41003e588762b" title="Generate a random number between 0 and $a$ for each entry in z. " alt="" coords="198,107,301,133"/>
+<area shape="rect" id="node11" href="$classRocblas.html#a66e2bd920cc7d313809d203c813b9d7b" title="Wrapper for swap. " alt="" coords="195,157,304,184"/>
+<area shape="rect" id="node3" href="$classRocblas.html#a0e325b7a81e569fbf806b1206c68b748" title="Creates window for Rocblas and registers functions. " alt="" coords="353,107,447,133"/>
+<area shape="rect" id="node4" href="$Rocblas_8C.html#a4174da4e11016426d7a8fcfb2d06a21a" title="Calls Rocblas initialization function. " alt="" coords="518,5,661,32"/>
+<area shape="rect" id="node6" href="$Rocblas_8C.html#a742d8336cb08143ebc760dcee2465b0b" title="simpal_load_module" alt="" coords="519,56,659,83"/>
+<area shape="rect" id="node7" href="$Rocblas_8C.html#a08594ea5f4bea96fc02c6d2a3051378b" title="simpal_load_module_" alt="" coords="516,107,663,133"/>
+<area shape="rect" id="node8" href="$Rocblas_8C.html#af2071bfd2f117c3d3201c7c298cb1936" title="SIMPAL_LOAD_MODULE" alt="" coords="500,157,679,184"/>
+<area shape="rect" id="node9" href="$Rocblas_8C.html#a7762ca27293f49955b01e36d3c7e4e7e" title="SIMPAL_LOAD_MODULE_" alt="" coords="497,208,682,235"/>
+<area shape="rect" id="node5" href="$blastest_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="731,5,781,32"/>
+</map>

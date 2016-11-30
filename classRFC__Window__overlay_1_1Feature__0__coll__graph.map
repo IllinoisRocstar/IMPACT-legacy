@@ -1,0 +1,21 @@
+<map id="RFC_Window_overlay::Feature_0" name="RFC_Window_overlay::Feature_0">
+<area shape="rect" id="node2" href="$classNode.html" title="This class encapsulate a node over a window manifold. " alt="" coords="1847,1615,1900,1641"/>
+<area shape="rect" id="node3" href="$classRFC__Pane__overlay.html" title="RFC_Pane_overlay" alt="" coords="1564,727,1700,753"/>
+<area shape="rect" id="node33" href="$classHEdge.html" title="This class encapsulate a halfedge over a window manifold. " alt="" coords="1842,727,1905,753"/>
+<area shape="rect" id="node4" href="$classRFC__Pane__base.html" title="The base implementation of RFC_Pane. " alt="" coords="1236,1023,1359,1049"/>
+<area shape="rect" id="node6" href="$structNode__ID.html" title="A global ID of a node. " alt="" coords="63,1269,137,1296"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="42,784,158,811"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="489,1496,612,1523"/>
+<area shape="rect" id="node11" href="$structFace__ID.html" title="A global ID of a face. " alt="" coords="64,1985,136,2012"/>
+<area shape="rect" id="node41" href="$classSimple__manifold__2.html" title="Provides a data structure accessing nodes, elements, and edges in a pane, in a manner similar to the ..." alt="" coords="874,489,1006,516"/>
+<area shape="rect" id="node40" href="$classPane__manifold__2.html" title="This class implements a data structure for 2&#45;manifold on each pane. " alt="" coords="2277,291,2400,317"/>
+<area shape="rect" id="node22" href="$classINode.html" title="INode" alt="" coords="71,357,129,384"/>
+<area shape="rect" id="node25" href="$classRFC__Window__overlay.html" title="A window is a collection of panes. " alt="" coords="1221,1715,1374,1741"/>
+<area shape="rect" id="node26" href="$classRFC__Window__derived.html" title="RFC_Window_derived\l\&lt; RFC_Pane_overlay \&gt;" alt="" coords="860,1649,1020,1690"/>
+<area shape="rect" id="node31" title="STL class. " alt="" coords="900,1597,980,1624"/>
+<area shape="rect" id="node36" href="$classIn__place__list.html" title="In_place_list\&lt; T, managed \&gt;" alt="" coords="6,2064,194,2091"/>
+<area shape="rect" id="node39" href="$classVector__3.html" title="Some basic geometric data types. " alt="" coords="37,51,163,77"/>
+<area shape="rect" id="node50" href="$classVector__3.html" title="Vector_3\&lt; Real \&gt;" alt="" coords="488,5,613,32"/>
+<area shape="rect" id="node44" href="$classHalfedge.html" title="This class encapsulate a halfedge over a window manifold. " alt="" coords="2561,239,2636,265"/>
+<area shape="rect" id="node46" href="$classWindow__manifold__2.html" title="This class implements a data structure for 2&#45;manifold over a whole window, which can be composed of m..." alt="" coords="2808,1916,2947,1943"/>
+</map>

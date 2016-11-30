@@ -1,0 +1,12 @@
+<map id="COM::ParallelTestingObject::Test__ModuleGetSetCommunicator" name="COM::ParallelTestingObject::Test__ModuleGetSetCommunicator">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="333,21,467,48"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="312,72,488,99"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="313,123,487,149"/>
+<area shape="rect" id="node10" href="$com__c_09_09_8hpp.html#af747aaa399bb2b11240e4a5631e1be93" title="COM_set_default_communicator" alt="" coords="293,184,507,211"/>
+<area shape="rect" id="node4" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="578,72,689,99"/>
+<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="557,6,710,47"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="765,135,950,161"/>
+<area shape="rect" id="node7" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="761,13,954,40"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#acadfe481b44157fba5ec3492214ea9b1" title="COM::COM_base::get\l_window_handle" alt="" coords="557,123,710,165"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#af83fb0e93e853820d22393283c22d034" title="Set the default communicator of COM. " alt="" coords="555,189,712,230"/>
+</map>

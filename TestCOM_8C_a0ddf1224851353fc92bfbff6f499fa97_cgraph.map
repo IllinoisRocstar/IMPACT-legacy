@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$namespaceCOM.html#a071a4ed0afce0146c60c14de880f8c0e" title="Drives the COM::TestObject for the COM tests. " alt="" coords="105,449,191,476"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#ab1d1395d3d329bd968a9e806ea1605f1" title="COM_initialized" alt="" coords="280,24,395,51"/>
+<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#ac0f80d6e63759a2afe40ed883cea3d5e" title="COM_init" alt="" coords="299,93,376,120"/>
+<area shape="rect" id="node9" href="$classCOM_1_1TestComLine.html#ae98baa931d93c3aecea0db2d3de59203" title="virtual function for program specific Initialization. " alt="" coords="240,180,435,207"/>
+<area shape="rect" id="node12" href="$classIRAD_1_1Util_1_1ComLineObject.html#a795c851f2358e6e652e547c1a61c1098" title="Processes all command line tokens. " alt="" coords="247,303,428,345"/>
+<area shape="rect" id="node15" href="$classIRAD_1_1Util_1_1ComLineObject.html#a8ca7d7320345bfb666fa5a27447e937b" title="Get the value of an option. " alt="" coords="493,369,675,410"/>
+<area shape="rect" id="node16" href="$classIRAD_1_1Util_1_1ComLineObject.html#a45e40a32eb69b7e0855d014594b82cef" title="Generate long usage string. " alt="" coords="247,471,428,513"/>
+<area shape="rect" id="node19" href="$classIRAD_1_1Util_1_1ComLineObject.html#a51e0c021a3c95127e34f034beda9aace" title="Error reporting. " alt="" coords="247,537,428,578"/>
+<area shape="rect" id="node17" href="$classIRAD_1_1Util_1_1ComLineObject.html#a067e343f0778eedfa6862306d7fb7ed3" title="Generate short usage string. " alt="" coords="493,434,675,475"/>
+<area shape="rect" id="node21" href="$classIRAD_1_1Util_1_1TestResults.html#a6e5f14b113bac1c4714b8827a8feb411" title="Updates an existing test result. " alt="" coords="256,602,419,643"/>
+<area shape="rect" id="node22" href="$classCOM_1_1TestingObject.html#a102d13152c0a803003158db518f90dde" title="Runs a test specified by name. " alt="" coords="266,813,409,854"/>
+<area shape="rect" id="node47" href="$classCOM_1_1TestingObject.html#adc0220ab9f8f32b94ec41af81b8e1b57" title="Runs all tests implemented by the COM::TestingObject. " alt="" coords="266,747,409,789"/>
+<area shape="rect" id="node49" href="$com__c_09_09_8hpp.html#a47ed797bddcdd0aabcd9f8e47f326744" title="COM_finalize" alt="" coords="287,1009,388,1036"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#a07d775bafee93322aa71b117fb776921" title="Checks whether COM has been initialized. " alt="" coords="489,5,679,32"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="741,5,926,32"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a1d2b2dabf7654280cbba19673d22230e" title="COM::COM_base::init" alt="" coords="508,56,660,83"/>
+<area shape="rect" id="node8" href="$com__exception_8C.html#a968f8230d3a737acba9bc9b878b0f57d" title="Print the stack backtrace. " alt="" coords="763,56,903,83"/>
+<area shape="rect" id="node10" href="$classIRAD_1_1Util_1_1ComLineObject.html#aee4b6c546b777229f753589fb779f0f8" title="User interface to describe simple option. " alt="" coords="493,107,675,149"/>
+<area shape="rect" id="node11" href="$classIRAD_1_1Util_1_1ComLineObject.html#ad987c9b1342f1b89e35065b4dde20340" title="Specify usage for an option. " alt="" coords="493,173,675,214"/>
+<area shape="rect" id="node13" href="$classIRAD_1_1Util_1_1ComLineObject.html#a05eb03d8153fa8d2c5d151c38297d0d5" title="Obtain the short one char option from the long word version. " alt="" coords="493,238,675,279"/>
+<area shape="rect" id="node14" href="$classIRAD_1_1Util_1_1ComLineObject.html#a5676370279a0bfe35fd7c599d74ac20f" title="Obtain the long word option from the short char version. " alt="" coords="493,303,675,345"/>
+<area shape="rect" id="node18" href="$classIRAD_1_1Util_1_1ComLineObject.html#a2e76a2a193b8b2c2170755e5282a1791" title="Obtains option strings by type. " alt="" coords="743,398,924,439"/>
+<area shape="rect" id="node20" href="$namespaceIRAD_1_1Util.html#a4ea296883ee0ef3abec17b7cd6730411" title="Dump container contents. " alt="" coords="495,500,673,527"/>
+<area shape="rect" id="node23" href="$classCOM_1_1TestingObject.html#afcaa8cb4c18f7e73b70c1d5ee7668244" title="Sets up the data fixtures for the tests. " alt="" coords="513,1009,655,1050"/>
+<area shape="rect" id="node24" href="$classCOM_1_1TestingObject.html#abb2cef5118ea30e67aaf03ecd1db8ef9" title="Module management tests. " alt="" coords="493,617,675,658"/>
+<area shape="rect" id="node28" href="$classCOM_1_1TestingObject.html#a88f4ef8961ffea25ddc88a07c6d7d06c" title="Test for Module function registration and access. " alt="" coords="490,551,678,593"/>
+<area shape="rect" id="node30" href="$classCOM_1_1TestingObject.html#a9bef407c06e77e108dc3e96af3680bff" title="Test for COM_get_modules. " alt="" coords="513,943,655,985"/>
+<area shape="rect" id="node33" href="$classCOM_1_1TestingObject.html#a48d2fdca4b3275849c92e94b305bc8b9" title="COM::TestingObject\l::Test__LoadUnloadMemTest" alt="" coords="487,1074,681,1115"/>
+<area shape="rect" id="node34" href="$classCOM_1_1TestingObject.html#a358a9ca0a519dab9cb451fd0fbd72dc4" title="COM::TestingObject\l::Test__LinearDataTransfer" alt="" coords="493,878,675,919"/>
+<area shape="rect" id="node44" href="$classCOM_1_1TestingObject.html#a48999c6e51334b89e895938db709c1ed" title="COM::TestingObject\l::Test__QuadraticDataTransfer" alt="" coords="483,813,685,854"/>
+<area shape="rect" id="node46" href="$classCOM_1_1TestingObject.html#a3e49d863102f8cc2bc8fd0b83e067904" title="Tears down the testing fixtures if needed. " alt="" coords="513,747,655,789"/>
+<area shape="rect" id="node25" href="$com__c_09_09_8hpp.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="746,515,921,541"/>
+<area shape="rect" id="node26" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="745,565,921,592"/>
+<area shape="rect" id="node27" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="767,616,900,643"/>
+<area shape="rect" id="node29" href="$namespaceIRAD_1_1Util.html#a65cbd45eeee3c4cf013c55cf90f23f09" title="Creates space delimited tokens in place. " alt="" coords="775,464,892,491"/>
+<area shape="rect" id="node31" href="$com__c_09_09_8hpp.html#a4228ef8c7e44eed5326353782d8a77d2" title="COM_get_modules" alt="" coords="766,1307,901,1333"/>
+<area shape="rect" id="node32" href="$com__c_09_09_8hpp.html#a7c6d304cab01f422df432933a5a42af8" title="COM_get_windows" alt="" coords="765,1357,901,1384"/>
+<area shape="rect" id="node35" href="$classCOM_1_1TransferSolver.html#ab40764e5c243885fdd18f5c18edd7ec4" title="COM::TransferSolver\l::Setup" alt="" coords="760,979,907,1021"/>
+<area shape="rect" id="node36" href="$classSolverUtils_1_1TransferObject.html#a00e9d30ddccacb07650a5b8e42f9a737" title="SolverUtils::TransferObject\l::Overlay" alt="" coords="743,1045,923,1086"/>
+<area shape="rect" id="node37" href="$com__c_8h.html#a6dd240c15a2b3e85d2d91cbe9eec6611" title="Get the address for an dataitem on a specific pane. " alt="" coords="776,667,891,693"/>
+<area shape="rect" id="node38" href="$classCOM_1_1TestingObject.html#a34314f7e70429859bb053f28e149cd20" title="COM::TestingObject\l::ResetSolution" alt="" coords="762,849,905,890"/>
+<area shape="rect" id="node39" href="$classCOM_1_1TransferSolver.html#aaddc068a69f8265dd8e150b95ca46ac5" title="COM::TransferSolver\l::NodeCoordinates2" alt="" coords="760,1110,907,1151"/>
+<area shape="rect" id="node40" href="$classCOM_1_1TransferSolver.html#aeef561b916bf2d4ab3fdb5e1121c4a75" title="COM::TransferSolver\l::NodeCoordinates1" alt="" coords="760,783,907,825"/>
+<area shape="rect" id="node41" href="$classSolverUtils_1_1TransferObject.html#a99876ab25e198a7ab09438d67afdba60" title="SolverUtils::TransferObject\l::Transfer" alt="" coords="743,914,923,955"/>
+<area shape="rect" id="node42" href="$classCOM_1_1TestingObject.html#af91f6f6724dcaacda42de6ad80b8792c" title="COM::TestingObject\l::TwoSolutionsMatch" alt="" coords="761,1241,906,1282"/>
+<area shape="rect" id="node43" href="$classCOM_1_1TestingObject.html#a57b40f0f97c6495f2af5b2bdd379e50f" title="COM::TestingObject\l::CompareSolutionsWithDetail" alt="" coords="734,1175,933,1217"/>
+<area shape="rect" id="node45" href="$classCOM_1_1TestingObject.html#a59147e741ff69aa8de00c0e022ddd08f" title="COM::TestingObject\l::GetErrors" alt="" coords="762,718,905,759"/>
+<area shape="rect" id="node48" href="$classCOM_1_1TestingObject.html#ad7641daebe39bb1847bb9cc1de539b26" title="Test for COM_LOAD_MODULE_STATIC_DYNAMIC and COM_UNLOAD_MODULE_STATIC_DYNAMIC. " alt="" coords="485,682,683,723"/>
+<area shape="rect" id="node50" href="$classCOM_1_1COM__base.html#a7cad9c24d2d8c23ab9000c16da1526a4" title="COM::COM_base::finalize" alt="" coords="496,1140,672,1167"/>
+</map>

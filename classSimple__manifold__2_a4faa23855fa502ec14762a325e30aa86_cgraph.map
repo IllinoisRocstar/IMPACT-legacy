@@ -1,0 +1,10 @@
+<map id="Simple_manifold_2::get_destination" name="Simple_manifold_2::get_destination">
+<area shape="rect" id="node2" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="603,152,704,179"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#a87f547233b2a97b9d3289655a5f7c1ef" title="Get the opposite edge of a border edge for the ghost pane. " alt="" coords="195,170,365,226"/>
+<area shape="rect" id="node8" href="$classSimple__manifold__2.html#a5b7f159fcd3c94b528625ae993f909e9" title="Get the opposite edge of a border edge for the real pane. " alt="" coords="201,86,359,142"/>
+<area shape="rect" id="node4" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="415,270,553,296"/>
+<area shape="rect" id="node9" href="$classSimple__manifold__2.html#a366fc28946bdaacef84f47e8f30f3ce6" title="Determine whether a given edge is a border edge of real part of the pane (either on physical border o..." alt="" coords="210,301,350,342"/>
+<area shape="rect" id="node5" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="605,270,702,296"/>
+<area shape="rect" id="node6" href="$classSimple__manifold__2.html#aea2c9e848508bbb89a130de20d360014" title="Is the element incident on the give edge a real element? " alt="" coords="414,86,554,128"/>
+<area shape="rect" id="node7" href="$classSimple__manifold__2.html#ad0308ff63a62c37f101527c4acbc4f30" title="Get an index for internal edges. " alt="" coords="414,204,554,245"/>
+</map>

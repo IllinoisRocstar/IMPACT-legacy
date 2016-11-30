@@ -1,0 +1,17 @@
+<map id="CopyBflagFromBurn" name="CopyBflagFromBurn">
+<area shape="rect" id="node2" href="$classAction.html" title="Action" alt="" coords="736,212,795,239"/>
+<area shape="rect" id="node16" href="$structScheduler_1_1ActionItem.html" title="Scheduler::ActionItem" alt="" coords="953,399,1103,425"/>
+<area shape="rect" id="node21" href="$classPhysicsAction.html" title="PhysicsAction" alt="" coords="2793,415,2900,441"/>
+<area shape="rect" id="node23" href="$classInterpolateBase.html" title="InterpolateBase" alt="" coords="2790,68,2903,95"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="153,512,269,539"/>
+<area shape="rect" id="node6" href="$classBurnAgent.html" title="BurnAgent" alt="" coords="2805,504,2888,531"/>
+<area shape="rect" id="node7" href="$classAgent.html" title="Agent" alt="" coords="2608,483,2664,509"/>
+<area shape="rect" id="node26" href="$classDataItemBase.html" title="DataItemBase" alt="" coords="2793,775,2900,801"/>
+<area shape="rect" id="node9" href="$classCoupling.html" title="Coupling" alt="" coords="2345,767,2418,793"/>
+<area shape="rect" id="node10" href="$classControl__parameters.html" title="Control_parameters" alt="" coords="1800,703,1936,729"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="1328,664,1408,691"/>
+<area shape="rect" id="node14" href="$classScheduler.html" title="Scheduler" alt="" coords="1652,451,1732,477"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="965,657,1091,698"/>
+<area shape="rect" id="node13" href="$classUserScheduler.html" title="UserScheduler" alt="" coords="1999,371,2107,397"/>
+<area shape="rect" id="node19" href="$classRocmanControl__parameters.html" title="RocmanControl_parameters" alt="" coords="1961,777,2146,804"/>
+</map>

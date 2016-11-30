@@ -1,0 +1,7 @@
+<map id="Simple_manifold_2::is_border_edge" name="Simple_manifold_2::is_border_edge">
+<area shape="rect" id="node2" href="$classSimple__manifold__2.html#ab4a0e43dcf45a3047b2034df29662101" title="Determine an incident halfedge for each node. " alt="" coords="195,5,389,46"/>
+<area shape="rect" id="node5" href="$classSimple__manifold__2.html#a1e43d5a16c915ca112f8ace270531571" title="Is the node on pane boundary (not isolated)? " alt="" coords="222,70,362,111"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#ad647c35abb6220310bf811329c69c453" title="Initialize the database for the pane, including ghost information, opposite halfedges, incident halfedges, and border halfedges. " alt="" coords="437,12,595,39"/>
+<area shape="rect" id="node4" href="$classSimple__manifold__2.html#a01448d24de8701479e1a9bc59b694599" title="Constructors. " alt="" coords="643,5,783,46"/>
+<area shape="rect" id="node6" href="$classSimple__manifold__2.html#aa9f97ee29eae78cfc81c07ffddfd5f55" title="Obtain all the border nodes, isolated nodes, and border edges. " alt="" coords="446,70,586,111"/>
+</map>

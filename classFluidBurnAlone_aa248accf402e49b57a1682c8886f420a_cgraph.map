@@ -1,0 +1,19 @@
+<map id="FluidBurnAlone::FluidBurnAlone" name="FluidBurnAlone::FluidBurnAlone">
+<area shape="rect" id="node2" href="$classUserScheduler.html#a213653f4b77efa24418d34ecb9a945ab" title="UserScheduler::add\l_action" alt="" coords="435,136,573,177"/>
+<area shape="rect" id="node8" href="$classCoupling.html#ac390eda8ce56eda69bd1cc4bdbedfe6e" title="Add new agent. " alt="" coords="236,42,377,68"/>
+<area shape="rect" id="node9" href="$classAgent.html#a7f0b51f2b394e54d4d4e28be92317ede" title="Agent::add_bcaction" alt="" coords="236,244,377,271"/>
+<area shape="rect" id="node11" href="$classAgent.html#a537690d582defd6023bc34cf9dfd88fc" title="Agent::add_bcinitaction" alt="" coords="227,92,386,119"/>
+<area shape="rect" id="node12" href="$classAgent.html#ac47e8e6c68d7953c017d7ef31212d376" title="Agent::add_gmaction" alt="" coords="234,143,379,170"/>
+<area shape="rect" id="node13" href="$classAgent.html#a4ba65daa41eb3f33c59479d1f82942fc" title="Agent::add_icaction" alt="" coords="238,194,375,220"/>
+<area shape="rect" id="node14" href="$classCoupling.html#a992cf9682eb483bdcb90bcfb924cea5c" title="Coupling::get_control\l_param" alt="" coords="234,296,379,337"/>
+<area shape="rect" id="node15" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="238,362,375,388"/>
+<area shape="rect" id="node16" href="$classAgent.html#a302998aef1111f43689fa68821d4336e" title="Agent::get_main_action" alt="" coords="227,412,386,439"/>
+<area shape="rect" id="node17" href="$classAgent.html#acb47d78e6a90b24e89ba060b7bae4b54" title="Agent::get_surface\l_window" alt="" coords="241,464,373,505"/>
+<area shape="rect" id="node18" href="$classCoupling.html#a536a9d73326d0567f8231db930b46582" title="Coupling::initial_start" alt="" coords="235,530,379,556"/>
+<area shape="rect" id="node3" href="$classScheduler.html#a837a541840534217eec9b8ba2b94c998" title="Scheduler::add_action" alt="" coords="622,143,773,170"/>
+<area shape="rect" id="node4" href="$classAction.html#a0506a2ea781effba697880892e3891b4" title="Action::declare" alt="" coords="821,143,931,170"/>
+<area shape="rect" id="node5" href="$classScheduler.html#a9d6c8f5cc804a8988cbc8cfa62fad4bf" title="Scheduler::reads" alt="" coords="980,143,1100,170"/>
+<area shape="rect" id="node7" href="$classScheduler.html#a3fa21b4542306e38bcc47f9951375b5e" title="Scheduler::writes" alt="" coords="979,194,1101,220"/>
+<area shape="rect" id="node6" href="$classAction.html#ab2b103593cc3cc75d0ef85c8b2c1f817" title="Action::name" alt="" coords="1149,194,1248,220"/>
+<area shape="rect" id="node10" href="$classScheduler.html#abcfee2ef50358bee46ea04cf6bdf8ded" title="Scheduler::set_name" alt="" coords="625,244,770,271"/>
+</map>

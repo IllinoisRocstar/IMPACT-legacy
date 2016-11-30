@@ -1,0 +1,51 @@
+<map id="Pane::ignore_ghost" name="Pane::ignore_ghost">
+<area shape="rect" id="node2" href="$classDataItem.html#aebddf705fb212bfd2dcf53827bb1bc25" title="Obtain the maximum allowed number of items in the dataitem. " alt="" coords="197,195,347,237"/>
+<area shape="rect" id="node3" href="$classDataItem.html#a36e0b405cbce019bab7d98c5c743aff3" title="Obtain the maximum allowed number of items in the dataitem. " alt="" coords="197,285,347,326"/>
+<area shape="rect" id="node4" href="$classConnectivity.html#ab477915e1141220f8607ce8922e20ae9" title="Get the total number of elements (including ghost elements) in the table. " alt="" coords="413,302,539,343"/>
+<area shape="rect" id="node35" href="$classDataItem.html#a0d4e1bff89c1cec29cc1eb5758759a53" title="Obtain the number of ghost items in the dataitem. " alt="" coords="189,426,355,467"/>
+<area shape="rect" id="node38" href="$classDataItem.html#a08f48c8f21e708d438f3a1b6f0ffd8b0" title="Obtain the number of items in the dataitem. " alt="" coords="189,585,355,612"/>
+<area shape="rect" id="node50" href="$classConnectivity.html#a7663d9741c5046c076b64b4a63cf3e6d" title="Get the total number of nodes (including ghost nodes) of the owner pane. " alt="" coords="209,637,335,678"/>
+<area shape="rect" id="node5" href="$classPane.html#a9535b6c930d91b7ad225da2c2415a83f" title="Obtain the connectivity table containing the element with the given ID. " alt="" coords="625,292,756,319"/>
+<area shape="rect" id="node33" href="$classElement__node__enumerator.html#a86f5c7705e62a398685a3abc4d211923" title="Constructor for an element in a structured or an unstructured mesh. " alt="" coords="598,226,783,267"/>
+<area shape="rect" id="node14" href="$classElement__node__enumerator.html#aee7e8eecded55311aa51b51093dcb10f" title="Go to the next element within the connectivity tables of a pane. " alt="" coords="833,846,1010,887"/>
+<area shape="rect" id="node29" href="$classElement__node__enumerator__uns.html#af11ca7d05b1fd0ee5d5c84b2d7ced8ec" title="Element_node_enumerator\l_uns::next" alt="" coords="833,37,1010,78"/>
+<area shape="rect" id="node34" href="$classPane.html#ab89c7c053d6e59eb9fd3a69bc28623e2" title="Update offsets and sizes of connectivity of an unstructured mesh. " alt="" coords="602,393,779,420"/>
+<area shape="rect" id="node6" href="$classPane.html#a5bb29d375d64fdd75063497c6b782efe" title="Pane::connectivity" alt="" coords="856,233,987,260"/>
+<area shape="rect" id="node7" href="$classComponentInterface.html#add4dce2ee2cc1a64b3a5d74de3033d90" title="Copy an dataitem on a specific pane into a given array. " alt="" coords="851,285,991,326"/>
+<area shape="rect" id="node8" href="$classComponentInterface.html#a6f4ed365eadea8894113615065623ab2" title="Get the address associated with an dataitem for a specific pane. " alt="" coords="851,350,991,391"/>
+<area shape="rect" id="node10" href="$classComponentInterface.html#aec73ef511b9ac7c06f717ae8cfbb86f7" title="Get the parent name of an dataitem and load into name. " alt="" coords="851,415,991,457"/>
+<area shape="rect" id="node11" href="$classComponentInterface.html#a03a38da9f73af63cf05c890a2c3e39c3" title="Get the sizes of an dataitem for a specific pane. " alt="" coords="851,481,991,522"/>
+<area shape="rect" id="node13" href="$classComponentInterface.html#a4efd4a189bf2d7ce85cab2e8d3d731de" title="Get the status of an dataitem or pane. " alt="" coords="851,102,991,143"/>
+<area shape="rect" id="node32" href="$classComponentInterface.html#af76c06d8223cef9e93c79cc34190e19f" title="Set the sizes of an dataitem for a specific pane. " alt="" coords="851,167,991,209"/>
+<area shape="rect" id="node9" href="$ComponentInterface_8C.html#a271f0bc743521c6de8aaf7b120bc660d" title="get_array_common" alt="" coords="1103,357,1236,384"/>
+<area shape="rect" id="node12" href="$ComponentInterface_8C.html#a9789dd13ce75091fd8a24b88d973751c" title="get_size_common" alt="" coords="1105,448,1233,475"/>
+<area shape="rect" id="node15" href="$classRFC__Pane__base.html#a6c909c5de88320225577d436b31a119b" title="Compute the natural coordinates. " alt="" coords="1088,747,1251,789"/>
+<area shape="rect" id="node16" href="$classRocsurf.html#a43a793ae1d3903fcc5af65cb4a6694b9" title="Computes the volume bounded between two different locations of each face of the surface mesh of windo..." alt="" coords="1078,813,1261,854"/>
+<area shape="rect" id="node17" href="$classRocsurf.html#aaa5c77cef5d88304a4065c87cfc1167a" title="Computes the area of each face of the surface mesh of window areas&#45;&gt;window and saves the results in d..." alt="" coords="1080,878,1259,919"/>
+<area shape="rect" id="node18" href="$classRocsurf.html#ab4882edc82971adb06406bcc3e10cd73" title="Computes elemental normals of a given window. " alt="" coords="1080,943,1259,985"/>
+<area shape="rect" id="node19" href="$classWindow__manifold__2.html#ae05664428109c4f77419326f09d41335" title="Window_manifold_2::\lcompute_mcn" alt="" coords="1096,1009,1243,1050"/>
+<area shape="rect" id="node20" href="$classWindow__manifold__2.html#addbcbb990002a33c624f192557484aac" title="Obtain shortest edge length of incident edges of each element. " alt="" coords="1080,1075,1259,1131"/>
+<area shape="rect" id="node21" href="$classWindow__manifold__2.html#a6baebde0b11b6c524da190b5cf673010" title="Obtain shortest edge length of incident edges of each nodes. " alt="" coords="1059,1155,1279,1197"/>
+<area shape="rect" id="node22" href="$classRocsurf.html#a95b20617337bb0684ffc49502d88d128" title="Computes the signed volume of a body. " alt="" coords="1084,1221,1255,1262"/>
+<area shape="rect" id="node23" href="$classRocsurf.html#af6fe1ea3b45b9c65542dbe1d9239e3f0" title="Computes the swept volume by a given displacement of each face of the surface mesh of window volumes&#45;..." alt="" coords="1085,1286,1253,1327"/>
+<area shape="rect" id="node24" href="$classPane__boundary.html#a6a567707ee5a4668af1831d4bd7444a0" title="Determine the border nodes for a 3&#45;D mesh. " alt="" coords="1081,1351,1258,1393"/>
+<area shape="rect" id="node25" href="$classSimple__manifold__2.html#ab4a0e43dcf45a3047b2034df29662101" title="Determine an incident halfedge for each node. " alt="" coords="1072,499,1267,541"/>
+<area shape="rect" id="node26" href="$classSimple__manifold__2.html#ad08b42d3f07db76ededaa39f325aff72" title="Determine the opposite halfedges of each halfedge, and identify border halfedge. " alt="" coords="1070,565,1269,606"/>
+<area shape="rect" id="node27" href="$classWindow__manifold__2.html#a57c6b6067d689e3c67abadd9ee212d9f" title="Convert element values to nodal values using weighted averaging. " alt="" coords="1096,630,1243,671"/>
+<area shape="rect" id="node28" href="$classRocsurf.html#adaa7a2e8a5b441c3e737d00264944308" title="Integrate a function given by an elemental dataitem over surface z is an array of size equal to numbe..." alt="" coords="1106,696,1233,723"/>
+<area shape="rect" id="node30" href="$classPane__dual__connectivity.html#a33cf4bfe5fe8ffb4afd7ab8f697fb132" title="Construct dual connectivity for unstructured meshes. " alt="" coords="1071,5,1268,46"/>
+<area shape="rect" id="node31" href="$classPane__boundary.html#a350b139530532dd03024d964f428a731" title="Determine the isolated nodes (i.e. not belonging to any element) " alt="" coords="1081,70,1258,111"/>
+<area shape="rect" id="node36" href="$classConnectivity.html#aba890ebd1b204248e7accc220f6294cb" title="Get the number of ghost elements. " alt="" coords="407,367,545,409"/>
+<area shape="rect" id="node37" href="$Rocout__cgns_8C.html#a7990143fb4771045077db916f5cc0e4e" title="Write the data for the given dataitem to file. " alt="" coords="415,433,537,460"/>
+<area shape="rect" id="node39" href="$classComponentInterface.html#ab4152ccab0ba75e94f2c687ebeb2143b" title="Append the given array to the end of the dataitem on a specific pane, and reallocate memory for the d..." alt="" coords="406,789,546,830"/>
+<area shape="rect" id="node40" href="$classRocblas.html#a2294d90628328833a90f826adba3d8e1" title="Performs the operation: z = a*x + y. " alt="" coords="409,855,543,881"/>
+<area shape="rect" id="node41" href="$classRocblas.html#a126b57260e55d844b1b2f8e428578477" title="Performs the operation: z = x op y. " alt="" coords="425,905,527,932"/>
+<area shape="rect" id="node42" href="$classRocblas.html#a3557b2ba07d978348c7a8b7e86ec9b79" title="Performs the operation: z = &lt;x, y&gt; " alt="" coords="415,484,537,511"/>
+<area shape="rect" id="node43" href="$classRocblas.html#ad1934a397629b99f2d2e7cda5b2493ac" title="Performs the operation opp(x, y) " alt="" coords="414,535,538,561"/>
+<area shape="rect" id="node44" href="$classRocblas.html#af0bed2bd8070d015181ed8852df1e001" title="Rocblas::get_stride" alt="" coords="409,585,543,612"/>
+<area shape="rect" id="node45" href="$classPane.html#ae879efeb45997f5005c2927e1a11f95f" title="Inherit an dataitem from another pane onto the current pane: " alt="" coords="429,636,523,663"/>
+<area shape="rect" id="node47" href="$classPane.html#a765aecb9167da396507f79a3b3d5c392" title="Finalize the initialization of a pane. " alt="" coords="420,687,532,713"/>
+<area shape="rect" id="node48" href="$classPane.html#aaf93a477a77bee5dffd3325d622aeb7e" title="Pane::reinit_dataitem" alt="" coords="403,737,549,764"/>
+<area shape="rect" id="node46" href="$classComponentInterface.html#a6a04e50793be54ea2c1b33b407483fd9" title="Inherit the dataitems of another CI window with a different name. " alt="" coords="621,629,761,670"/>
+<area shape="rect" id="node49" href="$classComponentInterface.html#ab71f29b6c8b6bbf8e723f19ee345d6dd" title="Implementation for setting (op==OP_SET or OP_SET_CONST), allocating (op==OP_ALLOC), resizing (op==OP_RESIZE) and deallocating (op==OP_DEALLOC) an array for a specific dataitem. " alt="" coords="621,730,761,771"/>
+</map>

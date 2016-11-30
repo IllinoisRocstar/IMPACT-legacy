@@ -1,0 +1,10 @@
+<map id="UserScheduler::add_action" name="UserScheduler::add_action">
+<area shape="rect" id="node2" href="$classAgent.html#a7f0b51f2b394e54d4d4e28be92317ede" title="Agent::add_bcaction" alt="" coords="201,102,343,129"/>
+<area shape="rect" id="node7" href="$classAgent.html#a537690d582defd6023bc34cf9dfd88fc" title="Agent::add_bcinitaction" alt="" coords="193,254,351,281"/>
+<area shape="rect" id="node8" href="$classAgent.html#ac47e8e6c68d7953c017d7ef31212d376" title="Agent::add_gmaction" alt="" coords="199,51,345,78"/>
+<area shape="rect" id="node9" href="$classAgent.html#a4ba65daa41eb3f33c59479d1f82942fc" title="Agent::add_icaction" alt="" coords="203,153,341,179"/>
+<area shape="rect" id="node4" href="$classFluidAlone.html#a0f86d918b29ff2ac33c11ca48f6abecf" title="FluidAlone::FluidAlone" alt="" coords="621,31,773,58"/>
+<area shape="rect" id="node6" href="$classFluidBurnAlone.html#aa248accf402e49b57a1682c8886f420a" title="FluidBurnAlone::FluidBurn\lAlone" alt="" coords="400,135,573,176"/>
+<area shape="rect" id="node3" href="$builtin__couplings_8C.html#aae652ed0b25fcf6c8486f30999da49cf" title="declare_fluid_actions" alt="" coords="415,62,559,89"/>
+<area shape="rect" id="node5" href="$builtin__couplings_8C.html#a61cbf367c53ee680746cc1e9bceab86b" title="declare_solid_actions" alt="" coords="413,201,560,227"/>
+</map>

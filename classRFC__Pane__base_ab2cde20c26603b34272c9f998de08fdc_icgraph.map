@@ -1,0 +1,44 @@
+<map id="RFC_Pane_base::id" name="RFC_Pane_base::id">
+<area shape="rect" id="node2" href="$classOverlay.html#ae6dda48a0c80ba9ea6195ea66948ee54" title="Overlay::count_subnodes" alt="" coords="204,59,375,86"/>
+<area shape="rect" id="node5" href="$group__pifd.html#gacc6431518438cfdb0c5f73b2b02159d8" title="The main entry of feature detection. " alt="" coords="457,300,610,341"/>
+<area shape="rect" id="node6" href="$classRFC__Pane__overlay.html#a21750738025a0b7db7ed51755717ff70" title="RFC_Pane_overlay::determine\l_counterparts" alt="" coords="433,413,634,455"/>
+<area shape="rect" id="node7" href="$classRFC__Window__base.html#a0674616c94b7d6a7751fe92e2b30e25a" title="RFC_Window_base::export\l_window" alt="" coords="198,497,381,539"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__base.html#ad1147f298d10bda3579235a3ac715221" title="RFC_Pane_base::get\l_point" alt="" coords="215,563,363,604"/>
+<area shape="rect" id="node10" href="$classRFC__Window__derived.html#a53771582423ea97f305b40dcf736278a" title="Get a handle to the primary copy of a node contained in the pane p with local id vid. " alt="" coords="213,380,366,421"/>
+<area shape="rect" id="node11" href="$classTransfer__base.html#aec3f578adf100722450dedda8f11595f" title="Transfer_base::get\l_src_pane" alt="" coords="224,731,355,772"/>
+<area shape="rect" id="node27" href="$classTransfer__base.html#a25658beab0a244ce07a4afb8d7ac7aba" title="Transfer_base::get\l_trg_pane" alt="" coords="224,913,355,955"/>
+<area shape="rect" id="node18" href="$classTransfer__base.html#ada16ba740c1b6f39f10788081861c3b1" title="Initialize load vector and the diagonal of the mass matrix. " alt="" coords="468,777,599,819"/>
+<area shape="rect" id="node28" href="$classOverlay.html#ad62640b5cea6da6754b7232fd59486c3" title="Overlay::insert_node\l_in_blue_edge" alt="" coords="218,212,361,253"/>
+<area shape="rect" id="node17" href="$classTransfer__base.html#a489e626274d53f521639a127dc219043" title="Transfer_base::interpolate_fe" alt="" coords="438,639,629,666"/>
+<area shape="rect" id="node31" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="213,278,365,305"/>
+<area shape="rect" id="node30" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="444,161,623,187"/>
+<area shape="rect" id="node32" href="$classOverlay.html#ab59c337258025909c5231e6503e49975" title="Overlay::number_a_subnode" alt="" coords="195,110,383,137"/>
+<area shape="rect" id="node33" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="444,34,623,61"/>
+<area shape="rect" id="node34" href="$classHEdge.html#a52207ecd0122523cd1b5019e242219d8" title="Does the current halfedge has a smaller ID then the given one? " alt="" coords="227,979,352,1006"/>
+<area shape="rect" id="node35" href="$group__ntc.html#ga6a3ec3c05ce48113f35b47f2d1df076a" title="Dump out the 0&#45; and 1&#45;features in Tecplot format into files &lt;name&gt;f0.plt, &lt;name&gt;f1.plt, respectively. " alt="" coords="213,1031,366,1072"/>
+<area shape="rect" id="node36" href="$classRFC__Pane__base.html#a7bbaf48ac1f31aaaef84e1f3aa64ff4e" title="Read in using Rocin. " alt="" coords="212,1096,367,1137"/>
+<area shape="rect" id="node40" href="$classRFC__Pane__base.html#aaf3cff0660a06d4ff9723d6ae09f5afd" title="RFC_Pane_base::register\l_sdv_dataitems" alt="" coords="203,1161,376,1203"/>
+<area shape="rect" id="node41" href="$classRFC__Window__transfer.html#ae168f04eb3af5befe3059869a01c8deb" title="Replicate the given data from remote processes onto local process. " alt="" coords="212,848,367,889"/>
+<area shape="rect" id="node12" href="$classTransfer__base.html#ab77b91bbb58302edfa845ee39972a59e" title="template function for transfering from nodes/faces to faces. " alt="" coords="446,690,621,717"/>
+<area shape="rect" id="node3" href="$classOverlay.html#aaac0ba0230d11d6a468860c138022e01" title="Overlay::number_subnodes" alt="" coords="443,110,624,137"/>
+<area shape="rect" id="node4" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="715,161,832,187"/>
+<area shape="rect" id="node8" href="$classOverlay.html#ac0559875aeed30386fac267e24e0585f" title="Export the subdivisions to the two given windows. " alt="" coords="449,505,618,531"/>
+<area shape="rect" id="node13" href="$classTransfer__n2f.html#ab4fed63258d52fec765a3373db5d685b" title="The main entry to the data transfer algorithm. " alt="" coords="700,690,847,717"/>
+<area shape="rect" id="node15" href="$classTransfer__f2f.html#a94a4878daece5319d57834cff807566d" title="The main entry to the data transfer algorithm. " alt="" coords="701,625,845,651"/>
+<area shape="rect" id="node14" href="$classTransfer__traits_3_01Nodal__data__const_00_01Facial__data_00_01true_01_4.html#a8c5a9aa2c1d0c32ba80482fae4d87e53" title="Transfer_traits\&lt; Nodal\l_data_const, Facial_data,\l true \&gt;::transfer" alt="" coords="913,675,1085,731"/>
+<area shape="rect" id="node16" href="$classTransfer__traits_3_01Facial__data__const_00_01Facial__data_00_01true_01_4.html#a1449dcb8971ad1f98962f8ada66520ae" title="Transfer_traits\&lt; Facial\l_data_const, Facial_data,\l true \&gt;::transfer" alt="" coords="913,595,1085,651"/>
+<area shape="rect" id="node19" href="$classTransfer__base.html#ae66d6f5e5b452c86f35a34f1ab65b30a" title="template function for transfering from nodes/faces to nodes. " alt="" coords="684,887,863,914"/>
+<area shape="rect" id="node24" href="$classTransfer__base.html#a872923d7efb2846e8faffa4007bba0fd" title="Computes the load vector. " alt="" coords="683,810,864,837"/>
+<area shape="rect" id="node20" href="$classTransfer__n2n.html#a4a7968d6b0ac79f9530c07f132f380ec" title="The main entry to the data transfer algorithm. " alt="" coords="923,887,1074,914"/>
+<area shape="rect" id="node22" href="$classTransfer__f2n.html#a015cd3110a73f23e2944e0abc6e2f108" title="The main entry to the data transfer algorithm. " alt="" coords="925,938,1072,965"/>
+<area shape="rect" id="node21" href="$classTransfer__traits_3_01Nodal__data__const_00_01Nodal__data_00_01true_01_4.html#a11358f505450d456411ef25d8e6857c6" title="Transfer_traits\&lt; Nodal\l_data_const, Nodal_data,\l true \&gt;::transfer" alt="" coords="1133,773,1304,829"/>
+<area shape="rect" id="node23" href="$classTransfer__traits_3_01Facial__data__const_00_01Nodal__data_00_01true_01_4.html#a6102b51650934050a0c69e076216b5cf" title="See above. " alt="" coords="1133,877,1304,933"/>
+<area shape="rect" id="node25" href="$classTransfer__n2n.html#a9fc9b8fba5ffb61b2dd061208031b8e9" title="Compute the nodal load vector. " alt="" coords="929,756,1068,797"/>
+<area shape="rect" id="node26" href="$classTransfer__f2n.html#a4ce9d695ce666f1f26db4e3c6da1bd49" title="Compute the nodal load vector. " alt="" coords="931,821,1066,863"/>
+<area shape="rect" id="node29" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="471,212,596,253"/>
+<area shape="rect" id="node37" href="$classRFC__Window__transfer.html#a7c8c8bf039e5e2400abaf4b994543274" title="RFC_Window_transfer\l::init_recv_buffer" alt="" coords="456,1096,611,1137"/>
+<area shape="rect" id="node38" href="$classRFC__Window__transfer.html#aec87cef0eb23358d2a3b4e54299e6bb4" title="Replicate the metadata of a remote pane only the local process. " alt="" coords="696,1096,851,1137"/>
+<area shape="rect" id="node39" href="$classRFC__Window__transfer.html#a2b520ebc439b1d7d032dcf0ec86c15f8" title="Replicate the remote panes that are in contact with the local panes in opp_win. " alt="" coords="921,1096,1076,1137"/>
+<area shape="rect" id="node42" href="$classInterpolator.html#a6c678b7bae61095692bc4e0772ec93b3" title="The main entry to the data transfer algorithm. " alt="" coords="464,949,603,975"/>
+<area shape="rect" id="node43" href="$classTransfer__traits_3_01Nodal__data__const_00_01Nodal__data_00_01false_01_4.html#acc588746c6534744ab890de66a095436" title="Transfer_traits\&lt; Nodal\l_data_const, Nodal_data,\l false \&gt;::transfer" alt="" coords="688,938,859,994"/>
+</map>

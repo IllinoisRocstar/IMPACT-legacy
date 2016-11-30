@@ -1,0 +1,7 @@
+<map id="rightturn" name="rightturn">
+<area shape="rect" id="node2" href="$classTriangulation.html#a97c595c7460fbff532009135107e88b8" title="Triangulation::in_cone" alt="" coords="123,5,272,32"/>
+<area shape="rect" id="node3" href="$classTriangulation.html#ace8ba7a465081573a6a8ededf334c2b5" title="Triangulation::is_diagonal" alt="" coords="321,5,490,32"/>
+<area shape="rect" id="node4" href="$classTriangulation.html#ab16e295fab9b3d3fb4b2d392d5c99504" title="Main entry for triangulation. " alt="" coords="539,5,703,32"/>
+<area shape="rect" id="node5" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="752,5,931,32"/>
+<area shape="rect" id="node6" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="979,5,1096,32"/>
+</map>

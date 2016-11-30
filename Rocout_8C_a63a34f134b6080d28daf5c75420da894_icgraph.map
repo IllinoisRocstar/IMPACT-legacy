@@ -1,0 +1,7 @@
+<map id="is_whole" name="is_whole">
+<area shape="rect" id="node2" href="$Rocout_8C.html#a8ed0e45f99075ad3a0d94de39ed5dc12" title="Return true if the given Rocout option name/value pair is valid. " alt="" coords="128,31,240,57"/>
+<area shape="rect" id="node3" href="$classRocout.html#ad98ab6ccf791bde995299b9f03c62d7b" title="Set options for Rocout via a control file. " alt="" coords="470,5,637,32"/>
+<area shape="rect" id="node6" href="$classRocout.html#a2dc62659087729f5a98725a05f3ab173" title="Set an option for Rocout, such as controlling the output format. " alt="" coords="289,56,421,83"/>
+<area shape="rect" id="node4" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="686,31,775,57"/>
+<area shape="rect" id="node5" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="825,31,978,57"/>
+</map>

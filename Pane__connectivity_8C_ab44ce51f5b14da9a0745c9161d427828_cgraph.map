@@ -1,0 +1,5 @@
+<map id="collect_coincident_nodes" name="collect_coincident_nodes">
+<area shape="rect" id="node2" href="$Pane__connectivity_8C.html#a6775cd6991b395d8b55b2ab0b8566e2e" title="intersect_bbox" alt="" coords="193,5,300,32"/>
+<area shape="rect" id="node3" href="$classKD__tree__3.html#aaf0802b08a84e3b768567763b34c3a3a" title="KD_tree_3::search" alt="" coords="181,56,312,83"/>
+<area shape="rect" id="node4" href="$classKD__tree__3.html#a8090bbbca5a98eea1dcce1b3f9358388" title="KD_tree_3::kdtree_search_3" alt="" coords="361,56,549,83"/>
+</map>

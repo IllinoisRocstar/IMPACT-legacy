@@ -1,0 +1,10 @@
+<map id="Rocin::finalize" name="Rocin::finalize">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="160,71,307,97"/>
+<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#a51cd80e32371211a6a01185579eff4ee" title="COM_get_object" alt="" coords="173,125,293,152"/>
+<area shape="rect" id="node8" href="$classHDF4.html#af9f8b8e006969965ea656f193aa35053" title="Destroy the I/O thread. " alt="" coords="180,180,287,207"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="385,71,495,97"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="355,5,525,46"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="574,71,759,97"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#aa324d33cad35e5b289b8592ed056f14c" title="Associates an object with a specific window. " alt="" coords="363,122,517,163"/>
+<area shape="rect" id="node9" href="$classHDF4.html#a9f30e60fde6f6546fa0877229f27525d" title="Terminate the I/O thread. " alt="" coords="379,188,501,215"/>
+</map>

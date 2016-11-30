@@ -1,0 +1,9 @@
+<map id="SURFUTIL_UNLOAD_MODULE_" name="SURFUTIL_UNLOAD_MODULE_">
+<area shape="rect" id="node2" href="$classRocsurf.html#afcca0956e1bc2e83ed3ac12640eb309b" title="Unloads Rocsurf from Roccom. " alt="" coords="277,71,392,97"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a51cd80e32371211a6a01185579eff4ee" title="COM_get_object" alt="" coords="453,45,573,72"/>
+<area shape="rect" id="node7" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="440,96,587,123"/>
+<area shape="rect" id="node4" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="665,71,775,97"/>
+<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#aa324d33cad35e5b289b8592ed056f14c" title="Associates an object with a specific window. " alt="" coords="643,5,797,46"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="854,71,1039,97"/>
+<area shape="rect" id="node8" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="635,122,805,163"/>
+</map>

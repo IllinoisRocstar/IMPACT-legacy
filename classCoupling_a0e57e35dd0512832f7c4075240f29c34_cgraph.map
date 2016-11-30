@@ -1,0 +1,24 @@
+<map id="Coupling::baseInit" name="Coupling::baseInit">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a8d14cf34eccebd1168103d4624ac2677" title="Registering an dataitem type. " alt="" coords="204,237,345,264"/>
+<area shape="rect" id="node7" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="207,85,342,112"/>
+<area shape="rect" id="node9" href="$com__c_09_09_8hpp.html#acc079440c65ed1f12ee3a148a01d9858" title="COM_set_member_function" alt="" coords="182,136,367,163"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#a5e5321de4f0f8940ea99b25b0060afe3" title="COM_set_object" alt="" coords="215,187,335,213"/>
+<area shape="rect" id="node16" href="$commpi_8h.html#a8a8389bc67ae874f8ec20c56f758c8bf" title="COMMPI_Comm_rank" alt="" coords="197,288,352,315"/>
+<area shape="rect" id="node17" href="$classCoupling.html#ad4ffd58e3e8b367567b3f21c15f9390d" title="Coupling::Interrupt" alt="" coords="210,357,339,384"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="451,136,562,163"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ae4d775df72eadf0171e9401fafebffc1" title="Creates a new dataitem for a window. " alt="" coords="427,253,586,294"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="646,136,831,163"/>
+<area shape="rect" id="node6" href="$COM__base_8C.html#afe90d629a5053e5b8e54940849d34862" title="print_type" alt="" coords="699,260,778,287"/>
+<area shape="rect" id="node8" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="427,5,586,46"/>
+<area shape="rect" id="node10" href="$classCOM_1_1COM__base.html#a6b9a1428eea3ff5e93d192a900fc427f" title="COM::COM_base::set\l_member_function" alt="" coords="430,70,583,111"/>
+<area shape="rect" id="node12" href="$classCOM_1_1COM__base.html#af18580afc3217635b001174865d5fe40" title="Associates an object with a specific window. " alt="" coords="430,187,583,229"/>
+<area shape="rect" id="node13" href="$classCOM__Object__derived.html#a36c68534221a004f785bb8871e66b28d" title="COM_Object_derived\l::cast_obj" alt="" coords="665,187,812,229"/>
+<area shape="rect" id="node14" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="881,151,1074,177"/>
+<area shape="rect" id="node15" href="$classCOM__Object__derived.html#ac6f8f042f6bb9be7a4e65b9af4174241" title="COM_Object_derived\l::validate_object" alt="" coords="904,202,1051,243"/>
+<area shape="rect" id="node18" href="$classCoupling.html#a6888419b899c892b397a74924ab5b81b" title="Invoke finalization of the actions in the scheduler and the agents. " alt="" coords="445,319,568,345"/>
+<area shape="rect" id="node22" href="$classCoupling.html#a3d46b308bb3f682c3083c5e73b731ea6" title="Coupling::output_restart\l_files" alt="" coords="426,370,587,411"/>
+<area shape="rect" id="node23" href="$classCoupling.html#aecc06a1b6a8d6bb006a157df7f79c3c0" title="Coupling::write_restart_info" alt="" coords="416,436,597,463"/>
+<area shape="rect" id="node19" href="$classScheduler.html#a0730f19dd30bb10018c7d70b2d749996" title="Scheduler::finalize\l_actions" alt="" coords="674,311,803,353"/>
+<area shape="rect" id="node20" href="$structScheduler_1_1ActionItem.html#a836e74a247f64af430f10bf3c8ce2b8d" title="Scheduler::ActionItem\l::action" alt="" coords="902,282,1053,323"/>
+<area shape="rect" id="node21" href="$classAction.html#ac25cdec7b0ff8bd7c9084092f126484b" title="Action::finalize" alt="" coords="923,348,1031,375"/>
+</map>

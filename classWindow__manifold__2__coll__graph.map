@@ -1,0 +1,18 @@
+<map id="Window_manifold_2" name="Window_manifold_2">
+<area shape="rect" id="node7" href="$classPane__manifold__2.html" title="This class implements a data structure for 2&#45;manifold on each pane. " alt="" coords="1312,747,1435,773"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="165,149,288,176"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="169,1172,285,1199"/>
+<area shape="rect" id="node16" href="$classHalfedge.html" title="This class encapsulate a halfedge over a window manifold. " alt="" coords="1684,695,1759,721"/>
+<area shape="rect" id="node19" href="$classNode.html" title="This class encapsulate a node over a window manifold. " alt="" coords="1695,965,1748,992"/>
+<area shape="rect" id="node8" href="$classSimple__manifold__2.html" title="Provides a data structure accessing nodes, elements, and edges in a pane, in a manner similar to the ..." alt="" coords="981,747,1113,773"/>
+<area shape="rect" id="node21" href="$classRFC__Pane__base.html" title="The base implementation of RFC_Pane. " alt="" coords="1312,1200,1435,1227"/>
+<area shape="rect" id="node20" href="$classRFC__Pane__overlay.html" title="RFC_Pane_overlay" alt="" coords="2539,1319,2675,1345"/>
+<area shape="rect" id="node14" href="$classFacet__ID.html" title="The ID of a facet (edge in 2D and face in 3D) encodes an element ID and the local facet&#39;s ID internal..." alt="" coords="189,260,265,287"/>
+<area shape="rect" id="node42" href="$classHEdge.html" title="This class encapsulate a halfedge over a window manifold. " alt="" coords="2762,673,2825,700"/>
+<area shape="rect" id="node32" href="$classINode.html" title="INode" alt="" coords="198,1889,255,1916"/>
+<area shape="rect" id="node34" href="$classRFC__Window__overlay.html" title="A window is a collection of panes. " alt="" coords="2274,1499,2427,1525"/>
+<area shape="rect" id="node35" href="$classRFC__Window__derived.html" title="RFC_Window_derived\l\&lt; RFC_Pane_overlay \&gt;" alt="" coords="1985,1651,2145,1693"/>
+<area shape="rect" id="node40" title="STL class. " alt="" coords="2025,1499,2105,1525"/>
+<area shape="rect" id="node47" href="$classVector__3.html" title="Some basic geometric data types. " alt="" coords="163,1960,290,1987"/>
+<area shape="rect" id="node50" href="$classVector__3.html" title="Vector_3\&lt; Real \&gt;" alt="" coords="576,1981,701,2008"/>
+</map>

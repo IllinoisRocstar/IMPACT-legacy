@@ -1,0 +1,32 @@
+<map id="COM_compatible_types" name="COM_compatible_types">
+<area shape="rect" id="node2" href="$classRocblas.html#a2294d90628328833a90f826adba3d8e1" title="Performs the operation: z = a*x + y. " alt="" coords="238,5,373,32"/>
+<area shape="rect" id="node3" href="$classRocblas.html#a126b57260e55d844b1b2f8e428578477" title="Performs the operation: z = x op y. " alt="" coords="254,56,357,83"/>
+<area shape="rect" id="node4" href="$classRocblas.html#a3557b2ba07d978348c7a8b7e86ec9b79" title="Performs the operation: z = &lt;x, y&gt; " alt="" coords="244,107,367,133"/>
+<area shape="rect" id="node5" href="$classRocsurf.html#aaa5c77cef5d88304a4065c87cfc1167a" title="Computes the area of each face of the surface mesh of window areas&#45;&gt;window and saves the results in d..." alt="" coords="443,139,621,181"/>
+<area shape="rect" id="node12" href="$classWindow__manifold__2.html#a6c39c023dbe78b00e91b3d5693ea216d" title="Compute the normals at nodes or faces, depending on the type of the dataitem normals. " alt="" coords="669,194,816,235"/>
+<area shape="rect" id="node14" href="$classPane__boundary.html#a8d38eca7375658c935208b18c67ce74d" title="Determine the nodes at pane boundaries of a given mesh. " alt="" coords="217,377,394,418"/>
+<area shape="rect" id="node22" href="$classWindow__manifold__2.html#a57c6b6067d689e3c67abadd9ee212d9f" title="Convert element values to nodal values using weighted averaging. " alt="" coords="232,259,379,301"/>
+<area shape="rect" id="node26" href="$classRocblas.html#ad1934a397629b99f2d2e7cda5b2493ac" title="Performs the operation opp(x, y) " alt="" coords="243,443,367,469"/>
+<area shape="rect" id="node27" href="$classRocsurf.html#adaa7a2e8a5b441c3e737d00264944308" title="Integrate a function given by an elemental dataitem over surface z is an array of size equal to numbe..." alt="" coords="469,385,595,412"/>
+<area shape="rect" id="node28" href="$classWindow__manifold__2.html#a5fb686b1cbe5940cbaa4a68b4e40c458" title="Obtain shortest edge length of incident edges of each node or element. " alt="" coords="232,494,379,535"/>
+<area shape="rect" id="node29" href="$classWindow__manifold__2.html#a8987985b88d034b6629c2b0f22f16abd" title="Update the flags for border faces. " alt="" coords="232,559,379,601"/>
+<area shape="rect" id="node30" href="$classWindow__manifold__2.html#ae45dccc86fb7d7af210e0cea7a8604d8" title="Update the normals for border faces. " alt="" coords="232,625,379,666"/>
+<area shape="rect" id="node31" href="$classWindow__manifold__2.html#a23abb1078a2c079a074e1a6a22ea20ac" title="Update bitmap for border edges. " alt="" coords="227,690,383,731"/>
+<area shape="rect" id="node6" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="1115,257,1215,284"/>
+<area shape="rect" id="node7" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1292,156,1439,183"/>
+<area shape="rect" id="node8" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1295,207,1436,233"/>
+<area shape="rect" id="node9" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1268,257,1463,284"/>
+<area shape="rect" id="node10" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1291,308,1439,335"/>
+<area shape="rect" id="node11" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="1264,359,1467,385"/>
+<area shape="rect" id="node13" href="$classRocsurf.html#a94a02b38e559f4da89d554a661c68d01" title="Computes nodal or elemental normals of a given window. " alt="" coords="876,221,1055,248"/>
+<area shape="rect" id="node15" href="$classRocmap.html#a40efd96b43658a3c47174137a838d509" title="Determine the nodes at pane boundaries of a given mesh. " alt="" coords="457,466,607,507"/>
+<area shape="rect" id="node16" href="$classRocmap.html#ac4cbff08c584711910366bd08711ed02" title="Loads Rocmap onto Roccom with a given module name. " alt="" coords="691,520,794,547"/>
+<area shape="rect" id="node17" href="$Rocmap_8C.html#a854500cd46c6918f4ffb881b05af9606" title="SurfMap_load_module" alt="" coords="890,441,1041,468"/>
+<area shape="rect" id="node18" href="$Rocmap_8C.html#a14accefd182641bddae978ed7f612276" title="surfmap_load_module" alt="" coords="891,492,1040,519"/>
+<area shape="rect" id="node19" href="$Rocmap_8C.html#ad8efd505637c5d1e6594bf83088c705a" title="SURFMAP_LOAD_MODULE" alt="" coords="868,543,1063,569"/>
+<area shape="rect" id="node20" href="$Rocmap_8C.html#a3527249235c1523cdb95ecadab39b637" title="surfmap_load_module_" alt="" coords="887,593,1043,620"/>
+<area shape="rect" id="node21" href="$Rocmap_8C.html#a208fc25281b64438d096fe9ed0709ae9" title="SURFMAP_LOAD_MODULE_" alt="" coords="864,644,1067,671"/>
+<area shape="rect" id="node23" href="$classWindow__manifold__2.html#a84ab729c39b78534b617728cd60582c8" title="Compute nodal normals using one of the following weighting schemes: E2N_ONE, E2N_AREA, and E2N_ANGLE, and E2N_USER. " alt="" coords="451,259,613,301"/>
+<area shape="rect" id="node25" href="$classRocsurf.html#ae88ac8c15c0952ecf710d15d67b8dea8" title="Computes nodal or elemental normals of a given window. " alt="" coords="669,325,816,366"/>
+<area shape="rect" id="node24" href="$classWindow__manifold__2.html#aad29e9f557854ef4546bb8614205abda" title="Perturb the given mesh along its normal direction by length equal to a random number between &#45;range a..." alt="" coords="669,259,816,301"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HDF4::Terminate" name="HDF4::Terminate">
+<area shape="rect" id="node2" href="$classHDF4.html#af9f8b8e006969965ea656f193aa35053" title="Destroy the I/O thread. " alt="" coords="176,31,283,57"/>
+<area shape="rect" id="node3" href="$classRocout.html#a952d0bf1f37b189c98bb6a696861f803" title="Finalize the module by deregistering it from Roccom. " alt="" coords="331,5,445,32"/>
+<area shape="rect" id="node5" href="$classRocin.html#af2d60d1fa05640301d229c5ccceaf38b" title="Finalize the module by deregistering it from Roccom. " alt="" coords="335,56,441,83"/>
+<area shape="rect" id="node4" href="$RFC__Window__base__IO_8C.html#a49f69229543728c213e575bbddad668e" title="Unload the module Rocout from Roccom. " alt="" coords="494,5,661,32"/>
+<area shape="rect" id="node6" href="$readsdv_8C.html#a97834867693794b12e4d32cf0171b62f" title="Unload the module Rocin from Roccom. " alt="" coords="501,56,654,83"/>
+</map>

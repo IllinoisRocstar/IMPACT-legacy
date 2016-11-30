@@ -1,0 +1,6 @@
+<map id="eat_whitespace_until" name="eat_whitespace_until">
+<area shape="rect" id="node2" href="$read__parameter__file_8C.html#ada8bf50cc804cbc69e0b33f498288c76" title="get_parameter_list" alt="" coords="198,5,327,32"/>
+<area shape="rect" id="node3" href="$classRocin.html#aee80f20e824112ff9b2b9c8a13b7ceff" title="Read in parameters from a given file into the given window. " alt="" coords="376,5,555,32"/>
+<area shape="rect" id="node4" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="603,5,685,32"/>
+<area shape="rect" id="node5" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="733,5,872,32"/>
+</map>
