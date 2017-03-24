@@ -1,9 +1,0 @@
-<map id="CopyBflagFromBurn::run" name="CopyBflagFromBurn::run">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a9e17b921ba3f4b592447f1e752dd852c" title="Copy an dataitem onto another. " alt="" coords="222,35,367,61"/>
-<area shape="rect" id="node6" href="$classCoupling.html#a992cf9682eb483bdcb90bcfb924cea5c" title="Coupling::get_control\l_param" alt="" coords="222,86,367,127"/>
-<area shape="rect" id="node7" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="226,152,363,179"/>
-<area shape="rect" id="node8" href="$classCoupling.html#a536a9d73326d0567f8231db930b46582" title="Coupling::initial_start" alt="" coords="223,203,367,229"/>
-<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="442,5,553,32"/>
-<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a8d1e3565f1844466b7e65afadb7f62ce" title="Copy an dataitem onto another. " alt="" coords="416,57,579,98"/>
-<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="627,5,813,32"/>
-</map>

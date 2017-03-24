@@ -1,8 +1,0 @@
-<map id="ComponentInterface::get_dataitem" name="ComponentInterface::get_dataitem">
-<area shape="rect" id="node2" href="$classDataItem.html#a61ab5f23ac78a344ef56534d83b84fa4" title="Obtain the data type of each component of the dataitem. " alt="" coords="227,5,368,32"/>
-<area shape="rect" id="node3" href="$classConnectivity.html#a22e5c0abc543d7bd873bee358a9066ea" title="Obtain the size info of pre&#45;defined connectivity. " alt="" coords="207,56,387,83"/>
-<area shape="rect" id="node4" href="$classConnectivity.html#aac50b12edf84c2b41facc6b3e47dd8d7" title="Connectivity::is_element_name" alt="" coords="195,107,400,133"/>
-<area shape="rect" id="node5" href="$classDataItem.html#a6ba98b61339aa97a2aa213848893d791" title="Obtain the location of the dataitem. " alt="" coords="233,157,362,184"/>
-<area shape="rect" id="node6" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="195,208,399,235"/>
-<area shape="rect" id="node7" href="$classDataItem.html#af9893f2fe8a368faca43cde8655bd5ce" title="Obtain the unit of the dataitem. " alt="" coords="245,259,350,285"/>
-</map>

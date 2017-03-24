@@ -1,5 +1,0 @@
-<map id="SolverUtils::Mesh::GenericElement::shape_func" name="SolverUtils::Mesh::GenericElement::shape_func">
-<area shape="rect" id="node2" href="$classSolverUtils_1_1GeoPrim_1_1CVector.html#a2aea055eec810442aec669e5e7bdc732" title="SolverUtils::GeoPrim\l::CVector::x" alt="" coords="246,5,391,46"/>
-<area shape="rect" id="node3" href="$classSolverUtils_1_1GeoPrim_1_1CVector.html#abe84e55760a97b8c9d82cebc88fd2c55" title="SolverUtils::GeoPrim\l::CVector::y" alt="" coords="246,70,391,111"/>
-<area shape="rect" id="node4" href="$classSolverUtils_1_1GeoPrim_1_1CVector.html#a54626033f674c8c6570891d484011860" title="SolverUtils::GeoPrim\l::CVector::z" alt="" coords="246,135,391,177"/>
-</map>

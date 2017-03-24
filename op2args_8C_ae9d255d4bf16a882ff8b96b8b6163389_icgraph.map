@@ -1,4 +1,0 @@
-<map id="convert2mpiop" name="convert2mpiop">
-<area shape="rect" id="node2" href="$classRocblas.html#ab5497cc4c7ceb5fdcb8eef6834ae72ed" title="Rocblas::reduce_MPI" alt="" coords="182,5,330,32"/>
-<area shape="rect" id="node3" href="$classRocblas.html#a4b197c93ad023d6c93a66c8d0f230dc1" title="Rocblas::reduce_scalar_MPI" alt="" coords="161,56,351,83"/>
-</map>

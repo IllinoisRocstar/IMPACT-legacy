@@ -1,5 +1,0 @@
-<map id="RFC_Pane_overlay::create_overlay_data" name="RFC_Pane_overlay::create_overlay_data">
-<area shape="rect" id="node2" href="$classRFC__Pane__base.html#a7dadd11a9932cbf75b7a9399a30c6c97" title="The color of the parent window (BLUE or GREEN). " alt="" coords="235,5,394,32"/>
-<area shape="rect" id="node3" href="$classRFC__Pane__base.html#a0c07ffa46cc7bf6d42db3e1fea90778e" title="The total number of faces in the pane. " alt="" coords="237,57,392,98"/>
-<area shape="rect" id="node4" href="$classRFC__Pane__base.html#a6d670fed3e1d0fb329b1534bab009dc6" title="The total number of nodes in the pane. " alt="" coords="237,122,392,163"/>
-</map>

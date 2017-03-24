@@ -1,7 +1,0 @@
-<map id="Agent::write_control_file" name="Agent::write_control_file">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="244,5,377,32"/>
-<area shape="rect" id="node3" href="$classAgent.html#a19d0e6abee6acfb6bf03a59868cdac35" title="Agent::get_agent_name" alt="" coords="231,56,391,83"/>
-<area shape="rect" id="node4" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="242,107,379,133"/>
-<area shape="rect" id="node5" href="$classCoupling.html#a31352260a1a9d2d065c4b57c1c23c6a6" title="Coupling::get_rocmancontrol\l_param" alt="" coords="217,158,405,199"/>
-<area shape="rect" id="node6" href="$classAgent.html#a3682a7da04a185103ef673edde13fc36" title="Agent::get_time_string" alt="" coords="234,224,387,251"/>
-</map>

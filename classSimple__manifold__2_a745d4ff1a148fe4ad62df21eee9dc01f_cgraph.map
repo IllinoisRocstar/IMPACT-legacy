@@ -1,8 +1,0 @@
-<map id="Simple_manifold_2::get_incident_edge" name="Simple_manifold_2::get_incident_edge">
-<area shape="rect" id="node2" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="384,10,485,37"/>
-<area shape="rect" id="node3" href="$classSimple__manifold__2.html#ad0308ff63a62c37f101527c4acbc4f30" title="Get an index for internal edges. " alt="" coords="195,32,335,74"/>
-<area shape="rect" id="node5" href="$classSimple__manifold__2.html#a6bfa6e48aeb63f51b773946e174fec5b" title="Get the ID of the origin of a given edge. " alt="" coords="195,98,335,139"/>
-<area shape="rect" id="node6" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="197,164,334,190"/>
-<area shape="rect" id="node7" href="$classSimple__manifold__2.html#a4e4008eee073094b7b70cdf332a59469" title="Is the given node a ghost node? " alt="" coords="195,215,335,256"/>
-<area shape="rect" id="node4" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="386,97,483,124"/>
-</map>

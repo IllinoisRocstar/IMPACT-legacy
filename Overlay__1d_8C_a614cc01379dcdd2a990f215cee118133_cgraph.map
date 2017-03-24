@@ -1,9 +1,0 @@
-<map id="equal" name="equal">
-<area shape="rect" id="node2" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="137,5,183,32"/>
-<area shape="rect" id="node3" href="$classBbox__3.html#a24a923d181b58e91a7250dd3bf435583" title="Bbox_3::xmax" alt="" coords="107,56,213,83"/>
-<area shape="rect" id="node4" href="$classBbox__3.html#a75bd7e422f1485cc47da35e6c33123bd" title="Bbox_3::xmin" alt="" coords="109,107,211,133"/>
-<area shape="rect" id="node5" href="$classBbox__3.html#a37c4bceb53bde963ec4f1adb8f2fbcd1" title="Bbox_3::ymax" alt="" coords="107,157,213,184"/>
-<area shape="rect" id="node6" href="$classBbox__3.html#a41b9cd5fdd3b032a47933064671e2401" title="Bbox_3::ymin" alt="" coords="109,208,211,235"/>
-<area shape="rect" id="node7" href="$classBbox__3.html#ab48a8c3691b28f2272debfa64008752a" title="Bbox_3::zmax" alt="" coords="107,259,213,285"/>
-<area shape="rect" id="node8" href="$classBbox__3.html#a8bd486c9bd1bbf0e380701b3e90a6e17" title="Bbox_3::zmin" alt="" coords="109,309,211,336"/>
-</map>

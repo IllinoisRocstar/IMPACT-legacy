@@ -1,7 +1,0 @@
-<map id="SolverUtils::Mesh::Connectivity::ShrinkWrap" name="SolverUtils::Mesh::Connectivity::ShrinkWrap">
-<area shape="rect" id="node2" href="$namespaceSolverUtils.html#afc852871326d1c395adc4d153e45a075" title="SolverUtils::PaneToUnstructuredMesh" alt="" coords="225,12,471,39"/>
-<area shape="rect" id="node5" href="$classSolverUtils_1_1Mesh_1_1Partition.html#ab2d6188def10466d07e78c5c7f35298e" title="SolverUtils::Mesh::\lPartition::Read" alt="" coords="281,63,415,105"/>
-<area shape="rect" id="node6" href="$namespaceSolverUtils_1_1Mesh.html#a5451d4ec2606658ccba0ecb8d3ce77e7" title="SolverUtils::Mesh::Skin" alt="" coords="268,129,428,156"/>
-<area shape="rect" id="node3" href="$namespaceSolverUtils.html#aba6560399de412c7861129dc7c4a260e" title="SolverUtils::PaneToAgent" alt="" coords="520,12,693,39"/>
-<area shape="rect" id="node4" href="$namespaceSolverUtils.html#a9da67f474f0ef835bb9707e6598de2bd" title="SolverUtils::PopulateSolver\lAgentFromWindow" alt="" coords="742,5,925,46"/>
-</map>

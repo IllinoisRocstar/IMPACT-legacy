@@ -1,7 +1,0 @@
-<map id="IMPACT::ParallelTestingObject::Test__ParallelMidPointQuadrature" name="IMPACT::ParallelTestingObject::Test__ParallelMidPointQuadrature">
-<area shape="rect" id="node2" href="$classIMPACT_1_1ParallelTestingObject.html#aa385cad1e14e79d7cf2372db1b40a598" title="Runs all tests implemented by the IMPACT::TestingObject. " alt="" coords="283,5,488,46"/>
-<area shape="rect" id="node5" href="$classIMPACT_1_1ParallelTestingObject.html#a1837e9c62f075e214ec559fab585b298" title="Runs a test specified by name. " alt="" coords="283,70,488,111"/>
-<area shape="rect" id="node3" href="$namespaceIMPACT.html#ae842c9919236d71b0d6a6a7387968b4d" title="Drives the IMPACT::TestObject. " alt="" coords="563,16,714,43"/>
-<area shape="rect" id="node4" href="$ParallelTestIMPACT_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="789,16,840,43"/>
-<area shape="rect" id="node6" href="$classIMPACT_1_1ParallelTestingObject.html#a7d69dab5fe74c659c0b9c110e351d7df" title="Runs a list of tests specified by name. " alt="" coords="536,70,741,111"/>
-</map>

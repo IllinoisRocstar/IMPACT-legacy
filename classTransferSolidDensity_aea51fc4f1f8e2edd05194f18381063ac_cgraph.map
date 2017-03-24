@@ -1,5 +1,0 @@
-<map id="TransferSolidDensity::run" name="TransferSolidDensity::run">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="229,5,363,32"/>
-<area shape="rect" id="node3" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="227,56,365,83"/>
-<area shape="rect" id="node4" href="$classCoupling.html#a536a9d73326d0567f8231db930b46582" title="Coupling::initial_start" alt="" coords="224,107,368,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Pane_node_enumerator::next" name="Pane_node_enumerator::next">
-<area shape="rect" id="node2" href="$classPane.html#a6aec0fd550c2d337ebe6e4aace3382b0" title="Dimension of the pane. " alt="" coords="234,5,353,32"/>
-<area shape="rect" id="node3" href="$classPane.html#a8fe18517efa6a2626ec6b68726b0fb54" title="Is mesh of the pane unstructured? " alt="" coords="219,56,368,83"/>
-<area shape="rect" id="node4" href="$classPane__node__enumerator.html#a51bc9ec134c2ac8bdade3043992555cd" title="Determine in the current node number is a real node or a ghost node If it is a ghost node..." alt="" coords="214,107,373,149"/>
-<area shape="rect" id="node5" href="$classPane__node__enumerator.html#ae80f7380b76747914bcbea0cb940aad1" title="Determine in the current node number is a real node or a ghost node If it is a ghost node..." alt="" coords="214,173,373,214"/>
-</map>

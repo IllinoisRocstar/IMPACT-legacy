@@ -1,9 +1,0 @@
-<map id="ExampleProgram.H" name="ExampleProgram.H">
-<area shape="rect" id="node2" href="$COMM_8H.html" title="Communication utilities. " alt="" coords="366,80,444,107"/>
-<area shape="rect" id="node17" href="$Global_8H.html" title="Base global object header. " alt="" coords="938,80,1011,107"/>
-<area shape="rect" id="node31" href="$Profiler_8H.html" title="Performance Profiling interface definition. " alt="" coords="1784,155,1861,181"/>
-<area shape="rect" id="node5" href="$primitive__utilities_8H.html" title="Basic utility header. " alt="" coords="391,155,524,181"/>
-<area shape="rect" id="node11" href="$PrimitiveTypes_8H.html" title="Simple utility classes. " alt="" coords="280,229,403,256"/>
-<area shape="rect" id="node18" href="$ComLine_8H.html" title="ComLineObject header. " alt="" coords="1584,155,1672,181"/>
-<area shape="rect" id="node22" href="$UnixUtils_8H.html" title="Unix System Tools interface. " alt="" coords="929,155,1020,181"/>
-</map>

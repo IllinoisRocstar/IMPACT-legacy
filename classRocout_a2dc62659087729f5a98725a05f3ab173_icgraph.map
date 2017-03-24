@@ -1,5 +1,0 @@
-<map id="Rocout::set_option" name="Rocout::set_option">
-<area shape="rect" id="node2" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="403,5,493,32"/>
-<area shape="rect" id="node4" href="$classRocout.html#ad98ab6ccf791bde995299b9f03c62d7b" title="Set options for Rocout via a control file. " alt="" coords="187,31,354,57"/>
-<area shape="rect" id="node3" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="542,5,695,32"/>
-</map>

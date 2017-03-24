@@ -1,7 +1,0 @@
-<map id="RocBlas::initHandles" name="RocBlas::initHandles">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="200,35,376,61"/>
-<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="446,5,557,32"/>
-<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="425,57,578,98"/>
-<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="631,5,817,32"/>
-<area shape="rect" id="node6" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="627,64,821,91"/>
-</map>

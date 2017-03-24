@@ -1,7 +1,0 @@
-<map id="IRAD::Comm::CommunicatorObject::_AllGatherMO" name="IRAD::Comm::CommunicatorObject::_AllGatherMO">
-<area shape="rect" id="node2" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#a7f197b065563d8bc8e76ab6728a9ca0b" title="IRAD::Comm::Communicator\lObject::AllGather" alt="" coords="248,5,443,46"/>
-<area shape="rect" id="node3" href="$classIRAD_1_1Comm_1_1MobileObject.html#abd1f4a5cb2ceb1de8e085495df631c83" title="IRAD::Comm::MobileObject\l::DestroyBuffer" alt="" coords="252,70,439,111"/>
-<area shape="rect" id="node4" href="$classIRAD_1_1Comm_1_1MobileObject.html#a326d41fd7fa1edc1fd9199515197e268" title="IRAD::Comm::MobileObject\l::GetBuffer" alt="" coords="252,135,439,177"/>
-<area shape="rect" id="node5" href="$classIRAD_1_1Comm_1_1MobileObject.html#a664bb8bae75a4aa4fef12b5d1bd0bdbd" title="IRAD::Comm::MobileObject\l::Pack" alt="" coords="252,201,439,242"/>
-<area shape="rect" id="node6" href="$namespaceIRAD_1_1Util.html#aae5ab52e4ddfa4183821f08fd59d6b89" title="IRAD::Util::String2Buf" alt="" coords="491,208,643,235"/>
-</map>

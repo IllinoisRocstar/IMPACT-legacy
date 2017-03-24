@@ -1,9 +1,0 @@
-<map id="COM_load_module" name="COM_load_module">
-<area shape="rect" id="node2" href="$classBurnAgent.html#a05d861a5be0013ed7081245c6c827890" title="BurnAgent::load_module" alt="" coords="189,5,353,32"/>
-<area shape="rect" id="node4" href="$classFluidAgent.html#ae16e1ff53a82961200804b1cf3ab9b86" title="FluidAgent::load_module" alt="" coords="188,56,353,83"/>
-<area shape="rect" id="node6" href="$classSolidAgent.html#aa30f0caf18d61ec2ef6e2867f1db24d0" title="SolidAgent::load_module" alt="" coords="187,107,354,133"/>
-<area shape="rect" id="node8" href="$intest2_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="245,157,296,184"/>
-<area shape="rect" id="node3" href="$classBurnAgent.html#a61193c6d5f2b7e9ff28498f6cd635148" title="BurnAgent::BurnAgent" alt="" coords="405,5,557,32"/>
-<area shape="rect" id="node5" href="$classFluidAgent.html#a1642ca957ad9beff4934c8e267881a6b" title="FluidAgent::FluidAgent" alt="" coords="404,56,559,83"/>
-<area shape="rect" id="node7" href="$classSolidAgent.html#a84c8d25f502c81152331ddc8d3f3dcb2" title="SolidAgent::SolidAgent" alt="" coords="403,107,559,133"/>
-</map>

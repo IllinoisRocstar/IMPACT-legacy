@@ -1,8 +1,0 @@
-<map id="Function::is_optional" name="Function::is_optional">
-<area shape="rect" id="node2" href="$classCOM_1_1COM__base.html#a1aaff6e38ab1626c2da02bf332edc88d" title="Invoke a function with given arguments. " alt="" coords="197,82,352,123"/>
-<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#a007c992f6f42080ffe1c53204cd63c59" title="Nonblockingly invoke a function with given arguments. " alt="" coords="401,23,559,65"/>
-<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#acea2331d2de82625c440f35ff027ed05" title="COM_call_function" alt="" coords="413,89,547,116"/>
-<area shape="rect" id="node7" href="$com__f_8C.html#a66f5ab3496f211ba537971bb3fe3d304" title="COM_F_FUNC2" alt="" coords="420,140,540,167"/>
-<area shape="rect" id="node4" href="$com__c_09_09_8hpp.html#af01b6b1a47bfecb5425c6949f11bd2ae" title="COM_icall_function" alt="" coords="608,5,744,32"/>
-<area shape="rect" id="node5" href="$com__f_8C.html#af69237e60823fa54bb876cf9e9e41ea7" title="COM_F_FUNC2" alt="" coords="616,56,736,83"/>
-</map>

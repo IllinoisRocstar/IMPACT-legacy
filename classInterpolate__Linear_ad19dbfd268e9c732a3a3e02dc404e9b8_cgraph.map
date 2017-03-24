@@ -1,8 +1,0 @@
-<map id="Interpolate_Linear::run" name="Interpolate_Linear::run">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="443,16,576,43"/>
-<area shape="rect" id="node3" href="$classInterpolateBase.html#ac28159f8353430b5a489dbf6dfc8f611" title="InterpolateBase::extrapolate\l_Linear" alt="" coords="207,38,393,80"/>
-<area shape="rect" id="node4" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="231,104,369,131"/>
-<area shape="rect" id="node5" href="$classAgent.html#a5a00af77b2c0b2361e1a97aa6d4d6127" title="Agent::get_old_dt" alt="" coords="238,155,362,182"/>
-<area shape="rect" id="node6" href="$classCoupling.html#a31352260a1a9d2d065c4b57c1c23c6a6" title="Coupling::get_rocmancontrol\l_param" alt="" coords="206,206,394,248"/>
-<area shape="rect" id="node7" href="$classCoupling.html#a2c0139beca6d89752b076f2893f0f32b" title="Coupling::new_start" alt="" coords="231,272,369,299"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="COMMPI_Comm_size" name="COMMPI_Comm_size">
-<area shape="rect" id="node2" href="$classRFC__Window__transfer.html#a811f88bbe239ab18600ca2440209ef64" title="RFC_Window_transfer\l::comm_size" alt="" coords="208,70,363,111"/>
-<area shape="rect" id="node6" href="$rocstar__driver_8C.html#a978493ed4516b9914e068ed0a88492b0" title="init_profiling" alt="" coords="240,139,331,165"/>
-<area shape="rect" id="node3" href="$classRFC__Window__transfer.html#a0a5b49f40e3037fa5bbe2982ba711da7" title="RFC_Window_transfer\l::RFC_Window_transfer" alt="" coords="411,5,573,46"/>
-<area shape="rect" id="node4" href="$classRFC__Window__transfer.html#aec87cef0eb23358d2a3b4e54299e6bb4" title="Replicate the metadata of a remote pane only the local process. " alt="" coords="415,70,569,111"/>
-<area shape="rect" id="node5" href="$classRFC__Window__transfer.html#a2b520ebc439b1d7d032dcf0ec86c15f8" title="Replicate the remote panes that are in contact with the local panes in opp_win. " alt="" coords="621,70,776,111"/>
-<area shape="rect" id="node7" href="$classControl__parameters.html#a2814febbac6474f3a1d6dc19018fa447" title="Control_parameters\l::read" alt="" coords="424,135,560,177"/>
-<area shape="rect" id="node8" href="$rocstar__driver_8C.html#ad1de69ebc9df30ede377e74fdc577cd4" title="rocstar_driver" alt="" coords="648,143,749,169"/>
-</map>

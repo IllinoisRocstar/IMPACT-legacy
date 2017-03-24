@@ -1,8 +1,0 @@
-<map id="DataItem::capacity" name="DataItem::capacity">
-<area shape="rect" id="node2" href="$classPane.html#a765aecb9167da396507f79a3b3d5c392" title="Finalize the initialization of a pane. " alt="" coords="207,5,319,32"/>
-<area shape="rect" id="node3" href="$classDataItem.html#a36e0b405cbce019bab7d98c5c743aff3" title="Obtain the maximum allowed number of items in the dataitem. " alt="" coords="187,81,338,122"/>
-<area shape="rect" id="node4" href="$classPane.html#aaf93a477a77bee5dffd3325d622aeb7e" title="Pane::reinit_dataitem" alt="" coords="190,147,335,173"/>
-<area shape="rect" id="node5" href="$classComponentInterface.html#ab71f29b6c8b6bbf8e723f19ee345d6dd" title="Implementation for setting (op==OP_SET or OP_SET_CONST), allocating (op==OP_ALLOC), resizing (op==OP_RESIZE) and deallocating (op==OP_DEALLOC) an array for a specific dataitem. " alt="" coords="387,139,527,181"/>
-<area shape="rect" id="node6" href="$classComponentInterface.html#abbbf0b173e6ba7e0745a7e1c4d4249df" title="ComponentInterface\l::dealloc_array" alt="" coords="577,106,717,147"/>
-<area shape="rect" id="node7" href="$classComponentInterface.html#a5cfd395d4e70e630dce44ffc095070df" title="ComponentInterface\l::resize_array" alt="" coords="577,171,717,213"/>
-</map>

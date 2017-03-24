@@ -1,5 +1,0 @@
-<map id="COM::COM_base::append_array" name="COM::COM_base::append_array">
-<area shape="rect" id="node2" href="$com__c_8h.html#a45d5efe1b69577032eb7099343f5bd38" title="Append an array to the end of the dataitem on a specific pane and return the new address by setting a..." alt="" coords="251,12,389,39"/>
-<area shape="rect" id="node4" href="$com__f_8C.html#a5b121eb50a995d03ec36b83be308061e" title="com_append_array_helper" alt="" coords="233,63,407,89"/>
-<area shape="rect" id="node3" href="$classRFC__Pane__base.html#aaf3cff0660a06d4ff9723d6ae09f5afd" title="RFC_Pane_base::register\l_sdv_dataitems" alt="" coords="456,5,629,46"/>
-</map>

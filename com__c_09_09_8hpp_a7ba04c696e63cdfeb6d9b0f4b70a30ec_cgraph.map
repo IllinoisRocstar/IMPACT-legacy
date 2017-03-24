@@ -1,7 +1,0 @@
-<map id="COM_clone_dataitem" name="COM_clone_dataitem">
-<area shape="rect" id="node2" href="$classCOM_1_1COM__base.html#aa70e14ef8971b8c21c07636ddb15e3f0" title="Clone the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="203,5,370,46"/>
-<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="231,71,342,97"/>
-<area shape="rect" id="node3" href="$classDataItem.html#af1613e242912ca9334a8ca5c643e38e0" title="Check whether the number of items of the dataitem is zero. " alt="" coords="452,12,572,39"/>
-<area shape="rect" id="node4" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="653,12,760,39"/>
-<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="419,71,605,97"/>
-</map>

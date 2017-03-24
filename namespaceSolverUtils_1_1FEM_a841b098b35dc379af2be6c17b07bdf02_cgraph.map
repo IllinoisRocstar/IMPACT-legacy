@@ -1,6 +1,0 @@
-<map id="SolverUtils::FEM::AssignDofsByElement" name="SolverUtils::FEM::AssignDofsByElement">
-<area shape="rect" id="node2" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a4545e2ed66590afbb14b34bf774ade85" title="SolverUtils::Mesh::\lConnectivity::GetAdjacent" alt="" coords="225,5,399,46"/>
-<area shape="rect" id="node4" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a47a999c5ebdab2937397a9d6e4c51f8c" title="SolverUtils::Mesh::\lConnectivity::Nelem" alt="" coords="241,70,383,111"/>
-<area shape="rect" id="node5" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#aa5da47ae4d738690dfe4d9d74d24db30" title="SolverUtils::Mesh::\lConnectivity::Sync" alt="" coords="245,135,379,177"/>
-<area shape="rect" id="node3" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a9aa1ab6cfea5a78c94c8af1e2eec9fb5" title="SolverUtils::Mesh::\lConnectivity::Resize" alt="" coords="448,5,592,46"/>
-</map>

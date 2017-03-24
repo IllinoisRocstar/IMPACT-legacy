@@ -1,8 +1,0 @@
-<map id="Transfer_base::saxpy" name="Transfer_base::saxpy">
-<area shape="rect" id="node2" href="$classTransfer__base.html#a72af6118d39e2674252c3c7713b8c317" title="Transfer_base::pcg" alt="" coords="203,57,338,84"/>
-<area shape="rect" id="node3" href="$classTransfer__base.html#ae66d6f5e5b452c86f35a34f1ab65b30a" title="template function for transfering from nodes/faces to nodes. " alt="" coords="387,57,565,84"/>
-<area shape="rect" id="node4" href="$classTransfer__n2n.html#a4a7968d6b0ac79f9530c07f132f380ec" title="The main entry to the data transfer algorithm. " alt="" coords="614,28,765,55"/>
-<area shape="rect" id="node6" href="$classTransfer__f2n.html#a015cd3110a73f23e2944e0abc6e2f108" title="The main entry to the data transfer algorithm. " alt="" coords="616,85,763,112"/>
-<area shape="rect" id="node5" href="$classTransfer__traits_3_01Nodal__data__const_00_01Nodal__data_00_01true_01_4.html#a11358f505450d456411ef25d8e6857c6" title="Transfer_traits\&lt; Nodal\l_data_const, Nodal_data,\l true \&gt;::transfer" alt="" coords="813,5,984,61"/>
-<area shape="rect" id="node7" href="$classTransfer__traits_3_01Facial__data__const_00_01Nodal__data_00_01true_01_4.html#a6102b51650934050a0c69e076216b5cf" title="See above. " alt="" coords="813,85,984,141"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="IRAD::Global::GlobalObj::FName" name="IRAD::Global::GlobalObj::FName">
-<area shape="rect" id="node2" href="$classIRAD_1_1Global_1_1GlobalObj.html#a77ef0be39249774e64fea2e27249c29f" title="DeRegister will pop from the stack only. " alt="" coords="219,5,384,46"/>
-<area shape="rect" id="node3" href="$classIRAD_1_1Global_1_1GlobalObj.html#a38eba130be43e634978cd0ef04a2bf7c" title="FunctionEntry updates the Stack as well as the Profiler. " alt="" coords="219,70,384,111"/>
-<area shape="rect" id="node5" href="$classIRAD_1_1Global_1_1GlobalObj.html#a8895894d8f3949a6e65a735136089102" title="FunctionExit updates the Stack as well as the Profiler. " alt="" coords="219,135,384,177"/>
-<area shape="rect" id="node6" href="$classIRAD_1_1Global_1_1GlobalObj.html#a5013cbf6bc83f718caddfbcd34190c68" title="Register will push to the Stack only. " alt="" coords="219,201,384,242"/>
-<area shape="rect" id="node7" href="$classIRAD_1_1Global_1_1GlobalObj.html#a2579962b34019f9488657dfe96f5e469" title="IRAD::Global::GlobalObj\l::SetName" alt="" coords="219,266,384,307"/>
-<area shape="rect" id="node4" href="$meshtest1_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="432,111,483,137"/>
-</map>

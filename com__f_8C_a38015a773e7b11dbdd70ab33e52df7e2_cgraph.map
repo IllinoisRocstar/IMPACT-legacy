@@ -1,5 +1,0 @@
-<map id="COM_F_FUNC2" name="COM_F_FUNC2">
-<area shape="rect" id="node2" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="195,5,306,32"/>
-<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#a399a3f4d4d77f29d2419985a8112adba" title="This subroutine turns on (or off) profiling if i==1 (or ==0). " alt="" coords="174,57,327,98"/>
-<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="377,5,562,32"/>
-</map>

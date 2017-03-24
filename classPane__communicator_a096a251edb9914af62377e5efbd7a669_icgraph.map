@@ -1,5 +1,0 @@
-<map id="Pane_communicator::end_update" name="Pane_communicator::end_update">
-<area shape="rect" id="node2" href="$classPane__communicator.html#a6909e4bf5f0002b7824c6f16e0d350e4" title="Finalizes ghost cell updating by calling MPI_Waitall on all send requests. " alt="" coords="211,5,373,46"/>
-<area shape="rect" id="node3" href="$classPane__communicator.html#af7259d63b9817baff7114035f832d5ea" title="Finalizes ghost node updating by calling MPI_Waitall on all send requests. " alt="" coords="207,70,377,111"/>
-<area shape="rect" id="node4" href="$classPane__communicator.html#a7476be6b8d1de030a1195cfa302cca07" title="Finalizes shared node updating by calling MPI_Waitall on all send requests. " alt="" coords="203,135,381,177"/>
-</map>

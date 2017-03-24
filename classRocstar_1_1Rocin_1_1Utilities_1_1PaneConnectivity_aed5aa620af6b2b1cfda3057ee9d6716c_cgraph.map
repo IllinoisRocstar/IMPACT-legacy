@@ -1,4 +1,0 @@
-<map id="Rocstar::Rocin::Utilities::PaneConnectivity::getSharedNodeIndex" name="Rocstar::Rocin::Utilities::PaneConnectivity::getSharedNodeIndex">
-<area shape="rect" id="node2" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#a0024e3c89a5debbc147f1f3f6f3d939a" title="This method checks if the local point exists in this instance. " alt="" coords="318,5,541,46"/>
-<area shape="rect" id="node3" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#ae6b459970eaa073c2aafe6747aba0e45" title="Checks if the pane exists in this instance. " alt="" coords="333,70,525,111"/>
-</map>

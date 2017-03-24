@@ -1,8 +1,0 @@
-<map id="RFC_Window_transfer::reduce_to_all" name="RFC_Window_transfer::reduce_to_all">
-<area shape="rect" id="node2" href="$classRFC__Data__const.html#aec9daf4cb8f3bf2ada67821794b8eef1" title="RFC_Data_const::dimension" alt="" coords="209,5,399,32"/>
-<area shape="rect" id="node3" href="$classRFC__Data__const.html#afc4f79e06276f4f8635e9505bfa9242c" title="RFC_Data_const::id" alt="" coords="233,56,375,83"/>
-<area shape="rect" id="node4" href="$classRFC__Window__transfer.html#af88045a66430bf83bae0fa95d71b5595" title="RFC_Window_transfer\l::pane" alt="" coords="227,107,381,149"/>
-<area shape="rect" id="node5" href="$classRFC__Pane__transfer.html#a447e5db9a1bae6496298c6e723fb1436" title="RFC_Pane_transfer::\lpointer" alt="" coords="231,173,377,214"/>
-<area shape="rect" id="node6" href="$classRFC__Pane__transfer.html#a6d297c6fd2c02dba61738e6c503fbed0" title="RFC_Pane_transfer::\lis_master" alt="" coords="460,143,607,185"/>
-<area shape="rect" id="node7" href="$classRFC__Pane__base.html#ace7d5e6c2f3ce8abfe8f4c79cafd0311" title="Get the address of a given dataitem with id i. " alt="" coords="449,209,618,236"/>
-</map>

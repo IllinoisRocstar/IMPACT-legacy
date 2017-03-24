@@ -1,7 +1,0 @@
-<map id="Simple_manifold_2::get_opposite_ghost_edge_interior" name="Simple_manifold_2::get_opposite_ghost_edge_interior">
-<area shape="rect" id="node2" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="413,6,515,33"/>
-<area shape="rect" id="node3" href="$classSimple__manifold__2.html#ad0308ff63a62c37f101527c4acbc4f30" title="Get an index for internal edges. " alt="" coords="225,26,365,67"/>
-<area shape="rect" id="node5" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="226,92,363,118"/>
-<area shape="rect" id="node6" href="$classSimple__manifold__2.html#a66a3b37ab9a9feaedf64d5c27469c660" title="Is the element incident on the give edge a ghost element? " alt="" coords="225,143,365,184"/>
-<area shape="rect" id="node4" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="415,61,513,88"/>
-</map>

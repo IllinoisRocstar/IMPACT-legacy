@@ -1,7 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a47ed797bddcdd0aabcd9f8e47f326744" title="COM_finalize" alt="" coords="104,5,205,32"/>
-<area shape="rect" id="node4" href="$com__c_09_09_8hpp.html#ac0f80d6e63759a2afe40ed883cea3d5e" title="COM_init" alt="" coords="116,56,193,83"/>
-<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#a7cad9c24d2d8c23ab9000c16da1526a4" title="COM::COM_base::finalize" alt="" coords="253,5,429,32"/>
-<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a1d2b2dabf7654280cbba19673d22230e" title="COM::COM_base::init" alt="" coords="265,56,417,83"/>
-<area shape="rect" id="node6" href="$com__exception_8C.html#a968f8230d3a737acba9bc9b878b0f57d" title="Print the stack backtrace. " alt="" coords="478,56,618,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="RFC_Pane_overlay::get_point" name="RFC_Pane_overlay::get_point">
-<area shape="rect" id="node2" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="221,5,353,46"/>
-<area shape="rect" id="node6" href="$classPoint__set.html#aa02f505e79de62b88d915a5f320d1e37" title="Point_set::operator[]" alt="" coords="217,71,357,97"/>
-<area shape="rect" id="node3" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="405,67,547,93"/>
-<area shape="rect" id="node4" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="595,59,720,101"/>
-<area shape="rect" id="node5" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="768,67,885,93"/>
-</map>

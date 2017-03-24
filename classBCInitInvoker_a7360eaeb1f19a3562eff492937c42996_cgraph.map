@@ -1,8 +1,0 @@
-<map id="BCInitInvoker::run" name="BCInitInvoker::run">
-<area shape="rect" id="node2" href="$classAgent.html#a19d0e6abee6acfb6bf03a59868cdac35" title="Agent::get_agent_name" alt="" coords="384,5,544,32"/>
-<area shape="rect" id="node3" href="$classAgent.html#afca7e38d3ad94033faebb8fb73fa5e00" title="Agent::run_bcinitaction" alt="" coords="181,56,336,83"/>
-<area shape="rect" id="node4" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="395,56,533,83"/>
-<area shape="rect" id="node5" href="$classScheduler.html#a122bb8620adbf00287819aa43ed29e27" title="Scheduler::run_actions" alt="" coords="387,107,541,133"/>
-<area shape="rect" id="node6" href="$structScheduler_1_1ActionItem.html#a836e74a247f64af430f10bf3c8ce2b8d" title="Scheduler::ActionItem\l::action" alt="" coords="593,70,743,111"/>
-<area shape="rect" id="node7" href="$classAction.html#a7604370a3f813885f040c4e8d3a4812c" title="Action::run" alt="" coords="625,136,711,163"/>
-</map>

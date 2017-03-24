@@ -1,9 +1,0 @@
-<map id="Overlay_primitives::project_onto_element" name="Overlay_primitives::project_onto_element">
-<area shape="rect" id="node2" href="$Overlay__primitives_8C.html#a36d28ea1605de449993bd50d30cbd2ef" title="_solve_3x3" alt="" coords="261,5,349,32"/>
-<area shape="rect" id="node3" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="209,56,402,83"/>
-<area shape="rect" id="node4" href="$classHEdge.html#a2fa0ea8f4238cadc5dcd7c73f8b14fbb" title="Get the next halfedge of its owner element. " alt="" coords="253,107,358,133"/>
-<area shape="rect" id="node6" href="$classHEdge.html#aa7b9197fff083563c798153032f8d6ef" title="Get the previous halfedge of its owner element. " alt="" coords="253,157,358,184"/>
-<area shape="rect" id="node7" href="$classPoint__set.html#a5affcd30c1f78c4583af6ce8c728cbf8" title="Point_set::size_of\l_edges" alt="" coords="242,209,369,250"/>
-<area shape="rect" id="node5" href="$classHEdge.html#ab459bde00b0954295a3bb65c4e503d5c" title="HEdge::HEdge" alt="" coords="463,132,574,159"/>
-<area shape="rect" id="node8" href="$classVertex__set.html#aaeee57e03ca88288f297f4dcbe529bb4" title="Vertex_set::size_of\l_edges" alt="" coords="451,209,586,250"/>
-</map>

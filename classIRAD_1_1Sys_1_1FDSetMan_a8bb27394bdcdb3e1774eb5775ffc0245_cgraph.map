@@ -1,6 +1,0 @@
-<map id="IRAD::Sys::FDSetMan::Select" name="IRAD::Sys::FDSetMan::Select">
-<area shape="rect" id="node2" href="$classIRAD_1_1Sys_1_1FDSetMan.html#a8d07e6bcdd7282459ebd66cd0d913a8b" title="IRAD::Sys::FDSetMan\l::SetForRead" alt="" coords="211,5,368,46"/>
-<area shape="rect" id="node4" href="$classIRAD_1_1Sys_1_1FDSetMan.html#a49c7b859737767fa80a6b8d38068afa4" title="IRAD::Sys::FDSetMan\l::SetForWrite" alt="" coords="211,70,368,111"/>
-<area shape="rect" id="node5" href="$classIRAD_1_1Sys_1_1FDSetMan.html#a12ced4e21f67b6aaa7f7902eb04ddd7a" title="IRAD::Sys::FDSetMan\l::Zero" alt="" coords="211,135,368,177"/>
-<area shape="rect" id="node3" href="$classIRAD_1_1Sys_1_1FDSetMan.html#a8fb9d02f68d91e9dedd042f05ef817d8" title="IRAD::Sys::FDSetMan::Set" alt="" coords="417,45,602,72"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Overlay::write_inodes_vec" name="Overlay::write_inodes_vec">
-<area shape="rect" id="node2" href="$classOverlay__primitives.html#a1127cbd7d866d96d6ff2cc97262c776e" title="Overlay_primitives\l::get_point" alt="" coords="229,57,360,98"/>
-<area shape="rect" id="node6" href="$classINode.html#aaf64375c225cf9813294a01267c8cd5a" title="INode::halfedge" alt="" coords="237,123,352,149"/>
-<area shape="rect" id="node8" href="$classINode.html#a27d4cbb7fd2d7c58630307ca82a02f3b" title="INode::nat_coor" alt="" coords="237,173,352,200"/>
-<area shape="rect" id="node3" href="$classHEdge.html#af92013f922205b6206cd55bb4c803d05" title="Is the edge a border edge? " alt="" coords="411,5,544,32"/>
-<area shape="rect" id="node4" href="$classPoint__set.html#a5affcd30c1f78c4583af6ce8c728cbf8" title="Point_set::size_of\l_edges" alt="" coords="414,57,541,98"/>
-<area shape="rect" id="node5" href="$classVertex__set.html#aaeee57e03ca88288f297f4dcbe529bb4" title="Vertex_set::size_of\l_edges" alt="" coords="595,57,730,98"/>
-<area shape="rect" id="node7" href="$structHost__face.html#a67c4fb93da962d287e6521c930a0619e" title="Host_face::halfedge" alt="" coords="408,123,547,149"/>
-</map>

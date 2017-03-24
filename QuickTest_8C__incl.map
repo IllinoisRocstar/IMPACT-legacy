@@ -1,9 +1,0 @@
-<map id="QuickTest.C" name="QuickTest.C">
-<area shape="rect" id="node2" href="$Global_8H.html" title="Base global object header. " alt="" coords="1057,80,1129,107"/>
-<area shape="rect" id="node29" href="$Profiler_8H.html" title="Performance Profiling interface definition. " alt="" coords="1688,155,1765,181"/>
-<area shape="rect" id="node31" href="$COMM_8H.html" title="Communication utilities. " alt="" coords="1390,80,1468,107"/>
-<area shape="rect" id="node3" href="$ComLine_8H.html" title="ComLineObject header. " alt="" coords="175,155,263,181"/>
-<area shape="rect" id="node10" href="$UnixUtils_8H.html" title="Unix System Tools interface. " alt="" coords="767,155,857,181"/>
-<area shape="rect" id="node22" href="$primitive__utilities_8H.html" title="Basic utility header. " alt="" coords="1363,155,1496,181"/>
-<area shape="rect" id="node25" href="$PrimitiveTypes_8H.html" title="Simple utility classes. " alt="" coords="1815,229,1937,256"/>
-</map>

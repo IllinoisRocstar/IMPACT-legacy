@@ -1,7 +1,0 @@
-<map id="IRAD::Comm::MobileObject::DestroyBuffer" name="IRAD::Comm::MobileObject::DestroyBuffer">
-<area shape="rect" id="node2" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#af95393de77a0047a2b9cfd66fa6d44e9" title="IRAD::Comm::Communicator\lObject::_AllGatherMO" alt="" coords="240,5,435,46"/>
-<area shape="rect" id="node4" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#a80d3b4a9df6fd77a7f65b38558ba724d" title="IRAD::Comm::Communicator\lObject::_GatherMO" alt="" coords="240,70,435,111"/>
-<area shape="rect" id="node6" href="$classIRAD_1_1Comm_1_1MobileObject.html#ad07e777e4ce60b9ca811adf0efbeca3d" title="IRAD::Comm::MobileObject\l::~MobileObject" alt="" coords="244,135,431,177"/>
-<area shape="rect" id="node3" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#af4a6d599cff4bb7e66fb2929f27fe6f1" title="IRAD::Comm::Communicator\lObject::AllGatherMO" alt="" coords="483,5,677,46"/>
-<area shape="rect" id="node5" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html#ae77fc83efb9b324aec71a0f907f4311d" title="IRAD::Comm::Communicator\lObject::GatherMO" alt="" coords="483,70,677,111"/>
-</map>

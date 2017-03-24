@@ -1,6 +1,0 @@
-<map id="RFC_Window_overlay::unset_strong_edge" name="RFC_Window_overlay::unset_strong_edge">
-<area shape="rect" id="node2" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="247,5,345,32"/>
-<area shape="rect" id="node3" href="$classRFC__Pane__overlay.html#a397fb2792380d019a3b3bd18ef3e46b8" title="RFC_Pane_overlay::unset\l_strong_edge" alt="" coords="208,57,384,98"/>
-<area shape="rect" id="node4" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="432,57,595,98"/>
-<area shape="rect" id="node5" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="643,64,714,91"/>
-</map>

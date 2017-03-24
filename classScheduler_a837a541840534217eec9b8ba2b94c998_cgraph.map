@@ -1,6 +1,0 @@
-<map id="Scheduler::add_action" name="Scheduler::add_action">
-<area shape="rect" id="node2" href="$classAction.html#a0506a2ea781effba697880892e3891b4" title="Action::declare" alt="" coords="205,31,315,57"/>
-<area shape="rect" id="node3" href="$classScheduler.html#a9d6c8f5cc804a8988cbc8cfa62fad4bf" title="Scheduler::reads" alt="" coords="364,5,484,32"/>
-<area shape="rect" id="node5" href="$classScheduler.html#a3fa21b4542306e38bcc47f9951375b5e" title="Scheduler::writes" alt="" coords="363,56,485,83"/>
-<area shape="rect" id="node4" href="$classAction.html#ab2b103593cc3cc75d0ef85c8b2c1f817" title="Action::name" alt="" coords="533,31,632,57"/>
-</map>

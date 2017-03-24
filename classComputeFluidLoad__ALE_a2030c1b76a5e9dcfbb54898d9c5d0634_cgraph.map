@@ -1,5 +1,0 @@
-<map id="ComputeFluidLoad_ALE::run" name="ComputeFluidLoad_ALE::run">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="271,5,404,32"/>
-<area shape="rect" id="node3" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="269,56,406,83"/>
-<area shape="rect" id="node4" href="$classCoupling.html#a31352260a1a9d2d065c4b57c1c23c6a6" title="Coupling::get_rocmancontrol\l_param" alt="" coords="243,107,431,149"/>
-</map>

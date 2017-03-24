@@ -1,6 +1,0 @@
-<map id="HDS_accessor::unmark" name="HDS_accessor::unmark">
-<area shape="rect" id="node2" href="$classHEdge.html#adb6c1869708b78468f667e7462d5e0f0" title="Obtain the pane manifold that owns the edge. " alt="" coords="260,5,359,32"/>
-<area shape="rect" id="node3" href="$classRFC__Pane__overlay.html#a345e8027700eab46e04136a33de74a41" title="RFC_Pane_overlay::unmark" alt="" coords="216,56,403,83"/>
-<area shape="rect" id="node4" href="$classRFC__Pane__overlay.html#ac21e44efed173673b4809df74d0d3b71" title="RFC_Pane_overlay::get\l_index" alt="" coords="451,49,613,90"/>
-<area shape="rect" id="node5" href="$classNode.html#a703c4c528d8b5176ee7a85db7cdd4208" title="Obtain the node ID within its Pane_manifold_2. " alt="" coords="662,56,733,83"/>
-</map>

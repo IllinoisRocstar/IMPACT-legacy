@@ -1,6 +1,0 @@
-<map id="COM_F_FUNC2" name="COM_F_FUNC2">
-<area shape="rect" id="node2" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="195,5,306,32"/>
-<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="174,57,327,98"/>
-<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="381,5,566,32"/>
-<area shape="rect" id="node5" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="377,64,570,91"/>
-</map>

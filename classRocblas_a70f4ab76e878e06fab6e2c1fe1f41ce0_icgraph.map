@@ -1,6 +1,0 @@
-<map id="Rocblas::to_str" name="Rocblas::to_str">
-<area shape="rect" id="node2" href="$classRocblas.html#a2294d90628328833a90f826adba3d8e1" title="Performs the operation: z = a*x + y. " alt="" coords="166,5,301,32"/>
-<area shape="rect" id="node3" href="$classRocblas.html#a126b57260e55d844b1b2f8e428578477" title="Performs the operation: z = x op y. " alt="" coords="182,56,285,83"/>
-<area shape="rect" id="node4" href="$classRocblas.html#a3557b2ba07d978348c7a8b7e86ec9b79" title="Performs the operation: z = &lt;x, y&gt; " alt="" coords="172,107,295,133"/>
-<area shape="rect" id="node5" href="$classRocblas.html#ad1934a397629b99f2d2e7cda5b2493ac" title="Performs the operation opp(x, y) " alt="" coords="171,157,295,184"/>
-</map>

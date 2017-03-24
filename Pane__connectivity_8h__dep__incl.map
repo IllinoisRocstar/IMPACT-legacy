@@ -1,9 +1,0 @@
-<map id="Pane_connectivity.h" name="Pane_connectivity.h">
-<area shape="rect" id="node2" href="$Pane__ghost__connectivity_8h.html" title="Utility for constructing pane ghost connecvtivities in parallel. " alt="" coords="5,80,184,107"/>
-<area shape="rect" id="node4" href="$Pane__communicator_8C.html" title="Handles communication of shared nodes across panes. " alt="" coords="208,80,363,107"/>
-<area shape="rect" id="node5" href="$Pane__connectivity_8C.html" title="Pane_connectivity.C" alt="" coords="387,80,529,107"/>
-<area shape="rect" id="node3" href="$Pane__ghost__connectivity_8C.html" title="Pane_ghost_connectivity.C" alt="" coords="239,155,421,181"/>
-<area shape="rect" id="node6" href="$Rocmap_8C.html" title="Rocmap.C" alt="" coords="605,80,691,107"/>
-<area shape="rect" id="node7" href="$Manifold__2_8C.html" title="Manifold_2.C" alt="" coords="715,80,813,107"/>
-<area shape="rect" id="node8" href="$RFC__Window__base_8C.html" title="RFC_Window_base.C" alt="" coords="838,80,991,107"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Overlay::sq_length" name="Overlay::sq_length">
-<area shape="rect" id="node2" href="$classHEdge.html#a04f18d001291f5014b5d88bb96348f68" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="185,5,327,32"/>
-<area shape="rect" id="node3" href="$classHEdge.html#ac0238c146ab6857ee7353a42eaa9aa74" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="201,56,311,83"/>
-<area shape="rect" id="node4" href="$classNode.html#ac48da3915cb29c0947996182a426ca8f" title="Obtain the coordinates of a node. " alt="" coords="211,107,301,133"/>
-<area shape="rect" id="node5" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="376,107,544,133"/>
-</map>

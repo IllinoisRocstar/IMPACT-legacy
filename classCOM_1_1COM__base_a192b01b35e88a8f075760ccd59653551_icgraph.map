@@ -1,9 +1,0 @@
-<map id="COM::COM_base::get_modules" name="COM::COM_base::get_modules">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a4228ef8c7e44eed5326353782d8a77d2" title="COM_get_modules" alt="" coords="209,45,343,72"/>
-<area shape="rect" id="node3" href="$classCOM_1_1TestingObject.html#a9bef407c06e77e108dc3e96af3680bff" title="Test for COM_get_modules. " alt="" coords="393,38,535,79"/>
-<area shape="rect" id="node4" href="$classCOM_1_1TestingObject.html#adc0220ab9f8f32b94ec41af81b8e1b57" title="Runs all tests implemented by the COM::TestingObject. " alt="" coords="585,5,727,46"/>
-<area shape="rect" id="node7" href="$classCOM_1_1TestingObject.html#a102d13152c0a803003158db518f90dde" title="Runs a test specified by name. " alt="" coords="585,70,727,111"/>
-<area shape="rect" id="node5" href="$namespaceCOM.html#a071a4ed0afce0146c60c14de880f8c0e" title="Drives the COM::TestObject for the COM tests. " alt="" coords="805,16,891,43"/>
-<area shape="rect" id="node6" href="$TestCOM_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="968,16,1019,43"/>
-<area shape="rect" id="node8" href="$classCOM_1_1TestingObject.html#a0b87cb849cde43284a7a7103a35d2aed" title="Runs a list of tests specified by name. " alt="" coords="777,70,919,111"/>
-</map>

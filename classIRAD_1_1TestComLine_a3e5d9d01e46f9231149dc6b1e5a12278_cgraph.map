@@ -1,6 +1,0 @@
-<map id="IRAD::TestComLine::Initialize" name="IRAD::TestComLine::Initialize">
-<area shape="rect" id="node2" href="$classIRAD_1_1Util_1_1ComLineObject.html#a32877d4edd2ff3ce505c4f01a073e387" title="Specify the usage info for application argument. " alt="" coords="203,5,384,46"/>
-<area shape="rect" id="node3" href="$classIRAD_1_1Util_1_1ComLineObject.html#adc4be707e6aaf7d7a2df09ef2e25ea63" title="User interface to describe an application argument. " alt="" coords="203,70,384,111"/>
-<area shape="rect" id="node4" href="$classIRAD_1_1Util_1_1ComLineObject.html#ad987c9b1342f1b89e35065b4dde20340" title="Specify usage for an option. " alt="" coords="203,135,384,177"/>
-<area shape="rect" id="node5" href="$classIRAD_1_1Util_1_1ComLineObject.html#aee4b6c546b777229f753589fb779f0f8" title="User interface to describe simple option. " alt="" coords="203,201,384,242"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ComponentInterface::new_dataitem" name="ComponentInterface::new_dataitem">
-<area shape="rect" id="node2" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="235,5,360,32"/>
-<area shape="rect" id="node3" href="$classConnectivity.html#aac50b12edf84c2b41facc6b3e47dd8d7" title="Connectivity::is_element_name" alt="" coords="195,56,400,83"/>
-<area shape="rect" id="node4" href="$classPane.html#a6025860eb3524d32672d6cb38361be7a" title="Pane::new_dataitem" alt="" coords="227,107,368,133"/>
-<area shape="rect" id="node5" href="$classDataItem.html#a5edd77180ff7e88445e31305c44ebbc0" title="Obtain the name of the dataitem. " alt="" coords="449,107,565,133"/>
-</map>

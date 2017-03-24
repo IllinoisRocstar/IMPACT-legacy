@@ -1,5 +1,0 @@
-<map id="Element_node_enumerator_uns::next" name="Element_node_enumerator_uns::next">
-<area shape="rect" id="node2" href="$classPane__dual__connectivity.html#a33cf4bfe5fe8ffb4afd7ab8f697fb132" title="Construct dual connectivity for unstructured meshes. " alt="" coords="232,5,429,46"/>
-<area shape="rect" id="node4" href="$classPane__boundary.html#a350b139530532dd03024d964f428a731" title="Determine the isolated nodes (i.e. not belonging to any element) " alt="" coords="242,70,419,111"/>
-<area shape="rect" id="node3" href="$classPane__dual__connectivity.html#a113e6838653f279065d924d61735c1e4" title="Constructs the dual connectivity for a given pane. " alt="" coords="477,5,645,46"/>
-</map>

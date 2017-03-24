@@ -1,7 +1,0 @@
-<map id="Coupling::init" name="Coupling::init">
-<area shape="rect" id="node2" href="$classCoupling.html#ab5a00ddd5f422fb23783f6100881213e" title="Coupling::callMethod" alt="" coords="157,5,301,32"/>
-<area shape="rect" id="node3" href="$classScheduler.html#a0edd68314b2d888bcecfc36cb327319d" title="Scheduler::init_actions" alt="" coords="152,56,307,83"/>
-<area shape="rect" id="node6" href="$classScheduler.html#a5051b08c90d9e183bf05f81837542adf" title="Scheduler::restarting" alt="" coords="158,107,301,133"/>
-<area shape="rect" id="node4" href="$structScheduler_1_1ActionItem.html#a836e74a247f64af430f10bf3c8ce2b8d" title="Scheduler::ActionItem\l::action" alt="" coords="355,19,506,61"/>
-<area shape="rect" id="node5" href="$classAction.html#a74765929b138fd10333cb1bf2374036b" title="Action::init" alt="" coords="389,85,473,112"/>
-</map>

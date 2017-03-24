@@ -1,8 +1,0 @@
-<map id="IRAD::Global::Program::Initialize" name="IRAD::Global::Program::Initialize">
-<area shape="rect" id="node2" href="$classIRAD_1_1TestProgram.html#af6d64d096ee6aff4c9e2eb625d97ca73" title="IRAD::TestProgram::\lInitialize" alt="" coords="228,5,375,46"/>
-<area shape="rect" id="node5" href="$classIMPACT_1_1ExampleProgram_1_1SerialProgram.html#a468da01b84e6926921c9036ebf65d3c8" title="Initializes native data structures from commandline args. " alt="" coords="211,70,392,111"/>
-<area shape="rect" id="node6" href="$classIMPACT_1_1ExampleProgram_1_1ParallelProgram.html#ace28e2ceee26e47c1b4df91f6df4dbfa" title="Populates native data structures from commandline. " alt="" coords="211,135,392,177"/>
-<area shape="rect" id="node3" href="$group__irad__group.html#gad32237561ebfead2556fbf127a0f3b4d" title="IRAD::MyTestProgram" alt="" coords="453,12,609,39"/>
-<area shape="rect" id="node4" href="$QuickTest_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="669,12,720,39"/>
-<area shape="rect" id="node7" href="$namespaceIMPACT_1_1ExampleProgram.html#a296d705e7c0f0c4111ff998a2a649431" title="Unified driver for the example programs. " alt="" coords="440,135,621,177"/>
-</map>

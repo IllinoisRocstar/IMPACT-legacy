@@ -1,9 +1,0 @@
-<map id="SolverUtils::GeoPrim::CPlane::contains_point" name="SolverUtils::GeoPrim::CPlane::contains_point">
-<area shape="rect" id="node2" href="$classSolverUtils_1_1GeoPrim_1_1CPlane.html#ac5b807793cab3ef3e74d58f391f0b70d" title="SolverUtils::GeoPrim\l::CPlane::D" alt="" coords="219,167,365,209"/>
-<area shape="rect" id="node4" href="$classSolverUtils_1_1GeoPrim_1_1CPoint.html#ab34f4eb1a68ad1596bcd94cc746be455" title="SolverUtils::GeoPrim\l::CPoint::x" alt="" coords="414,70,559,111"/>
-<area shape="rect" id="node3" href="$classSolverUtils_1_1GeoPrim_1_1CVector.html#a2aea055eec810442aec669e5e7bdc732" title="SolverUtils::GeoPrim\l::CVector::x" alt="" coords="414,5,559,46"/>
-<area shape="rect" id="node6" href="$classSolverUtils_1_1GeoPrim_1_1CPoint.html#a5af989d61d09e0998527d9a346612fc9" title="SolverUtils::GeoPrim\l::CPoint::y" alt="" coords="414,201,559,242"/>
-<area shape="rect" id="node5" href="$classSolverUtils_1_1GeoPrim_1_1CVector.html#abe84e55760a97b8c9d82cebc88fd2c55" title="SolverUtils::GeoPrim\l::CVector::y" alt="" coords="414,135,559,177"/>
-<area shape="rect" id="node8" href="$classSolverUtils_1_1GeoPrim_1_1CPoint.html#a14d6c475730c4a15b31d7340c286540f" title="SolverUtils::GeoPrim\l::CPoint::z" alt="" coords="414,331,559,373"/>
-<area shape="rect" id="node7" href="$classSolverUtils_1_1GeoPrim_1_1CVector.html#a54626033f674c8c6570891d484011860" title="SolverUtils::GeoPrim\l::CVector::z" alt="" coords="414,266,559,307"/>
-</map>

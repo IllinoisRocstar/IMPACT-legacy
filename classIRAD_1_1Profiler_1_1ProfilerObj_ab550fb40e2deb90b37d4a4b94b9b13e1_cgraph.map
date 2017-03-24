@@ -1,5 +1,0 @@
-<map id="IRAD::Profiler::ProfilerObj::FunctionEntry" name="IRAD::Profiler::ProfilerObj::FunctionEntry">
-<area shape="rect" id="node2" href="$classIRAD_1_1Profiler_1_1Event.html#aece08e4940c449c0462495a6e5340251" title="IRAD::Profiler::Event\l::exclusive" alt="" coords="208,5,355,46"/>
-<area shape="rect" id="node3" href="$namespaceIRAD_1_1Profiler.html#a73a4cf42c2e127d8a568f7a23ff10303" title="Simple timer. " alt="" coords="211,71,352,97"/>
-<area shape="rect" id="node4" href="$classIRAD_1_1Profiler_1_1Event.html#a8f30a96ea9b11b9bc2a4b3705225d394" title="IRAD::Profiler::Event\l::timestamp" alt="" coords="208,122,355,163"/>
-</map>

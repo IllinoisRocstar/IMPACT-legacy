@@ -1,9 +1,0 @@
-<map id="Generic_element_2.h" name="Generic_element_2.h">
-<area shape="rect" id="node2" href="$surfbasic_8h.html" title="surfbasic.h" alt="" coords="225,80,311,107"/>
-<area shape="rect" id="node3" href="$mapbasic_8h.html" title="mapbasic.h" alt="" coords="170,155,259,181"/>
-<area shape="rect" id="node7" href="$Element__accessors_8hpp.html" title="Element_accessors.hpp" alt="" coords="268,229,431,256"/>
-<area shape="rect" id="node8" href="$com_8h.html" title="This file contains the prototypes for COM API. " alt="" coords="235,304,293,331"/>
-<area shape="rect" id="node9" href="$com__c_8h.html" title="This file contains the C wrapper for COM_base. " alt="" coords="228,379,300,405"/>
-<area shape="rect" id="node10" href="$com__basic_8h.html" title="This file contains some definitions of macros and constants for COM. " alt="" coords="104,453,200,480"/>
-<area shape="rect" id="node12" href="$commpi_8h.html" title="Contains declarations of MPI subroutines used in COPM. " alt="" coords="225,453,303,480"/>
-</map>

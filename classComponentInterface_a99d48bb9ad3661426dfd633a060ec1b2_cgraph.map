@@ -1,5 +1,0 @@
-<map id="ComponentInterface::resize_array" name="ComponentInterface::resize_array">
-<area shape="rect" id="node2" href="$classComponentInterface.html#ab69b9a8d32ed2e07d832a3eacc681deb" title="Template implementation for setting (op==OP_SET or OP_SET_CONST), allocating (op==OP_ALLOC), resizing (op==OP_RESIZE) and deallocating (op==OP_DEALLOC) an array for a specific connectivity table. " alt="" coords="195,23,335,65"/>
-<area shape="rect" id="node3" href="$classPane.html#a9df594af964506d3bb28668ac8e1fcd9" title="Get the ID of the pane. " alt="" coords="418,5,489,32"/>
-<area shape="rect" id="node4" href="$classConnectivity.html#a3c60c649e6d3325114a0ea444db1596d" title="Parent dataitem being used. " alt="" coords="384,56,523,83"/>
-</map>

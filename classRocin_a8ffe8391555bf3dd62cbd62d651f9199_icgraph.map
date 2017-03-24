@@ -1,7 +1,0 @@
-<map id="Rocin::register_panes" name="Rocin::register_panes">
-<area shape="rect" id="node2" href="$classRocin.html#af873ef4548be6ffa64ebec35a23a8010" title="Create a series of Roccom windows by reading in a list of files. " alt="" coords="203,5,349,32"/>
-<area shape="rect" id="node3" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="817,31,898,57"/>
-<area shape="rect" id="node5" href="$classRocin.html#acf03f03f4f5120c44178c0494fe93299" title="Create a single Roccom window by reading in a list of files. " alt="" coords="398,31,538,57"/>
-<area shape="rect" id="node4" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="947,31,1085,57"/>
-<area shape="rect" id="node6" href="$classRocin.html#ad36f0ab7780acfa2b2aa54907ef9627b" title="Create a single Roccom window by reading in the files specified by the given control file..." alt="" coords="587,81,767,108"/>
-</map>

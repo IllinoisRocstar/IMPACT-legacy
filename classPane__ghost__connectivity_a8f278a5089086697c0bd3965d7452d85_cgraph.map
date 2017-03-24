@@ -1,9 +1,0 @@
-<map id="Pane_ghost_connectivity::get_cpanes" name="Pane_ghost_connectivity::get_cpanes">
-<area shape="rect" id="node2" href="$classDataItem.html#a0d0922334b3760108b254b19b09fc26d" title="Obtain a constant pointer to the physical address. " alt="" coords="237,5,360,32"/>
-<area shape="rect" id="node3" href="$classDataItem.html#a923e28392d450d6f848c26afe6a59548" title="Obtain the number of real items in the dataitem. " alt="" coords="221,81,376,122"/>
-<area shape="rect" id="node4" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="425,88,535,115"/>
-<area shape="rect" id="node5" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="585,110,725,151"/>
-<area shape="rect" id="node6" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="829,63,923,89"/>
-<area shape="rect" id="node7" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="813,115,939,141"/>
-<area shape="rect" id="node8" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="774,165,978,192"/>
-</map>

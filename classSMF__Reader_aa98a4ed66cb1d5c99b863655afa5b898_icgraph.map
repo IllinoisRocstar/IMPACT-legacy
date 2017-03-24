@@ -1,6 +1,0 @@
-<map id="SMF_Reader::get_nextline" name="SMF_Reader::get_nextline">
-<area shape="rect" id="node2" href="$classSMF__Reader.html#a0da570c77eb3c4166446b158bc6214d7" title="SMF_Reader::read_pane\l_coors" alt="" coords="233,5,399,46"/>
-<area shape="rect" id="node5" href="$classSMF__Reader.html#a343d93b4345a0b7846c036a5326afa58" title="SMF_Reader::read_pane\l_elems" alt="" coords="233,70,399,111"/>
-<area shape="rect" id="node3" href="$classSMF__Reader.html#a582f6ceb25a0f1d50dd8945404b730e9" title="SMF_Reader::read_mesh" alt="" coords="448,45,619,72"/>
-<area shape="rect" id="node4" href="$smf2hdf_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="667,45,717,72"/>
-</map>

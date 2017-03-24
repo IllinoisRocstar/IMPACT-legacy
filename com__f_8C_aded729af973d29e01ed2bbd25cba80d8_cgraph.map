@@ -1,7 +1,0 @@
-<map id="COM_F_FUNC2" name="COM_F_FUNC2">
-<area shape="rect" id="node2" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="197,5,307,32"/>
-<area shape="rect" id="node4" href="$utilities_8f90.html#ab66bf2bfb666eb85670a204464cab654" title="com_set_false" alt="" coords="199,56,305,83"/>
-<area shape="rect" id="node5" href="$utilities_8f90.html#a91b218de8859af0016a744c39732080e" title="com_set_true" alt="" coords="201,107,303,133"/>
-<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#a415a06000cea6115c4b53410bf619de5" title="Test whether a nonblocking call has finished. " alt="" coords="173,157,331,184"/>
-<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="379,5,565,32"/>
-</map>

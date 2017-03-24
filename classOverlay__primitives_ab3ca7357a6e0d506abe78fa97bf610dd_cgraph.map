@@ -1,6 +1,0 @@
-<map id="Overlay_primitives::get_face_normal" name="Overlay_primitives::get_face_normal">
-<area shape="rect" id="node2" href="$classVector__3.html#af1401b8491543741ae27481c8253a464" title="Vector_3::cross_product" alt="" coords="185,5,349,32"/>
-<area shape="rect" id="node3" href="$classVector__3.html#affabdcbccb04661900abf6dfba557c41" title="Vector_3::normalize" alt="" coords="197,56,336,83"/>
-<area shape="rect" id="node4" href="$classPoint__set.html#a5affcd30c1f78c4583af6ce8c728cbf8" title="Point_set::size_of\l_edges" alt="" coords="203,107,330,149"/>
-<area shape="rect" id="node5" href="$classVertex__set.html#aaeee57e03ca88288f297f4dcbe529bb4" title="Vertex_set::size_of\l_edges" alt="" coords="398,107,533,149"/>
-</map>

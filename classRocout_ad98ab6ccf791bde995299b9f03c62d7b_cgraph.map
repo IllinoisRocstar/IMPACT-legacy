@@ -1,6 +1,0 @@
-<map id="Rocout::read_control_file" name="Rocout::read_control_file">
-<area shape="rect" id="node2" href="$Rocout_8C.html#a4f41034bafb49b9810a2e53480a97ec9" title="Return true if the given string is the name of a Rocout option. " alt="" coords="403,5,517,32"/>
-<area shape="rect" id="node3" href="$Rocout_8C.html#a8ed0e45f99075ad3a0d94de39ed5dc12" title="Return true if the given Rocout option name/value pair is valid. " alt="" coords="404,68,516,95"/>
-<area shape="rect" id="node5" href="$classRocout.html#a2dc62659087729f5a98725a05f3ab173" title="Set an option for Rocout, such as controlling the output format. " alt="" coords="222,31,354,57"/>
-<area shape="rect" id="node4" href="$Rocout_8C.html#a63a34f134b6080d28daf5c75420da894" title="is_whole" alt="" coords="566,68,639,95"/>
-</map>

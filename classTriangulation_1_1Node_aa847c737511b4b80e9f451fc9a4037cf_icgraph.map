@@ -1,9 +1,0 @@
-<map id="Triangulation::Node::id" name="Triangulation::Node::id">
-<area shape="rect" id="node2" href="$classTriangulation.html#a604332a8745fec83fade7b71a00f7405" title="Triangulation::get\l_point" alt="" coords="208,23,331,65"/>
-<area shape="rect" id="node3" href="$classTriangulation.html#a97c595c7460fbff532009135107e88b8" title="Triangulation::in_cone" alt="" coords="393,5,543,32"/>
-<area shape="rect" id="node8" href="$classTriangulation.html#a4eb926d3c2c9692ced08288a2ce315a0" title="Triangulation::is_diagonalie" alt="" coords="379,56,557,83"/>
-<area shape="rect" id="node4" href="$classTriangulation.html#ace8ba7a465081573a6a8ededf334c2b5" title="Triangulation::is_diagonal" alt="" coords="606,31,775,57"/>
-<area shape="rect" id="node5" href="$classTriangulation.html#ab16e295fab9b3d3fb4b2d392d5c99504" title="Main entry for triangulation. " alt="" coords="825,31,989,57"/>
-<area shape="rect" id="node6" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="1037,31,1216,57"/>
-<area shape="rect" id="node7" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1264,31,1381,57"/>
-</map>

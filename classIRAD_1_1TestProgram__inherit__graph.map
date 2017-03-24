@@ -1,6 +1,0 @@
-<map id="IRAD::TestProgram" name="IRAD::TestProgram">
-<area shape="rect" id="node2" href="$classIRAD_1_1Global_1_1Program.html" title="IRAD::Global::Program\l\&lt; TestGlobal, TestComLine \&gt;" alt="" coords="89,219,284,261"/>
-<area shape="rect" id="node3" href="$classIRAD_1_1Global_1_1ParallelGlobalObj.html" title="TestGlobal" alt="" coords="45,120,131,147"/>
-<area shape="rect" id="node4" href="$classIRAD_1_1Global_1_1GlobalObj.html" title="Base global object. " alt="" coords="5,5,171,61"/>
-<area shape="rect" id="node5" href="$classIRAD_1_1Global_1_1Program.html" title="IRAD::Global::Program\l\&lt; GlobalType, ComLineType \&gt;" alt="" coords="155,113,356,154"/>
-</map>

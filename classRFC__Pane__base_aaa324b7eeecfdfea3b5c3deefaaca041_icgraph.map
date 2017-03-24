@@ -1,6 +1,0 @@
-<map id="RFC_Pane_base::get_lvid" name="RFC_Pane_base::get_lvid">
-<area shape="rect" id="node2" href="$classOverlay.html#a31b447338dffe7665f56d8ba48cefca4" title="Overlay::convert_nat\l_coordinates" alt="" coords="233,5,375,46"/>
-<area shape="rect" id="node5" href="$classRFC__Pane__base.html#afed88f452ad390ddf486abbe3879231b" title="Take a subnode id and an element, return the natrual coordinates within the element. " alt="" coords="229,70,379,111"/>
-<area shape="rect" id="node3" href="$classOverlay.html#a789f8b041383d0f77b5f47e2a67da68d" title="Overlay::number_subfaces" alt="" coords="427,12,605,39"/>
-<area shape="rect" id="node4" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="653,12,771,39"/>
-</map>

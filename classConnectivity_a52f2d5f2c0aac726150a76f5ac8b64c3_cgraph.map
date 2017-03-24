@@ -1,9 +1,0 @@
-<map id="Connectivity::allocate" name="Connectivity::allocate">
-<area shape="rect" id="node2" href="$classDataItem.html#ac22169fd62810286b8614f0de6326766" title="Allocate memory for the dataitem. " alt="" coords="227,83,357,110"/>
-<area shape="rect" id="node8" href="$classConnectivity.html#ad61825c72b551c6acd17e6b82f5c18ab" title="Determine whether the mesh is quadratic. " alt="" coords="203,134,381,161"/>
-<area shape="rect" id="node3" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="627,83,709,110"/>
-<area shape="rect" id="node4" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="481,33,527,59"/>
-<area shape="rect" id="node5" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="647,159,689,186"/>
-<area shape="rect" id="node6" href="$classDataItem.html#aad06f21a0dd126f7495158a70e264696" title="Set the physical address of the dataitem values. " alt="" coords="430,83,578,110"/>
-<area shape="rect" id="node7" href="$classDataItem.html#a2c2b7f9c0ef3902245892dd6c48ca7cd" title="DataItem::copy_array" alt="" coords="430,134,578,161"/>
-</map>

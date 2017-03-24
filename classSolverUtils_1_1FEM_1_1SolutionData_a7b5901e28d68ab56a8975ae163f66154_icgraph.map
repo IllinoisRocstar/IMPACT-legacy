@@ -1,7 +1,0 @@
-<map id="SolverUtils::FEM::SolutionData::GetFieldData" name="SolverUtils::FEM::SolutionData::GetFieldData">
-<area shape="rect" id="node2" href="$classCOM_1_1TestModule.html#a52785f415eee17246eef848e5531d8ff" title="COM::TestModule::Validate\lDataItemAddress" alt="" coords="501,5,685,46"/>
-<area shape="rect" id="node5" href="$namespaceSolverUtils.html#a4b3e50cefefe85867c8de76b742654ff" title="SolverUtils::WriteVTKToStream" alt="" coords="232,71,440,97"/>
-<area shape="rect" id="node3" href="$classCOM_1_1TestModule.html#a2a675f6b63da85d9b8175d2b2df6b478" title="&quot;Loads&quot; the C++ TestModule " alt="" coords="747,45,912,72"/>
-<area shape="rect" id="node4" href="$COM_2testing_2src_2TestModule_8C.html#a8e6eff0527aa57bc1f60c67a9f6adabf" title="C/C++ bindings to load COMTESTMOD. " alt="" coords="961,45,1159,72"/>
-<area shape="rect" id="node6" href="$classCOM_1_1TestModule.html#a4f7814a5d924f4dfb0e5aed3b02e6c07" title="Output solver solution to VTK format. " alt="" coords="489,70,698,111"/>
-</map>

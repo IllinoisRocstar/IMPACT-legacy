@@ -1,8 +1,0 @@
-<map id="DataItem::set_size" name="DataItem::set_size">
-<area shape="rect" id="node2" href="$classComponentInterface.html#ab4152ccab0ba75e94f2c687ebeb2143b" title="Append the given array to the end of the dataitem on a specific pane, and reallocate memory for the d..." alt="" coords="201,5,341,46"/>
-<area shape="rect" id="node3" href="$classPane.html#aaf93a477a77bee5dffd3325d622aeb7e" title="Pane::reinit_dataitem" alt="" coords="198,71,343,97"/>
-<area shape="rect" id="node7" href="$classConnectivity.html#ae01a7aaec87b26fff77502eb376f3af0" title="Set pointer of connectivity table. " alt="" coords="187,121,354,148"/>
-<area shape="rect" id="node4" href="$classComponentInterface.html#ab71f29b6c8b6bbf8e723f19ee345d6dd" title="Implementation for setting (op==OP_SET or OP_SET_CONST), allocating (op==OP_ALLOC), resizing (op==OP_RESIZE) and deallocating (op==OP_DEALLOC) an array for a specific dataitem. " alt="" coords="403,63,543,105"/>
-<area shape="rect" id="node5" href="$classComponentInterface.html#abbbf0b173e6ba7e0745a7e1c4d4249df" title="ComponentInterface\l::dealloc_array" alt="" coords="593,30,733,71"/>
-<area shape="rect" id="node6" href="$classComponentInterface.html#a5cfd395d4e70e630dce44ffc095070df" title="ComponentInterface\l::resize_array" alt="" coords="593,95,733,137"/>
-</map>

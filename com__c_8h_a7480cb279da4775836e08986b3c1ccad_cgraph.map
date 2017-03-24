@@ -1,7 +1,0 @@
-<map id="COM_get_communicator" name="COM_get_communicator">
-<area shape="rect" id="node2" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="243,5,354,32"/>
-<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#af99bb368e6bc0ac95632f3a5e336c08a" title="COM::COM_base::get\l_communicator" alt="" coords="222,57,375,98"/>
-<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="425,5,610,32"/>
-<area shape="rect" id="node5" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="448,60,587,87"/>
-<area shape="rect" id="node6" href="$classComponentInterface.html#acf7fee0d74fc27148af099af83252dfc" title="Obtain the communicator of the CI. " alt="" coords="447,111,587,153"/>
-</map>

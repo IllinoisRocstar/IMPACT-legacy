@@ -1,6 +1,0 @@
-<map id="Coupling::schedule" name="Coupling::schedule">
-<area shape="rect" id="node2" href="$classUserScheduler.html#ae48b0d27fbc7dec568881c57d32f83c4" title="UserScheduler::schedule" alt="" coords="187,45,355,72"/>
-<area shape="rect" id="node3" href="$classScheduler.html#ab4ac2fd1a002a8dcafa9f0edef632653" title="Scheduler::buildDDG" alt="" coords="403,45,549,72"/>
-<area shape="rect" id="node4" href="$structScheduler_1_1ActionItem.html#a9aae03df71664ac002a65328bea3d7fa" title="Scheduler::ActionItem\l::n_read" alt="" coords="598,5,749,46"/>
-<area shape="rect" id="node5" href="$structScheduler_1_1ActionItem.html#ae8c18cad0f1b38cf271bb62458f9d094" title="Scheduler::ActionItem\l::hasOutput" alt="" coords="598,70,749,111"/>
-</map>

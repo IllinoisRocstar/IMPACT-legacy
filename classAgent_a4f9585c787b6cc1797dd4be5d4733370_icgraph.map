@@ -1,5 +1,0 @@
-<map id="Agent::finalize" name="Agent::finalize">
-<area shape="rect" id="node2" href="$classBurnAgent.html#a06c34ec93f6d2e8b85aaca510676c409" title="BurnAgent::finalize" alt="" coords="162,5,294,32"/>
-<area shape="rect" id="node3" href="$classFluidAgent.html#a9fe10771113cdcb71a06b39f5a9e8c55" title="FluidAgent::finalize" alt="" coords="161,56,295,83"/>
-<area shape="rect" id="node4" href="$classSolidAgent.html#a012ed08aa4e2ae89c828e1c8d05e0757" title="SolidAgent::finalize" alt="" coords="161,107,295,133"/>
-</map>

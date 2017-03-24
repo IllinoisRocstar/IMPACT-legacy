@@ -1,9 +1,0 @@
-<map id="FluidAgent.h" name="FluidAgent.h">
-<area shape="rect" id="node2" href="$basic__actions_8C.html" title="basic_actions.C" alt="" coords="5,80,120,107"/>
-<area shape="rect" id="node3" href="$builtin__couplings_8C.html" title="builtin_couplings.C" alt="" coords="145,80,276,107"/>
-<area shape="rect" id="node4" href="$derived__couplings_8C.html" title="derived_couplings.C" alt="" coords="301,80,440,107"/>
-<area shape="rect" id="node5" href="$FluidAgent_8C.html" title="FluidAgent.C" alt="" coords="465,80,564,107"/>
-<area shape="rect" id="node6" href="$Interpolate_8C.html" title="Interpolate.C" alt="" coords="589,80,685,107"/>
-<area shape="rect" id="node7" href="$Surfdiver_8C.html" title="Surfdiver.C" alt="" coords="711,80,799,107"/>
-<area shape="rect" id="node8" href="$transfer__actions_8C.html" title="transfer_actions.C" alt="" coords="823,80,952,107"/>
-</map>

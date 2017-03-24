@@ -1,6 +1,0 @@
-<map id="maskPoints" name="maskPoints">
-<area shape="rect" id="node2" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#aad00d0450e3a3b113943145b1a49d4e8" title="Returns a reference to the list of nodes shared with the remotePane. " alt="" coords="151,5,390,61"/>
-<area shape="rect" id="node4" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#a21e9407420a22270aa2f2a65937bd898" title="Returns the number of nodes shared with a particular remote pane. " alt="" coords="161,85,380,141"/>
-<area shape="rect" id="node5" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#ab69b329159afdf7c9fdd2c00eb21f03d" title="Returns the remote pane ids that are connected to this instance. " alt="" coords="144,166,397,207"/>
-<area shape="rect" id="node3" href="$classRocstar_1_1Rocin_1_1Utilities_1_1PaneConnectivity.html#ae6b459970eaa073c2aafe6747aba0e45" title="Checks if the pane exists in this instance. " alt="" coords="445,53,637,94"/>
-</map>

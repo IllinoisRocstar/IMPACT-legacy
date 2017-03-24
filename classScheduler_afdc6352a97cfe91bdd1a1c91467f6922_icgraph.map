@@ -1,7 +1,0 @@
-<map id="Scheduler::isEmpty" name="Scheduler::isEmpty">
-<area shape="rect" id="node2" href="$classAgent.html#a3c282342a075445fb4fb99cf3be75af6" title="Agent::init_callback" alt="" coords="189,5,325,32"/>
-<area shape="rect" id="node5" href="$classAgent.html#a29fda3f7a0f8e18d64222e09354f6524" title="Agent::obtain_gm" alt="" coords="195,56,319,83"/>
-<area shape="rect" id="node3" href="$classAgent.html#ae584ba64d7194b7643f7d82f91b98d74" title="Agent::create_window" alt="" coords="374,5,525,32"/>
-<area shape="rect" id="node4" href="$classAgent.html#ad5a0bdccbd94e664ad130a6316f96ca7" title="Agent::Agent" alt="" coords="573,5,672,32"/>
-<area shape="rect" id="node6" href="$classGMInvoker.html#abedb668ac33715586fd22a7b2d1ad5dd" title="GMInvoker::run" alt="" coords="393,56,505,83"/>
-</map>

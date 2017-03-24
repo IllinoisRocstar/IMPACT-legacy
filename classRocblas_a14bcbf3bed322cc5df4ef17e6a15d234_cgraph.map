@@ -1,4 +1,0 @@
-<map id="Rocblas::dot_scalar" name="Rocblas::dot_scalar">
-<area shape="rect" id="node2" href="$classRocblas.html#a90e186bf42fb227ef815e26a00dc5885" title="Wrapper for 2&#45;norm with z as a scalar pointer. " alt="" coords="193,5,362,32"/>
-<area shape="rect" id="node3" href="$classDataItem.html#a61ab5f23ac78a344ef56534d83b84fa4" title="Obtain the data type of each component of the dataitem. " alt="" coords="411,5,552,32"/>
-</map>

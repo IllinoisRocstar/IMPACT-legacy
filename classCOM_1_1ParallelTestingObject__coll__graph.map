@@ -1,8 +1,0 @@
-<map id="COM::ParallelTestingObject&lt; CommType, ResultsType &gt;" name="COM::ParallelTestingObject&lt; CommType, ResultsType &gt;">
-<area shape="rect" id="node2" href="$classCOM_1_1TestingObject.html" title="Project&#45;specific testing object. " alt="" coords="823,66,966,107"/>
-<area shape="rect" id="node3" href="$classIRAD_1_1Util_1_1TestingObject.html" title="Interface for a general testing object. " alt="" coords="446,5,618,46"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="492,71,572,97"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="153,63,279,105"/>
-<area shape="rect" id="node9" href="$classIRAD_1_1Comm_1_1CommunicatorObject.html" title="Main encapsulation of MPI. " alt="" coords="797,230,992,271"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="158,252,274,279"/>
-</map>

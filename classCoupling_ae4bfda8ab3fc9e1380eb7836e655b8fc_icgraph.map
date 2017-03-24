@@ -1,5 +1,0 @@
-<map id="Coupling::reload_rocface" name="Coupling::reload_rocface">
-<area shape="rect" id="node2" href="$classCoupling.html#a6030e34451d81c7c5dfd5d3d629c9541" title="Coupling::initialize" alt="" coords="221,31,349,57"/>
-<area shape="rect" id="node3" href="$classCoupling.html#a359efb26ef8ba68b33f7e57a2d18c71a" title="Coupling::restart_at_time" alt="" coords="397,5,565,32"/>
-<area shape="rect" id="node4" href="$rocstar__driver_8C.html#ad1de69ebc9df30ede377e74fdc577cd4" title="rocstar_driver" alt="" coords="613,31,715,57"/>
-</map>

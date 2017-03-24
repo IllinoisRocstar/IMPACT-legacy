@@ -1,7 +1,0 @@
-<map id="IMPACT::TestingObject::Prologue" name="IMPACT::TestingObject::Prologue">
-<area shape="rect" id="node2" href="$classIMPACT_1_1TestingObject.html#aced3a38984dba978cdfb75f462efa539" title="Runs all tests implemented by the IMPACT::TestingObject. " alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node5" href="$classIMPACT_1_1TestingObject.html#a86917836f0a41723040a1aaa0c173213" title="Runs a list of tests specified by name. " alt="" coords="427,114,589,155"/>
-<area shape="rect" id="node6" href="$classIMPACT_1_1TestingObject.html#a1a02a8b45399cbf57943759e9f4ad9a5" title="Runs a test specified by name. " alt="" coords="216,70,379,111"/>
-<area shape="rect" id="node3" href="$namespaceIMPACT.html#a3d1ad947d33d9dad6b7d0c13d24ed3b2" title="Drives the IMPACT::TestObject. " alt="" coords="455,48,561,75"/>
-<area shape="rect" id="node4" href="$TestIMPACT_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="637,48,688,75"/>
-</map>

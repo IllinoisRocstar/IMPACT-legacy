@@ -1,9 +1,0 @@
-<map id="Connectivity::set_pointer" name="Connectivity::set_pointer">
-<area shape="rect" id="node2" href="$classDataItem.html#ac22169fd62810286b8614f0de6326766" title="Allocate memory for the dataitem. " alt="" coords="223,95,353,121"/>
-<area shape="rect" id="node6" href="$classDataItem.html#aad06f21a0dd126f7495158a70e264696" title="Set the physical address of the dataitem values. " alt="" coords="403,5,551,32"/>
-<area shape="rect" id="node8" href="$classDataItem.html#ad85779e3da6e56e71426a0d9aedba9c2" title="Set the size of items and ghost items. " alt="" coords="221,145,355,172"/>
-<area shape="rect" id="node3" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="600,56,683,83"/>
-<area shape="rect" id="node4" href="$Vector__n_8h.html#a7dddfa733bea2c50f405764d775e636a" title="max" alt="" coords="454,107,501,133"/>
-<area shape="rect" id="node5" href="$Vector__n_8h.html#aa501d41ea25a24792164a12fd4784044" title="min" alt="" coords="620,183,663,209"/>
-<area shape="rect" id="node7" href="$classDataItem.html#a2c2b7f9c0ef3902245892dd6c48ca7cd" title="DataItem::copy_array" alt="" coords="403,157,551,184"/>
-</map>

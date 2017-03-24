@@ -1,5 +1,0 @@
-<map id="precondition_fail" name="precondition_fail">
-<area shape="rect" id="node2" href="$rfc__assertions_8C.html#af95d299fc6a168fcb4c0c8956509631b" title="_standard_error_handler" alt="" coords="171,5,333,32"/>
-<area shape="rect" id="node3" href="$commpi_8h.html#a0ac6f9335053e39843f8e0612bc3a0ff" title="COMMPI_Initialized" alt="" coords="183,56,321,83"/>
-<area shape="rect" id="node4" href="$com__exception_8C.html#a968f8230d3a737acba9bc9b878b0f57d" title="Print the stack backtrace. " alt="" coords="182,107,322,133"/>
-</map>

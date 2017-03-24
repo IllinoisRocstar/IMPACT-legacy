@@ -1,5 +1,0 @@
-<map id="Overlay_primitives::get_point" name="Overlay_primitives::get_point">
-<area shape="rect" id="node2" href="$classHEdge.html#af92013f922205b6206cd55bb4c803d05" title="Is the edge a border edge? " alt="" coords="184,5,317,32"/>
-<area shape="rect" id="node3" href="$classPoint__set.html#a5affcd30c1f78c4583af6ce8c728cbf8" title="Point_set::size_of\l_edges" alt="" coords="187,57,314,98"/>
-<area shape="rect" id="node4" href="$classVertex__set.html#aaeee57e03ca88288f297f4dcbe529bb4" title="Vertex_set::size_of\l_edges" alt="" coords="366,57,501,98"/>
-</map>

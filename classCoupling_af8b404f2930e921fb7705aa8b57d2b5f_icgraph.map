@@ -1,5 +1,0 @@
-<map id="Coupling::get_ipc" name="Coupling::get_ipc">
-<area shape="rect" id="node2" href="$classExtrapolate__Linear.html#a80ba725b9109703458d1b17c879de50e" title="Extrapolate_Linear::run" alt="" coords="179,5,335,32"/>
-<area shape="rect" id="node3" href="$classExtrapolate__Central.html#af5fa37765a045cea700788cf51491e50" title="Extrapolate_Central::run" alt="" coords="176,56,339,83"/>
-<area shape="rect" id="node4" href="$classPhysicsAction.html#a541c707ca67c788aeb7f2539fa3f1b58" title="PhysicsAction::run" alt="" coords="191,107,323,133"/>
-</map>

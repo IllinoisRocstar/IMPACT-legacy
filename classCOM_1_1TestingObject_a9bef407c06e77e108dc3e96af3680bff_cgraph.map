@@ -1,8 +1,0 @@
-<map id="COM::TestingObject::Test__GetModules" name="COM::TestingObject::Test__GetModules">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a4228ef8c7e44eed5326353782d8a77d2" title="COM_get_modules" alt="" coords="198,45,333,72"/>
-<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#a7c6d304cab01f422df432933a5a42af8" title="COM_get_windows" alt="" coords="197,96,333,123"/>
-<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="403,71,514,97"/>
-<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a192b01b35e88a8f075760ccd59653551" title="Obtain a list of all module names. " alt="" coords="382,5,535,46"/>
-<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="585,71,770,97"/>
-<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a1cd1b20f544e16766bb17e9d4989e3d5" title="Obtain a list of all window names. " alt="" coords="382,122,535,163"/>
-</map>

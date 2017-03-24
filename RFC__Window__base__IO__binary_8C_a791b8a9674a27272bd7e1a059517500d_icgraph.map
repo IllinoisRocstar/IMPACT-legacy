@@ -1,6 +1,0 @@
-<map id="write" name="write">
-<area shape="rect" id="node2" href="$classIRAD_1_1Sys_1_1fdoutbuf.html#a10c6cfdfc2a70ac096e90919da4ecfff" title="IRAD::Sys::fdoutbuf\l::overflow" alt="" coords="113,5,255,46"/>
-<area shape="rect" id="node3" href="$classRFC__Pane__base.html#a04957dadfc1116ea159c137288f63afe" title="RFC_Pane_base::write\l_binary" alt="" coords="105,70,263,111"/>
-<area shape="rect" id="node5" href="$classIRAD_1_1Sys_1_1fdoutbuf.html#af7128c74d98ab72c252d3e052583afce" title="IRAD::Sys::fdoutbuf\l::xsputn" alt="" coords="113,135,255,177"/>
-<area shape="rect" id="node4" href="$classRFC__Window__base.html#acda54d69c9bb69dc6d7d5988340d2758" title="Write out panes in native binary format or using Rocout. " alt="" coords="312,77,515,104"/>
-</map>

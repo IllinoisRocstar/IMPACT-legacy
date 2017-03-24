@@ -1,8 +1,0 @@
-<map id="Agent::init_function_handles" name="Agent::init_function_handles">
-<area shape="rect" id="node2" href="$classBurnAgent.html#a05d861a5be0013ed7081245c6c827890" title="BurnAgent::load_module" alt="" coords="191,5,355,32"/>
-<area shape="rect" id="node4" href="$classFluidAgent.html#ae16e1ff53a82961200804b1cf3ab9b86" title="FluidAgent::load_module" alt="" coords="191,56,356,83"/>
-<area shape="rect" id="node6" href="$classSolidAgent.html#aa30f0caf18d61ec2ef6e2867f1db24d0" title="SolidAgent::load_module" alt="" coords="190,107,357,133"/>
-<area shape="rect" id="node3" href="$classBurnAgent.html#a61193c6d5f2b7e9ff28498f6cd635148" title="BurnAgent::BurnAgent" alt="" coords="408,5,560,32"/>
-<area shape="rect" id="node5" href="$classFluidAgent.html#a1642ca957ad9beff4934c8e267881a6b" title="FluidAgent::FluidAgent" alt="" coords="407,56,561,83"/>
-<area shape="rect" id="node7" href="$classSolidAgent.html#a84c8d25f502c81152331ddc8d3f3dcb2" title="SolidAgent::SolidAgent" alt="" coords="406,107,562,133"/>
-</map>

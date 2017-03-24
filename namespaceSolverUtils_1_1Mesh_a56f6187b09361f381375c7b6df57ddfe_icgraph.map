@@ -1,6 +1,0 @@
-<map id="SolverUtils::Mesh::QUAD_OK" name="SolverUtils::Mesh::QUAD_OK">
-<area shape="rect" id="node2" href="$classSolverUtils_1_1Mesh_1_1GenericElement.html#a18420110f7af3d9cbf126e64daf4f412" title="SolverUtils::Mesh::\lGenericElement::ShapeOK" alt="" coords="189,70,368,111"/>
-<area shape="rect" id="node3" href="$namespaceSolverUtils_1_1Mesh.html#aaa496d88786f56336e4c0140ed3af8df" title="SolverUtils::Mesh::\lWriteVTKToStream" alt="" coords="444,5,580,46"/>
-<area shape="rect" id="node4" href="$namespaceSolverUtils_1_1Mesh.html#adb148c0ff457304ec96924e6a8b85ce9" title="Writes the merged grid and its data in VTK UNSTRUCTURED_GRID file format. " alt="" coords="445,70,579,111"/>
-<area shape="rect" id="node5" href="$classSolverUtils_1_1FEM_1_1SolverAgent.html#a767b548487e4ba71ab0f8a0d8c69efed" title="SolverUtils::FEM::Solver\lAgent::ReportMeshToStream" alt="" coords="416,135,608,177"/>
-</map>

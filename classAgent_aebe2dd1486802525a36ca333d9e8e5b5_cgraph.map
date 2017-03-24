@@ -1,5 +1,0 @@
-<map id="Agent::init_bcinitaction" name="Agent::init_bcinitaction">
-<area shape="rect" id="node2" href="$classScheduler.html#a0edd68314b2d888bcecfc36cb327319d" title="Scheduler::init_actions" alt="" coords="208,41,363,68"/>
-<area shape="rect" id="node3" href="$structScheduler_1_1ActionItem.html#a836e74a247f64af430f10bf3c8ce2b8d" title="Scheduler::ActionItem\l::action" alt="" coords="411,5,562,46"/>
-<area shape="rect" id="node4" href="$classAction.html#a74765929b138fd10333cb1bf2374036b" title="Action::init" alt="" coords="445,71,529,97"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="COM_get_status" name="COM_get_status">
-<area shape="rect" id="node2" href="$Rocin_8C.html#a47c0cc95b287e4a13de0621aba5472e3" title="load_data_HDF4" alt="" coords="176,5,296,32"/>
-<area shape="rect" id="node3" href="$classRocin.html#af873ef4548be6ffa64ebec35a23a8010" title="Create a series of Roccom windows by reading in a list of files. " alt="" coords="344,5,491,32"/>
-<area shape="rect" id="node4" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="958,31,1039,57"/>
-<area shape="rect" id="node6" href="$classRocin.html#acf03f03f4f5120c44178c0494fe93299" title="Create a single Roccom window by reading in a list of files. " alt="" coords="539,31,679,57"/>
-<area shape="rect" id="node5" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="1088,31,1227,57"/>
-<area shape="rect" id="node7" href="$classRocin.html#ad36f0ab7780acfa2b2aa54907ef9627b" title="Create a single Roccom window by reading in the files specified by the given control file..." alt="" coords="729,81,909,108"/>
-</map>

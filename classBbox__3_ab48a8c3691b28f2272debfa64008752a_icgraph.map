@@ -1,9 +1,0 @@
-<map id="Bbox_3::zmax" name="Bbox_3::zmax">
-<area shape="rect" id="node2" href="$classBbox__3.html#ae28d38d3e0896c215a04e7aa339d66d8" title="Bbox_3::do_match" alt="" coords="160,5,291,32"/>
-<area shape="rect" id="node4" href="$Bbox__3_8h.html#a6120c76991e6cae48af410ae07c0f2d7" title="do_overlap" alt="" coords="183,56,268,83"/>
-<area shape="rect" id="node5" href="$Bbox__3_8h.html#accda5dcf10778ca644a5783cd4d3daa5" title="do_overlap_eps" alt="" coords="169,107,282,133"/>
-<area shape="rect" id="node6" href="$Bbox__3_8h.html#a785b1a1116268b02e4ebca908347265b" title="do_overlap_strict" alt="" coords="165,157,286,184"/>
-<area shape="rect" id="node7" href="$Overlay__1d_8C.html#a614cc01379dcdd2a990f215cee118133" title="equal" alt="" coords="199,208,252,235"/>
-<area shape="rect" id="node8" href="$Bbox__3_8h.html#a3f4e4b49f8f7b6c21d094e917a30e9ec" title="operator\&lt;\&lt;" alt="" coords="183,259,268,285"/>
-<area shape="rect" id="node3" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="339,157,456,184"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="ComputeMeshMotion::init" name="ComputeMeshMotion::init">
-<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="417,35,597,61"/>
-<area shape="rect" id="node6" href="$classAction.html#ac9e67425e327459222bf5157196fa141" title="Action::get_dataitem\l_handle" alt="" coords="225,57,367,98"/>
-<area shape="rect" id="node7" href="$classAgent.html#acb47d78e6a90b24e89ba060b7bae4b54" title="Agent::get_surface\l_window" alt="" coords="230,122,362,163"/>
-<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="667,5,778,32"/>
-<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="646,57,799,98"/>
-<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="849,5,1034,32"/>
-</map>
