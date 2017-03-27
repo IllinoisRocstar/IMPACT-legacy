@@ -1,0 +1,13 @@
+<map id="NewDataItem::create" name="NewDataItem::create">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a16b2a9aeed9d53bd2d11d4221ef2c148" title="COM_get_dataitem" alt="" coords="223,111,358,137"/>
+<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="201,60,381,87"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#a8d14cf34eccebd1168103d4624ac2677" title="Registering an dataitem type. " alt="" coords="220,161,361,188"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#ab6a6d18043bc76f9a381084af49c6a9f" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="225,212,356,239"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="459,136,570,163"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a9e78ff33f6875dec84c8c2bf9bb15b48" title="Information retrieval Get the information about an dataitem. " alt="" coords="438,70,591,111"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="649,136,834,163"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="438,5,591,46"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ae4d775df72eadf0171e9401fafebffc1" title="Creates a new dataitem for a window. " alt="" coords="435,187,594,229"/>
+<area shape="rect" id="node10" href="$COM__base_8C.html#afe90d629a5053e5b8e54940849d34862" title="print_type" alt="" coords="702,195,781,221"/>
+<area shape="rect" id="node12" href="$classCOM_1_1COM__base.html#a7554b5d8e8f2756e078e931294b96af4" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="429,253,600,294"/>
+</map>

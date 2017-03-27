@@ -1,0 +1,6 @@
+<map id="HDF4::init" name="HDF4::init">
+<area shape="rect" id="node2" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="137,5,226,32"/>
+<area shape="rect" id="node4" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="141,56,222,83"/>
+<area shape="rect" id="node3" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="275,5,429,32"/>
+<area shape="rect" id="node5" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="283,56,421,83"/>
+</map>

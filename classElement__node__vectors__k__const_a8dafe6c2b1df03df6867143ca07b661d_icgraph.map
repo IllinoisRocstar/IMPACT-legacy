@@ -1,0 +1,24 @@
+<map id="Element_node_vectors_k_const::set" name="Element_node_vectors_k_const::set">
+<area shape="rect" id="node2" href="$classRocsurf.html#a43a793ae1d3903fcc5af65cb4a6694b9" title="Computes the volume bounded between two different locations of each face of the surface mesh of windo..." alt="" coords="1083,5,1266,46"/>
+<area shape="rect" id="node9" href="$classRocsurf.html#aaa5c77cef5d88304a4065c87cfc1167a" title="Computes the area of each face of the surface mesh of window areas&#45;&gt;window and saves the results in d..." alt="" coords="856,61,1035,102"/>
+<area shape="rect" id="node10" href="$classRocsurf.html#ab4882edc82971adb06406bcc3e10cd73" title="Computes elemental normals of a given window. " alt="" coords="411,177,589,218"/>
+<area shape="rect" id="node15" href="$classRocsurf.html#a95b20617337bb0684ffc49502d88d128" title="Computes the signed volume of a body. " alt="" coords="637,353,808,394"/>
+<area shape="rect" id="node16" href="$classRocsurf.html#af6fe1ea3b45b9c65542dbe1d9239e3f0" title="Computes the swept volume by a given displacement of each face of the surface mesh of window volumes&#45;..." alt="" coords="416,403,584,445"/>
+<area shape="rect" id="node17" href="$classWindow__manifold__2.html#a57c6b6067d689e3c67abadd9ee212d9f" title="Convert element values to nodal values using weighted averaging. " alt="" coords="427,265,573,306"/>
+<area shape="rect" id="node19" href="$Manifold__2_8C.html#a305742238b48caccbf60160496982547" title="Get the face normal of a point in the element incident on h. " alt="" coords="242,520,329,547"/>
+<area shape="rect" id="node22" href="$classRocsurf.html#adaa7a2e8a5b441c3e737d00264944308" title="Integrate a function given by an elemental dataitem over surface z is an array of size equal to numbe..." alt="" coords="222,465,349,492"/>
+<area shape="rect" id="node23" href="$classElement__node__vectors__k.html#ae12a0d3e5343b7c43f31f2ddee368aab" title="Element_node_vectors\l_k::set" alt="" coords="208,286,363,327"/>
+<area shape="rect" id="node3" href="$classRocsurf.html#ae9fad57e81d3da407b4175a3fe1240ab" title="Loads Rocsurf onto Roccom with a given module name. " alt="" coords="1315,237,1415,264"/>
+<area shape="rect" id="node4" href="$Rocsurf_8C.html#ad0a5f66c12c8a82b5d9ac88e3bc4ebce" title="SurfUtil_load_module" alt="" coords="1492,136,1639,163"/>
+<area shape="rect" id="node5" href="$Rocsurf_8C.html#ae97e7777a20771747fe1a14f32e6939e" title="surfutil_load_module" alt="" coords="1495,187,1636,213"/>
+<area shape="rect" id="node6" href="$Rocsurf_8C.html#a327ce0b2abd104017c599a0dcf148f1e" title="SURFUTIL_LOAD_MODULE" alt="" coords="1468,237,1663,264"/>
+<area shape="rect" id="node7" href="$Rocsurf_8C.html#acfeef2c3bb05d65b4b4791aefd0e2b21" title="surfutil_load_module_" alt="" coords="1491,288,1639,315"/>
+<area shape="rect" id="node8" href="$Rocsurf_8C.html#a799173802658532994c9bb89836dce19" title="SURFUTIL_LOAD_MODULE_" alt="" coords="1464,339,1667,365"/>
+<area shape="rect" id="node11" href="$classWindow__manifold__2.html#a84ab729c39b78534b617728cd60582c8" title="Compute nodal normals using one of the following weighting schemes: E2N_ONE, E2N_AREA, and E2N_ANGLE, and E2N_USER. " alt="" coords="641,235,804,277"/>
+<area shape="rect" id="node12" href="$classWindow__manifold__2.html#a6c39c023dbe78b00e91b3d5693ea216d" title="Compute the normals at nodes or faces, depending on the type of the dataitem normals. " alt="" coords="872,178,1019,219"/>
+<area shape="rect" id="node14" href="$classWindow__manifold__2.html#aad29e9f557854ef4546bb8614205abda" title="Perturb the given mesh along its normal direction by length equal to a random number between &#45;range a..." alt="" coords="872,243,1019,285"/>
+<area shape="rect" id="node13" href="$classRocsurf.html#a94a02b38e559f4da89d554a661c68d01" title="Computes nodal or elemental normals of a given window. " alt="" coords="1085,200,1264,227"/>
+<area shape="rect" id="node18" href="$classRocsurf.html#ae88ac8c15c0952ecf710d15d67b8dea8" title="Computes nodal or elemental normals of a given window. " alt="" coords="1101,266,1248,307"/>
+<area shape="rect" id="node20" href="$classHalfedge.html#a138f3a3baa9aebaab4f589d8dfea1c55" title="Get the normal of the incident facet. " alt="" coords="439,524,561,551"/>
+<area shape="rect" id="node21" href="$classHalfedge.html#a269dc2510d5500c2747c77287d4e6da7" title="Return the dihedral angle at the edge. " alt="" coords="659,521,786,562"/>
+</map>

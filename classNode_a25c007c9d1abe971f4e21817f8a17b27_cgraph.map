@@ -1,0 +1,6 @@
+<map id="Node::is_isolated" name="Node::is_isolated">
+<area shape="rect" id="node2" href="$classSimple__manifold__2.html#afcbdb6d8deb9bfdfe8c6b53fefdee053" title="Is the node isolated (i.e. not incident on any element)? " alt="" coords="177,23,317,65"/>
+<area shape="rect" id="node3" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="366,5,503,32"/>
+<area shape="rect" id="node5" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="384,56,485,83"/>
+<area shape="rect" id="node4" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="553,5,650,32"/>
+</map>

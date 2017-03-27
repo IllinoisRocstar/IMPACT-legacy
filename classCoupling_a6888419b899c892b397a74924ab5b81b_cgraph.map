@@ -1,0 +1,5 @@
+<map id="Coupling::finalize" name="Coupling::finalize">
+<area shape="rect" id="node2" href="$classScheduler.html#a0730f19dd30bb10018c7d70b2d749996" title="Scheduler::finalize\l_actions" alt="" coords="177,34,306,75"/>
+<area shape="rect" id="node3" href="$structScheduler_1_1ActionItem.html#a836e74a247f64af430f10bf3c8ce2b8d" title="Scheduler::ActionItem\l::action" alt="" coords="355,5,506,46"/>
+<area shape="rect" id="node4" href="$classAction.html#ac25cdec7b0ff8bd7c9084092f126484b" title="Action::finalize" alt="" coords="377,71,485,97"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Simple_manifold_2::get_next_ghost_edge" name="Simple_manifold_2::get_next_ghost_edge">
+<area shape="rect" id="node2" href="$classSimple__manifold__2.html#a03cc144ae629d353ded148f5dde2e330" title="Simple_manifold_2::\lget_next_ghost_edge\l_interior" alt="" coords="431,482,577,538"/>
+<area shape="rect" id="node7" href="$classSimple__manifold__2.html#a009de58b173e4f9f7873affc3141690b" title="Get the ID of the opposite ghost edge of a given real or border edge. " alt="" coords="200,154,371,196"/>
+<area shape="rect" id="node11" href="$classSimple__manifold__2.html#aa92fe92122f9ca1f08f20d2239a989b0" title="Get the opposite edge of an interior edge of the ghost part. " alt="" coords="419,271,589,327"/>
+<area shape="rect" id="node12" href="$classSimple__manifold__2.html#ad4c16cea267d02d9dc8608809e3a6f28" title="Simple_manifold_2::\lget_prev_ghost_edge\l_interior" alt="" coords="431,402,577,458"/>
+<area shape="rect" id="node8" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="639,179,777,206"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#a66a3b37ab9a9feaedf64d5c27469c660" title="Is the element incident on the give edge a ghost element? " alt="" coords="638,346,778,388"/>
+<area shape="rect" id="node4" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="827,259,928,286"/>
+<area shape="rect" id="node5" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="829,402,926,428"/>
+<area shape="rect" id="node6" href="$classSimple__manifold__2.html#ad0308ff63a62c37f101527c4acbc4f30" title="Get an index for internal edges. " alt="" coords="638,281,778,322"/>
+<area shape="rect" id="node9" href="$classSimple__manifold__2.html#a87f547233b2a97b9d3289655a5f7c1ef" title="Get the opposite edge of a border edge for the ghost pane. " alt="" coords="419,90,589,146"/>
+<area shape="rect" id="node10" href="$classSimple__manifold__2.html#aea2c9e848508bbb89a130de20d360014" title="Is the element incident on the give edge a real element? " alt="" coords="638,62,778,104"/>
+</map>

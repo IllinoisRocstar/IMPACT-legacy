@@ -1,0 +1,9 @@
+<map id="DataItem::size_of_items" name="DataItem::size_of_items">
+<area shape="rect" id="node2" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="422,45,533,72"/>
+<area shape="rect" id="node7" href="$classPane.html#aea6af7f8fa21f531276a598c665fba59" title="Pane::ignore_ghost" alt="" coords="229,29,363,56"/>
+<area shape="rect" id="node8" href="$classDataItem.html#a923e28392d450d6f848c26afe6a59548" title="Obtain the number of real items in the dataitem. " alt="" coords="219,105,373,146"/>
+<area shape="rect" id="node3" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="582,67,722,109"/>
+<area shape="rect" id="node4" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="826,20,921,47"/>
+<area shape="rect" id="node5" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="811,72,936,99"/>
+<area shape="rect" id="node6" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="771,123,975,149"/>
+</map>

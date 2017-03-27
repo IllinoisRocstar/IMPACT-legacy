@@ -1,0 +1,15 @@
+<map id="Halfedge::addr" name="Halfedge::addr">
+<area shape="rect" id="node2" href="$classHalfedge.html#a59c9aaf6f6a8dfcb70c91573f6157f7e" title="Obtain the dataitem on the parent pane of the node. " alt="" coords="177,30,279,57"/>
+<area shape="rect" id="node4" href="$com__c_09_09_8hpp.html#ad0963775a018dcb83d982e5cfeeb3a22" title="COM_get_sizeof" alt="" coords="168,81,288,107"/>
+<area shape="rect" id="node6" href="$classHalfedge.html#a242209104d3b0c35193a2e97d7d0461f" title="Is the edge a border edge? " alt="" coords="161,133,295,159"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="344,6,512,33"/>
+<area shape="rect" id="node5" href="$commpi_8C.html#aa00c2248b16333919baea12e6935aac9" title="Get the size of a given MPI data type. " alt="" coords="387,78,469,105"/>
+<area shape="rect" id="node7" href="$classPane__manifold__2.html#a9ef5b0f5f84f2f82d2361784c9527d65" title="Is the edge on the boundary of a given mode? " alt="" coords="358,129,498,171"/>
+<area shape="rect" id="node8" href="$classSimple__manifold__2.html#a366fc28946bdaacef84f47e8f30f3ce6" title="Determine whether a given edge is a border edge of real part of the pane (either on physical border o..." alt="" coords="575,64,715,105"/>
+<area shape="rect" id="node12" href="$classSimple__manifold__2.html#a17a6ad1d6e1acb1b551f98a4e1688651" title="Determine whether a given edge is a border edge of real part of the whole pane (on physical border)..." alt="" coords="560,129,731,171"/>
+<area shape="rect" id="node9" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="779,79,917,106"/>
+<area shape="rect" id="node13" href="$classPane__manifold__2.html#a598b2a659322c43fcbc59586b7952b45" title="Get the counterpart of an edge in the ACROSS_PANE mode, i.e. " alt="" coords="571,195,719,236"/>
+<area shape="rect" id="node14" href="$classHalfedge.html#aed6bb7abce0d79b2b3850f0c2a19bb74" title="Obtain the pane manifold that owns the edge. " alt="" coords="562,261,729,287"/>
+<area shape="rect" id="node11" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="797,137,899,163"/>
+<area shape="rect" id="node10" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="966,79,1063,106"/>
+</map>

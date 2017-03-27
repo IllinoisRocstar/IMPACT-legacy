@@ -1,0 +1,5 @@
+<map id="Simple_manifold_2::get_border_edgeID" name="Simple_manifold_2::get_border_edgeID">
+<area shape="rect" id="node2" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="213,5,315,32"/>
+<area shape="rect" id="node3" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="195,56,333,83"/>
+<area shape="rect" id="node4" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="382,56,479,83"/>
+</map>

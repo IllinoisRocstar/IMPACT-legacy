@@ -1,0 +1,10 @@
+<map id="Control_parameters::update_communicator" name="Control_parameters::update_communicator">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="253,20,387,47"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="232,71,408,97"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#af747aaa399bb2b11240e4a5631e1be93" title="COM_set_default_communicator" alt="" coords="213,125,427,152"/>
+<area shape="rect" id="node4" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="498,71,609,97"/>
+<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="477,5,630,46"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="685,100,870,127"/>
+<area shape="rect" id="node7" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="681,12,874,39"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#af83fb0e93e853820d22393283c22d034" title="Set the default communicator of COM. " alt="" coords="475,122,632,163"/>
+</map>

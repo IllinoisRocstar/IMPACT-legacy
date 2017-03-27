@@ -1,0 +1,13 @@
+<map id="SolidAgent::read_restart_data" name="SolidAgent::read_restart_data">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="272,5,405,32"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#a7ba04c696e63cdfeb6d9b0f4b70a30ec" title="Clone the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="265,56,413,83"/>
+<area shape="rect" id="node9" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="249,107,429,133"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#a0cf6cac97ec35afed6607c6ee89478f3" title="COM_get_dataitem_handle\l_const" alt="" coords="249,158,429,199"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#aa70e14ef8971b8c21c07636ddb15e3f0" title="Clone the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="478,15,645,57"/>
+<area shape="rect" id="node7" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="506,81,617,108"/>
+<area shape="rect" id="node5" href="$classDataItem.html#af1613e242912ca9334a8ca5c643e38e0" title="Check whether the number of items of the dataitem is zero. " alt="" coords="727,23,847,49"/>
+<area shape="rect" id="node6" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="928,23,1035,49"/>
+<area shape="rect" id="node8" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="694,81,879,108"/>
+<area shape="rect" id="node10" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="485,133,638,174"/>
+<area shape="rect" id="node12" href="$classCOM_1_1COM__base.html#a3c77de38ed24a3a29b979b09287c2868" title="COM::COM_base::get\l_dataitem_handle_const" alt="" coords="480,198,643,239"/>
+</map>

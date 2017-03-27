@@ -1,0 +1,16 @@
+<map id="BurnAgent" name="BurnAgent">
+<area shape="rect" id="node2" href="$classAgent.html" title="Agent" alt="" coords="2544,623,2600,649"/>
+<area shape="rect" id="node20" href="$classPhysicsAction.html" title="PhysicsAction" alt="" coords="2760,661,2867,688"/>
+<area shape="rect" id="node22" href="$classInterpolateBase.html" title="InterpolateBase" alt="" coords="2757,920,2870,947"/>
+<area shape="rect" id="node25" href="$classDataItemBase.html" title="DataItemBase" alt="" coords="2760,605,2867,632"/>
+<area shape="rect" id="node4" href="$classCoupling.html" title="Coupling" alt="" coords="3105,272,3178,299"/>
+<area shape="rect" id="node5" href="$classControl__parameters.html" title="Control_parameters" alt="" coords="1800,5,1936,32"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="1328,321,1408,348"/>
+<area shape="rect" id="node9" href="$classScheduler.html" title="Scheduler" alt="" coords="1652,623,1732,649"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="965,314,1091,355"/>
+<area shape="rect" id="node8" href="$classUserScheduler.html" title="UserScheduler" alt="" coords="1961,623,2069,649"/>
+<area shape="rect" id="node11" href="$structScheduler_1_1ActionItem.html" title="Scheduler::ActionItem" alt="" coords="953,651,1103,677"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="153,669,269,696"/>
+<area shape="rect" id="node15" href="$classAction.html" title="Action" alt="" coords="736,824,795,851"/>
+<area shape="rect" id="node18" href="$classRocmanControl__parameters.html" title="RocmanControl_parameters" alt="" coords="2721,296,2906,323"/>
+</map>

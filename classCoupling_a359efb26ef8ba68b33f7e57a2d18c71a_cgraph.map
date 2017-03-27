@@ -1,0 +1,24 @@
+<map id="Coupling::restart_at_time" name="Coupling::restart_at_time">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="222,71,397,97"/>
+<area shape="rect" id="node6" href="$classCoupling.html#a6888419b899c892b397a74924ab5b81b" title="Invoke finalization of the actions in the scheduler and the agents. " alt="" coords="248,167,371,193"/>
+<area shape="rect" id="node10" href="$classCoupling.html#a992cf9682eb483bdcb90bcfb924cea5c" title="Coupling::get_control\l_param" alt="" coords="237,286,382,327"/>
+<area shape="rect" id="node11" href="$classCoupling.html#a6030e34451d81c7c5dfd5d3d629c9541" title="Coupling::initialize" alt="" coords="245,235,373,261"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="474,71,585,97"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#acadfe481b44157fba5ec3492214ea9b1" title="COM::COM_base::get\l_window_handle" alt="" coords="453,5,606,46"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="662,53,847,80"/>
+<area shape="rect" id="node7" href="$classScheduler.html#a0730f19dd30bb10018c7d70b2d749996" title="Scheduler::finalize\l_actions" alt="" coords="465,143,594,185"/>
+<area shape="rect" id="node8" href="$structScheduler_1_1ActionItem.html#a836e74a247f64af430f10bf3c8ce2b8d" title="Scheduler::ActionItem\l::action" alt="" coords="897,173,1047,214"/>
+<area shape="rect" id="node9" href="$classAction.html#ac25cdec7b0ff8bd7c9084092f126484b" title="Action::finalize" alt="" coords="701,104,809,131"/>
+<area shape="rect" id="node12" href="$classCoupling.html#a92684d466c71032b94bc1a0db977e3d4" title="Invoke initialization of the actions in the scheduler and the agents. " alt="" coords="480,260,579,287"/>
+<area shape="rect" id="node17" href="$classCoupling.html#ae315f7b3274087ab3fcd342adc9d521c" title="Invoke input functions of the agents. " alt="" coords="475,408,584,435"/>
+<area shape="rect" id="node18" href="$classCoupling.html#ae4bfda8ab3fc9e1380eb7836e655b8fc" title="Coupling::reload_rocface" alt="" coords="446,209,613,236"/>
+<area shape="rect" id="node19" href="$classCoupling.html#a634368f2f9f4ca6811ab635b4a319a37" title="Coupling::run_initactions" alt="" coords="447,357,612,384"/>
+<area shape="rect" id="node13" href="$classCoupling.html#ab5a00ddd5f422fb23783f6100881213e" title="Coupling::callMethod" alt="" coords="683,256,827,283"/>
+<area shape="rect" id="node14" href="$classScheduler.html#a0edd68314b2d888bcecfc36cb327319d" title="Scheduler::init_actions" alt="" coords="677,205,832,232"/>
+<area shape="rect" id="node16" href="$classScheduler.html#a5051b08c90d9e183bf05f81837542adf" title="Scheduler::restarting" alt="" coords="683,307,826,333"/>
+<area shape="rect" id="node15" href="$classAction.html#a74765929b138fd10333cb1bf2374036b" title="Action::init" alt="" coords="930,239,1014,265"/>
+<area shape="rect" id="node20" href="$classCoupling.html#a90c7010dedbe653c3511ddc036a8ccc4" title="Coupling::name" alt="" coords="698,408,811,435"/>
+<area shape="rect" id="node21" href="$classScheduler.html#ae9661180801f47fb37fd85a8a385fa17" title="Scheduler::set_alpha" alt="" coords="683,459,827,485"/>
+<area shape="rect" id="node22" href="$classScheduler.html#a122bb8620adbf00287819aa43ed29e27" title="Scheduler::run_actions" alt="" coords="677,357,832,384"/>
+<area shape="rect" id="node23" href="$classAction.html#a7604370a3f813885f040c4e8d3a4812c" title="Action::run" alt="" coords="929,357,1015,384"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ComponentInterface::append_array" name="ComponentInterface::append_array">
+<area shape="rect" id="node2" href="$classDataItem.html#a4ab5b0617a0859c0c9cbf51a41ba3188" title="DataItem::append_array" alt="" coords="216,5,379,32"/>
+<area shape="rect" id="node3" href="$classConnectivity.html#aac50b12edf84c2b41facc6b3e47dd8d7" title="Connectivity::is_element_name" alt="" coords="195,56,400,83"/>
+<area shape="rect" id="node4" href="$classDataItem.html#ad85779e3da6e56e71426a0d9aedba9c2" title="Set the size of items and ghost items. " alt="" coords="231,107,364,133"/>
+<area shape="rect" id="node5" href="$classDataItem.html#a08f48c8f21e708d438f3a1b6f0ffd8b0" title="Obtain the number of items in the dataitem. " alt="" coords="215,181,380,208"/>
+<area shape="rect" id="node13" href="$classDataItem.html#a9b4fe7d5b2557ac495093c177307abec" title="Returns whether the size for the dataitem has been set. " alt="" coords="459,256,592,283"/>
+<area shape="rect" id="node14" href="$classDataItem.html#ace6623b15df92803cbae82fb3feba8f0" title="Obtain the stride of the dataitem in base datatype. " alt="" coords="239,300,355,327"/>
+<area shape="rect" id="node6" href="$classPane.html#aea6af7f8fa21f531276a598c665fba59" title="Pane::ignore_ghost" alt="" coords="458,40,593,67"/>
+<area shape="rect" id="node7" href="$classDataItem.html#a923e28392d450d6f848c26afe6a59548" title="Obtain the number of real items in the dataitem. " alt="" coords="448,115,603,157"/>
+<area shape="rect" id="node8" href="$classPane.html#a02a7f50031f8211e1ae6ae841ec52ffe" title="Obtain the dataitem from given name. " alt="" coords="651,181,762,208"/>
+<area shape="rect" id="node9" href="$classComponentInterface.html#a12e126917900a1c542092659077a9092" title="Obtain a pointer to the dataitem metadata from its name. " alt="" coords="811,145,951,186"/>
+<area shape="rect" id="node12" href="$classDataItem.html#a7f072b3c6bb2a98953bdd3dc2d34a9e5" title="Obtain the id (or index) of the dataitem. " alt="" coords="1055,207,1150,233"/>
+<area shape="rect" id="node10" href="$classDataItem.html#abc15ae7d35eecaf548c7a1de1902cea8" title="DataItem::is_digit" alt="" coords="1040,104,1165,131"/>
+<area shape="rect" id="node11" href="$classDataItem.html#a4d22295aa2440aceacc7aacc5ca30cdc" title="Obtain the number of components in the dataitem. " alt="" coords="1001,155,1205,181"/>
+<area shape="rect" id="node15" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="472,307,579,333"/>
+</map>

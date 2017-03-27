@@ -1,0 +1,10 @@
+<map id="HDS_accessor::get_normal" name="HDS_accessor::get_normal">
+<area shape="rect" id="node2" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="238,5,370,46"/>
+<area shape="rect" id="node6" href="$classOverlay__primitives.html#ad55c86301a3c85c74f0151742c9df268" title="Overlay_primitives\l::intersect" alt="" coords="239,70,369,111"/>
+<area shape="rect" id="node9" href="$classOverlay__primitives.html#ad5fc1fd6f7263df9d35f4a61e1dcae98" title="Overlay_primitives\l::normalmatch" alt="" coords="239,135,369,177"/>
+<area shape="rect" id="node3" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="597,19,739,45"/>
+<area shape="rect" id="node4" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="792,38,917,79"/>
+<area shape="rect" id="node5" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="965,45,1083,72"/>
+<area shape="rect" id="node7" href="$classOverlay.html#a47c99be0d881c11b755215b70787ea89" title="Overlay::intersect\l_link_helper" alt="" coords="419,70,544,111"/>
+<area shape="rect" id="node8" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="592,72,744,99"/>
+</map>

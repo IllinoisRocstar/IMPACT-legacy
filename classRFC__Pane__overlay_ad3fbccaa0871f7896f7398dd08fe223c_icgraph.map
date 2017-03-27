@@ -1,0 +1,15 @@
+<map id="RFC_Pane_overlay::get_normal" name="RFC_Pane_overlay::get_normal">
+<area shape="rect" id="node2" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="467,5,599,46"/>
+<area shape="rect" id="node6" href="$classHDS__accessor.html#a4e841429a68409d816d46a188662130d" title="HDS_accessor::get_normal" alt="" coords="217,63,399,89"/>
+<area shape="rect" id="node11" href="$classRFC__Pane__overlay.html#ade2009b1699b6584314dd860b4486f08" title="RFC_Pane_overlay::get\l_normal" alt="" coords="227,114,389,155"/>
+<area shape="rect" id="node12" href="$classNormal__set.html#a5dbee28c3a3095b190198dcbf6f90da2" title="Normal_set::operator[]" alt="" coords="232,180,384,207"/>
+<area shape="rect" id="node13" href="$classOverlay.html#a3fb9c07befb11760bebb3abf991eb238" title="Helper for associate_green_vertices(). " alt="" coords="448,213,619,254"/>
+<area shape="rect" id="node3" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="851,47,992,73"/>
+<area shape="rect" id="node4" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="1045,103,1171,145"/>
+<area shape="rect" id="node5" href="$classOverlay.html#af28fe977fcaf5aa48936fdfc785e900d" title="Overlay::overlay" alt="" coords="1219,148,1336,175"/>
+<area shape="rect" id="node7" href="$classOverlay__primitives.html#ad55c86301a3c85c74f0151742c9df268" title="Overlay_primitives\l::intersect" alt="" coords="468,70,599,111"/>
+<area shape="rect" id="node10" href="$classOverlay__primitives.html#ad5fc1fd6f7263df9d35f4a61e1dcae98" title="Overlay_primitives\l::normalmatch" alt="" coords="468,135,599,177"/>
+<area shape="rect" id="node8" href="$classOverlay.html#a47c99be0d881c11b755215b70787ea89" title="Overlay::intersect\l_link_helper" alt="" coords="669,103,795,145"/>
+<area shape="rect" id="node9" href="$classOverlay.html#a15d9996f88cfd2e3f2f6a3b5aaf94edd" title="Overlay::intersect_link" alt="" coords="845,111,997,137"/>
+<area shape="rect" id="node14" href="$classOverlay.html#ad5f1e6c0f443baf6c59656657ec0ad5f" title="Overlay::associate\l_green_vertices" alt="" coords="667,195,797,237"/>
+</map>

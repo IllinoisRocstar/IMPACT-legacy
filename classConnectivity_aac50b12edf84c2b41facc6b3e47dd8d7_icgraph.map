@@ -1,0 +1,26 @@
+<map id="Connectivity::is_element_name" name="Connectivity::is_element_name">
+<area shape="rect" id="node2" href="$classComponentInterface.html#ab23b03b5ae5b6d34a3b172e4d640dbe5" title="Allocate memory for an dataitem for a specific pane and set addr to the address. " alt="" coords="259,5,399,46"/>
+<area shape="rect" id="node3" href="$classComponentInterface.html#ab4152ccab0ba75e94f2c687ebeb2143b" title="Append the given array to the end of the dataitem on a specific pane, and reallocate memory for the d..." alt="" coords="259,70,399,111"/>
+<area shape="rect" id="node4" href="$classComponentInterface.html#add4dce2ee2cc1a64b3a5d74de3033d90" title="Copy an dataitem on a specific pane into a given array. " alt="" coords="259,135,399,177"/>
+<area shape="rect" id="node5" href="$classComponentInterface.html#ab8b82507ecd43c7d6a3253cc5bf3bbae" title="Deallocate memory for an dataitem for a specific pane if allocated by Roccom. " alt="" coords="259,201,399,242"/>
+<area shape="rect" id="node6" href="$classComponentInterface.html#a6f4ed365eadea8894113615065623ab2" title="Get the address associated with an dataitem for a specific pane. " alt="" coords="259,266,399,307"/>
+<area shape="rect" id="node8" href="$classComponentInterface.html#aef3d266b979b45feb1c72b9b20e65e31" title="Get the meta&#45;information about an dataitem. " alt="" coords="259,331,399,373"/>
+<area shape="rect" id="node9" href="$classComponentInterface.html#aec73ef511b9ac7c06f717ae8cfbb86f7" title="Get the parent name of an dataitem and load into name. " alt="" coords="259,397,399,438"/>
+<area shape="rect" id="node10" href="$classComponentInterface.html#a03a38da9f73af63cf05c890a2c3e39c3" title="Get the sizes of an dataitem for a specific pane. " alt="" coords="259,462,399,503"/>
+<area shape="rect" id="node12" href="$classComponentInterface.html#a4efd4a189bf2d7ce85cab2e8d3d731de" title="Get the status of an dataitem or pane. " alt="" coords="259,527,399,569"/>
+<area shape="rect" id="node22" href="$classComponentInterface.html#ac876e0204892477a7c1f6cf24b1fe785" title="Create a new DataItem object with given properties. " alt="" coords="259,593,399,634"/>
+<area shape="rect" id="node23" href="$classComponentInterface.html#a7088f973928015a3fd9b70ebc747fa41" title="Resize memory for an dataitem for a specific pane and set addr to the address. " alt="" coords="259,658,399,699"/>
+<area shape="rect" id="node24" href="$classComponentInterface.html#a5df681b3789f79cf4daafaa727546178" title="Associate an array with an dataitem for a specific pane. " alt="" coords="259,723,399,765"/>
+<area shape="rect" id="node25" href="$classComponentInterface.html#af76c06d8223cef9e93c79cc34190e19f" title="Set the sizes of an dataitem for a specific pane. " alt="" coords="259,789,399,830"/>
+<area shape="rect" id="node7" href="$ComponentInterface_8C.html#a271f0bc743521c6de8aaf7b120bc660d" title="get_array_common" alt="" coords="459,273,592,300"/>
+<area shape="rect" id="node11" href="$ComponentInterface_8C.html#a9789dd13ce75091fd8a24b88d973751c" title="get_size_common" alt="" coords="461,469,589,496"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#a8838c121b3143e1a3b92090ffc67e3d3" title="Get the status of an dataitem. " alt="" coords="449,527,602,569"/>
+<area shape="rect" id="node14" href="$com__c_8h.html#a1da9106f23205e969ae8407deebbfdfe" title="COM_get_status" alt="" coords="651,509,773,536"/>
+<area shape="rect" id="node21" href="$com__f_8C.html#a43091aaabb9859293314459ff82418fc" title="COM_F_FUNC2" alt="" coords="652,560,772,587"/>
+<area shape="rect" id="node15" href="$Rocin_8C.html#a47c0cc95b287e4a13de0621aba5472e3" title="load_data_HDF4" alt="" coords="821,509,941,536"/>
+<area shape="rect" id="node16" href="$classRocin.html#af873ef4548be6ffa64ebec35a23a8010" title="Create a series of Roccom windows by reading in a list of files. " alt="" coords="989,509,1136,536"/>
+<area shape="rect" id="node17" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="1603,535,1685,561"/>
+<area shape="rect" id="node19" href="$classRocin.html#acf03f03f4f5120c44178c0494fe93299" title="Create a single Roccom window by reading in a list of files. " alt="" coords="1185,535,1325,561"/>
+<area shape="rect" id="node18" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="1733,535,1872,561"/>
+<area shape="rect" id="node20" href="$classRocin.html#ad36f0ab7780acfa2b2aa54907ef9627b" title="Create a single Roccom window by reading in the files specified by the given control file..." alt="" coords="1374,585,1554,612"/>
+</map>

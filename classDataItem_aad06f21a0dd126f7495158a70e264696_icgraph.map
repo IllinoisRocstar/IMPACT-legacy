@@ -1,0 +1,27 @@
+<map id="DataItem::set_pointer" name="DataItem::set_pointer">
+<area shape="rect" id="node2" href="$classDataItem.html#ac22169fd62810286b8614f0de6326766" title="Allocate memory for the dataitem. " alt="" coords="203,203,333,229"/>
+<area shape="rect" id="node26" href="$classConnectivity.html#ae01a7aaec87b26fff77502eb376f3af0" title="Set pointer of connectivity table. " alt="" coords="382,253,549,280"/>
+<area shape="rect" id="node3" href="$classConnectivity.html#a52f2d5f2c0aac726150a76f5ac8b64c3" title="Allocate memory for unstructured mesh. " alt="" coords="391,101,539,128"/>
+<area shape="rect" id="node4" href="$classDataItem.html#a4b23c8d271000dda6b3634abe6528d83" title="Inherit from parent. If depth&gt;0, then the procedure is for the subcomponents. " alt="" coords="406,152,525,179"/>
+<area shape="rect" id="node22" href="$classPane.html#aaf93a477a77bee5dffd3325d622aeb7e" title="Pane::reinit_dataitem" alt="" coords="393,203,538,229"/>
+<area shape="rect" id="node5" href="$classConnectivity.html#af0174f73cad2ca896c8293b708582274" title="Inherit a connectivity table. " alt="" coords="605,51,744,77"/>
+<area shape="rect" id="node6" href="$classComponentInterface.html#a6a04e50793be54ea2c1b33b407483fd9" title="Inherit the dataitems of another CI window with a different name. " alt="" coords="807,94,947,135"/>
+<area shape="rect" id="node17" href="$classPane.html#ae879efeb45997f5005c2927e1a11f95f" title="Inherit an dataitem from another pane onto the current pane: " alt="" coords="627,152,722,179"/>
+<area shape="rect" id="node18" href="$classRFC__Pane__base.html#a7bbaf48ac1f31aaaef84e1f3aa64ff4e" title="Read in using Rocin. " alt="" coords="597,203,752,245"/>
+<area shape="rect" id="node7" href="$classComponentInterface.html#ab91fff7e2faeafdf2f82bd41854cb8a8" title="Copy an dataitem object onto another. " alt="" coords="1011,6,1151,47"/>
+<area shape="rect" id="node8" href="$classRocin.html#a79c8ed4bac873c689cb7a2b7bf2123d4" title="Fill the destination (second) dataitem from files using the data corresponding to the source (first) ..." alt="" coords="1003,72,1159,99"/>
+<area shape="rect" id="node11" href="$classRocout.html#a2e2164d5afda7f151ea67a062d6b1e30" title="Does the actual writing to file. " alt="" coords="1003,123,1160,165"/>
+<area shape="rect" id="node9" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="1246,29,1327,56"/>
+<area shape="rect" id="node10" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="1413,29,1552,56"/>
+<area shape="rect" id="node12" href="$classRocout.html#a2d93308090cd3780bbd1f2e4f8dd6e90" title="Write a (possibly aggregate) dataitem to a file. " alt="" coords="1208,80,1365,107"/>
+<area shape="rect" id="node15" href="$classRocout.html#a822ceb7ba85d5bd64a61bf01671645c0" title="Write a (possibly aggregate) dataitem to a new file. " alt="" coords="1213,131,1360,157"/>
+<area shape="rect" id="node16" href="$classRocout.html#a9a906712d8b14bf478607d20982b0db6" title="Append a (possibly aggregate) dataitem to a file. " alt="" coords="1211,181,1362,208"/>
+<area shape="rect" id="node13" href="$classRocout.html#a5c083042a877b5512ddbe0815e03c282" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="1438,131,1527,157"/>
+<area shape="rect" id="node14" href="$RFC__Window__base__IO_8C.html#a6a1f76da185f5743ac790d294508d86c" title="Load the module Rocout into Roccom using the given module name. " alt="" coords="1601,131,1754,157"/>
+<area shape="rect" id="node19" href="$classRFC__Window__transfer.html#a7c8c8bf039e5e2400abaf4b994543274" title="RFC_Window_transfer\l::init_recv_buffer" alt="" coords="800,203,955,245"/>
+<area shape="rect" id="node20" href="$classRFC__Window__transfer.html#aec87cef0eb23358d2a3b4e54299e6bb4" title="Replicate the metadata of a remote pane only the local process. " alt="" coords="1004,218,1159,259"/>
+<area shape="rect" id="node21" href="$classRFC__Window__transfer.html#a2b520ebc439b1d7d032dcf0ec86c15f8" title="Replicate the remote panes that are in contact with the local panes in opp_win. " alt="" coords="1209,233,1364,274"/>
+<area shape="rect" id="node23" href="$classComponentInterface.html#ab71f29b6c8b6bbf8e723f19ee345d6dd" title="Implementation for setting (op==OP_SET or OP_SET_CONST), allocating (op==OP_ALLOC), resizing (op==OP_RESIZE) and deallocating (op==OP_DEALLOC) an array for a specific dataitem. " alt="" coords="605,269,745,310"/>
+<area shape="rect" id="node24" href="$classComponentInterface.html#abbbf0b173e6ba7e0745a7e1c4d4249df" title="ComponentInterface\l::dealloc_array" alt="" coords="807,269,947,310"/>
+<area shape="rect" id="node25" href="$classComponentInterface.html#a5cfd395d4e70e630dce44ffc095070df" title="ComponentInterface\l::resize_array" alt="" coords="807,334,947,375"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="COM::TestModule::Function4" name="COM::TestModule::Function4">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="269,5,403,32"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="248,56,424,83"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="249,107,423,133"/>
+<area shape="rect" id="node4" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="494,81,605,108"/>
+<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="473,15,626,57"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="679,81,865,108"/>
+<area shape="rect" id="node7" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="675,23,869,49"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#acadfe481b44157fba5ec3492214ea9b1" title="COM::COM_base::get\l_window_handle" alt="" coords="473,133,626,174"/>
+</map>

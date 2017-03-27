@@ -1,0 +1,5 @@
+<map id="COM_get_parent" name="COM_get_parent">
+<area shape="rect" id="node2" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="198,5,309,32"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#a53958919ad6493dedad1a1b3a525cc0d" title="Obtain the parent dataitem&#39;s name of a given dataitem on a given pane. " alt="" coords="177,57,330,98"/>
+<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="379,5,565,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com_append_array_helper" name="com_append_array_helper">
+<area shape="rect" id="node2" href="$classCOM_1_1COM__base.html#ae3b8d06cb37455bb6749570ccacacb84" title="Append an array to the end of the dataitem on a specific pane and return the new address by setting a..." alt="" coords="230,5,407,46"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="263,71,374,97"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="457,71,642,97"/>
+</map>

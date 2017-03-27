@@ -1,0 +1,15 @@
+<map id="COM::COM_base::get_object" name="COM::COM_base::get_object">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a51cd80e32371211a6a01185579eff4ee" title="COM_get_object" alt="" coords="208,145,328,172"/>
+<area shape="rect" id="node3" href="$classRocout.html#a952d0bf1f37b189c98bb6a696861f803" title="Finalize the module by deregistering it from Roccom. " alt="" coords="409,19,522,45"/>
+<area shape="rect" id="node5" href="$classRocin.html#af2d60d1fa05640301d229c5ccceaf38b" title="Finalize the module by deregistering it from Roccom. " alt="" coords="413,95,518,121"/>
+<area shape="rect" id="node7" href="$classRocsurf.html#afcca0956e1bc2e83ed3ac12640eb309b" title="Unloads Rocsurf from Roccom. " alt="" coords="408,196,523,223"/>
+<area shape="rect" id="node13" href="$classCOM_1_1TestModule.html#a888ffe5231785313d3f44c505c5d2268" title="Unloads the TestModule. " alt="" coords="376,297,555,324"/>
+<area shape="rect" id="node4" href="$RFC__Window__base__IO_8C.html#a49f69229543728c213e575bbddad668e" title="Unload the module Rocout from Roccom. " alt="" coords="631,5,798,32"/>
+<area shape="rect" id="node6" href="$readsdv_8C.html#a97834867693794b12e4d32cf0171b62f" title="Unload the module Rocin from Roccom. " alt="" coords="638,56,791,83"/>
+<area shape="rect" id="node8" href="$Rocsurf_8C.html#aa46bbfa9e4220a351645fc0eabc89378" title="SurfUtil_unload_module" alt="" coords="635,107,795,133"/>
+<area shape="rect" id="node9" href="$Rocsurf_8C.html#a871834afa205c32ac5eee8648d71325b" title="surfutil_unload_module" alt="" coords="637,157,792,184"/>
+<area shape="rect" id="node10" href="$Rocsurf_8C.html#af1f8942515708223294e8cab364c8b37" title="SURFUTIL_UNLOAD_MODULE" alt="" coords="607,208,822,235"/>
+<area shape="rect" id="node11" href="$Rocsurf_8C.html#aa3c5adade6e3a8bc24d1228cbdb82981" title="surfutil_unload_module_" alt="" coords="633,259,796,285"/>
+<area shape="rect" id="node12" href="$Rocsurf_8C.html#ad98cb7b4af5d16cd00d993152f33ae61" title="SURFUTIL_UNLOAD_MODULE_" alt="" coords="603,309,826,336"/>
+<area shape="rect" id="node14" href="$COM_2testing_2src_2TestModule_8C.html#a04e2444644f08d9e7a7686586a77b1f3" title="C/C++ bindings to unload COMTESTMOD. " alt="" coords="609,360,821,387"/>
+</map>

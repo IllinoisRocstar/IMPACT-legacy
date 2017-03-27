@@ -1,0 +1,5 @@
+<map id="DataItem::size_of_ghost_items" name="DataItem::size_of_ghost_items">
+<area shape="rect" id="node2" href="$classConnectivity.html#aba890ebd1b204248e7accc220f6294cb" title="Get the number of ghost elements. " alt="" coords="219,5,357,46"/>
+<area shape="rect" id="node4" href="$Rocout__cgns_8C.html#a7990143fb4771045077db916f5cc0e4e" title="Write the data for the given dataitem to file. " alt="" coords="227,71,349,97"/>
+<area shape="rect" id="node3" href="$classPane.html#ab89c7c053d6e59eb9fd3a69bc28623e2" title="Update offsets and sizes of connectivity of an unstructured mesh. " alt="" coords="406,12,583,39"/>
+</map>

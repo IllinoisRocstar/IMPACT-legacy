@@ -1,0 +1,6 @@
+<map id="Action::get_dataitem_handle" name="Action::get_dataitem_handle">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="198,35,378,61"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="449,5,559,32"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="427,57,581,98"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="630,5,815,32"/>
+</map>

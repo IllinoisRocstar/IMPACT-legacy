@@ -1,0 +1,21 @@
+<map id="Face" name="Face">
+<area shape="rect" id="node2" href="$classRFC__Pane__overlay.html" title="RFC_Pane_overlay" alt="" coords="1524,824,1660,851"/>
+<area shape="rect" id="node24" href="$classNode.html" title="This class encapsulate a node over a window manifold. " alt="" coords="1807,776,1860,803"/>
+<area shape="rect" id="node45" href="$classHEdge.html" title="This class encapsulate a halfedge over a window manifold. " alt="" coords="1802,688,1865,715"/>
+<area shape="rect" id="node3" href="$classRFC__Pane__base.html" title="The base implementation of RFC_Pane. " alt="" coords="1196,1165,1319,1192"/>
+<area shape="rect" id="node5" href="$structNode__ID.html" title="A global ID of a node. " alt="" coords="63,1313,137,1340"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="42,755,158,781"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="489,1700,612,1727"/>
+<area shape="rect" id="node10" href="$structFace__ID.html" title="A global ID of a face. " alt="" coords="64,1405,136,1432"/>
+<area shape="rect" id="node26" href="$classSimple__manifold__2.html" title="Provides a data structure accessing nodes, elements, and edges in a pane, in a manner similar to the ..." alt="" coords="854,541,986,568"/>
+<area shape="rect" id="node25" href="$classPane__manifold__2.html" title="This class implements a data structure for 2&#45;manifold on each pane. " alt="" coords="2291,355,2413,381"/>
+<area shape="rect" id="node21" href="$classINode.html" title="INode" alt="" coords="71,1621,129,1648"/>
+<area shape="rect" id="node29" href="$classHalfedge.html" title="This class encapsulate a halfedge over a window manifold. " alt="" coords="2591,296,2665,323"/>
+<area shape="rect" id="node31" href="$classWindow__manifold__2.html" title="This class implements a data structure for 2&#45;manifold over a whole window, which can be composed of m..." alt="" coords="2837,415,2976,441"/>
+<area shape="rect" id="node35" href="$classVector__3.html" title="Vector_3\&lt; Real \&gt;" alt="" coords="488,5,613,32"/>
+<area shape="rect" id="node36" href="$classVector__3.html" title="Some basic geometric data types. " alt="" coords="37,9,163,36"/>
+<area shape="rect" id="node37" href="$classRFC__Window__overlay.html" title="A window is a collection of panes. " alt="" coords="2275,1128,2429,1155"/>
+<area shape="rect" id="node38" href="$classRFC__Window__derived.html" title="RFC_Window_derived\l\&lt; RFC_Pane_overlay \&gt;" alt="" coords="1993,1121,2153,1162"/>
+<area shape="rect" id="node43" title="STL class. " alt="" coords="2033,1069,2113,1096"/>
+<area shape="rect" id="node48" href="$classIn__place__list.html" title="In_place_list\&lt; T, managed \&gt;" alt="" coords="6,1496,194,1523"/>
+</map>

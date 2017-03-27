@@ -1,0 +1,6 @@
+<map id="SolverUtils::GetDataItemNames" name="SolverUtils::GetDataItemNames">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a48824b0cc48b3d1310e84d87c7af9c80" title="COM_get_dataitems" alt="" coords="225,35,367,61"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="438,5,549,32"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ae215fed4fc9b313b61afbd9be375eabf" title="Obtain the user&#45;defined dataitems of the given window. " alt="" coords="417,57,570,98"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="619,5,805,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Pane_manifold_2::is_physical_border_edge" name="Pane_manifold_2::is_physical_border_edge">
+<area shape="rect" id="node2" href="$classSimple__manifold__2.html#a53744dae8b2c4d8f5a9d560d21b02559" title="Get the border edge index. Return &#45;1 if not a border edge. " alt="" coords="209,53,349,94"/>
+<area shape="rect" id="node3" href="$classFacet__ID.html#a8dab526516809f28806fcdccd9a214fa" title="Determines whether the facet is on border. " alt="" coords="398,5,535,32"/>
+<area shape="rect" id="node5" href="$classFacet__ID.html#a8dabddce77e098b585ff577aa36c56b0" title="Element ID of the halfedge. " alt="" coords="416,60,517,87"/>
+<area shape="rect" id="node4" href="$classFacet__ID.html#a56e37cfec1d84c98ebcc2b7af2609941" title="Local edge ID of the halfedge within its element. " alt="" coords="585,5,682,32"/>
+</map>

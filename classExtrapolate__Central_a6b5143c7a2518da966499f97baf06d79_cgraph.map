@@ -1,0 +1,16 @@
+<map id="Extrapolate_Central::init" name="Extrapolate_Central::init">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="619,403,799,429"/>
+<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="193,71,367,97"/>
+<area shape="rect" id="node8" href="$classInterpolateBase.html#a2f30971c90aff951d248cfdbe0b7538a" title="InterpolateBase::init" alt="" coords="211,289,349,316"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="874,209,985,236"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="853,395,1006,437"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="1059,209,1245,236"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#acadfe481b44157fba5ec3492214ea9b1" title="COM::COM_base::get\l_window_handle" alt="" coords="417,5,570,46"/>
+<area shape="rect" id="node9" href="$classAction.html#ab2b103593cc3cc75d0ef85c8b2c1f817" title="Action::name" alt="" coords="444,172,543,199"/>
+<area shape="rect" id="node10" href="$classAction.html#ac9e67425e327459222bf5157196fa141" title="Action::get_dataitem\l_handle" alt="" coords="422,341,565,382"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#a0cf6cac97ec35afed6607c6ee89478f3" title="COM_get_dataitem_handle\l_const" alt="" coords="619,173,799,214"/>
+<area shape="rect" id="node13" href="$classAction.html#a908178f2f6bda267cb9ce517cf635216" title="Action::get_io" alt="" coords="442,289,545,316"/>
+<area shape="rect" id="node14" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="427,407,560,433"/>
+<area shape="rect" id="node15" href="$classAction.html#a277dae8095da439e218eb61a9540a431" title="Action::get_dataitem\l_handle_const" alt="" coords="422,223,565,265"/>
+<area shape="rect" id="node12" href="$classCOM_1_1COM__base.html#a3c77de38ed24a3a29b979b09287c2868" title="COM::COM_base::get\l_dataitem_handle_const" alt="" coords="848,143,1011,185"/>
+</map>

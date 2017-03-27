@@ -1,0 +1,7 @@
+<map id="COM::ParallelTestingObject::Test__ModuleGetSetCommunicator" name="COM::ParallelTestingObject::Test__ModuleGetSetCommunicator">
+<area shape="rect" id="node2" href="$classCOM_1_1ParallelTestingObject.html#add04c337994958e45dbc07b264b128d5" title="Runs all tests implemented by the COM::ParallelTestingObject. " alt="" coords="294,5,479,46"/>
+<area shape="rect" id="node5" href="$classCOM_1_1ParallelTestingObject.html#abedc3b64f59caaa0d5c9ef1236079acb" title="Runs a test specified by name. " alt="" coords="294,70,479,111"/>
+<area shape="rect" id="node3" href="$namespaceCOM.html#a1d0a68356a3a05cd228d57000ba009fc" title="Drives the COM::TestObject. " alt="" coords="556,16,687,43"/>
+<area shape="rect" id="node4" href="$ParallelTestCOM_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="763,16,813,43"/>
+<area shape="rect" id="node6" href="$classCOM_1_1ParallelTestingObject.html#a3d3428ec82199b2208091c599d5625bb" title="Runs a list of tests specified by name. " alt="" coords="529,70,714,111"/>
+</map>

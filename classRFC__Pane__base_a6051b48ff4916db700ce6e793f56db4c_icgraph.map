@@ -1,0 +1,14 @@
+<map id="RFC_Pane_base::size_of_subfaces" name="RFC_Pane_base::size_of_subfaces">
+<area shape="rect" id="node2" href="$classRFC__Pane__base.html#a6c909c5de88320225577d436b31a119b" title="Compute the natural coordinates. " alt="" coords="208,103,371,145"/>
+<area shape="rect" id="node11" href="$classRFC__Window__transfer.html#a49402c4ef8a594c205b984ee40dc2c0c" title="Obtain the list of incident faces in each pane of the opposite mesh. " alt="" coords="899,186,1053,227"/>
+<area shape="rect" id="node8" href="$classRFC__Window__transfer.html#a2b520ebc439b1d7d032dcf0ec86c15f8" title="Replicate the remote panes that are in contact with the local panes in opp_win. " alt="" coords="1101,186,1256,227"/>
+<area shape="rect" id="node12" href="$classRFC__Pane__base.html#aae491e87abdd75ea2ab2970ad8cf9b15" title="RFC_Pane_base::write\l_tec_sub" alt="" coords="210,303,369,345"/>
+<area shape="rect" id="node3" href="$classRFC__Window__base.html#a0674616c94b7d6a7751fe92e2b30e25a" title="RFC_Window_base::export\l_window" alt="" coords="419,5,602,46"/>
+<area shape="rect" id="node5" href="$classRFC__Pane__base.html#acfca7f5a2547b35ace4ef2b391572e36" title="RFC_Pane_base::read\l_binary" alt="" coords="433,135,588,177"/>
+<area shape="rect" id="node10" href="$classRFC__Pane__base.html#a7bbaf48ac1f31aaaef84e1f3aa64ff4e" title="Read in using Rocin. " alt="" coords="433,70,588,111"/>
+<area shape="rect" id="node4" href="$classOverlay.html#ac0559875aeed30386fac267e24e0585f" title="Export the subdivisions to the two given windows. " alt="" coords="666,12,835,39"/>
+<area shape="rect" id="node6" href="$classRFC__Window__transfer.html#a7c8c8bf039e5e2400abaf4b994543274" title="RFC_Window_transfer\l::init_recv_buffer" alt="" coords="673,81,828,122"/>
+<area shape="rect" id="node9" href="$classRFC__Window__base.html#a42d4637d4957136072cdbf9b7691766f" title="Read in local panes in native binary format or using Rocin. " alt="" coords="651,147,851,173"/>
+<area shape="rect" id="node7" href="$classRFC__Window__transfer.html#aec87cef0eb23358d2a3b4e54299e6bb4" title="Replicate the metadata of a remote pane only the local process. " alt="" coords="899,101,1053,142"/>
+<area shape="rect" id="node13" href="$classRFC__Window__base.html#a307effa23c85f139495a40e8866fd324" title="Ouptut a subdivision of a mesh in Tecplot format. " alt="" coords="423,303,598,345"/>
+</map>

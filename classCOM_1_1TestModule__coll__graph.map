@@ -1,0 +1,19 @@
+<map id="COM::TestModule" name="COM::TestModule">
+<area shape="rect" id="node2" href="$classCOM_1_1TestSolver.html" title="COM::TestSolver" alt="" coords="2125,161,2249,188"/>
+<area shape="rect" id="node3" href="$classSolverUtils_1_1FEM_1_1SolverAgent.html" title="SolverUtils::FEM::Solver\lAgent" alt="" coords="1867,143,2034,185"/>
+<area shape="rect" id="node4" href="$classSolverUtils_1_1FEM_1_1SolutionData.html" title="SolverUtils::FEM::SolutionData" alt="" coords="1192,84,1397,111"/>
+<area shape="rect" id="node6" href="$classSolverUtils_1_1FEM_1_1DataBuffer.html" title="SolverUtils::FEM::DataBuffer" alt="" coords="419,143,613,169"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="458,263,574,289"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="421,77,611,118"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="638,333,797,374"/>
+<area shape="rect" id="node9" href="$classSolverUtils_1_1FEM_1_1SolutionMetaData.html" title="SolverUtils::FEM::Solution\lMetaData" alt="" coords="833,77,1010,118"/>
+<area shape="rect" id="node11" href="$structSolverUtils_1_1Mesh_1_1UnstructuredMesh.html" title="SolverUtils::Mesh::\lUnstructuredMesh" alt="" coords="1593,143,1727,185"/>
+<area shape="rect" id="node12" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html" title="General connectivity object. " alt="" coords="1227,291,1362,333"/>
+<area shape="rect" id="node15" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html" title="SolverUtils::Mesh::\lNodalCoordinates" alt="" coords="1227,17,1362,58"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="874,20,969,47"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="449,11,583,53"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="157,19,312,45"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="6,19,106,45"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="1911,83,1991,109"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="1597,14,1723,55"/>
+</map>

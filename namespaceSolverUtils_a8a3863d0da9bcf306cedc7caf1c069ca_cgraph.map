@@ -1,0 +1,11 @@
+<map id="SolverUtils::PopulateSolutionMetaDataFromPane" name="SolverUtils::PopulateSolutionMetaDataFromPane">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a16b2a9aeed9d53bd2d11d4221ef2c148" title="COM_get_dataitem" alt="" coords="267,5,402,32"/>
+<area shape="rect" id="node6" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#af4e6ca4aa1351bda1e20915140ace949" title="SolverUtils::FEM::Solution\lData::Data" alt="" coords="246,57,423,98"/>
+<area shape="rect" id="node7" href="$namespaceSolverUtils.html#a8a5727f4056aa951041899bcaa014800" title="SolverUtils::GetDataItem\lNames" alt="" coords="250,122,419,163"/>
+<area shape="rect" id="node10" href="$classSolverUtils_1_1FEM_1_1SolutionData.html#a62cb9b7f3f556d91efecb9e116e0afcd" title="SolverUtils::FEM::Solution\lData::Meta" alt="" coords="246,187,423,229"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="697,36,807,63"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a9e78ff33f6875dec84c8c2bf9bb15b48" title="Information retrieval Get the information about an dataitem. " alt="" coords="473,57,626,98"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="878,36,1063,63"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#a48824b0cc48b3d1310e84d87c7af9c80" title="COM_get_dataitems" alt="" coords="478,125,621,152"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#ae215fed4fc9b313b61afbd9be375eabf" title="Obtain the user&#45;defined dataitems of the given window. " alt="" coords="675,118,829,159"/>
+</map>

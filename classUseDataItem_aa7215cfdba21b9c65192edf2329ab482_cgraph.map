@@ -1,0 +1,13 @@
+<map id="UseDataItem::create" name="UseDataItem::create">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a16b2a9aeed9d53bd2d11d4221ef2c148" title="COM_get_dataitem" alt="" coords="221,96,355,123"/>
+<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="198,45,378,72"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#ad6ed625b2b82ffdf90a448c451c4c487" title="Use the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="219,147,357,173"/>
+<area shape="rect" id="node12" href="$classAgent.html#acb47d78e6a90b24e89ba060b7bae4b54" title="Agent::get_surface\l_window" alt="" coords="222,198,354,239"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="450,71,561,97"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#a9e78ff33f6875dec84c8c2bf9bb15b48" title="Information retrieval Get the information about an dataitem. " alt="" coords="429,122,582,163"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="633,71,818,97"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="429,5,582,46"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a2dee425d9cf08d186aebf83c655b206d" title="Use the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="427,187,583,229"/>
+<area shape="rect" id="node10" href="$classDataItem.html#af1613e242912ca9334a8ca5c643e38e0" title="Check whether the number of items of the dataitem is zero. " alt="" coords="665,195,785,221"/>
+<area shape="rect" id="node11" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="867,195,973,221"/>
+</map>

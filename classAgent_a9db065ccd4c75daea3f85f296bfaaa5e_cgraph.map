@@ -1,0 +1,14 @@
+<map id="Agent::split_surface_window" name="Agent::split_surface_window">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="193,111,367,137"/>
+<area shape="rect" id="node6" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="213,60,347,87"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#ad6ed625b2b82ffdf90a448c451c4c487" title="Use the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="211,161,349,188"/>
+<area shape="rect" id="node12" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="199,212,361,239"/>
+<area shape="rect" id="node3" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="450,136,561,163"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#acadfe481b44157fba5ec3492214ea9b1" title="COM::COM_base::get\l_window_handle" alt="" coords="429,70,582,111"/>
+<area shape="rect" id="node4" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="643,136,829,163"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="426,5,585,46"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a2dee425d9cf08d186aebf83c655b206d" title="Use the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="427,187,583,229"/>
+<area shape="rect" id="node10" href="$classDataItem.html#af1613e242912ca9334a8ca5c643e38e0" title="Check whether the number of items of the dataitem is zero. " alt="" coords="676,195,796,221"/>
+<area shape="rect" id="node11" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="877,195,984,221"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="416,253,595,294"/>
+</map>

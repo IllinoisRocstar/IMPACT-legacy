@@ -1,0 +1,6 @@
+<map id="RFC_Pane_base::size_of_primary_nodes" name="RFC_Pane_base::size_of_primary_nodes">
+<area shape="rect" id="node2" href="$classRFC__Pane__base.html#afdd6cfdb288a7f9f544e62e9eda93563" title="Is the node with given local id a primary one? " alt="" coords="209,56,434,83"/>
+<area shape="rect" id="node4" href="$classRFC__Pane__base.html#a6d670fed3e1d0fb329b1534bab009dc6" title="The total number of nodes in the pane. " alt="" coords="757,49,912,90"/>
+<area shape="rect" id="node3" href="$classRFC__Pane__base.html#a4a5b3824a05ab264a5045855fbd5d65a" title="Is a give node on the boundary of the pane? " alt="" coords="487,5,705,32"/>
+<area shape="rect" id="node5" href="$classRFC__Pane__base.html#ae25471f1be5bd4ce659164b91bc36f72" title="Is a give node an isolated node not belong to any element? " alt="" coords="483,56,709,83"/>
+</map>

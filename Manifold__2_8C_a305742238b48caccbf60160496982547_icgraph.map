@@ -1,0 +1,4 @@
+<map id="get_normal" name="get_normal">
+<area shape="rect" id="node2" href="$classHalfedge.html#a138f3a3baa9aebaab4f589d8dfea1c55" title="Get the normal of the incident facet. " alt="" coords="142,12,263,39"/>
+<area shape="rect" id="node3" href="$classHalfedge.html#a269dc2510d5500c2747c77287d4e6da7" title="Return the dihedral angle at the edge. " alt="" coords="313,5,439,46"/>
+</map>

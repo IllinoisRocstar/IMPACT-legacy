@@ -1,0 +1,23 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="128,53,261,80"/>
+<area shape="rect" id="node3" href="$com__c_09_09_8hpp.html#ad092d9a8763517eb4473ad4731fe4c99" title="Delete an existing dataitem. " alt="" coords="119,155,271,181"/>
+<area shape="rect" id="node7" href="$com__c_09_09_8hpp.html#a47ed797bddcdd0aabcd9f8e47f326744" title="COM_finalize" alt="" coords="144,427,245,453"/>
+<area shape="rect" id="node9" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="105,104,285,131"/>
+<area shape="rect" id="node11" href="$com__c_09_09_8hpp.html#acbbf9749cce36d33b4c60c100bdfaea2" title="COM_get_function_handle" alt="" coords="107,205,283,232"/>
+<area shape="rect" id="node14" href="$com__c_09_09_8hpp.html#a6e38c0b1f83c30b166b7500902e13be1" title="COM_get_panes" alt="" coords="135,256,255,283"/>
+<area shape="rect" id="node16" href="$com__c_09_09_8hpp.html#ac0f80d6e63759a2afe40ed883cea3d5e" title="COM_init" alt="" coords="156,489,233,516"/>
+<area shape="rect" id="node19" href="$com__c_09_09_8hpp.html#ab6a6d18043bc76f9a381084af49c6a9f" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="129,307,260,333"/>
+<area shape="rect" id="node21" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="113,357,276,384"/>
+<area shape="rect" id="node4" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="367,201,478,228"/>
+<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#ab2b11e9b5c108ac97ad7defbc880749e" title="Delete an existing dataitem from a window. " alt="" coords="337,70,508,111"/>
+<area shape="rect" id="node5" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="565,201,750,228"/>
+<area shape="rect" id="node8" href="$classCOM_1_1COM__base.html#a7cad9c24d2d8c23ab9000c16da1526a4" title="COM::COM_base::finalize" alt="" coords="335,449,511,476"/>
+<area shape="rect" id="node10" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="346,5,499,46"/>
+<area shape="rect" id="node12" href="$classCOM_1_1COM__base.html#a33f5c330c2b2d8f8a4a04e711ee66054" title="COM::COM_base::get\l_function_handle" alt="" coords="346,135,499,177"/>
+<area shape="rect" id="node13" href="$namespaceIMPACT_1_1ExampleProgram.html#a0a0adfb935c56a728c4ca1de97da15c0" title="Support function for parallel example. " alt="" coords="561,143,754,169"/>
+<area shape="rect" id="node15" href="$classCOM_1_1COM__base.html#a03135368bceaffadde879eef56e5415d" title="Obtain the panes of a given window on a specific process. " alt="" coords="346,253,499,294"/>
+<area shape="rect" id="node17" href="$classCOM_1_1COM__base.html#a1d2b2dabf7654280cbba19673d22230e" title="COM::COM_base::init" alt="" coords="347,500,499,527"/>
+<area shape="rect" id="node18" href="$com__exception_8C.html#a968f8230d3a737acba9bc9b878b0f57d" title="Print the stack backtrace. " alt="" coords="587,500,727,527"/>
+<area shape="rect" id="node20" href="$classCOM_1_1COM__base.html#a7554b5d8e8f2756e078e931294b96af4" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="337,318,508,359"/>
+<area shape="rect" id="node22" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="333,383,512,425"/>
+</map>

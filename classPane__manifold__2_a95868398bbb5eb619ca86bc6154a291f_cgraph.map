@@ -1,0 +1,7 @@
+<map id="Pane_manifold_2::size_of_edges" name="Pane_manifold_2::size_of_edges">
+<area shape="rect" id="node2" href="$classHalfedge.html#a0b9171d64b7f26eb2511be02b093c0e8" title="Obtain the owner Pane_manifold_2 of the node. " alt="" coords="237,5,347,32"/>
+<area shape="rect" id="node4" href="$classHalfedge.html#aed6bb7abce0d79b2b3850f0c2a19bb74" title="Obtain the pane manifold that owns the edge. " alt="" coords="209,56,375,83"/>
+<area shape="rect" id="node5" href="$classSimple__manifold__2.html#ad7c94c44587f41921744b72103ef5455" title="Number of edges of the pane. " alt="" coords="222,107,362,149"/>
+<area shape="rect" id="node6" href="$classSimple__manifold__2.html#ac3632da9d1b1c59c1097d10f2e74ec15" title="Number of real edges of the pane. " alt="" coords="222,173,362,214"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#a9ce294b8041fdc609d2ad722b3dda3dd" title="Obtain a const pointer to the pane. " alt="" coords="424,5,592,32"/>
+</map>

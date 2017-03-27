@@ -1,0 +1,38 @@
+<map id="SolidAgent::create_buffer_all" name="SolidAgent::create_buffer_all">
+<area shape="rect" id="node2" href="$com__c_09_09_8hpp.html#a7ba04c696e63cdfeb6d9b0f4b70a30ec" title="Clone the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="443,183,591,209"/>
+<area shape="rect" id="node8" href="$com__c_09_09_8hpp.html#aee2bdea02bb47943444e452f62372e33" title="COM_delete_window" alt="" coords="208,409,355,436"/>
+<area shape="rect" id="node10" href="$com__c_09_09_8hpp.html#a16b2a9aeed9d53bd2d11d4221ef2c148" title="COM_get_dataitem" alt="" coords="214,548,349,575"/>
+<area shape="rect" id="node12" href="$com__c_09_09_8hpp.html#a86224e33f2e17b4cee6c3256bfdff75d" title="COM_get_dataitem_handle" alt="" coords="427,15,607,41"/>
+<area shape="rect" id="node14" href="$com__c_09_09_8hpp.html#a0cf6cac97ec35afed6607c6ee89478f3" title="COM_get_dataitem_handle\l_const" alt="" coords="427,66,607,107"/>
+<area shape="rect" id="node16" href="$com__c_09_09_8hpp.html#a8d14cf34eccebd1168103d4624ac2677" title="Registering an dataitem type. " alt="" coords="211,300,352,327"/>
+<area shape="rect" id="node19" href="$com__c_09_09_8hpp.html#a4859cec968839295988dd58b44f5237e" title="COM_new_window" alt="" coords="450,919,585,945"/>
+<area shape="rect" id="node21" href="$com__c_09_09_8hpp.html#ab6a6d18043bc76f9a381084af49c6a9f" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="216,497,347,524"/>
+<area shape="rect" id="node23" href="$com__c_09_09_8hpp.html#ad6ed625b2b82ffdf90a448c451c4c487" title="Use the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="448,868,587,895"/>
+<area shape="rect" id="node25" href="$com__c_09_09_8hpp.html#a194cf98ab438699fba9f1d1705044e70" title="COM_window_init_done" alt="" coords="436,767,599,793"/>
+<area shape="rect" id="node27" href="$classAgent.html#ae73e97da5dee995f78ac98eb65780a24" title="Agent::create_buffer_all" alt="" coords="201,700,361,727"/>
+<area shape="rect" id="node28" href="$classAgent.html#af8949828b3043cb37c72b5a545f28be3" title="Agent::create_registered\l_window_dataitems" alt="" coords="435,701,599,742"/>
+<area shape="rect" id="node30" href="$classAgent.html#a9db9387fadb57f62d451fb70f117b071" title="Agent::get_coupling" alt="" coords="213,801,350,828"/>
+<area shape="rect" id="node31" href="$classCoupling.html#a4c1e270567cd003deb80a2f848010a7f" title="Coupling::get_max_ipc" alt="" coords="204,852,359,879"/>
+<area shape="rect" id="node32" href="$classCoupling.html#a31352260a1a9d2d065c4b57c1c23c6a6" title="Coupling::get_rocmancontrol\l_param" alt="" coords="187,903,375,945"/>
+<area shape="rect" id="node33" href="$classSolidAgent.html#ab1c54075587371b534fbafeb24624f9b" title="SolidAgent::read_restart_data" alt="" coords="184,132,379,159"/>
+<area shape="rect" id="node35" href="$classAgent.html#a9db065ccd4c75daea3f85f296bfaaa5e" title="Agent::split_surface\l_window" alt="" coords="212,969,351,1010"/>
+<area shape="rect" id="node3" href="$classCOM_1_1COM__base.html#aa70e14ef8971b8c21c07636ddb15e3f0" title="Clone the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="662,175,829,217"/>
+<area shape="rect" id="node6" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="690,533,801,560"/>
+<area shape="rect" id="node4" href="$classDataItem.html#af1613e242912ca9334a8ca5c643e38e0" title="Check whether the number of items of the dataitem is zero. " alt="" coords="916,333,1036,360"/>
+<area shape="rect" id="node5" href="$classDataItem.html#ac9194e442ef4f2714ce5504c03e0e8fc" title="Root of use&#45;inheritance. " alt="" coords="1117,333,1224,360"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="883,533,1069,560"/>
+<area shape="rect" id="node9" href="$classCOM_1_1COM__base.html#a155edced9b074dd74e98e5af26f450e6" title="Deletes a window with given name. " alt="" coords="432,402,603,443"/>
+<area shape="rect" id="node11" href="$classCOM_1_1COM__base.html#a9e78ff33f6875dec84c8c2bf9bb15b48" title="Information retrieval Get the information about an dataitem. " alt="" coords="441,635,594,677"/>
+<area shape="rect" id="node13" href="$classCOM_1_1COM__base.html#a893fe138f8ac92250239ba10fdd437c5" title="COM::COM_base::get\l_dataitem_handle" alt="" coords="669,5,822,46"/>
+<area shape="rect" id="node15" href="$classCOM_1_1COM__base.html#a3c77de38ed24a3a29b979b09287c2868" title="COM::COM_base::get\l_dataitem_handle_const" alt="" coords="664,70,827,111"/>
+<area shape="rect" id="node17" href="$classCOM_1_1COM__base.html#ae4d775df72eadf0171e9401fafebffc1" title="Creates a new dataitem for a window. " alt="" coords="438,234,597,275"/>
+<area shape="rect" id="node18" href="$COM__base_8C.html#afe90d629a5053e5b8e54940849d34862" title="print_type" alt="" coords="706,241,785,268"/>
+<area shape="rect" id="node20" href="$classCOM_1_1COM__base.html#a4eea2e9c264eaf724b61bfa5f003cc16" title="Creates a window with given name. " alt="" coords="666,907,825,949"/>
+<area shape="rect" id="node22" href="$classCOM_1_1COM__base.html#a7554b5d8e8f2756e078e931294b96af4" title="Resize an dataitem on a specific pane and return the address by setting addr. " alt="" coords="432,467,603,509"/>
+<area shape="rect" id="node24" href="$classCOM_1_1COM__base.html#a2dee425d9cf08d186aebf83c655b206d" title="Use the subset of panes of another window of which the given pane dataitem has value val..." alt="" coords="667,833,823,874"/>
+<area shape="rect" id="node26" href="$classCOM_1_1COM__base.html#a24249783a546b8d797f0ce26d3703049" title="Marks the end of the registration of a window. " alt="" coords="656,759,835,801"/>
+<area shape="rect" id="node29" href="$classAgent.html#a19d0e6abee6acfb6bf03a59868cdac35" title="Agent::get_agent_name" alt="" coords="437,817,597,844"/>
+<area shape="rect" id="node34" href="$com__c_09_09_8hpp.html#a6f9e4ea8f2cb977968964f4cb5a4b4f6" title="COM_call_function" alt="" coords="451,132,584,159"/>
+<area shape="rect" id="node36" href="$com__c_09_09_8hpp.html#a18a6824608686682b76b860744a104d6" title="COM_get_window_handle" alt="" coords="430,976,605,1003"/>
+<area shape="rect" id="node37" href="$classCOM_1_1COM__base.html#acadfe481b44157fba5ec3492214ea9b1" title="COM::COM_base::get\l_window_handle" alt="" coords="669,973,822,1014"/>
+</map>

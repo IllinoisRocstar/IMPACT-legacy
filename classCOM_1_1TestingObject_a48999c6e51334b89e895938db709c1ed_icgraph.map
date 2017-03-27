@@ -1,0 +1,7 @@
+<map id="COM::TestingObject::Test__QuadraticDataTransfer" name="COM::TestingObject::Test__QuadraticDataTransfer">
+<area shape="rect" id="node2" href="$classCOM_1_1TestingObject.html#adc0220ab9f8f32b94ec41af81b8e1b57" title="Runs all tests implemented by the COM::TestingObject. " alt="" coords="257,5,399,46"/>
+<area shape="rect" id="node5" href="$classCOM_1_1TestingObject.html#a102d13152c0a803003158db518f90dde" title="Runs a test specified by name. " alt="" coords="257,70,399,111"/>
+<area shape="rect" id="node3" href="$namespaceCOM.html#a071a4ed0afce0146c60c14de880f8c0e" title="Drives the COM::TestObject for the COM tests. " alt="" coords="477,16,563,43"/>
+<area shape="rect" id="node4" href="$TestCOM_8C.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="640,16,691,43"/>
+<area shape="rect" id="node6" href="$classCOM_1_1TestingObject.html#a0b87cb849cde43284a7a7103a35d2aed" title="Runs a list of tests specified by name. " alt="" coords="449,70,591,111"/>
+</map>

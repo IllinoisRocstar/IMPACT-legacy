@@ -1,0 +1,10 @@
+<map id="SolverUtils::PaneToUnstructuredMesh" name="SolverUtils::PaneToUnstructuredMesh">
+<area shape="rect" id="node2" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a182b355125fc9d502669d964028ba65d" title="SolverUtils::Mesh::\lConnectivity::AddElement" alt="" coords="307,5,482,46"/>
+<area shape="rect" id="node3" href="$com__c_8h.html#a6dd240c15a2b3e85d2d91cbe9eec6611" title="Get the address for an dataitem on a specific pane. " alt="" coords="337,71,452,97"/>
+<area shape="rect" id="node4" href="$com__c_09_09_8hpp.html#a390dfbadbcb267ac867fabbcd586683b" title="COM_get_connectivities" alt="" coords="312,121,477,148"/>
+<area shape="rect" id="node8" href="$classSolverUtils_1_1Mesh_1_1NodalCoordinates.html#ab1ee2950e6c4535c7f872e70e97767ed" title="SolverUtils::Mesh::\lNodalCoordinates::init_copy" alt="" coords="301,173,488,214"/>
+<area shape="rect" id="node9" href="$classSolverUtils_1_1Mesh_1_1Connectivity.html#a1611533debcfa0ccbf686498d2a782df" title="SolverUtils::Mesh::\lConnectivity::ShrinkWrap" alt="" coords="309,238,480,279"/>
+<area shape="rect" id="node5" href="$COM__base_8hpp.html#a49353596e53127db61529b5c9000549d" title="COM_get_com" alt="" coords="558,92,669,119"/>
+<area shape="rect" id="node7" href="$classCOM_1_1COM__base.html#a912d41e185f99534b559b734da51a29c" title="Obtain the connectivity tables of a pane of the given window. " alt="" coords="537,143,690,185"/>
+<area shape="rect" id="node6" href="$classCOM_1_1COM__base.html#ad27d9ed89de75ebbc8329b4fa4e75276" title="Get a pointer to the COM object. " alt="" coords="739,92,925,119"/>
+</map>

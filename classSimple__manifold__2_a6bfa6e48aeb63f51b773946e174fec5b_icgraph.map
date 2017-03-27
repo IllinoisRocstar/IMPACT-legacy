@@ -1,0 +1,51 @@
+<map id="Simple_manifold_2::get_origin" name="Simple_manifold_2::get_origin">
+<area shape="rect" id="node2" href="$classSimple__manifold__2.html#ab4a0e43dcf45a3047b2034df29662101" title="Determine an incident halfedge for each node. " alt="" coords="195,110,389,151"/>
+<area shape="rect" id="node5" href="$classSimple__manifold__2.html#adba3f6354b1a5dad46fb9254df1be4ee" title="Obtain the ID of a border node. " alt="" coords="222,175,362,217"/>
+<area shape="rect" id="node6" href="$classSimple__manifold__2.html#a7a60258759001aa1563ca52f9611dbee" title="Obtain the ID of a border node of the ghost part of the pane. " alt="" coords="207,241,377,282"/>
+<area shape="rect" id="node7" href="$classSimple__manifold__2.html#af4436d03b1da7092cbe23828af6dd4e0" title="Obtain the ID of a border node of the real part of the pane. " alt="" coords="212,306,372,347"/>
+<area shape="rect" id="node8" href="$classSimple__manifold__2.html#a745d4ff1a148fe4ad62df21eee9dc01f" title="Get the ID of an incident edge within the pane of a given node that originated from the node..." alt="" coords="222,371,362,413"/>
+<area shape="rect" id="node13" href="$classSimple__manifold__2.html#a665f845af0f5fe87e8102d711e16846b" title="Get the ID of an incident real edge within the pane of a given node. " alt="" coords="215,437,369,478"/>
+<area shape="rect" id="node37" href="$classHalfedge.html#add3d238f040855fa861586398508059c" title="Obtain the (primary copy of the) origin of the edge. " alt="" coords="866,540,979,567"/>
+<area shape="rect" id="node3" href="$classSimple__manifold__2.html#ad647c35abb6220310bf811329c69c453" title="Initialize the database for the pane, including ghost information, opposite halfedges, incident halfedges, and border halfedges. " alt="" coords="437,117,595,144"/>
+<area shape="rect" id="node4" href="$classSimple__manifold__2.html#a01448d24de8701479e1a9bc59b694599" title="Constructors. " alt="" coords="647,110,787,151"/>
+<area shape="rect" id="node9" href="$classNode.html#abd9d27318bc9c523aa4937e46e63dfe2" title="Get an incident halfedge originated from the node. " alt="" coords="461,319,571,345"/>
+<area shape="rect" id="node10" href="$classWindow__manifold__2.html#a98d72b391248b8ad30f7a62176de09c4" title="Determine the primary nodes for across&#45;pane access. " alt="" coords="644,293,791,334"/>
+<area shape="rect" id="node12" href="$classNode.html#a34c43ffd7679daeb45bc4b040588b9fc" title="Is the node on the physical boundary? " alt="" coords="660,241,775,268"/>
+<area shape="rect" id="node11" href="$classWindow__manifold__2.html#af0271b5b6b206b3dd5e6e5650141fdde" title="Initialize the manifold by inheriting the given mesh. " alt="" coords="841,265,1005,292"/>
+<area shape="rect" id="node14" href="$classPane__manifold__2.html#a0863d901ee1f77bb6a8f3da4cc56290a" title="Obtain the border node index (equal to ID of incident border edge). " alt="" coords="442,390,590,431"/>
+<area shape="rect" id="node26" href="$classNode.html#a05b7ce236753e2187954c7e3c17e782d" title="Node::halfedge_g" alt="" coords="1093,319,1217,345"/>
+<area shape="rect" id="node45" href="$classNode.html#aac4d353b59a291b4ca230ce6aa05c4d7" title="Get an incident halfedge destinated at the node. " alt="" coords="863,883,983,909"/>
+<area shape="rect" id="node15" href="$classPane__manifold__2.html#a1f893a483b186536a0fc49227d4a67c1" title="Obtains a Node object corresponding to the primary copy of the given node. " alt="" coords="643,358,791,399"/>
+<area shape="rect" id="node42" href="$classPane__manifold__2.html#a4b675ab056a2c618081dd15a80651ea0" title="Determines whether a given node is a primary copy. " alt="" coords="647,423,787,465"/>
+<area shape="rect" id="node16" href="$classNode.html#abca9861ea8b15cf6149f2bda7f7dc12f" title="Check whether the current node coincide with the given node. " alt="" coords="868,417,977,444"/>
+<area shape="rect" id="node17" href="$classHalfedge.html#a3625dde0c9d78d69d708be2e192a8d95" title="Obtain the (primary copy of the) destination of the edge. " alt="" coords="850,367,995,393"/>
+<area shape="rect" id="node25" href="$classNode.html#adf0107b33f6fb7f02a8809905c0cc09d" title="Get the primary copy of the node. " alt="" coords="858,316,987,343"/>
+<area shape="rect" id="node18" href="$classHalfedge.html#a0435a511fc8dd90bc3f9a4b5959b8be9" title="Get the avarage value of the nodes of a given halfedge. " alt="" coords="1073,487,1236,513"/>
+<area shape="rect" id="node22" href="$classHalfedge.html#a0aa0c3f79a99049d8234c1577392dc5d" title="Get the tangent of the given halfedge. " alt="" coords="1092,217,1217,244"/>
+<area shape="rect" id="node19" href="$classHalfedge.html#a4b8105e99364911fd5af291b3ff36b61" title="Get the edge center of the given halfedge. " alt="" coords="1317,487,1470,513"/>
+<area shape="rect" id="node20" href="$classHalfedge.html#a5f30a8704a58f4aa46141dbacd9578b6" title="Get the average value of the nodes of the incident face of a given halfedge. " alt="" coords="1313,537,1473,564"/>
+<area shape="rect" id="node21" href="$classHalfedge.html#ace575c12a667acbbd28410222403ccb1" title="Get the face center of the incident face of a given halfedge. " alt="" coords="1535,545,1686,572"/>
+<area shape="rect" id="node23" href="$classRocsurf.html#a97d01c84761acbeb7f318e784e7618d3" title="Computes edge lengths of a given window. " alt="" coords="1313,70,1474,111"/>
+<area shape="rect" id="node24" href="$Manifold__2_8h.html#ab7fe7c92789b1a3b0ba18f2ae189af40" title="Get the tangent of the given halfedge. " alt="" coords="1348,136,1439,163"/>
+<area shape="rect" id="node36" href="$group__ntc.html#ga6a3ec3c05ce48113f35b47f2d1df076a" title="Dump out the 0&#45; and 1&#45;features in Tecplot format into files &lt;name&gt;f0.plt, &lt;name&gt;f1.plt, respectively. " alt="" coords="1317,5,1470,46"/>
+<area shape="rect" id="node27" href="$group__mf1.html#ga5dfc30e51e67c154900fed43cd7c8820" title="Determine whether a curve is false strong. " alt="" coords="1315,370,1472,411"/>
+<area shape="rect" id="node28" href="$group__fdp.html#gaebe1d4159b8cbdd4de9e06063b513e53" title="Compute the angle defect of a vertex. " alt="" coords="1317,187,1470,229"/>
+<area shape="rect" id="node29" href="$classOverlay.html#a3e0434b208c4b7daa1cb1baa90daf04a" title="Overlay::get_green\l_parent" alt="" coords="1327,705,1459,746"/>
+<area shape="rect" id="node32" href="$classNode.html#a232bc169e2dbdd3c31dc57da48979b6d" title="Node::is_border_g" alt="" coords="1329,436,1457,463"/>
+<area shape="rect" id="node34" href="$group__fdp.html#gad70c380d1621387d642c8c59000f9457" title="Determine whether a vertex is strong (either theta&#45;strong or relatively strong) in angle defect..." alt="" coords="1317,253,1470,294"/>
+<area shape="rect" id="node35" href="$classOverlay.html#ae376331457b655a414be48cfa6f1c1cf" title="Overlay::match_features_0" alt="" coords="1304,319,1483,345"/>
+<area shape="rect" id="node30" href="$classOverlay.html#a52fff72788c49d9c741ab8327859e03f" title="Overlay::overlay_init" alt="" coords="1540,649,1681,676"/>
+<area shape="rect" id="node31" href="$classOverlay.html#a11a60f57d26733fa5ea375df34074507" title="Overlay::intersect\l_blue_with_green" alt="" coords="1739,479,1864,521"/>
+<area shape="rect" id="node33" href="$classOverlay__primitives.html#a448294402b5adcfe218507704d7a755d" title="Overlay_primitives\l::snap_blue_ridge_edge" alt="" coords="1531,479,1690,521"/>
+<area shape="rect" id="node38" href="$classFace.html#a38c58b1d84a930047814c2a5f2e36ab4" title="Get the average value of the nodes of a given face. " alt="" coords="1086,588,1223,615"/>
+<area shape="rect" id="node40" href="$Manifold__2_8C.html#adaa5ff78d434322162d994d114b59362" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="1081,639,1228,665"/>
+<area shape="rect" id="node39" href="$classFace.html#a6038a217872bc5f54a720e32cd68fcfb" title="Get the face center of a given face. " alt="" coords="1330,588,1457,615"/>
+<area shape="rect" id="node41" href="$classHalfedge.html#a76e0044df4c95e470db499808e3d5749" title="Get the normal of the deformed shape (coordinates plus given displacements) of the incident facet of ..." alt="" coords="1325,639,1461,681"/>
+<area shape="rect" id="node43" href="$classNode.html#a9eedbae773c8327ce7aeb9f74c8c1e97" title="Is the node a primary? " alt="" coords="862,689,983,716"/>
+<area shape="rect" id="node44" href="$classOverlay.html#a7cd675313ef45f71fa2d0b40eb067578" title="Overlay::sort_on_green\l_edges" alt="" coords="1076,741,1233,782"/>
+<area shape="rect" id="node46" href="$classRFC__Pane__overlay.html#a21750738025a0b7db7ed51755717ff70" title="RFC_Pane_overlay::determine\l_counterparts" alt="" coords="1054,959,1255,1001"/>
+<area shape="rect" id="node47" href="$classRFC__Pane__overlay.html#a9a681aebc6f4127d32887fecc9224245" title="RFC_Pane_overlay::evaluate\l_normals" alt="" coords="1058,1025,1251,1066"/>
+<area shape="rect" id="node48" href="$classRFC__Pane__overlay.html#a517f1ea249a0de3e50c5968e6058ca6c" title="RFC_Pane_overlay::get\l_primary" alt="" coords="1312,999,1475,1041"/>
+<area shape="rect" id="node49" href="$classNode.html#aa5b47f7b5cd24a9b683e4584d816b5f2" title="Node::is_border_l" alt="" coords="1093,908,1217,935"/>
+<area shape="rect" id="node50" href="$classRFC__Pane__overlay.html#a94aee5386cc230bf6574ffd3d547305e" title="RFC_Pane_overlay::is\l_primary" alt="" coords="1316,875,1471,917"/>
+</map>

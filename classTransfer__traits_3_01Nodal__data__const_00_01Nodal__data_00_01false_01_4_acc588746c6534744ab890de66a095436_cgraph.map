@@ -1,0 +1,20 @@
+<map id="Transfer_traits&lt; Nodal_data_const, Nodal_data, false &gt;::transfer" name="Transfer_traits&lt; Nodal_data_const, Nodal_data, false &gt;::transfer">
+<area shape="rect" id="node2" href="$classInterpolator.html#a6c678b7bae61095692bc4e0772ec93b3" title="The main entry to the data transfer algorithm. " alt="" coords="224,161,363,188"/>
+<area shape="rect" id="node3" href="$classRFC__Window__transfer.html#aa51892b6500500373741e68b320c556e" title="Block until all processes of the window have reached here. " alt="" coords="429,5,584,46"/>
+<area shape="rect" id="node4" href="$classRFC__Window__transfer.html#aee74ad5a3df9e223b46274406b35d67b" title="Clear all the replicate data but keep metadata. " alt="" coords="429,70,584,111"/>
+<area shape="rect" id="node5" href="$Timing_8h.html#ac22e6dd75e231747e5713d9ecb150d8f" title="get_wtime" alt="" coords="465,136,548,163"/>
+<area shape="rect" id="node6" href="$classTransfer__base.html#a5d19d84d447d7903c2f1d6c29ca7be39" title="Perform finite&#45;element interpolation (non&#45;conservative), assuming source data has been replicated..." alt="" coords="411,187,602,213"/>
+<area shape="rect" id="node7" href="$classRFC__Window__transfer.html#a82f19490ff593208884fb3d96259f94b" title="Check whether the process has rank 0. " alt="" coords="429,238,584,279"/>
+<area shape="rect" id="node8" href="$classRFC__Window__transfer.html#ae168f04eb3af5befe3059869a01c8deb" title="Replicate the given data from remote processes onto local process. " alt="" coords="429,303,584,345"/>
+<area shape="rect" id="node9" href="$classRFC__Pane__transfer.html#ac357e7898b97f97dd57588a97cdf69cb" title="RFC_Pane_transfer::\lcoordinates" alt="" coords="673,114,820,155"/>
+<area shape="rect" id="node12" href="$classRFC__Data__const.html#aec9daf4cb8f3bf2ada67821794b8eef1" title="RFC_Data_const::dimension" alt="" coords="651,180,842,207"/>
+<area shape="rect" id="node13" href="$classRFC__Pane__base.html#ab2cde20c26603b34272c9f998de08fdc" title="RFC_Pane_base::id" alt="" coords="677,231,817,257"/>
+<area shape="rect" id="node14" href="$classRFC__Data__const.html#afc4f79e06276f4f8635e9505bfa9242c" title="RFC_Data_const::id" alt="" coords="675,281,818,308"/>
+<area shape="rect" id="node15" href="$classRFC__Pane__transfer.html#a447e5db9a1bae6496298c6e723fb1436" title="RFC_Pane_transfer::\lpointer" alt="" coords="673,333,820,374"/>
+<area shape="rect" id="node17" href="$classRFC__Pane__base.html#a0c07ffa46cc7bf6d42db3e1fea90778e" title="The total number of faces in the pane. " alt="" coords="669,398,824,439"/>
+<area shape="rect" id="node18" href="$classRFC__Pane__base.html#a6d670fed3e1d0fb329b1534bab009dc6" title="The total number of nodes in the pane. " alt="" coords="669,463,824,505"/>
+<area shape="rect" id="node19" href="$classRFC__Window__transfer.html#a9373bff50534a2e82da9c0927fab7c33" title="RFC_Window_transfer\l::wait_all" alt="" coords="669,529,824,570"/>
+<area shape="rect" id="node10" href="$classRFC__Pane__base.html#a61e2816ea34c53e8cd51c79639376071" title="RFC_Pane_base::coordinates" alt="" coords="891,121,1088,148"/>
+<area shape="rect" id="node11" href="$classRFC__Pane__transfer.html#a6d297c6fd2c02dba61738e6c503fbed0" title="RFC_Pane_transfer::\lis_master" alt="" coords="916,223,1063,265"/>
+<area shape="rect" id="node16" href="$classRFC__Pane__base.html#ace7d5e6c2f3ce8abfe8f4c79cafd0311" title="Get the address of a given dataitem with id i. " alt="" coords="905,340,1074,367"/>
+</map>

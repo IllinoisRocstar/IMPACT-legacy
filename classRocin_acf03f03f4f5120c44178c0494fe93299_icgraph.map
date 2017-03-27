@@ -1,0 +1,5 @@
+<map id="Rocin::read_window" name="Rocin::read_window">
+<area shape="rect" id="node2" href="$classRocin.html#a817c07faf30a500ad48002530c7b9184" title="Initialize the module by registering it to Roccom with the given module name. " alt="" coords="425,5,506,32"/>
+<area shape="rect" id="node4" href="$classRocin.html#ad36f0ab7780acfa2b2aa54907ef9627b" title="Create a single Roccom window by reading in the files specified by the given control file..." alt="" coords="195,31,375,57"/>
+<area shape="rect" id="node3" href="$readsdv_8C.html#aedf2ea8086bc6b0507f87d19ba53e73d" title="Load the module Rocin into Roccom using the given module name. " alt="" coords="555,5,693,32"/>
+</map>
