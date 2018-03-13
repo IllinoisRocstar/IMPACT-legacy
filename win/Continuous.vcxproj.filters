@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\cygwin64\home\Masoud Safdari\codes\IMPACT\CMakeLists.txt" />
+    <CustomBuild Include="C:\cygwin64\home\Masoud Safdari\codes\IMPACT\build\CMakeFiles\1cfaff82168cdad8f3a51f85dca18a7a\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\cygwin64\home\Masoud Safdari\codes\IMPACT\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1935D22E-65F9-3EE9-8CD9-F97EE483E08A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
