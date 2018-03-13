@@ -12,6 +12,12 @@
 #include "Action.h"
 #include "Scheduler.h"
 
+#ifdef WIN32
+#define snprintf _snprintf 
+#define vsnprintf _vsnprintf 
+#define strcasecmp _stricmp 
+#define strncasecmp _strnicmp 
+#endif
 /**
    Scheduler
 */

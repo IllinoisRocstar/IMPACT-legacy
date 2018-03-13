@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\pcommtest.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\pcommtest.dir/objects.a @CMakeFiles\pcommtest.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\pcommtest.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\pcommtest.exe -Wl,--out-implib,..\bin\libpcommtest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pcommtest.dir\linklibs.rsp

@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\surfmap.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\surfmap.dir/objects.a @CMakeFiles\surfmap.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\surfmap.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\surfmap.exe -Wl,--out-implib,..\bin\libsurfmap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\surfmap.dir\linklibs.rsp

@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\addpconn.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\addpconn.dir/objects.a @CMakeFiles\addpconn.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\addpconn.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\addpconn.exe -Wl,--out-implib,..\bin\libaddpconn.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\addpconn.dir\linklibs.rsp

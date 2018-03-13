@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\imtest.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\imtest.dir/objects.a @CMakeFiles\imtest.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\imtest.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\imtest.exe -Wl,--out-implib,..\bin\libimtest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\imtest.dir\linklibs.rsp

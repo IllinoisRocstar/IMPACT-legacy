@@ -86,7 +86,7 @@ public:
   int read_mesh( const char *fname, const std::string &wname, 
 		 Func_ptr is_local) {
     std::ifstream is( fname); 
-    if ( is == NULL) {
+    if ( is.bad()) {
       std::cerr << "Error: Could not open file " << fname << std::endl;
       exit(-1);
     }

@@ -24,6 +24,9 @@
 USE_COM_NAME_SPACE
 #endif
 
+#ifdef WIN32
+#include<direct.h>
+#endif
 static const int MAX_ASYNC_WRITES = 10;
 
 //! Pass write_dataitem arguments to the background worker thread.
@@ -770,7 +773,11 @@ std::string Rocout::get_fname(const std::string& prefix,
   int result = 0;
   std::string::size_type s = pre.find('/', 1);
   while (s != std::string::npos) {
+#ifdef WIN32
+	result = _mkdir(pre.substr(0, s).c_str());
+#else
     result = mkdir(pre.substr(0, s).c_str(), 0755);
+#endif
     s = pre.find('/', s + 1);
   }
   if (result < 0 && errno != EEXIST) {

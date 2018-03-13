@@ -15,7 +15,9 @@
 #include <string>
 #include <cstring>
 #include <algorithm>
+#ifndef WIN32
 #include <strings.h>
+#endif
 
 #include "Rocout.h"
 #include "HDF4.h"
@@ -393,7 +395,7 @@ static void io_pane_dataitem(const char* fname, const COM::Pane* pane,
   // Create a buffer for storing sqrt of values and 
   // for placeholder for empty dataitems.
   int sizeof_type = COM::DataItem::get_sizeof(attr->data_type(), 1);
-  std::vector<char> buf(std::max(num_items, 1) * sizeof_type);
+  std::vector<char> buf(max(num_items, 1) * sizeof_type);
   std::fill(buf.begin(), buf.end(), 0);
 
   double t1, t2; // Buffer for storing the min and max
@@ -646,10 +648,10 @@ const T* min_element__(const T* begin, const int rank, const int shape[],
   for (int i=0; i<shape[0]-ng2; ++i) {
     for (int j=0; j<(rank>1?shape[1]:1); ++j) {
       for (int k=0; k<(rank>2?shape[2]:1); ++k, ++t) {
-        if (i >= std::min(ng1, shape[0] - 1) && j >= std::min(ng1, shape[1] - 1)
-            && j < std::max(1, shape[1] - ng2)
-            && k >= std::min(ng1, shape[2] - 1)
-            && k < std::max(1, shape[2] - ng2)) {
+        if (i >= min(ng1, shape[0] - 1) && j >= min(ng1, shape[1] - 1)
+            && j < max(1, shape[1] - ng2)
+            && k >= min(ng1, shape[2] - 1)
+            && k < max(1, shape[2] - ng2)) {
           if (result == NULL || *result > *t)
             result = t;
         }
@@ -680,10 +682,10 @@ const T* max_element__(const T* begin, const int rank, const int shape[],
   for (int i=0; i<shape[0]-ng2; ++i) {
     for (int j=0; j<(rank>1?shape[1]:1); ++j) {
       for (int k=0; k<(rank>2?shape[2]:1); ++k, ++t) {
-        if (i >= std::min(ng1, shape[0] - 1) && j >= std::min(ng1, shape[1] - 1)
-            && j < std::max(1, shape[1] - ng2)
-            &&  k >= std::min(ng1, shape[2] - 1)
-            && k < std::max(1, shape[2] - ng2)) {
+        if (i >= min(ng1, shape[0] - 1) && j >= min(ng1, shape[1] - 1)
+            && j < max(1, shape[1] - ng2)
+            &&  k >= min(ng1, shape[2] - 1)
+            && k < max(1, shape[2] - ng2)) {
           if (result == NULL || *result < *t)
             result = t;
         }

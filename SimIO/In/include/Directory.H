@@ -8,6 +8,10 @@
 #ifndef _DIRECTORY_H_
 #define _DIRECTORY_H_
 
+#ifdef WIN32
+#include "dirent.h"
+#endif
+
 class Directory : public std::vector<std::string>
 {
 protected:

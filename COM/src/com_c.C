@@ -14,6 +14,9 @@
 #include "COM_base.hpp"
 #include "com_assertion.h"
 #include <cstdarg>
+#ifdef WIN32
+#include <algorithm>
+#endif // WIN32
 
 // Include C++ implementation
 #define C_ONLY

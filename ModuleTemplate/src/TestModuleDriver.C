@@ -17,6 +17,10 @@
 
 COM_EXTERN_MODULE( TestModule);
 
+#ifndef WIN32
+COM_EXTERN_MODULE( TestFortranModule);
+#endif
+
 using namespace std;
 
 int main(int argc, char *argv[]){
@@ -26,9 +30,11 @@ int main(int argc, char *argv[]){
 
   COM_UNLOAD_MODULE_STATIC_DYNAMIC( TestModule, "TestWin1");
 
+#ifndef WIN32
   COM_LOAD_MODULE_STATIC_DYNAMIC( TestFortranModule, "TestFortranCWin1");
 
   COM_UNLOAD_MODULE_STATIC_DYNAMIC( TestFortranModule, "TestFortranCWin1");
+#endif
 
   COM_finalize();
 

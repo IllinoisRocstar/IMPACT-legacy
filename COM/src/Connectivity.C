@@ -14,7 +14,9 @@
 #include "Pane.hpp"
 #include "com_assertion.h"
 #include <cstring>
-
+#ifdef WIN32
+#include <algorithm>
+#endif // WIN32
 COM_BEGIN_NAME_SPACE
 
 // Tables of pre-defined connectivity types

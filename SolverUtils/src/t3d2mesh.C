@@ -7,9 +7,12 @@
 #include <algorithm>
 
 #include "Mesh.H"
-#include "Profiler.H"
-#include "Global.H"
 #include "primitive_utilities.H"
+#include "Profiler.H"
+#ifndef WIN32
+#include "Global.H"
+#endif
+
 
 using namespace SolverUtils;
 
@@ -381,7 +384,7 @@ main(int argc,char *argv[])
   GeomOut << geometries.size() << std::endl;
   for(Mesh::IndexType gindex = 0;gindex < geometries.size();gindex++)
     GeomOut << geometries[gindex].first << "\t"
-	    << (uint)geometries[gindex].second << std::endl;
+	    << (int)geometries[gindex].second << std::endl;
   for(Mesh::IndexType gindex = 0;gindex < geometries.size();gindex++)
     GeomOut << geometries[gindex] << std::endl;
   GeomOut.close();

@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\gg2mesh.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\gg2mesh.dir/objects.a @CMakeFiles\gg2mesh.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\gg2mesh.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\gg2mesh.exe -Wl,--out-implib,..\bin\libgg2mesh.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gg2mesh.dir\linklibs.rsp

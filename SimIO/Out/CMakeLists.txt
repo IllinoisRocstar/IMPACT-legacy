@@ -61,7 +61,7 @@ IF(USE_CGNS)
   include_directories(${CGNS_INC})
 ENDIF()
 
-IF(NOT BUILD_STATIC)
+IF(NOT BUILD_STATIC AND UNIX)
   add_library(SimOUT SHARED ${SimOUT_SRCS})
 ELSE()
   add_library(SimOUT STATIC ${SimOUT_SRCS})

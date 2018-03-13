@@ -29,6 +29,10 @@
 #include "mapptr.h"
 #include "com_assertion.h"
 
+#ifdef WIN32
+#include <algorithm>
+#endif
+
 USE_COM_NAME_SPACE
 
 #ifndef DOXYGEN_SHOULD_SKIP_THIS

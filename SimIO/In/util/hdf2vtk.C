@@ -561,6 +561,3 @@ int main(int argc, char* argv[])
   COM_finalize();
   return 0;
 }
-
-
-

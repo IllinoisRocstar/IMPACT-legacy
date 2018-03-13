@@ -72,16 +72,16 @@ void COM_print_window(const char *wName, std::ostream &ostr) {
 	   << ndims << "-D (" << nglayers << " ghost layers);"
 	   <<" grid is " << dims[0];
       nnodes = dims[0];
-      nelems = std::max(1, dims[0] - 1);
+      nelems = max(1, dims[0] - 1);
       if ( ndims>1) {
         ostr << "x" << dims[1];
         nnodes *= dims[1];
-        nelems *= std::max(1, dims[1] - 1);
+        nelems *= max(1, dims[1] - 1);
       }
       if ( ndims>2) {
         ostr << "x" << dims[2];
         nnodes *= dims[2];
-        nelems *= std::max(1, dims[2] - 1);
+        nelems *= max(1, dims[2] - 1);
       }
       ostr << std::endl;
     }

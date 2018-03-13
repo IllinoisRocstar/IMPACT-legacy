@@ -9,6 +9,9 @@
 #define _ROCIN_BLOCK_H_
 
 #include <map>
+#ifdef WIN32
+#include <algorithm>
+#endif
 
 /**
  ** Struct containing necessary information about an attribute in a window.
@@ -40,8 +43,8 @@ struct GridInfo_HDF4 {
    inline GridInfo_HDF4(int32* size, int ng)
    : m_name(":st0:"),
      m_numElements(size[2] - 1
-                   * std::max(int32(1), (size[1] - 1))
-                   * std::max(int32(1), (size[0] - 1))),
+                   * max(int32(1), (size[1] - 1))
+                   * max(int32(1), (size[0] - 1))),
      m_numGhostElements(ng), m_index(FAIL)
    { m_name[3] += (size[1] > 1 ? (size[0] > 1 ? 3 : 2) : 1);
      m_size[0] = size[0]; m_size[1] = size[1]; m_size[2] = size[2]; }

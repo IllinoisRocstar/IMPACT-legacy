@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\sep.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\sep.dir/objects.a @CMakeFiles\sep.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\sep.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\sep.exe -Wl,--out-implib,..\bin\libsep.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sep.dir\linklibs.rsp

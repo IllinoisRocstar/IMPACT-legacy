@@ -28,6 +28,8 @@ void printStackBacktrace() {
   for ( int i=nSkip; i<levels; i++) {
     std::printf( " [%d] %s\n", i-nSkip, symbols[i]);
   }
+#else
+	std::printf("printStackBacktrace is disabled.\n");
 #endif
 }
 

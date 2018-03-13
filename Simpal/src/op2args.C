@@ -10,7 +10,9 @@
 #include <cstdlib>
 #include <iostream>
 #include "Rocblas.h"
-
+#ifdef WIN32
+#include <algorithm>
+#endif
 //Function object that implements an assignment.
 template <class T_src, class T_trg>
 struct Rocblas::assn : std::unary_function<T_src,T_trg> {

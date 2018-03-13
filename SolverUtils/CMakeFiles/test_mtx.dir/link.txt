@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\test_mtx.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\test_mtx.dir/objects.a @CMakeFiles\test_mtx.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\test_mtx.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\test_mtx.exe -Wl,--out-implib,..\bin\libtest_mtx.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_mtx.dir\linklibs.rsp

@@ -6,6 +6,9 @@
 //
 
 #include "rocman.h"
+#ifdef WIN32
+#include <algorithm>
+#endif
 
 COM_EXTERN_MODULE(SurfMap);
 COM_EXTERN_MODULE(SurfX);

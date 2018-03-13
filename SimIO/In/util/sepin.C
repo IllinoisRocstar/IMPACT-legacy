@@ -1,4 +1,3 @@
-#include <unistd.h>
 #include <sys/stat.h>
 #include <sys/types.h>
 #include <cassert>
@@ -8,6 +7,15 @@
 #include <fstream>
 #include <sstream>
 #include <iomanip>
+
+#ifdef WIN32
+#include <direct.h> 
+#define chdir _chdir
+#include <sys\stat.h>
+#include <Windows.h>
+#else
+#include <unistd.h>
+#endif
 
 std::string 
 CWD()
@@ -25,14 +33,24 @@ ChangeDirectory(const std::string &path)
 int
 CreateDirectory(const std::string &fname)
 {
+#ifdef WIN32
+  return(mkdir(fname.c_str()));
+#else
   return(mkdir(fname.c_str(),S_IRGRP | S_IXGRP  | S_IRWXU));  
+#endif
 }
 
 bool
 FILEEXISTS(const std::string &fname)
 {
-  struct stat fstat;
+  
+#ifdef WIN32
+  struct _stat buf;
+  if (_stat(fname.c_str(),&buf))
+#else
+	struct stat fstat;
   if(lstat(fname.c_str(),&fstat))
+#endif
     return false;
   return true;
 }
@@ -99,7 +117,11 @@ int main(int argc,char *argv[])
     std::ostringstream FNout2;
     FNout << "fluid_" << Ostr.str() << ".hdf";
     FNout2 << "../fluid_" << Ostr.str() << ".hdf";
+#ifdef WIN32
+	CreateSymbolicLink(FNout2.str().c_str(), FNout.str().c_str(),0);
+#else
     symlink(FNout2.str().c_str(),FNout.str().c_str());
+#endif
     FNout.clear();
     FNout2.clear();
     FNout.str("");
@@ -107,7 +129,11 @@ int main(int argc,char *argv[])
     FNout << "ifluid_" << Ostr.str() << ".hdf";
     FNout2 << "../ifluid_" << Ostr.str() << ".hdf";
     if(FILEEXISTS(FNout2.str()))
-      symlink(FNout2.str().c_str(),FNout.str().c_str());
+#ifdef WIN32
+      CreateSymbolicLink(FNout2.str().c_str(), FNout.str().c_str(), 0);
+#else
+	  symlink(FNout2.str().c_str(), FNout.str().c_str());
+#endif
     ChangeDirectory(std::string(".."));
   }
   RocinSurfFile.close();

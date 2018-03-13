@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\blastest.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\blastest.dir/objects.a @CMakeFiles\blastest.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\blastest.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\blastest.exe -Wl,--out-implib,..\bin\libblastest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\blastest.dir\linklibs.rsp

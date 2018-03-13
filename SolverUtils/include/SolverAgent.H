@@ -5,13 +5,14 @@
 #include "FieldData.H"
 #include "NetUtils.H"
 #include "FDUtils.H"
+#include "Mesh.H"
 
 namespace SolverUtils { namespace FEM {
 
   class SolverAgent
   {
   private:
-    Mesh::UnstructuredMesh mesh;
+	SolverUtils::Mesh::UnstructuredMesh mesh;
     FEM::SolutionData      soln;
   public:
     const FEM::SolutionData &Solution() const { return(soln); };

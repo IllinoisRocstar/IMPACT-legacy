@@ -11,6 +11,10 @@
 #include "ComponentInterface.hpp"
 #include "com_assertion.h"
 
+#ifdef WIN32
+#include <algorithm>
+#endif // WIN32
+
 COM_BEGIN_NAME_SPACE
 
 ComponentInterface::ComponentInterface( const std::string &s, MPI_Comm c) 

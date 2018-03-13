@@ -16,6 +16,9 @@
 #include "com_assertion.h"
 #include "commpi.h"
 #include <cstring>
+#ifdef WIN32
+#include <algorithm>
+#endif // WIN32
 
 COM_BEGIN_NAME_SPACE
 

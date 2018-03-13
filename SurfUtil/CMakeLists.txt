@@ -32,10 +32,10 @@ SET(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
 
 include_directories(include test ${COM_INC} ${MAP_INC} ${SIMPAL_INC} ${CMAKE_BINARY_DIR}/include)
 
-IF(NOT BUILD_STATIC)
+IF(NOT BUILD_STATIC AND UNIX)
   add_library(SurfUtil SHARED ${SURFLIB_SRCS})
 ELSE()
-  add_library(SurfUtil STATIC ${LIB_SRCS})
+  add_library(SurfUtil STATIC ${SURFLIB_SRCS})
   add_definitions( -DSTATIC_LINK )
 ENDIF()
 target_link_libraries(SurfUtil SurfMap Simpal SimOUT SimIN ${MPI_CXX_LIBRARIES})

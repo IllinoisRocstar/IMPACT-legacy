@@ -14,8 +14,15 @@
  */
 
 #include <iostream>
-#include <sys/time.h>
+#ifdef WIN32
+#include <time.h>
+#include <sys/types.h>  
+#include <sys/timeb.h>
+#include <windows.h>
 #include <algorithm>
+#else
+#include <sys/time.h>
+#endif // WIN32
 #ifndef STATIC_LINK 
 #include <dlfcn.h>
 #endif
@@ -26,6 +33,10 @@
 #include <sstream>
 #include "COM_base.hpp"
 #include "commpi.h"
+
+#ifdef WIN32
+	typedef int(__cdecl *MYPROC)(LPWSTR);
+#endif
 
 COM_BEGIN_NAME_SPACE
 
@@ -182,23 +193,42 @@ COM_base::load_module( const std::string &lname,
   int index = _module_map.find(lname).first;
   if ( index<0) { // Load the library
 
-#ifndef DARWIN
-    std::string lname_short = std::string("lib") + lname + ".so";
-#else
+#if WIN32
+	std::string lname_short = std::string("lib") + lname + ".dll";
+#elif DARWIN
     std::string lname_short = std::string("lib") + lname + ".dylib";
+#else
+	std::string lname_short = std::string("lib") + lname + ".so";
 #endif
 
     std::string lname_full = _libdir + lname_short;
 
     // Open the library
+#ifdef WIN32
+	handle = LoadLibrary(TEXT(lname_full.c_str()));
+#elif
     handle = dlopen( lname_full.c_str(), RTLD_NOW);
+#endif
+
     if (handle == NULL)
+#ifdef WIN32
+	  printf("LoadLibrary error: %s", GetLastError());
+#else
       printf("dlopen error: %s\n", dlerror());
+#endif
 
     if ( handle == NULL && !_libdir.empty()) {
+#ifdef WIN32
+	  handle = LoadLibrary(TEXT(lname_short.c_str()));
+#else
       handle = dlopen( lname_short.c_str(), RTLD_NOW);
+#endif
       if (handle == NULL)
-        printf("dlopen error: %s\n", dlerror());
+#ifdef WIN32
+		  printf("LoadLibrary error: %s\n", GetLastError());        
+#else
+		  printf("dlopen error: %s\n", dlerror());
+#endif
       lname_found = lname_short;
     }
     else 
@@ -235,11 +265,20 @@ COM_base::load_module( const std::string &lname,
   //std::swap(_comm, comm);
   //JK 4/12/16: End
 
+#ifdef WIN32
+  MYPROC fptr = (MYPROC) GetProcAddress((HMODULE) handle, fname.c_str());
+#else
   void *fptr = dlsym( handle, fname.c_str());
+#endif
+
   if ( fptr != NULL) {
+#ifdef WIN32
+	  (fptr) ((LPWSTR) wname.c_str());
+#else
     // This is a C/C++ module
     typedef void(*Func1)(const char*);
     (*(Func1)fptr)( wname.c_str());
+#endif
   }
   else {
     // Try out different name mangling schemes to figure out automatically.
@@ -260,7 +299,12 @@ COM_base::load_module( const std::string &lname,
       if ( i==2 || (i==3&&i==ibegin)) fname.append( "_");
       if (i==4) { fname.append( "_"); if (ibegin == 4) fname.append( "_"); }
 
+#ifdef WIN32
+	  fptr = (MYPROC)GetProcAddress((HMODULE)handle, fname.c_str());
+#else
       fptr = dlsym( handle, fname.c_str());
+#endif
+
       if ( fptr) { _f90_mangling = i; break; }
     }
 
@@ -275,7 +319,13 @@ COM_base::load_module( const std::string &lname,
       else msg = fname + " or any its lowercase w/o underscore in " + lname;
 
       msg.append( "\nError message from libdl is: ");
-      msg.append( dlerror());
+#ifdef WIN32
+	  std::ostringstream ss;
+	  ss << GetLastError();
+	  msg.append(ss.str());
+#else
+	  msg.append(dlerror());
+#endif // WIN32
       proc_exception( COM_exception(COM_ERR_COULD_FINDSYM, msg),
 		      "COM_base::load_module");
     }
@@ -326,7 +376,11 @@ COM_base::unload_module( const std::string &lname,
   std::string wname_str=wname.size()?wname:*obj.begin();
 
   void *handle = _module_map[index].first;
-  void *fptr = dlsym( handle, fname.c_str());
+#ifdef WIN32
+  MYPROC fptr = (MYPROC)GetProcAddress((HMODULE)handle, fname.c_str());
+#else
+  void *fptr = dlsym(handle, fname.c_str());
+#endif
   if ( fptr != NULL) {
     // This is a C/C++ module
     typedef void(*Func1)(const char*);
@@ -341,7 +395,11 @@ COM_base::unload_module( const std::string &lname,
 
       if ( _f90_mangling ==2 || _f90_mangling == 3) fname.append( "_");
 
-      fptr = dlsym( handle, fname.c_str());
+#ifdef WIN32
+		fptr = (MYPROC)GetProcAddress((HMODULE)handle, fname.c_str());
+#else
+		fptr = dlsym(handle, fname.c_str());
+#endif      
     }
 
     if ( fptr != NULL) {
@@ -358,7 +416,11 @@ COM_base::unload_module( const std::string &lname,
   obj.erase( wname);
 
   if ( dodl && obj.size()==0) { // Unload module if all instances removed.
+#ifdef WIN32
+	FreeLibrary((HMODULE)handle);
+#else
     dlclose( handle);
+#endif
     _module_map.remove_object( lname);
   }
 
@@ -1703,10 +1765,17 @@ get_num_arguments( const int wf) throw(COM_exception) {
 #ifndef DOXYGEN_SHOULD_SKIP_THIS
 inline static double get_wtime() {
 
-  ::timeval tv;
-  gettimeofday( &tv, NULL);
-  
-  return tv.tv_sec + tv.tv_usec*1.e-6;
+#ifdef WIN32
+	time_t ltime;
+	struct _timeb tstruct;
+	time(&ltime);
+	_ftime(&tstruct);
+	return (long long)ltime*1. + tstruct.millitm*1.e-3;
+#else
+	::timeval tv;
+	gettimeofday( &tv, NULL)
+	return tv.tv_sec + tv.tv_usec*1.e-6;
+#endif
 }
 #endif
 
@@ -1726,8 +1795,8 @@ call_function( int wf, int count,
 
     Function *func = &get_function( wf);
 
-    int  verb = std::max(_verbose, int(_func_map.verbs[ wf]))-_depth*2;
-    if ( verb<=0) verb = 0; 
+    int  verb = max(_verbose, int(_func_map.verbs[ wf]))-_depth*2;
+	if ( verb<=0) verb = 0; 
     else verb = (verb+1)%2+1;
     if ( verb) {
       std::cerr << "COM: CALL(" << _depth << ") " 
@@ -2226,12 +2295,16 @@ int COM_base::split_name( const std::string &wa, std::string &wname,
 void COM_base::
 proc_exception( const COM_exception &ex, const std::string &s) throw( int) 
 {
+#ifndef WIN32
   extern void printStackBacktrace();
+#endif
   _errorcode = ex.ierr;
 
   std::cerr << '\n' << ex << s << std::endl;
   if ( _exception_on && _errorcode>=1000) {
+#ifndef WIN32
     printStackBacktrace();
+#endif
     throw ex.ierr;
   }
 }

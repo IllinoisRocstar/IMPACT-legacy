@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\bordertest_struc.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\bordertest_struc.dir/objects.a @CMakeFiles\bordertest_struc.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\bordertest_struc.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\bordertest_struc.exe -Wl,--out-implib,..\bin\libbordertest_struc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bordertest_struc.dir\linklibs.rsp

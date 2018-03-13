@@ -8,6 +8,9 @@
 #include "Rocblas.h"
 #include <cmath>
 #include <cstdlib>
+#ifdef WIN32
+#include <functional>
+#endif
 
 //Function object that implements a limit1 operation.
 template <class T>

@@ -43,7 +43,7 @@ void Rocout::write_parameter_file( const char* file_name,
 
   // Loop through all the dataitems
   // print out those with the correct format.
-  for(uint i =0, ni = atts.size(); i<ni; ++i){
+  for(int i =0, ni = atts.size(); i<ni; ++i){
     if(atts[i]->location()=='w'
        && atts[i]->data_type() == COM_CHAR
        && atts[i]->size_of_components() == 1){

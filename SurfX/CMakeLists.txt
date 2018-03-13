@@ -37,7 +37,7 @@ SET(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
 include_directories(include ${CMAKE_BINARY_DIR}/include ${COM_INC} ${SimIN_INC} ${MAP_INC} ${SURF_INC} include/Base include/Transfer include/Overlay)
 
 
-IF(NOT BUILD_STATIC)
+IF(NOT BUILD_STATIC AND UNIX)
   add_library(SurfX SHARED ${LIB_SRCS})
 ELSE()
   add_library(SurfX STATIC ${LIB_SRCS})

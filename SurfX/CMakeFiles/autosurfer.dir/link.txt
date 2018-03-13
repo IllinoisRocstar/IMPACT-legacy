@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\autosurfer.dir/objects.a
-C:\Qt\Tools\mingw492_32\bin\ar.exe cr CMakeFiles\autosurfer.dir/objects.a @CMakeFiles\autosurfer.dir\objects1.rsp
-C:\Qt\Tools\mingw492_32\bin\g++.exe     -Wl,--whole-archive CMakeFiles\autosurfer.dir/objects.a -Wl,--no-whole-archive  -o ..\bin\autosurfer.exe -Wl,--out-implib,..\bin\libautosurfer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\autosurfer.dir\linklibs.rsp

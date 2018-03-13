@@ -19,23 +19,43 @@
 #include <sstream>
 #include <string>
 #include <cstring>
-#include <strings.h>
 #include <errno.h>
 #include <iomanip>
 #include <vector>
 #include <list>
+#ifndef WIN32
 #include <unistd.h>
+#include <strings.h>
+#else
+#include <chrono>
+#include <thread>
+#define _NO_GLOB_
+#endif
 
 #ifndef _NO_GLOB_
 #include <glob.h>
 #else
 //#include "Matcher.h"
 //#include "Pattern.h"
+#ifndef WIN32
 #include <fnmatch.h>
 #include <unistd.h>
-#include <sys/types.h>
 #include <dirent.h>
+#endif
+#include <sys/types.h>
 #include "Directory.H"
+#endif
+
+#ifdef WIN32
+#define snprintf _snprintf 
+#define vsnprintf _vsnprintf 
+#define strcasecmp _stricmp 
+#define strncasecmp _strnicmp 
+#include <direct.h>
+#define getcwd _getcwd
+#include "windows.h"
+#include "shlwapi.h"
+#pragma comment(lib,"shlwapi.lib")
 #endif
 
 #include "Rocin.h"
@@ -119,6 +139,11 @@ inline T cast_err_func( int (*glob)(const char *, int, T, glob_t*),
  ** \param args The argument list, in parentheses. (Input)
  ** \param val The return value. (Input)
  **/
+
+
+
+
+#ifndef WIN32
 #define HDF4_CHECK_RET(routine, args, retval) \
   {					      \
     if((routine args) == FAIL) {	      \
@@ -134,6 +159,23 @@ inline T cast_err_func( int (*glob)(const char *, int, T, glob_t*),
 	    retval;							\
 	  } } } }							\
   }
+#else
+#define HDF4_CHECK_RET(routine, args, retval) \
+  {					      \
+    if((routine args) == FAIL) {	      \
+      std::this_thread::sleep_for(std::chrono::milliseconds(1));   \
+      if((routine args) == FAIL) {	      \
+	std::this_thread::sleep_for(std::chrono::milliseconds(1));   \
+	if((routine args) == FAIL) {	      \
+	  std::this_thread::sleep_for(std::chrono::milliseconds(1));   \
+	  if((routine args) == FAIL) {			    \
+	    std::cerr << "SimIO INPUT  ERROR: " #routine " (line "		\
+		      << __LINE__ << " in " << __FILE__ << ") failed: " \
+		      << HDF4::error_msg() << std::endl;		\
+	    retval;							\
+	  } } } }							\
+  }
+#endif
 /* 
 #define HDF4_CHECK_RET(routine, args, retval)	\
 { \
@@ -1098,11 +1140,11 @@ static void load_data_HDF4( BlockMM_HDF4::iterator p,
             size[1] = block->m_gridInfo.front().m_size[1];
             size[2] = block->m_gridInfo.front().m_size[2];
           } else {
-            size[0] = std::max(int32(1),
+            size[0] = max(int32(1),
                                block->m_gridInfo.front().m_size[0]-1);
-            size[1] = std::max(int32(1),
+            size[1] = max(int32(1),
                                block->m_gridInfo.front().m_size[1]-1);
-            size[2] = std::max(int32(1),
+            size[2] = max(int32(1),
                                block->m_gridInfo.front().m_size[2]-1);
           }
 
@@ -2684,7 +2726,7 @@ void Rocin::read_by_control_file( const char* control_file_name,
 */
           // when it is not absolute path and does not have same prefix
         if (buffer[0] != '/' &&
-             strncmp(buffer.c_str(), dir_name.c_str(), std::min(buffer.size(), dir_name.size())))   buffer.insert(0, dir_name);
+             strncmp(buffer.c_str(), dir_name.c_str(), min(buffer.size(), dir_name.size())))   buffer.insert(0, dir_name);
       }
 
       // Insert buffer into patterns.
@@ -2942,8 +2984,18 @@ void Rocin::read_windows(const char* filename_patterns,
       if(directory){
 	Directory::iterator di = directory.begin();
 	while(di != directory.end()){
+#ifndef WIN32
 	  if(!fnmatch(tstring.c_str(),di->c_str(),0))
 	    matching_filenames.push_back(dirname + "/" + *di);
+#else
+      wchar_t wname[1024];
+	  wchar_t wmask[1024];
+	  size_t outsize;
+	  mbstowcs_s(&outsize, wname, di->c_str(), strlen(di->c_str()) + 1);
+	  mbstowcs_s(&outsize, wmask, tstring.c_str(), strlen(tstring.c_str()) + 1);
+	  if (PathMatchSpecW(wname, wmask))
+		  matching_filenames.push_back(dirname + "/" + *di);
+#endif
 	  di++;
 	}
       }
